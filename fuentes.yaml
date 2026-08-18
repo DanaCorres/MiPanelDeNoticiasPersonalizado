@@ -332,6 +332,11 @@ fuentes:
     seccion: internacional
     grupo: miradas
 
+  - nombre: The New York Times — Mundo
+    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+    seccion: internacional
+    grupo: miradas
+
   # --------------------------- Espectáculos --------------------------------
   - nombre: TMZ
     url: https://www.tmz.com/rss.xml
