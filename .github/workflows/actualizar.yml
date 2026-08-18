@@ -1,0 +1,54 @@
+name: Actualizar panel
+
+on:
+  schedule:
+    # Horarios de la Ciudad de México, escritos en UTC (CDMX + 6 horas).
+    - cron: "0 6 * * *"        # 00:00 — reinicio: el panel amanece vacío
+    - cron: "30 12 * * *"      # 06:30
+    - cron: "0 14,16,21 * * *" # 08:00, 10:00 y 15:00
+    - cron: "0 2 * * *"        # 20:00 (en UTC ya es el día siguiente)
+  workflow_dispatch:        # botón "Run workflow" para actualizar a mano
+  push:
+    branches: [main]
+    paths:
+      - "fuentes.yaml"
+      - "scripts/**"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: panel
+  cancel-in-progress: false
+
+jobs:
+  recolectar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Traer titulares
+        run: python scripts/recolectar.py
+
+      - name: Publicar cambios
+        run: |
+          git config user.name "panel-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/datos/noticias.json
+          if git diff --staged --quiet; then
+            echo "Sin titulares nuevos."
+            exit 0
+          fi
+          git commit -m "Titulares $(TZ=America/Mexico_City date '+%d/%m %H:%M')"
+          git pull --rebase --autostash
+          git push
