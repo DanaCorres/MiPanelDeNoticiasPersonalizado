@@ -1,0 +1,452 @@
+/* ---------------------------------------------------------------------------
+   Panel de monitoreo — hoja de estilos
+
+   Idea: una bitácora de agencia. Cada titular es un renglón con su hora en el
+   margen izquierdo, como en un teletipo, y las secciones viven en un lomo
+   vertical tipo archivero. Tres tipografías con oficios distintos:
+   Bricolage Grotesque titula, Newsreader lee, IBM Plex Mono mide.
+--------------------------------------------------------------------------- */
+
+:root {
+  --papel:      #EFEFEC;
+  --hoja:       #FFFFFF;
+  --tinta:      #14171C;
+  --gris:       #74776F;
+  --linea:      #DCDCD5;
+  --azul:       #2B44C7;
+  --verde:      #0F7A5A;
+  --rojo:       #C33B1E;
+
+  --display: "Bricolage Grotesque", "Helvetica Neue", sans-serif;
+  --lectura: "Newsreader", Georgia, serif;
+  --mono:    "IBM Plex Mono", ui-monospace, "SF Mono", monospace;
+
+  --lomo-ancho: 132px;
+  --gutter: 62px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--papel);
+  color: var(--tinta);
+  font-family: var(--lectura);
+  font-size: 17px;
+  line-height: 1.45;
+}
+
+a { color: inherit; }
+
+.saltar {
+  position: absolute;
+  left: -9999px;
+}
+.saltar:focus {
+  left: 12px; top: 12px;
+  z-index: 50;
+  background: var(--tinta); color: var(--papel);
+  padding: 8px 14px;
+  font-family: var(--mono); font-size: 12px;
+}
+
+/* ----------------------------- Cabecera --------------------------------- */
+
+.cabecera {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px 24px;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: 18px 28px 14px;
+  background: var(--papel);
+  border-bottom: 1px solid var(--tinta);
+}
+
+.cabecera__marca {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  min-width: 0;
+}
+
+.marca__titulo {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 27px;
+  letter-spacing: -0.03em;
+}
+
+.marca__linea {
+  flex: 0 0 auto;
+  width: 34px;
+  height: 7px;
+  background: var(--azul);
+  transform: translateY(-4px);
+}
+
+.marca__fecha {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--gris);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.cabecera__herramientas {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+}
+
+.buscador {
+  width: 268px;
+  max-width: 46vw;
+  padding: 7px 11px;
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--tinta);
+  background: var(--hoja);
+  border: 1px solid var(--linea);
+  border-radius: 0;
+  appearance: none;
+}
+.buscador::placeholder { color: #A2A49D; }
+.buscador:focus {
+  outline: 2px solid var(--azul);
+  outline-offset: 1px;
+  border-color: var(--azul);
+}
+
+.interruptor {
+  padding: 6px 10px;
+  background: none;
+  border: 1px solid var(--linea);
+  border-radius: 0;
+  color: var(--gris);
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.interruptor:hover { color: var(--tinta); border-color: var(--tinta); }
+.interruptor:focus-visible { outline: 2px solid var(--azul); outline-offset: 1px; }
+.interruptor[aria-pressed="true"] {
+  color: var(--hoja);
+  background: var(--tinta);
+  border-color: var(--tinta);
+}
+
+.sello {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.04em;
+  color: var(--gris);
+  white-space: nowrap;
+}
+.sello[data-fresco="si"] { color: var(--verde); }
+
+/* ------------------------------- Lomo ----------------------------------- */
+
+.tablero {
+  display: grid;
+  grid-template-columns: var(--lomo-ancho) minmax(0, 1fr);
+  align-items: start;
+}
+
+.lomo {
+  position: sticky;
+  top: 74px;
+  display: flex;
+  flex-direction: column;
+  padding: 26px 0 26px 28px;
+  border-right: 1px solid var(--linea);
+}
+
+.lomo__boton {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+  width: 100%;
+  padding: 9px 16px 9px 14px;
+  margin-left: -14px;
+  background: none;
+  border: 0;
+  border-radius: 0;
+  color: var(--gris);
+  font-family: var(--mono);
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-align: left;
+  cursor: pointer;
+}
+.lomo__boton:hover { color: var(--tinta); }
+.lomo__boton:focus-visible { outline: 2px solid var(--azul); outline-offset: -2px; }
+
+.lomo__boton[aria-current="true"] {
+  color: var(--tinta);
+  font-weight: 500;
+}
+.lomo__boton[aria-current="true"]::before {
+  content: "";
+  position: absolute;
+  left: -1px; top: 10px;
+  width: 7px; height: 7px;
+  background: var(--azul);
+}
+
+.lomo__cuenta {
+  font-size: 11px;
+  color: #A2A49D;
+  font-variant-numeric: tabular-nums;
+}
+
+/* ----------------------------- Contenido -------------------------------- */
+
+.contenido {
+  padding: 26px 28px 90px 34px;
+  max-width: 1080px;
+}
+
+.cargando {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--gris);
+  padding: 40px 0;
+}
+
+.seccion { display: none; }
+.seccion[data-activa="si"] { display: block; }
+
+.seccion__titulo {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin: 0 0 4px;
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 1.05;
+  letter-spacing: -0.035em;
+}
+
+.seccion__codigo {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.14em;
+  color: var(--azul);
+  transform: translateY(-14px);
+}
+
+.seccion__copiar {
+  margin: 0 0 26px;
+  padding: 0;
+  background: none;
+  border: 0;
+  border-bottom: 1px solid var(--linea);
+  color: var(--gris);
+  font-family: var(--mono);
+  font-size: 11.5px;
+  letter-spacing: 0.05em;
+  cursor: pointer;
+}
+.seccion__copiar:hover { color: var(--azul); border-color: var(--azul); }
+.seccion__copiar:focus-visible { outline: 2px solid var(--azul); outline-offset: 3px; }
+
+.grupo { margin-bottom: 44px; }
+
+.grupo__titulo {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin: 0 0 2px;
+  font-family: var(--display);
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+}
+.grupo__titulo::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--tinta);
+  opacity: 0.85;
+}
+.grupo__cuenta {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  font-weight: 400;
+  color: var(--gris);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Un renglón de bitácora: hora al margen, titular al centro, medio al pie. */
+
+.nota {
+  display: grid;
+  grid-template-columns: var(--gutter) minmax(0, 1fr);
+  gap: 0 18px;
+  padding: 13px 0 12px;
+  border-bottom: 1px solid var(--linea);
+  text-decoration: none;
+  animation: aparecer 0.34s ease both;
+}
+.nota:hover .nota__titular { color: var(--azul); }
+.nota:focus-visible { outline: 2px solid var(--azul); outline-offset: 3px; }
+
+.nota__hora {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  line-height: 1.9;
+  color: #A2A49D;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+.nota[data-fresco="si"] .nota__hora { color: var(--verde); }
+
+.nota__titular {
+  margin: 0;
+  font-family: var(--lectura);
+  font-size: 19.5px;
+  font-weight: 400;
+  line-height: 1.3;
+  letter-spacing: -0.005em;
+  text-wrap: balance;
+}
+
+/* Dos renglones de resumen: lo suficiente para decidir si vale el clic. */
+.nota__resumen {
+  grid-column: 2;
+  margin: 7px 0 0;
+  font-size: 15px;
+  line-height: 1.4;
+  color: #5C5F58;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+body[data-resumenes="no"] .nota__resumen { display: none; }
+
+.nota__pie {
+  grid-column: 2;
+  margin-top: 5px;
+  font-family: var(--mono);
+  font-size: 11px;
+  letter-spacing: 0.03em;
+  color: var(--gris);
+}
+
+.vacio {
+  padding: 10px 0 4px;
+  font-family: var(--mono);
+  font-size: 12.5px;
+  color: var(--gris);
+}
+
+/* ------------------------------- Pie ------------------------------------ */
+
+.pie {
+  margin-top: 60px;
+  padding-top: 18px;
+  border-top: 1px solid var(--linea);
+}
+
+.salud summary {
+  font-family: var(--mono);
+  font-size: 12px;
+  color: var(--gris);
+  cursor: pointer;
+}
+.salud summary:hover { color: var(--tinta); }
+
+.salud__lista {
+  list-style: none;
+  margin: 14px 0;
+  padding: 0;
+  columns: 2;
+  column-gap: 32px;
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--gris);
+}
+.salud__lista li { break-inside: avoid; padding: 2px 0; }
+.salud__lista li[data-estado="error"] { color: var(--rojo); }
+
+.salud__nota, .pie__nota {
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: #A2A49D;
+  max-width: 62ch;
+}
+.salud__nota code { background: var(--hoja); padding: 1px 4px; }
+
+/* ---------------------------- Movimiento -------------------------------- */
+
+@keyframes aparecer {
+  from { opacity: 0; transform: translateY(5px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .nota { animation: none; }
+  * { transition: none !important; }
+}
+
+/* ----------------------------- Pantallas -------------------------------- */
+
+@media (max-width: 800px) {
+  :root { --gutter: 46px; }
+
+  .tablero { grid-template-columns: minmax(0, 1fr); }
+
+  .cabecera { position: static; padding: 14px 18px 10px; }
+  .marca__titulo { font-size: 22px; }
+  .cabecera__herramientas { width: 100%; justify-content: space-between; }
+  .buscador { max-width: none; flex: 1; }
+
+  .lomo {
+    position: sticky;
+    top: 0;
+    flex-direction: row;
+    gap: 4px;
+    overflow-x: auto;
+    padding: 8px 18px;
+    background: var(--papel);
+    border-right: 0;
+    border-bottom: 1px solid var(--linea);
+    scrollbar-width: none;
+  }
+  .lomo::-webkit-scrollbar { display: none; }
+
+  .lomo__boton {
+    width: auto;
+    margin-left: 0;
+    padding: 6px 10px;
+    white-space: nowrap;
+  }
+  .lomo__boton[aria-current="true"] {
+    background: var(--tinta);
+    color: var(--papel);
+  }
+  .lomo__boton[aria-current="true"]::before { display: none; }
+  .lomo__boton[aria-current="true"] .lomo__cuenta { color: #9BA0AE; }
+
+  .contenido { padding: 22px 18px 70px; }
+  .seccion__titulo { font-size: 29px; }
+  .seccion__codigo { transform: translateY(-9px); }
+  .nota__titular { font-size: 17.5px; }
+  .nota__resumen { font-size: 14px; }
+  .salud__lista { columns: 1; }
+}

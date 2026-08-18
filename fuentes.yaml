@@ -1,0 +1,346 @@
+# ---------------------------------------------------------------------------
+# Fuentes del panel. Edita este archivo para agregar, quitar o mover medios.
+#
+# Cada fuente acepta:
+#   nombre     : cómo se muestra en el panel
+#   url        : la dirección del feed RSS/Atom
+#   seccion    : nacional | ia | colombia | argentina | espana | espectaculos
+#   subseccion : solo para "nacional" -> politica | economia | cdmx | opinion |
+#                tecnologia.  Si la omites, el titular se clasifica solo por
+#                palabras clave (ver scripts/clasificar.py).
+#   grupo      : solo para "ia" -> nyt | otros
+#
+# Nota sobre "vía Google Noticias": varios medios mexicanos y latinoamericanos
+# ya no publican RSS propio (Milenio, Excélsior, Infobae por país, El Destape,
+# El Espectador y más devolvían 404 o 403). Para esos se usa un feed de
+# búsqueda de Google Noticias limitado a su dominio y al último día. Funciona,
+# pero la liga pasa por news.google.com antes de llegar al medio.
+# ---------------------------------------------------------------------------
+
+ajustes:
+  # Cuántos titulares se guardan por grupo
+  max_por_grupo: 25
+  # Antigüedad máxima de un titular, en horas
+  horas_maximas: 48
+  # El panel arranca vacío cada medianoche (hora CDMX): solo entran titulares
+  # publicados a partir de las 00:00 de hoy. Ponlo en false si prefieres que
+  # arrastre lo de ayer.
+  reinicio_diario: true
+  # Segundos de espera por feed antes de rendirse
+  timeout: 20
+  # Descargas en paralelo
+  hilos: 8
+
+secciones:
+  nacional:
+    titulo: Nacional
+    codigo: MX
+    grupos:
+      politica: Política
+      economia: Economía
+      cdmx: CDMX
+      opinion: Opinión
+      tecnologia: Tecnología
+  ia:
+    titulo: Inteligencia artificial
+    codigo: IA
+    grupos:
+      nyt: The New York Times
+      otros: Otros medios
+  colombia:
+    titulo: Colombia
+    codigo: CO
+    grupos:
+      dia: Lo más importante del día
+  argentina:
+    titulo: Argentina
+    codigo: AR
+    grupos:
+      dia: Lo más importante del día
+  espana:
+    titulo: España
+    codigo: ES
+    grupos:
+      dia: Lo más importante del día
+  internacional:
+    titulo: Internacional
+    codigo: MUNDO
+    grupos:
+      ultima_hora: Última hora
+      miradas: Miradas del mundo
+  espectaculos:
+    titulo: Espectáculos
+    codigo: SHOW
+    grupos:
+      dia: Chismes y farándula
+
+fuentes:
+
+  # ----------------------------- México -----------------------------------
+  - nombre: La Jornada — Política
+    url: https://www.jornada.com.mx/rss/politica.xml
+    seccion: nacional
+    subseccion: politica
+
+  - nombre: La Jornada — Economía
+    url: https://www.jornada.com.mx/rss/economia.xml
+    seccion: nacional
+    subseccion: economia
+
+  - nombre: La Jornada — Capital
+    url: https://www.jornada.com.mx/rss/capital.xml
+    seccion: nacional
+    subseccion: cdmx
+
+  - nombre: La Jornada — Opinión
+    url: https://www.jornada.com.mx/rss/opinion.xml
+    seccion: nacional
+    subseccion: opinion
+
+  - nombre: El País México
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada
+    seccion: nacional
+
+  - nombre: El País — Economía
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada
+    seccion: nacional
+    subseccion: economia
+
+  - nombre: El País — Opinión
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/opinion/portada
+    seccion: nacional
+    subseccion: opinion
+
+  - nombre: El País — Tecnología
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada
+    seccion: nacional
+    subseccion: tecnologia
+
+  - nombre: Milenio
+    url: "https://news.google.com/rss/search?q=site:milenio.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Excélsior
+    url: "https://news.google.com/rss/search?q=site:excelsior.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Infobae México
+    url: "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: El Financiero
+    url: https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml
+    seccion: nacional
+    subseccion: economia
+
+  - nombre: Uno TV
+    url: "https://news.google.com/rss/search?q=site:unotv.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Debate
+    url: "https://news.google.com/rss/search?q=site:debate.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Sopitas
+    url: https://www.sopitas.com/feed/
+    seccion: nacional
+
+  - nombre: Proceso
+    url: "https://news.google.com/rss/search?q=site:proceso.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Aristegui Noticias
+    url: "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Animal Político
+    url: "https://news.google.com/rss/search?q=site:animalpolitico.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  - nombre: Portada México vía Google Noticias
+    url: "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  # ------------------------ Inteligencia artificial ------------------------
+  - nombre: The New York Times — Tecnología
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+    seccion: ia
+    grupo: nyt
+
+  - nombre: The New York Times — Inteligencia artificial
+    url: "https://news.google.com/rss/search?q=site:nytimes.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en"
+    seccion: ia
+    grupo: nyt
+
+  - nombre: The New York Times — Negocios
+    url: https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+    seccion: ia
+    grupo: nyt
+
+  - nombre: TechCrunch — IA
+    url: https://techcrunch.com/category/artificial-intelligence/feed/
+    seccion: ia
+    grupo: otros
+
+  - nombre: Wired — IA
+    url: https://www.wired.com/feed/tag/ai/latest/rss
+    seccion: ia
+    grupo: otros
+
+  - nombre: The Verge
+    url: https://www.theverge.com/rss/index.xml
+    seccion: ia
+    grupo: otros
+
+  - nombre: MIT Technology Review — IA
+    url: https://www.technologyreview.com/topic/artificial-intelligence/feed
+    seccion: ia
+    grupo: otros
+
+  - nombre: El País — Tecnología (IA)
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/tecnologia/portada
+    seccion: ia
+    grupo: otros
+
+  # Agregador: recoge en minutos lo que rompe cualquier medio, con crédito a
+  # quien lo publicó primero. Es lo más cercano a un cable abierto.
+  - nombre: Techmeme
+    url: https://www.techmeme.com/feed.xml
+    seccion: ia
+    grupo: otros
+
+  # Los feeds de Google Noticias devuelven a Reuters por la puerta de atrás.
+  # "when:1d" limita a lo publicado en el último día.
+  - nombre: Reuters vía Google Noticias
+    url: "https://news.google.com/rss/search?q=site:reuters.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en"
+    seccion: ia
+    grupo: otros
+
+  - nombre: IA en español vía Google Noticias
+    url: "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: ia
+    grupo: otros
+
+  # ---------------------------- Colombia -----------------------------------
+  - nombre: El Tiempo — Colombia
+    url: https://www.eltiempo.com/rss/colombia.xml
+    seccion: colombia
+
+  - nombre: El Tiempo — Política
+    url: https://www.eltiempo.com/rss/politica.xml
+    seccion: colombia
+
+  - nombre: El Espectador
+    url: "https://news.google.com/rss/search?q=site:elespectador.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: Blu Radio
+    url: "https://news.google.com/rss/search?q=site:bluradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: Infobae Colombia
+    url: "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  # ---------------------------- Argentina ----------------------------------
+  - nombre: Clarín — Lo último
+    url: https://www.clarin.com/rss/lo-ultimo/
+    seccion: argentina
+
+  - nombre: Clarín — Política
+    url: https://www.clarin.com/rss/politica/
+    seccion: argentina
+
+  - nombre: El Destape
+    url: "https://news.google.com/rss/search?q=site:eldestapeweb.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: Infobae Argentina
+    url: "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: La Nación
+    url: "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+    seccion: argentina
+
+  # ------------------------------ España -----------------------------------
+  - nombre: El Mundo — Portada
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
+    seccion: espana
+
+  - nombre: El Español
+    url: https://www.elespanol.com/rss/
+    seccion: espana
+
+  - nombre: 20 minutos
+    url: https://www.20minutos.es/rss/
+    seccion: espana
+
+  - nombre: El País — Portada
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+    seccion: espana
+
+  # -------------------------- Internacional --------------------------------
+  # Última hora: los feeds de búsqueda de Google Noticias funcionan como red de
+  # seguridad. Si pasa algo grave en cualquier parte del mundo, cae aquí aunque
+  # ningún medio de la lista lo haya publicado todavía.
+  - nombre: Portada mundial vía Google Noticias
+    url: "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: internacional
+    grupo: ultima_hora
+
+  - nombre: Sucesos graves vía Google Noticias
+    url: "https://news.google.com/rss/search?q=(guerra+OR+terremoto+OR+atentado+OR+%22ataque+armado%22+OR+%22accidente+a%C3%A9reo%22+OR+hurac%C3%A1n+OR+%22estado+de+emergencia%22)+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: internacional
+    grupo: ultima_hora
+
+  # Miradas: cada uno mira el mundo desde un lugar distinto. En inglés:
+  # Al Jazeera (Doha), Middle East Eye (Londres), South China Morning Post
+  # (Hong Kong) y The Guardian. En español: BBC, DW y France 24.
+  - nombre: Al Jazeera
+    url: https://www.aljazeera.com/xml/rss/all.xml
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: BBC Mundo
+    url: https://feeds.bbci.co.uk/mundo/rss.xml
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: DW en español
+    url: https://rss.dw.com/xml/rss-sp-all
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: France 24 en español
+    url: https://www.france24.com/es/rss
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: The Guardian — Mundo
+    url: https://www.theguardian.com/world/rss
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: South China Morning Post
+    url: https://www.scmp.com/rss/91/feed
+    seccion: internacional
+    grupo: miradas
+
+  - nombre: Middle East Eye
+    url: https://www.middleeasteye.net/rss
+    seccion: internacional
+    grupo: miradas
+
+  # --------------------------- Espectáculos --------------------------------
+  - nombre: TMZ
+    url: https://www.tmz.com/rss.xml
+    seccion: espectaculos
+
+  - nombre: Entertainment Tonight
+    url: https://www.etonline.com/news/rss
+    seccion: espectaculos
+
+  - nombre: E! Online
+    url: https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml
+    seccion: espectaculos

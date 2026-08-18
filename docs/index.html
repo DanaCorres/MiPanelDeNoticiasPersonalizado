@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Panel de monitoreo</title>
+<meta name="description" content="Panel diario de noticias: nacional, inteligencia artificial, Colombia, Argentina, España y espectáculos.">
+<meta name="theme-color" content="#EFEFEC">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%232B44C7'/><rect x='6' y='7' width='20' height='3' fill='white'/><rect x='6' y='14' width='13' height='3' fill='white'/><rect x='6' y='21' width='17' height='3' fill='white'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+<a class="saltar" href="#contenido">Ir al contenido</a>
+
+<header class="cabecera">
+  <div class="cabecera__marca">
+    <span class="marca__titulo">Panel</span>
+    <span class="marca__linea" aria-hidden="true"></span>
+    <time class="marca__fecha" id="fecha"></time>
+  </div>
+  <div class="cabecera__herramientas">
+    <input id="buscador" class="buscador" type="search" placeholder="Buscar en todo el panel  /" aria-label="Buscar titulares">
+    <button id="resumenes" class="interruptor" type="button" aria-pressed="true">Resúmenes</button>
+    <span class="sello" id="sello">cargando…</span>
+  </div>
+</header>
+
+<div class="tablero">
+
+  <nav class="lomo" id="lomo" aria-label="Secciones">
+    <!-- se llena desde app.js -->
+  </nav>
+
+  <main class="contenido" id="contenido">
+    <div class="cargando" id="cargando">Trayendo los titulares…</div>
+    <div id="secciones"></div>
+
+    <footer class="pie">
+      <details class="salud">
+        <summary><span id="salud-resumen">Estado de las fuentes</span></summary>
+        <ul class="salud__lista" id="salud-lista"></ul>
+        <p class="salud__nota">Si un medio aparece con ✗, su dirección RSS cambió o bloquea la descarga.
+          Cámbiala en <code>fuentes.yaml</code> y vuelve a correr la acción.</p>
+      </details>
+      <p class="pie__nota">Se actualiza solo a las 8:00, 9:00, 15:00 y 20:00, desde GitHub Actions.</p>
+    </footer>
+  </main>
+
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
