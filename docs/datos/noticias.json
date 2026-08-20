@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-20T16:17:23.122287-06:00",
+ "generado": "2026-08-20T16:18:46.595129-06:00",
  "desde": "2026-08-20T00:00:00-06:00",
  "total": 251,
  "secciones": {
@@ -10,6 +10,17 @@
     "politica": {
      "titulo": "Política",
      "articulos": [
+      {
+       "id": "123a07073de69ab486847643f3cb091011eff108",
+       "titulo": "Fernando ‘N’, exalmirante involucrado en huachicol fiscal, es trasladado de Argentina a México",
+       "resumen": "Más temprano, la presidenta Claudia Sheinbaum declaró que 'no había duda' de que Fernando 'N' sería entregado por las autoridades argentinas a México.",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/20/fernando-n-exalmirante-involucrado-en-huachicol-fiscal-es-trasladado-de-argentina-a-mexico/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-20T22:15:07+00:00",
+       "desplazada": false
+      },
       {
        "id": "11d718af3c33ec277d43ff9e67b4a1ea20955dac",
        "titulo": "Sheinbaum defiende abstención de México ante la OEA por Nicaragua",
@@ -664,17 +675,6 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-20T18:19:13+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "848a83c13c5d48c1145f5dfd940017a56ae3e9b6",
-       "titulo": "Tarjeta de crédito vs tarjeta de débito: ¿Cuál te mete en más problemas con el SAT al usarla?",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMkZQQlpUWVJMWlNiMXg4b2NMNEpMc2tIUGJwSXJJVW1uU1JSWEttU0RTVC1pNldKMGVMU3pvZ1FFUTFxb1FRTjhldjRIQWFGOUlCLTBCOUxlVGdvTTFuNkdvNHhQMGpSMVREU1BacTV1V0dUVnVmX2YxVG8yUmFvOE0zazlKb0ZTVGozOGl1czk2T0lWS0YwT1J1ajJVTlVRTzg4blJQb3JQTWUwYklfUXdIcUktQW5tVXcxb1lFSWYxRDFNYXVsV3ZrZGRKSUtYT2VzS1JKbXlTSEc3?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-20T18:19:10+00:00",
        "desplazada": false
       }
      ]
@@ -3021,7 +3021,7 @@
    "nombre": "El País México",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
    "estado": "ok",
-   "detalle": "106 titulares"
+   "detalle": "107 titulares"
   },
   {
    "nombre": "El País — Economía",
