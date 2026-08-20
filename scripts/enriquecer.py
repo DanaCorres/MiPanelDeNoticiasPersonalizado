@@ -13,6 +13,7 @@ clave y el panel se publica igual. Nunca tumba la corrida.
 
 from __future__ import annotations
 
+import concurrent.futures
 import json
 import os
 import sys
@@ -104,9 +105,10 @@ def enriquecer(notas: list[dict], secciones: list[str], subsecciones: list[str],
         criterios=criterios,
     )
 
-    modelo = ajustes.get("modelo_ia", "claude-sonnet-5")
-    tam = int(ajustes.get("lote_ia", 40))
-    timeout = int(ajustes.get("timeout_ia", 180))
+    modelo = ajustes.get("modelo_ia", "claude-haiku-4-5")
+    tam = int(ajustes.get("lote_ia", 30))
+    timeout = int(ajustes.get("timeout_ia", 120))
+    hilos = int(ajustes.get("hilos_ia", 5))
 
     # Se manda solo lo indispensable de cada nota: menos tokens, menos costo.
     ligeras = [{"id": n["id"], "titulo": n["titulo"],
@@ -115,20 +117,27 @@ def enriquecer(notas: list[dict], secciones: list[str], subsecciones: list[str],
                 "seccion_del_feed": n.get("seccion", "")}
                for n in notas]
 
+    lotes = [ligeras[i:i + tam] for i in range(0, len(ligeras), tam)]
+
+    # En paralelo: nueve llamadas en fila se pasaban del límite de tiempo del
+    # workflow. Cada lote es independiente, así que no hay razón para esperar.
     veredictos: dict[str, dict] = {}
     fallos = 0
-    for i in range(0, len(ligeras), tam):
-        lote = ligeras[i:i + tam]
-        try:
-            for v in _pedir(lote, sistema, modelo, llave, timeout):
-                if isinstance(v, dict) and v.get("id"):
-                    veredictos[v["id"]] = v
-        except Exception as e:  # noqa: BLE001
-            fallos += 1
-            print(f"  ✗ lote {i // tam + 1}: {type(e).__name__}: {e}", file=sys.stderr)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=hilos) as pool:
+        tareas = {pool.submit(_pedir, lote, sistema, modelo, llave, timeout): i
+                  for i, lote in enumerate(lotes, 1)}
+        for tarea in concurrent.futures.as_completed(tareas):
+            numero = tareas[tarea]
+            try:
+                for v in tarea.result():
+                    if isinstance(v, dict) and v.get("id"):
+                        veredictos[v["id"]] = v
+            except Exception as e:  # noqa: BLE001
+                fallos += 1
+                print(f"  ✗ lote {numero}: {type(e).__name__}: {e}", file=sys.stderr)
 
-    print(f"  curaduría: {len(veredictos)}/{len(notas)} notas, "
-          f"{fallos} lote(s) con error", file=sys.stderr)
+    print(f"  curaduría: {len(veredictos)}/{len(notas)} notas en {len(lotes)} lotes, "
+          f"{fallos} con error", file=sys.stderr)
     return veredictos
 
 
