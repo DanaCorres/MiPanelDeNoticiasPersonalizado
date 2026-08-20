@@ -75,23 +75,48 @@ CLAVES_NACIONAL: dict[str, list[str]] = {
         "telecomunicaciones", "internet", "banda ancha", "5g", "starlink",
         "redes sociales", "tiktok", "whatsapp", "criptomonedas", "bitcoin",
         "startup", "streaming", "videojuegos", "robot", "algoritmo",
+        # ATDT y gobierno digital federal (regla 7 de criterios.md)
+        "atdt", "agencia de transformacion digital", "pena merino",
+        "llave mx", "identidad digital", "expediente unico", "interoperabilidad",
+        "autonomia tecnologica", "gobierno digital", "digitalizacion",
+        "datos abiertos", "ift", "instituto federal de telecomunicaciones",
     ],
     "opinion": [
         "columna", "editorial", "opinion", "analisis", "tribuna", "punto de vista",
     ],
     "politica": [
-        "politica", "presidencia", "presidenta", "sheinbaum", "palacio nacional",
+        "presidencia", "presidenta", "sheinbaum", "palacio nacional",
         "mananera", "gobierno federal", "morena", "pan", "pri", "prd",
         "movimiento ciudadano", "pt", "pvem", "senado", "senadores", "diputados",
         "camara baja", "camara alta", "congreso de la union", "reforma judicial",
+        "reforma politica", "reforma electoral", "clase politica",
         "suprema corte", "scjn", "ine", "tepjf", "elecciones", "gobernador",
         "gobernadora", "fiscalia", "fgr", "sedena", "marina", "guardia nacional",
         "seguridad publica", "narcotrafico", "crimen organizado", "cartel",
         "extradicion", "derechos humanos", "migracion", "migrantes", "aduanas",
         "corrupcion", "secretaria de gobernacion", "segob", "sre", "canciller",
-        "ssa", "salud publica", "imss", "issste", "consulta popular", "amlo",
+        "consulta popular", "amlo", "impugnacion", "denuncia penal",
     ],
 }
+
+# "Política" en español es tres cosas: el campo, la *policy* y la persona.
+# Estas frases son policy de un tema económico y van a Economía, no a
+# Política. Se evalúan ANTES que las listas de arriba. (Regla 3)
+POLICY_ECONOMIA = [
+    "politica de vivienda", "politica monetaria", "politica fiscal",
+    "politica arancelaria", "politica comercial", "politica industrial",
+    "politica energetica", "politica salarial", "politica laboral",
+    "politica agropecuaria", "politica de precios", "politica economica",
+    "politica hacendaria", "politica crediticia", "politica de subsidios",
+]
+
+POLICY_OTRAS = {
+    "tecnologia": ["politica digital", "politica de datos", "politica tecnologica"],
+    "cdmx": ["politica capitalina"],
+}
+
+_POLICY_ECONOMIA = _compilar(POLICY_ECONOMIA)
+_POLICY_OTRAS = {k: _compilar(v) for k, v in POLICY_OTRAS.items()}
 
 PRIORIDAD = ["cdmx", "opinion", "economia", "tecnologia", "politica"]
 
@@ -109,13 +134,23 @@ PISTAS_URL = {
 
 def clasificar_nacional(titulo: str, resumen: str, url: str) -> str | None:
     """Devuelve la subsección nacional del titular, o None si no encaja en ninguna."""
+    texto = normalizar(f"{titulo} {resumen}")
+
+    # Regla 3: "política de X" es policy, no el campo político. Va primero,
+    # antes incluso de las pistas de URL, porque un medio puede archivar en
+    # /politica una nota que en realidad es de vivienda o de telecom.
+    if any(p.search(texto) for p in _POLICY_ECONOMIA):
+        return "economia"
+    for subseccion, patrones in _POLICY_OTRAS.items():
+        if any(p.search(texto) for p in patrones):
+            return subseccion
+
     url_baja = (url or "").lower()
     for subseccion in PRIORIDAD:
         for pista in PISTAS_URL.get(subseccion, []):
             if pista in url_baja:
                 return subseccion
 
-    texto = normalizar(f"{titulo} {resumen}")
     puntajes: dict[str, int] = {}
     for subseccion, patrones in _CLAVES_COMPILADAS.items():
         puntaje = sum(1 for patron in patrones if patron.search(texto))

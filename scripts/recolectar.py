@@ -27,6 +27,7 @@ import yaml
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from clasificar import clasificar_nacional, es_de_ia, normalizar  # noqa: E402
+from criterios import aplicar_tope, es_tramite, reasignar_pais  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parents[1]
 CONFIG = RAIZ / "fuentes.yaml"
@@ -218,6 +219,8 @@ def main() -> int:
     # "nacional" y "españa" sí puede aparecer en las dos.
     vistos: dict[str, set[str]] = {clave: set() for clave in panel}
     salud: list[dict] = []
+    descartadas: list[dict] = []   # ruido de la regla 2, para poder auditarlo
+    mudanzas = 0                   # notas que cambiaron de país (regla 1)
 
     # 1. Descarga en paralelo
     cosecha: list[tuple[dict, list]] = []
@@ -243,14 +246,33 @@ def main() -> int:
         0 if (c[0].get("subseccion") or c[0].get("grupo")) else 1, c[0]["nombre"]))
 
     for fuente, entradas in cosecha:
-        seccion = fuente["seccion"]
         for entrada in entradas:
             nota = preparar(entrada, fuente, ahora, horas_max, corte)
-            if not nota or nota["id"] in vistos[seccion]:
+            if not nota:
+                continue
+
+            # Regla 2: los instructivos de servicio no entran al panel.
+            if es_tramite(nota["titulo"], nota["resumen"]):
+                descartadas.append({**nota, "motivo": "tramite"})
+                continue
+
+            # Regla 1: la sección la decide el contenido, no el feed.
+            seccion = reasignar_pais(
+                nota["titulo"], nota["resumen"], fuente["seccion"])
+            if seccion != fuente["seccion"]:
+                mudanzas += 1
+            if seccion not in panel:
+                continue
+            nota["seccion"] = seccion
+
+            if nota["id"] in vistos[seccion]:
                 continue
 
             if seccion == "nacional":
-                grupo = fuente.get("subseccion") or clasificar_nacional(
+                # La subsección del feed solo manda si la nota se quedó en la
+                # sección de su feed; si se mudó de país, se reclasifica.
+                fijada = fuente.get("subseccion") if seccion == fuente["seccion"] else None
+                grupo = fijada or clasificar_nacional(
                     nota["titulo"], nota["resumen"], nota["url"])
                 if not grupo:
                     continue
@@ -260,6 +282,8 @@ def main() -> int:
                 grupo = fuente.get("grupo", "otros")
             else:
                 grupo = fuente.get("grupo", "dia")
+                if grupo not in panel[seccion]["grupos"]:
+                    grupo = next(iter(panel[seccion]["grupos"]))
 
             if grupo not in panel[seccion]["grupos"]:
                 continue
@@ -267,10 +291,12 @@ def main() -> int:
             vistos[seccion].add(nota["id"])
             panel[seccion]["grupos"][grupo]["articulos"].append(nota)
 
-    # Ordena por fecha y recorta
+    # Ordena por fecha, aplica el tope por fuente y recorta
+    tope = ajustes.get("tope_por_fuente", 0)
     for seccion in panel.values():
         for grupo in seccion["grupos"].values():
             grupo["articulos"].sort(key=lambda n: n["orden"], reverse=True)
+            grupo["articulos"] = aplicar_tope(grupo["articulos"], tope)
             del grupo["articulos"][ajustes["max_por_grupo"]:]
             for nota in grupo["articulos"]:
                 nota.pop("orden", None)
@@ -290,9 +316,19 @@ def main() -> int:
     args.salida.write_text(
         json.dumps(documento, ensure_ascii=False, indent=1), encoding="utf-8")
 
+    # Bitácora de lo que se descartó por ruido. No se muestra en el panel:
+    # sirve para revisar si el criterio se está comiendo algo que sí querías.
+    for nota in descartadas:
+        nota.pop("orden", None)
+    (args.salida.parent / "descartadas.json").write_text(
+        json.dumps({"generado": documento["generado"], "notas": descartadas},
+                   ensure_ascii=False, indent=1), encoding="utf-8")
+
     fallas = sum(1 for f in salud if f["estado"] == "error")
     print(f"\n{total} titulares guardados en {args.salida}", file=sys.stderr)
     print(f"{len(salud) - fallas} fuentes vivas, {fallas} con problemas", file=sys.stderr)
+    print(f"{len(descartadas)} descartadas por trámite, "
+          f"{mudanzas} reasignadas de país", file=sys.stderr)
     return 0
 
 
