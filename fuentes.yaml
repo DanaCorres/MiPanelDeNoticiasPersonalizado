@@ -5,8 +5,8 @@
 #   nombre     : cómo se muestra en el panel
 #   url        : la dirección del feed RSS/Atom
 #   seccion    : nacional | ia | colombia | argentina | espana | espectaculos
-#   subseccion : solo para "nacional" -> politica | economia | cdmx | opinion |
-#                tecnologia.  Si la omites, el titular se clasifica solo por
+#   subseccion : solo para "nacional" -> politica | seguridad | economia |
+#                cdmx | opinion | tecnologia.  Si la omites, el titular se clasifica solo por
 #                palabras clave (ver scripts/clasificar.py).
 #   grupo      : solo para "ia" -> nyt | otros
 #
@@ -36,12 +36,29 @@ ajustes:
   # Descargas en paralelo
   hilos: 8
 
+  # --- Curaduría con la API de Claude ---------------------------------------
+  # Solo se activa si el repositorio tiene el secreto ANTHROPIC_API_KEY.
+  # Sin llave, el panel funciona igual con la clasificación por palabras clave.
+  # El modelo lee criterios.md y decide sección, prioridad y resúmenes.
+  # Modelos disponibles, de menor a mayor capacidad y costo:
+  #   claude-haiku-4-5  ($1 / $5 por millón de tokens)  <- el más barato
+  #   claude-sonnet-5   ($2 / $10, sube a $3/$15 el 1 de septiembre)
+  #   claude-opus-5     ($5 / $25)
+  # Haiku alcanza de sobra para clasificar y escribir resúmenes cortos.
+  modelo_ia: claude-haiku-4-5
+  # Cuántas notas por llamada. Más grande = menos llamadas pero más riesgo de
+  # que una respuesta se corte a la mitad.
+  lote_ia: 40
+  # Segundos de espera por llamada
+  timeout_ia: 180
+
 secciones:
   nacional:
     titulo: Nacional
     codigo: MX
     grupos:
       politica: Política
+      seguridad: Seguridad
       economia: Economía
       cdmx: CDMX
       opinion: Opinión
@@ -133,10 +150,11 @@ fuentes:
     url: "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
     seccion: nacional
 
+  # OJO: este feed es la portada general del diario, no su sección de
+  # Economía. Sin subsección fija, cada titular se clasifica por contenido.
   - nombre: El Financiero
     url: https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/?outputType=xml
     seccion: nacional
-    subseccion: economia
 
   - nombre: Uno TV
     url: "https://news.google.com/rss/search?q=site:unotv.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"

@@ -115,7 +115,13 @@ En español "política" es tres cosas y el clasificador viejo las confundía.
 Al asignar subsección de Nacional, distinguir:
 
 - **Política** (el campo): partidos, poderes, elecciones, gobierno como actor,
-  conflicto entre actores políticos.
+  conflicto entre actores políticos, salud e instituciones sociales vistas
+  como decisión de gobierno.
+- **Seguridad**: delito y crimen organizado, hechos violentos, operativos,
+  detenciones, decomisos y justicia penal. Es su propia subsección porque en
+  México el volumen lo justifica; antes se mezclaba con Política y la
+  saturaba. La estrategia de seguridad como *policy* —una nueva doctrina, un
+  cambio de mando, el presupuesto de la Guardia Nacional— también va aquí.
 - **Economía**: cuando "política" aparece como *policy* de un tema económico.
   "Política de vivienda", "política monetaria", "política arancelaria" van a
   Economía, no a Política. El caso de Canadevi pidiendo ampliar la política
