@@ -253,7 +253,7 @@ fuentes:
     grupo: otros
 
   - nombre: IA en español vía Google Noticias
-    url: "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    url: "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(OpenAI+OR+Anthropic+OR+Google+OR+Meta+OR+regulaci%C3%B3n+OR+modelo+OR+empleo)+-curso+-taller+-diplomado+-congreso+-universidad+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
     seccion: ia
     grupo: otros
 
@@ -369,6 +369,18 @@ fuentes:
     grupo: miradas
 
   # --------------------------- Espectáculos --------------------------------
+  - nombre: TVNotas
+    url: "https://news.google.com/rss/search?q=site:tvnotas.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: espectaculos
+
+  - nombre: Quién
+    url: "https://news.google.com/rss/search?q=site:quien.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: espectaculos
+
+  - nombre: Daily Mail — Showbiz
+    url: https://www.dailymail.co.uk/tvshowbiz/index.rss
+    seccion: espectaculos
+
   - nombre: TMZ
     url: https://www.tmz.com/rss.xml
     seccion: espectaculos

@@ -10,6 +10,46 @@ anterior y las ignora.
 
 ---
 
+## Regla 0 — Cada sección tiene su propio criterio
+
+**Las reglas 2 y 3 aplican solo a Nacional.** Fuera de ahí, lo que cuenta como
+ruido cambia, y aplicarles el criterio de política mexicana vacía secciones
+enteras.
+
+- **Nacional**: rigen las reglas 2 y 3 completas.
+- **Colombia, Argentina, España**: interesa política, economía, conflicto
+  social y desastres. **No** interesan resultados deportivos, loterías,
+  quinielas, avisos de propiedades ni notas de estilo de vida. Un partido de
+  fútbol sí entra si es hecho político —un homenaje, una suspensión, un
+  conflicto de gobierno—, no por el resultado.
+- **Internacional**: interesa geopolítica, conflicto, decisiones de gobiernos,
+  desastres y sus consecuencias. **Un desastre en curso no es ruido**: los
+  planes de respuesta humanitaria, los balances de ayuda y las cifras de
+  damnificados son cobertura central, no notas de servicio. Sí es ruido el
+  color humano periférico (la salud de un cantante en un concierto benéfico).
+- **Espectáculos**: aquí el criterio se invierte. Los chismes de celebridades,
+  las rupturas, los pleitos, la farándula, el escándalo y los virales **son
+  exactamente lo que se busca**. No se filtra por trascendencia: que una nota
+  sea frívola es la razón por la que entra, no para descartarla.
+
+  Interesa por igual el chisme **mexicano** (televisión nacional, conductores,
+  cantantes, reality shows), el **latinoamericano**, el **estadounidense** y el
+  **británico** (realeza incluida).
+
+  **Ruteo**: el chisme mexicano llega por feeds mexicanos, así que aparece
+  etiquetado como Nacional. Hay que moverlo a Espectáculos, no descartarlo. Un
+  pleito entre conductores de televisión, la muerte de un actor, un divorcio de
+  cantantes: todo eso es Espectáculos aunque venga de Milenio o El Financiero.
+
+  Lo único que no entra es publicidad disfrazada: guías de compras, listas de
+  productos, recomendaciones de ropa, "los mejores X para este otoño".
+- **IA**: interesan lanzamientos, capacidades nuevas, regulación, adopción
+  empresarial e impacto laboral. **No** interesan los boletines de
+  universidades —cursos, talleres, congresos, convenios, "la universidad X
+  incorpora la herramienta Y"—, que son el grueso de lo que llega en español.
+
+---
+
 ## Regla 1 — La sección la decide el contenido, no la fuente
 
 Una nota va a la sección del país del que **trata**, sin importar por qué
@@ -73,8 +113,12 @@ Esto no se muestra. No va al final, no va en un pliegue: no entra al panel.
   IMSS del 19 de agosto son el ejemplo exacto.
 - SEO puro: listas, "todo lo que se sabe", explicadores genéricos sin
   novedad, calendario escolar, fechas de pago.
-- Virales, deportes, clima y servicio local, salvo que escalen a decisión de
-  gobierno.
+- Deportes, clima y servicio local, salvo que escalen a decisión de gobierno.
+
+**Los virales NO son ruido.** Lo curioso, lo absurdo y lo que está dando de qué
+hablar sí interesa. Si el viral es de farándula va a Espectáculos; si es un
+hecho social mexicano se queda en Nacional. Solo se descarta el viral que en
+realidad es un anuncio o una lista de SEO.
 
 ### La línea entre trámite y lanzamiento
 
