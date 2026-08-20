@@ -183,34 +183,52 @@ def enriquecer(notas: list[dict], secciones: list[str], subsecciones: list[str],
     hilos = int(ajustes.get("hilos_ia", 5))
 
     # Se manda solo lo indispensable de cada nota: menos tokens, menos costo.
+    # Lo que ya se curó hoy no se vuelve a pagar: sale del caché.
+    cache = leer_cache()
+    pendientes = [n for n in notas if n["id"] not in cache]
+    if not pendientes:
+        print(f"  curaduría: 0 notas nuevas, {len(cache)} del caché, $0.0000",
+              file=sys.stderr)
+        return {n["id"]: cache[n["id"]] for n in notas if n["id"] in cache}
+
+    # Se manda solo lo indispensable de cada nota: menos tokens, menos costo.
     ligeras = [{"id": n["id"], "titulo": n["titulo"],
                 "resumen": n.get("resumen") or None,
                 "fuente": n.get("fuente", ""),
                 "seccion_del_feed": n.get("seccion", "")}
-               for n in notas]
+               for n in pendientes]
 
     lotes = [ligeras[i:i + tam] for i in range(0, len(ligeras), tam)]
+    topes = int(ajustes.get("topes_ia", 8000))
 
-    # En paralelo: nueve llamadas en fila se pasaban del límite de tiempo del
+    # En paralelo: los lotes en fila se pasaban del límite de tiempo del
     # workflow. Cada lote es independiente, así que no hay razón para esperar.
-    veredictos: dict[str, dict] = {}
-    fallos = 0
+    veredictos: dict[str, dict] = dict(cache)
+    nuevos = fallos = 0
+    costo = 0.0
     with concurrent.futures.ThreadPoolExecutor(max_workers=hilos) as pool:
-        tareas = {pool.submit(_pedir, lote, sistema, modelo, llave, timeout): i
+        tareas = {pool.submit(_pedir, lote, sistema, modelo, llave, timeout,
+                              topes): i
                   for i, lote in enumerate(lotes, 1)}
         for tarea in concurrent.futures.as_completed(tareas):
             numero = tareas[tarea]
             try:
-                for v in tarea.result():
+                lista, uso = tarea.result()
+                costo += _costo(uso, modelo)
+                for v in lista:
                     if isinstance(v, dict) and v.get("id"):
                         veredictos[v["id"]] = v
+                        nuevos += 1
             except Exception as e:  # noqa: BLE001
                 fallos += 1
                 print(f"  ✗ lote {numero}: {type(e).__name__}: {e}", file=sys.stderr)
 
-    print(f"  curaduría: {len(veredictos)}/{len(notas)} notas en {len(lotes)} lotes, "
-          f"{fallos} con error", file=sys.stderr)
-    return veredictos
+    guardar_cache(veredictos)
+
+    print(f"  curaduría: {nuevos}/{len(pendientes)} notas nuevas en {len(lotes)} "
+          f"lotes, {fallos} con error, {len(cache)} del caché", file=sys.stderr)
+    print(f"  costo estimado de la corrida: ${costo:.4f}", file=sys.stderr)
+    return {n["id"]: veredictos[n["id"]] for n in notas if n["id"] in veredictos}
 
 
 def aplicar(nota: dict, veredicto: dict | None, secciones: set[str],
