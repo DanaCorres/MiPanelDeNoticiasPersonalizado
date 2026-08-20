@@ -48,11 +48,33 @@ jobs:
         run: |
           git config user.name "panel-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/datos/noticias.json docs/datos/descartadas.json
-          if git diff --staged --quiet; then
+
+          # docs/datos son archivos generados: no tiene sentido fusionarlos con
+          # los de otra corrida, siempre manda el recién generado. Por eso, si
+          # alguien publicó mientras corríamos, se rehace el commit encima de lo
+          # último en vez de intentar un rebase que acaba en conflicto.
+          publicar() {
+            git add docs/datos
+            git diff --staged --quiet && return 1
+            git commit -q -m "Titulares $(TZ=America/Mexico_City date '+%d/%m %H:%M')"
+            return 0
+          }
+
+          if ! publicar; then
             echo "Sin titulares nuevos."
             exit 0
           fi
-          git commit -m "Titulares $(TZ=America/Mexico_City date '+%d/%m %H:%M')"
-          git pull --rebase --autostash
-          git push
+
+          for intento in 1 2 3; do
+            if git push; then
+              echo "Publicado en el intento $intento."
+              exit 0
+            fi
+            echo "Otra corrida publicó primero; rehago el commit encima."
+            git fetch origin main
+            git reset --soft origin/main
+            publicar || { echo "Nada que publicar tras la actualización."; exit 0; }
+          done
+
+          echo "No se pudo publicar tras tres intentos."
+          exit 1
