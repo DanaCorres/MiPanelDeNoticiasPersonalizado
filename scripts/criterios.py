@@ -222,3 +222,91 @@ def aplicar_tope(articulos: list[dict], tope: int) -> list[dict]:
             desplazadas.append(nota)
 
     return principales + desplazadas
+
+
+# --------------------------------------------------------------------------
+# Regla 5 — Una historia, una nota (y del medio que más pesa)
+# --------------------------------------------------------------------------
+# Dos caminos para detectar que dos notas cuentan lo mismo:
+#   1. El campo `historia` que escribe la curaduría. Es el bueno: reconoce el
+#      mismo hecho aunque los titulares no se parezcan en nada.
+#   2. Parecido entre titulares. Es la red de seguridad para cuando la
+#      curaduría está apagada o no alcanzó a ver la nota.
+#
+# Sobrevive la del medio de mayor peso (ver `jerarquia` en fuentes.yaml). Si
+# empatan, gana la de mayor prioridad, luego la que trae resumen y al final la
+# más reciente. Las demás no se borran del todo: sus medios quedan anotados en
+# `tambien_en`, para que el panel pueda decir "también en Milenio y Excélsior".
+
+VACIAS_TITULAR = {
+    "para", "por", "con", "los", "las", "del", "que", "una", "uno", "tras",
+    "sobre", "desde", "hasta", "como", "este", "esta", "estos", "estas",
+    "entre", "ante", "sus", "sin", "mas", "muy", "son", "fue", "han", "hay",
+    "pero", "cuando", "donde", "quien", "cual", "todo", "toda", "otro", "otra",
+    "the", "and", "for", "with", "from", "that", "this", "will", "says",
+}
+
+
+def _palabras_clave(titulo: str) -> set[str]:
+    """Palabras con contenido del titular, sin acentos ni relleno."""
+    texto = normalizar(titulo)
+    return {p for p in re.findall(r"[a-z0-9]+", texto)
+            if len(p) > 3 and p not in VACIAS_TITULAR}
+
+
+def _mismo_hecho(a: dict, b: dict, umbral: float) -> bool:
+    historia_a, historia_b = a.get("historia"), b.get("historia")
+    if historia_a and historia_b:
+        return historia_a == historia_b
+
+    clave_a, clave_b = a.get("_clave", set()), b.get("_clave", set())
+    if not clave_a or not clave_b:
+        return False
+    comunes = clave_a & clave_b
+    if len(comunes) < 3:
+        return False
+    return len(comunes) / len(clave_a | clave_b) >= umbral
+
+
+def _rango(nota: dict) -> tuple:
+    """Qué tan buena candidata es para quedarse con la historia."""
+    return (
+        nota.get("peso", 2),
+        nota.get("prioridad", 3),
+        1 if nota.get("resumen") else 0,
+        nota.get("orden", 0),
+    )
+
+
+def colapsar_repetidas(notas: list[dict], umbral: float = 0.35) -> tuple[list, int]:
+    """Deja una sola nota por historia dentro de cada sección."""
+    for nota in notas:
+        nota["_clave"] = _palabras_clave(nota["titulo"])
+
+    por_seccion: dict[str, list[dict]] = {}
+    for nota in notas:
+        por_seccion.setdefault(nota.get("seccion", ""), []).append(nota)
+
+    sobrevivientes, colapsadas = [], 0
+    for grupo in por_seccion.values():
+        # De mejor a peor: así la primera de cada historia es la que se queda.
+        grupo.sort(key=_rango, reverse=True)
+        elegidas: list[dict] = []
+        for nota in grupo:
+            gemela = next((e for e in elegidas if _mismo_hecho(e, nota, umbral)), None)
+            if gemela is None:
+                elegidas.append(nota)
+                continue
+            colapsadas += 1
+            medio = nota.get("fuente", "")
+            otros = gemela.setdefault("tambien_en", [])
+            if medio and medio not in otros and medio != gemela.get("fuente"):
+                otros.append(medio)
+            # Si la repetida trae resumen y la que se queda no, se lo presta.
+            if nota.get("resumen") and not gemela.get("resumen"):
+                gemela["resumen"] = nota["resumen"]
+        sobrevivientes.extend(elegidas)
+
+    for nota in notas:
+        nota.pop("_clave", None)
+    return sobrevivientes, colapsadas

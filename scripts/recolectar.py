@@ -29,6 +29,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from clasificar import clasificar_nacional, es_de_ia, normalizar  # noqa: E402
 from criterios import aplicar_tope, es_tramite, reasignar_pais  # noqa: E402
 from enriquecer import aplicar, enriquecer  # noqa: E402
+from criterios import colapsar_repetidas  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parents[1]
 CONFIG = RAIZ / "fuentes.yaml"
@@ -172,6 +173,7 @@ def preparar(entrada, fuente: dict, ahora: datetime, horas_max: int,
         "resumen": resumen,
         "url": url,
         "fuente": medio,
+        "peso": fuente.get("_peso", 2),
         "seccion": fuente["seccion"],
         "fecha": fecha.isoformat() if fecha else None,
         "orden": (fecha or ahora - timedelta(hours=horas_max)).timestamp(),
@@ -192,6 +194,10 @@ def main() -> int:
     config = yaml.safe_load(CONFIG.read_text(encoding="utf-8"))
     ajustes = config["ajustes"]
     secciones = config["secciones"]
+    jerarquia = config.get("jerarquia", {})
+    for f in config["fuentes"]:
+        f["_peso"] = jerarquia.get(f["nombre"], 2)
+
     fuentes = [f for f in config["fuentes"]
                if not args.seccion or f["seccion"] == args.seccion]
 
@@ -309,6 +315,24 @@ def main() -> int:
     veredictos = enriquecer(
         candidatas, list(panel), sorted(subsecciones_validas), ajustes)
 
+    # 2c-bis. Una historia, una nota. Se hace después de la curaduría para
+    #         poder usar el campo `historia` que escribe el modelo.
+    # El peso viene del feed, pero si la nota llegó por Google Noticias el
+    # medio real puede ser otro ("Portada México" trayendo un texto de Milenio).
+    # Si ese medio está en la jerarquía, manda su peso.
+    por_nombre = {n.lower(): p for n, p in jerarquia.items()}
+    for nota in candidatas:
+        medio = nota.get("fuente", "").split(" · ")[0].strip().lower()
+        if medio in por_nombre:
+            nota["peso"] = por_nombre[medio]
+        aplicado = veredictos.get(nota["id"]) or {}
+        if aplicado.get("historia"):
+            nota["historia"] = aplicado["historia"]
+    candidatas, repetidas = colapsar_repetidas(
+        candidatas, ajustes.get("umbral_similitud", 0.35))
+    print(f"  repetidas: {repetidas} notas colapsadas en la historia de otro medio",
+          file=sys.stderr)
+
     # 2d. Reparto
     for nota in candidatas:
         if not aplicar(nota, veredictos.get(nota["id"]),
@@ -349,10 +373,11 @@ def main() -> int:
     tope = ajustes.get("tope_por_fuente", 0)
     for seccion in panel.values():
         for grupo in seccion["grupos"].values():
-            # Con curaduría activa manda la prioridad y la hora desempata.
-            # Sin ella, todas las notas valen 3 y el orden es cronológico.
+            # Manda la prioridad; a igual prioridad sube el medio de más peso
+            # (así los especializados encabezan su sección); la hora desempata.
             grupo["articulos"].sort(
-                key=lambda n: (n.get("prioridad", 3), n["orden"]), reverse=True)
+                key=lambda n: (n.get("prioridad", 3), n.get("peso", 2), n["orden"]),
+                reverse=True)
             grupo["articulos"] = aplicar_tope(grupo["articulos"], tope)
             del grupo["articulos"][ajustes["max_por_grupo"]:]
             for nota in grupo["articulos"]:
