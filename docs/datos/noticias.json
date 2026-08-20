@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-19T18:41:45.730959-06:00",
+ "generado": "2026-08-19T18:44:00.928229-06:00",
  "desde": "2026-08-19T00:00:00-06:00",
  "total": 293,
  "secciones": {
@@ -200,15 +200,6 @@
        "fecha": "2026-08-19T19:08:02+00:00"
       },
       {
-       "id": "b41ea3c50794e1a84c06a7d110262d50336c6c59",
-       "titulo": "Familiares contradicen versión oficial sobre detención de persona con orden de extradición en Culiacán",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPMDd6MWhWVzVmcVFuMnB0R2ltMk96Vkx3eGYzd05DNklhcEpGNjdRSTlSTVVoNGtQVGFjd0tteUZFN1B1bG1OMFNUaU1OdU9TbkNXNk9lcDkyOHpGdEVrejh5Si1HSTNwZTNQbl9qTWhuSmIwei1abGFEUFVQbGMxSW9jdUEwYWN0cHEtUWhLb29CclFFb19vWDVHSVYxWEFCOHg4TmlQbWtKSTdKV2xRNFFCRmhfb2hnX2FCa0ZWa2x3ZXZOdmpPUlFISlo1a1pUQnF0dVVJVW9sUUVFLUFENlNBTGsxeFBNR1V1TjU4c1JmTFVobkctOQ?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T19:02:49+00:00"
-      },
-      {
        "id": "fee2f2b82fd99dd0b9c42a027fc689e9eaa5cddc",
        "titulo": "Consejero del INE, Uuc-kib Espadas, presenta examen de la UNAM en el Palacio de los Deportes",
        "resumen": "",
@@ -234,6 +225,15 @@
        "fuente": "Grupo Animal · vía Google",
        "seccion": "nacional",
        "fecha": "2026-08-19T18:56:02+00:00"
+      },
+      {
+       "id": "8d82873b0bc7fb1eebae49c3d113e6182bcc379a",
+       "titulo": "Sheinbaum rechaza restituir seguro de gastos médicos mayores a ministros de la SCJN",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNkxkVzNVUm5FV0hZdXVqMERfWV9xLThCUDEwZWVMYmlxNzFDMHFXN2Rsa05HRF9iRWtqUWlGY0VNclpnVlRtOVpyaW9pZUVBOXlQcjRxb2ExcGd6bTk0SWx6SVp5MGdObXU2bVhwb2VLanJZYzdYMjl4SnU3SXVjc2h0d0hfYnIzdG04UWJtOTd5WllsUTRBUlpZTnRlbG0yTWhkYzQ0MjBCcGEwbHVOQjZ3TWVQblZmdEJDUFNFUzBmLVpYZ0lBZ2YyczNiR21PTTNxS1dra3k?oc=5",
+       "fuente": "Proceso · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-19T18:45:41+00:00"
       }
      ]
     },
@@ -516,15 +516,6 @@
        "fecha": "2026-08-19T22:19:25+00:00"
       },
       {
-       "id": "a4c2791a169aceb6a4e6d4bca954ef1d3918e29d",
-       "titulo": "América: Miguel Borja llega a la CDMX para cerrar su fichaje",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWZNR2pYUWRKMHVDZlg2cTlSMUxBRTlFd1Ayd3djX2w0R1RwVFJmS3B6SEYzb3ZMZmt5TEFIbVVTbEVPSzZqSDBCZV9KTmRKNzF4NkI5NlYwcDBGSEtZdFROaC0zbjlBSUdGajluUkJwQWJlOVdvTGU3WmI2RmdPTnBKVUMtbEVYQWxjS2ZPeGJ0SDc5Z2tMdlg5NmVHMEt0WTMzXzhuRF9kMl9nSFVB?oc=5",
-       "fuente": "ESPN México · vía Google",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T22:11:22+00:00"
-      },
-      {
        "id": "1a5f0130f46fadbb68ed7daa12d97f5dbc5870a4",
        "titulo": "VIDEO capta a sujeto acosando y tocando a una mujer en calles de la GAM, CdMx",
        "resumen": "",
@@ -694,6 +685,15 @@
        "fuente": "La Jornada — Capital",
        "seccion": "nacional",
        "fecha": "2026-08-19T09:37:22+00:00"
+      },
+      {
+       "id": "42ecf2f045500d20fad83d880620a7c5c75d32c4",
+       "titulo": "Alertan en Iztapalapa sobre presencia de droga sintética tusi por riesgo a la salud",
+       "resumen": "En sesión del Consejo de Sustancias Sicoactivas de la alcaldía Iztapalapa se alertó sobre la presencia de una droga sintética denominada tusi que se comercializa comúnmente como un polvo de color y puede resultar riesgosa debido…",
+       "url": "https://www.jornada.com.mx/2026/08/19/capital/028n1cap",
+       "fuente": "La Jornada — Capital",
+       "seccion": "nacional",
+       "fecha": "2026-08-19T09:37:22+00:00"
       }
      ]
     },
@@ -795,6 +795,15 @@
     "tecnologia": {
      "titulo": "Tecnología",
      "articulos": [
+      {
+       "id": "1bf4845699e50ae12fa64ab86c00f022d6b5d5cc",
+       "titulo": "Corte de conectividad interrumpe los sitios del gobierno de México, según ATDT",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUkROYV9YS2dLeE9tZkJZQVJmRDZJRXV3eWtnQXFwenZ3NWNMRlVxUzNxdFhSWWdCeGpydVdvaE9ZZkFQbFJGNUJyUGVZaDJkelp2TVJfcFVOZjFtUmJEOGhHTjNtOUdlLVlPLTE5NlU2eWZSU3hBNEFOQ1hSd0ZoVFBTX3luZXp2UVlxWXA2VFlrMXZwdENCRFdpQW50bWZBcElrUWJ2RnhoWGJvVnJ2cUdnUFpDSE91aGxLVXV30gHDAUFVX3lxTE5oXzl6WlFGRGFnb1pPc3Q4aVh3bTVqMi1rR2x0Vmx4cXZOSUJaWkV2Y1BWbHkwSHdSZFZzZkx3Q0QzSkVkYkpkamhTREJ5M0FFdG1aMXpoamxkdEI5MTNRQXhQb0dlbU5GWG5vaDNvT0VPOWZ1Y3lDcFFabnk5d2g5ZXJJRlBrTE0xV2FZaW03ZVIwU0habC1IY2l6aHRwNDE1ajFZNDAwd2prbmxiN2R5cm1LRndDS2JYVXpkNmdkRXZ2cw?oc=5",
+       "fuente": "El Economista · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:38:29+00:00"
+      },
       {
        "id": "93c3a123eec15c70b17efe69d79c0ccdaa75c689",
        "titulo": "Sitios web del gobierno federal sufren caída temporal",
@@ -1010,15 +1019,6 @@
        "fuente": "El País México",
        "seccion": "nacional",
        "fecha": "2026-08-19T09:09:11+00:00"
-      },
-      {
-       "id": "7075d55ae87b73f69cc90efba39f52650fe1bf8f",
-       "titulo": "Juicio a Meta: la compañía niega haber buscado “enganchar” a los niños a sus redes mientras los fiscales exigen “que deje de mentir”",
-       "resumen": "En la primera jornada del proceso, los abogados de la empresa rechazaron las acusaciones de 29 estados de que buscó deliberadamente crear adicción a menores en Facebook e Instagram",
-       "url": "https://elpais.com/tecnologia/2026-08-19/juicio-a-meta-la-compania-niega-haber-buscado-enganchar-a-los-ninos-a-sus-redes-mientras-los-fiscales-exigen-que-deje-de-mentir.html",
-       "fuente": "El País — Tecnología",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T07:40:00+00:00"
       }
      ]
     }
@@ -1143,15 +1143,6 @@
        "fuente": "La Crónica de Hoy · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T23:53:29+00:00"
-      },
-      {
-       "id": "61ca11b87e6df6d728b12c9c8f2a8e307a8ed5b6",
-       "titulo": "BTS en Gemini: así puedes usar las cuatro funciones de inteligencia artificial",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeEJ6S084QVQ1VV9XRUdtWmkxTnBCNjFXb0hoWDRfNUdXU0NDMEVpb056YzRISGJacXp2bXFObXlRa1lyU1B2X1RESFFjTG4wSnREblJZMDdfN1pSRlp5MTkzWGtCaWN2OVVfOVk3d3dEQXF2bkVRcHg1QmhWZENhVXE5bEhOeTY2QTVDUlNuSmsxSzlpUzlEc2wtQVlDYkRfeUEyTnFTVjZoZTQ2bjlUY3IxV0d6NVpFTHc?oc=5",
-       "fuente": "Agencia Andina · vía Google",
-       "seccion": "ia",
-       "fecha": "2026-08-19T23:37:23+00:00"
       },
       {
        "id": "a488a8047007bf6e6d073ff59bca9d86c4a0ad71",
@@ -1332,6 +1323,15 @@
        "fuente": "vanguardia.com.mx · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T21:15:40+00:00"
+      },
+      {
+       "id": "dde66f4eaa1336af80929448aef3b8435574d472",
+       "titulo": "Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans (Amanda Caswell/Tom's Guide)",
+       "resumen": "Amanda Caswell / Tom's Guide : Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans — Head back to school equipped with AI…",
+       "url": "https://www.techmeme.com/260819/p45",
+       "fuente": "Techmeme",
+       "seccion": "ia",
+       "fecha": "2026-08-19T21:00:52+00:00"
       }
      ]
     }
@@ -1344,6 +1344,15 @@
     "dia": {
      "titulo": "Lo más importante del día",
      "articulos": [
+      {
+       "id": "b7ce4c7bc672dc2ed4ae1911a7b61d9b9292afda",
+       "titulo": "Violento ataque contra la Policía en Bolívar: niños quedaron en medio de los disparos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRTRMZ19lNVRiVGx0SEFZWkRTbk5Qa0w5Y2dSTWlSd0U0U1JBM1ZGa2JpaUFDVTE0ZGlweHRkMEJaQVVsd0JlZUluVWEzSGdhWUlTU0wxc1Rfd19FelRSWVp5VVhsS2VLZi0wXzFHaktXQ0VQMWt5bkx0VDJyaEh0Q1lpT2Q4TmlSZDBtSmRhZ1dzYkNxWVcyVmRnN2loWmRnbzRLSUJITml1MkdPYmhpMklFUDJTMVNuX09UVWFEbm01cUg0ZzdFZkNn0gHXAUFVX3lxTE5TZEhzNXZHNEx2RDlSVlE0cVhMa3JvRjNtSGZYRkFCOXkwQXhfUlFTbV84dlBjZndQbXdicEpCc3oyOU9KSFNXY19ZdGNYYi11VnQzLW9raE5NZU56QnNlZ3VTQXZSS1pMamdyYmdFcmRhNzEyNVZWLTFtdGdySnlIdG5IcldDVmFvYkVKeDg5a3VwYk1aTmJvLUVCbzVKdWdHTzNJMUlOY3VtR1NSbHhEZmxLOTZoczY1WW4wa2xrVmtpZHgyc1ZvY2dqaE1qMlFkMDIzQUNV?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-20T00:38:58+00:00"
+      },
       {
        "id": "9d076b24cf31a50c24bdfdfdd7b52cd2f4422f8a",
        "titulo": "Grupo Éxito y Fundación Éxito llevan 77 toneladas de alimentos a afectados por terremoto en Chocó",
@@ -1465,7 +1474,7 @@
        "id": "31e3c789ef6ff1a8e99e0e6609e7a48561adc19b",
        "titulo": "DT de Egipto terminó hospitalizado tras pelea de sus dos esposas",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlUwelFkY2l0U1UwNzlnbHlOaHUtaF8xU3FVQ1NjRURyUjNKd2RMMXNwMlFjbzZRSU9OX0pmVmV1QVhzNHdqRGFqTUphT2FmYlZYd2xJSm1yRWs4dzV2VUJOblphQ0ZxRzhORU1BZENWTEo3UlJJUnB1N3ZrWkt2SEN5MUpuT2ZtaC0yVE1BMUZiQTJOZDhVUUhvNS1HcjAySGlVS1lB0gGzAUFVX3lxTE5aSERoTjB4eWZ1Y3VYaF9YM3dlVW1TNGt6bmdWT2F6SkZaS2thREY4RjlvR1dvVTBJbkhYczBaVjk5UG1iMkpncElDaTZVaVB2cmJLYlg5VFFvQ2VxX05tRkRRdkFjMWdxZzNNRExQNjZhbGNHakItblg1b0gtcG1WZEM1OUhNN2ZOVHRiM190R2puZ0xtcEpTdV9WUjJMc1AtR09QMm9mTXdRQ2xtRHZaVmhR?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkhEaE4weHlmdWN1WGhfWDN3ZVVtUzRrem5nVk9hekpGWktrYURGOEY5b0dXb1UwSW5IWHMwWlY5OVBtYjJKZ3BJQ2k2VWlQdnJiS2JYOVRRb0NlcV9ObUZEUXZBYzFncWczTURMUDY2YWxjR2pCLW5YNW9ILXBtVmRDNTlITTdmTlR0YjNfdEdqbmdMbXBKU3VfVlIyTHNQLUdPUDJvZk13UUNsbUR2WlZoUdIBswFBVV95cUxOWkhEaE4weHlmdWN1WGhfWDN3ZVVtUzRrem5nVk9hekpGWktrYURGOEY5b0dXb1UwSW5IWHMwWlY5OVBtYjJKZ3BJQ2k2VWlQdnJiS2JYOVRRb0NlcV9ObUZEUXZBYzFncWczTURMUDY2YWxjR2pCLW5YNW9ILXBtVmRDNTlITTdmTlR0YjNfdEdqbmdMbXBKU3VfVlIyTHNQLUdPUDJvZk13UUNsbUR2WlZoUQ?oc=5",
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:35:41+00:00"
@@ -1559,15 +1568,6 @@
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T22:50:17+00:00"
-      },
-      {
-       "id": "6816b5a2c776327342e3a903267b1f2206be4b9e",
-       "titulo": "La nueva oportunidad en la Fórmula 1 para Jack Doohan, el piloto que Colapinto reemplazó en Alpine",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObXR6c3F3bk9za1ZjaElPWVFLUG1jNEtkVE5tZnBJWkJQRkdwb2pkeFhiRWIxNWUza0J1dnh3YkFsYWJEcEVqTkFxQWo1VUM2S1NWXy1BUkY3azljelI4d3hnNFVsb0JzVkI3MjhmTkdJLU5NYTRxR3Ffb18tMGFxUnNGYmF6TXNYUXNWcFhFNFZDZ3piSWtGOW5uQU5NMnVJbEF6Q002R0pDYVZMSDAxYlN1M3pBczZwR3lWV1hxU1Z4Z1RfeXptOVRGY00yVFNqRWtyMnc5WTIwUdIB9AFBVV95cUxNaHZoR3FicVk1cnBUNXFxaXpEeTdGaDhBMzY5NzJYWlcxcnlvUnk3LWJRZkUxZnBheHFzU1NlQl9ZbmM3c01wcDZ4cTJQa2NRRGVIY05hMWUyWDlNempUMGJSNk85YjVGUHhsX2RtWU94THlPbTVBUFdHaHZOV1NWNlhDTFZTU0RvVUJYWmlnNVZZYnFhM1h2MTFoeU5DQVdUTEw3a21kMzNvY2NjZXVKcGtQU3EzdjgxckFINzgwZm9OeDBSS21kWEJJRGdEVUp6ZVRUY2tIclI4UEF0VHBOdWtRZUdaclBZT1p1akNDcGZ6em9M?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T22:49:30+00:00"
       }
      ]
     }
@@ -1617,6 +1617,24 @@
        "fecha": "2026-08-20T00:25:07+00:00"
       },
       {
+       "id": "768ddf9715ad27fae57a77c8ff6963e50464879d",
+       "titulo": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, miércoles 19 de agosto",
+       "resumen": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+       "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-miercoles-19-agosto_0_9aUpsMStZR.html",
+       "fuente": "Clarín — Lo último",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:24:46+00:00"
+      },
+      {
+       "id": "ca5810fc609f7213b4ee202a1f135bcbe89fc10f",
+       "titulo": "Un ingeniero estadounidense y un profesor alemán se plantearon una pregunta diferente: ¿por qué construir represas gigantes cuando miles de canales ya transportan agua a diario? La respuesta se convirtió en un sistema modular que acelera el flujo, alimenta turbinas verticales y genera energía limpia cerca de los puntos de consumo",
+       "resumen": "Emily Morris y Thorsten Stoesser desarrollaron un sistema que aprovecha canales de riego y otras infraestructuras hidráulicas existentes para producir electricidad. La tecnología utiliza turbinas verticales y módulos que pueden…",
+       "url": "https://www.clarin.com/estados-unidos/ingeniero-estadounidense-profesor-aleman-plantearon-pregunta-diferente-construir-represas-gigantes-miles-canales-transportan-agua-diario-respuesta-convirtio-sistema-modular-acelera-flujo-alimenta-turbinas-verticales-genera-energia-limpia-cerca-puntos-consumo_0_2nCKorHeOv.html",
+       "fuente": "Clarín — Lo último",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:24:16+00:00"
+      },
+      {
        "id": "220363095d95c0a8af5a5c3c452c715a07931cf9",
        "titulo": "Caso Cerimedo, EN VIVO: qué se sabe de la investigación al exasesor de Milei que está detenido en Bolivia",
        "resumen": "El exasesor de Javier Milei fue detenido por el ataque a balazos a su expareja, una abogada y activista boliviana; tras su detención se negó a declarar",
@@ -1653,6 +1671,15 @@
        "fecha": "2026-08-20T00:13:00+00:00"
       },
       {
+       "id": "a5eebfd9bf488bcaa647a8704726bfb77b003fa2",
+       "titulo": "Qué significa el viejo proverbio popular: \"Si le preguntas a la hierba, la cebra es el monstruo y el león es el protector\"",
+       "resumen": "La frase muestra que cada historia cambia según quién la cuente.",
+       "url": "https://www.clarin.com/estados-unidos/significa-viejo-proverbio-popular-preguntas-hierba-cebra-monstruo-leon-protector_0_B0Bihb9uKb.html",
+       "fuente": "Clarín — Lo último",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:12:15+00:00"
+      },
+      {
        "id": "42b4634f7abd323fd59d35954f9aa0a99e9226c0",
        "titulo": "Encontraron a la niña de tres años que estaba desaparecida en San Luis, tras activar el Alerta Sofía",
        "resumen": "El Ministerio de Seguridad había emitido un aviso de la búsqueda de Nancy Aitana Isabella Ibarra; había sido vista por última vez jugando en el patio delantero de su casa",
@@ -1681,10 +1708,10 @@
       },
       {
        "id": "108d9cd90d483f5ff22cf656180f6dae07e4d306",
-       "titulo": "La ministra de Seguridad habló de suicidios en las fuerzas por problemas de salud y económicos, y generó polémica",
+       "titulo": "La ministra de Seguridad habló de suicidios en las fuerzas por problemas mentales y económicos, y generó polémica",
        "resumen": "Fue durante una entrevista radial, cuando le preguntaron por la grave situación que atraviesan policías, gendarmes y prefectos, aunque también los militares.",
        "url": "https://www.clarin.com/politica/ministra-seguridad-hablo-suicidios-fuerzas-problemas-salud-economicos-genero-polemica_0_QLQeKsXS4O.html",
-       "fuente": "Clarín — Política",
+       "fuente": "Clarín — Lo último",
        "seccion": "argentina",
        "fecha": "2026-08-20T00:08:30+00:00"
       },
@@ -1777,33 +1804,6 @@
        "fuente": "La Nación",
        "seccion": "argentina",
        "fecha": "2026-08-19T23:50:45+00:00"
-      },
-      {
-       "id": "0d4c1639ff9bf2613b35d15f4475b409269f7aa7",
-       "titulo": "Empanadas, música y gira campestre: se cumplen cien años de la primera exposición de Florencio Molina Campos",
-       "resumen": "El 21 de agosto de 1926, el día en que cumplía 35 años, el artista exhibió sus obras por primera vez en un stand de la Exposición Rural de Palermo; este jueves empieza una serie de homenaje en bares notables porteños y en el…",
-       "url": "https://www.lanacion.com.ar/cultura/empanadas-musica-y-gira-campestre-se-cumplen-cien-anos-de-la-primera-exposicion-de-florencio-molina-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:49:02+00:00"
-      },
-      {
-       "id": "e03a4a2eb2a1841e26153d686d80930daf503acc",
-       "titulo": "Lavado de dinero del juego ilegal: gritos en el subsuelo de Tribunales y una funcionaria en Only Fans",
-       "resumen": "La justicia investiga la apertura de billeteras virtuales para mover 27.000 millones de pesos del juego negro en la Provincia.",
-       "url": "https://www.clarin.com/opinion/lavado-dinero-juego-ilegal-gritos-subsuelo-tribunales-funcionaria-only-fans_0_EoHWYNgYDV.html",
-       "fuente": "Clarín — Lo último",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:46:21+00:00"
-      },
-      {
-       "id": "3022ef6ab7104a76544b867d7c72feff823219fc",
-       "titulo": "La desgarradora carta de Kishi Núñez con la que anunció que se aleja del fútbol",
-       "resumen": "La delantera de Boca Juniors y de la selección argentina comunicó su decisión a través de un posteo en la red social Instagram",
-       "url": "https://www.lanacion.com.ar/deportes/la-desgarradora-carta-de-kishi-nunez-con-la-que-anuncio-que-se-aleja-del-futbol-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:45:23+00:00"
       }
      ]
     }
@@ -2053,6 +2053,15 @@
      "titulo": "Última hora",
      "articulos": [
       {
+       "id": "9d65971aec0bdea66b45348b25a1943ef60490c9",
+       "titulo": "Colombia va por incrementar turismo tras terremoto con medio millón de viajeros mexicanos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEhidmZmeGQtb0ZlckhNcV9ZT0tKdTdYcTg5NmdpNWt0V2pDb3JYSDI3NDJlSXNZT0pFUWNOV1VEcHhsZFFCWFZ3U3NXMHQwb2dpZ2hZTXFISVEwNnJNVTM0dkp3ZE1XdTdwcDdJTDFkOTY2S2tlTkEyalZTV0lYaThjZFJIT3hrekF0RGZiUDR3X1BlN2w3bEtaQnVpVHRRcW56bzdLSHJQVkMzbDNqcFVqZkV1QUw5RmEtV3V4MV81bVoxVHhF?oc=5",
+       "fuente": "López-Dóriga Digital · vía Google",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:42:43+00:00"
+      },
+      {
        "id": "68ddec8f63b6951bf813260ae14b4f2a9b10d945",
        "titulo": "Colombia estuvo muy cerca de sufrir un apagón a nivel general debido al terremoto del 10 de agosto: dijeron qué lo evitó",
        "resumen": "",
@@ -2060,15 +2069,6 @@
        "fuente": "Infobae · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-20T00:30:58+00:00"
-      },
-      {
-       "id": "29ebb8a3d4041052d06dd8afe35ea70089668b68",
-       "titulo": "Colombia busca incrementar turismo tras terremoto con medio millón de viajeros mexicanos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcmREb2JkMV8wV3dNZXJkU05ZUEhsX3NRWHBvWFVIdE9NdzBmZGxHX3h3MzVWb3k1ZzdoaWFFUjF4czc4b3BVZFZBNjlkN3UxX19HLVBMMG1NQzFSeE1nSG9ocG9rVHZQSmFpVjVZSTRHZ3JKdEhFc1NxSjV0S0hzY21aZm93bXdVOEhvRGllYUdVOXR4MlBJZ19IVHl4VjljS0huRWVHczdMeHpndDZldEpXOUxKdVZFeXhoUDI1b2YweHN6T3c?oc=5",
-       "fuente": "López-Dóriga Digital · vía Google",
-       "seccion": "internacional",
-       "fecha": "2026-08-20T00:25:08+00:00"
       },
       {
        "id": "0a49597e49aa1384d26f155f8feebde5059b6547",
@@ -2283,6 +2283,15 @@
      "titulo": "Miradas del mundo",
      "articulos": [
       {
+       "id": "60bd3fd2e374a4bfde5fc09ba4db42e1e232efbe",
+       "titulo": "Publisher of US military newspaper resigns over differences with government",
+       "resumen": "Retirement of longtime publisher of Stars and Stripes comes amid push from Trump administration for editorial control.",
+       "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:34:13+00:00"
+      },
+      {
        "id": "f9ebeb0f9e2c21d7b7082fa25934b176be521570",
        "titulo": "Australia politics live: impassioned Lambie accuses Labor of ‘callous disregard’ for veterans’ health; Steggall urges action on domestic violence deaths",
        "resumen": "Zali Steggall uses parliament motion to draw attention to national crisis. Follow today’s news live Get our breaking news email , free app or daily news podcast ‘Outrageous’: Greens leader says sending Israeli ambassador home…",
@@ -2290,6 +2299,15 @@
        "fuente": "The Guardian — Mundo",
        "seccion": "internacional",
        "fecha": "2026-08-20T00:27:49+00:00"
+      },
+      {
+       "id": "2309fd1b9cfc039a5a98927268ba8de50ca3d142",
+       "titulo": "‘Tsunami’ of emigration reshapes Israel’s future, experts warn",
+       "resumen": "Nearly 270,000 Israelis have left the country over three years, citing political uncertainty and security concerns.",
+       "url": "https://www.aljazeera.com/news/2026/8/20/tsunami-of-emigration-reshapes-israels-future-experts-warn?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:26:59+00:00"
       },
       {
        "id": "ea8bc4e329fcaba2096b55b2fdb044dc37d4d322",
@@ -2328,8 +2346,8 @@
        "fecha": "2026-08-20T00:12:00+00:00"
       },
       {
-       "id": "5587b1f674bf5500e5442584300744e5d0d59f0a",
-       "titulo": "Nigeria’s election campaign begins with Tinubu’s reform test",
+       "id": "e130e4ddff57044eb99a55c018f7db3fa5858bd5",
+       "titulo": "Nigeria’s election campaign begins with Tinubu facing a reform test",
        "resumen": "Rising costs fuel anger, but President Bola Tinubu’s machinery and opposition divisions may shape the race.",
        "url": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
        "fuente": "Al Jazeera",
@@ -2488,24 +2506,6 @@
        "fuente": "Al Jazeera",
        "seccion": "internacional",
        "fecha": "2026-08-19T23:18:32+00:00"
-      },
-      {
-       "id": "26d13b217c4027176684fe98763c821d9b434cc9",
-       "titulo": "Chinese national charged with voter fraud during 2024 US presidential election",
-       "resumen": "A Chinese national was charged in the United States on Wednesday with committing voter fraud during the 2024 presidential election for allegedly impersonating a fellow countryman and later submitting anonymous tips about him to…",
-       "url": "https://www.scmp.com/news/us/diplomacy/article/3364618/chinese-national-charged-voter-fraud-during-2024-us-presidential-election",
-       "fuente": "South China Morning Post",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:18:24+00:00"
-      },
-      {
-       "id": "55050e7fd890dd60fa4a0417b002828b743211fe",
-       "titulo": "El jefe de Inteligencia de Ecuador y un directivo de 'Telemundo', entre los muertos de un accidente en Kenia",
-       "resumen": "Siete personas murieron este 19 de agosto al estrellarse un helicóptero turístico en una zona remota del norte de Kenia. Entre las víctimas se encontraban el director de Inteligencia de Ecuador, Michele Sensi-Contugi, y su…",
-       "url": "https://www.france24.com/es/%C3%A1frica/20260819-el-jefe-de-inteligencia-de-ecuador-y-un-directivo-de-telemundo-entre-los-muertos-de-un-accidente-en-kenia",
-       "fuente": "France 24 en español",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:16:53+00:00"
       }
      ]
     }
@@ -2705,7 +2705,7 @@
        "url": "https://www.eonline.com/news/1435209/prince-harry-meghan-markle-moving-back-to-u-k-with-kids-archie-lilibet",
        "fuente": "E! Online",
        "seccion": "espectaculos",
-       "fecha": "2026-08-19T22:22:25+00:00"
+       "fecha": "2026-08-19T22:22:00+00:00"
       },
       {
        "id": "42edfb649ecea987c01d5189a46ad52ae69cfc51",
