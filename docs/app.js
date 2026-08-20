@@ -81,7 +81,12 @@ function nodoNota(nota) {
   a.rel = "noopener";
   a.dataset.fresco = esFresco(nota.fecha) ? "si" : "no";
 
-  const pie = [nota.fuente, antiguedad(nota.fecha)].filter(Boolean).join(" · ");
+  // "también en" son los medios cuya versión de la misma historia se colapsó.
+  const repetida = (nota.tambien_en || []).length;
+  const coro = repetida
+    ? `también en ${repetida === 1 ? nota.tambien_en[0].split(" · ")[0] : `${repetida} medios`}`
+    : "";
+  const pie = [nota.fuente, antiguedad(nota.fecha), coro].filter(Boolean).join(" · ");
   a.innerHTML = `
     <span class="nota__hora">${hora(nota.fecha)}</span>
     <h3 class="nota__titular"></h3>
