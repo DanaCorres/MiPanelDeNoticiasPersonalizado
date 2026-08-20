@@ -1,7 +1,7 @@
 {
- "generado": "2026-08-19T18:44:00.928229-06:00",
+ "generado": "2026-08-19T18:59:43.521004-06:00",
  "desde": "2026-08-19T00:00:00-06:00",
- "total": 293,
+ "total": 294,
  "secciones": {
   "nacional": {
    "titulo": "Nacional",
@@ -10,6 +10,15 @@
     "politica": {
      "titulo": "Política",
      "articulos": [
+      {
+       "id": "b296c0a8f37d3f1d755298ec64dcb3390919761d",
+       "titulo": "Suprema Corte invalida ley de Chiapas por falta de consulta a personas con discapacidad",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0FWWGVUT2NRMXJ1TFVuVjU1STdJQmZLSWo4QjQ2SENvaWxTbG5BWW5zVVlLVUdvSURhV3VRektJcUpiRUhNYkotbW5MS01IZEFGTnFYdnY5cG5rbFVIeHJPS3JFMEhkLUxoWXhUdUFpQkJySS1sSVlWZDF4eXRVdGpZMlhnQXJwTHdXdHowZ2FQUDNybkwwSGZHcDZ6V21xa1liS1BBU2h0c0pSSFlMdjBPbUtIM0s3RkNRWFd1ajNWdWJnVVVNaU1B0gHkAUFVX3lxTFBlOE1WTVlTS3BpcTNnZGJSbW5rTHhMeVRKbWUtQUNkRUlZSWFvU2RsZ0pKcXR4Wmwxck54U1p0WjZ0amxzWFozcmE2Z2tGUG4xVU5hVTZ3LTBxLWVVeEV4dFp6Y09JdGZmSVd5OVNzYnkxTS1Zb2hJNHdYSkNBMnFEU3NtSFlUVkpTcm1KMUJpb2ZGVmY3NjZURU9SdWFIX3IzYUpqbnJEeGFlZkJTZEpjbXRxNHJpUXlnYlVxSlJHNUNMbVota3N3d3hNeVoxUlgwM0ZZN1hfUlJISHVLa1NmanJsZg?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:31:01+00:00"
+      },
       {
        "id": "a834f9a805958b9d41fa71053a1843ec3516105c",
        "titulo": "Iniciativa de ley contra feminicidio avanza en Senado",
@@ -74,6 +83,15 @@
        "fecha": "2026-08-19T22:50:00+00:00"
       },
       {
+       "id": "04d3f6536e5654e35baae5ce645b82aafe45e315",
+       "titulo": "Tras rescate de 15 funcionarios retenidos en San Salvador, Hidalgo, suspenden actividades en la Presidencia Mu",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSFhjaXJjVmR4ajB4a2VUa2FlVDhQTFUtTWxyUHlCREpSZXQ1R3JiQ0hNdi12OHRCNUQ5M0ZBNThqNDkzenF2aXFSV1QxRm1wZWliejdaMGh1eTNQQ21DckhmRzZ3czEzSHlHcTUyWjZuN2xvYndGbDhHNkR3Y3RHVk5LZWpkdkN4Z2dxdTI2eDQyTjjSAZMBQVVfeXFMUEhYY2lyY1ZkeGoweGtlVGthZVQ4UExVLU1sclB5QkRKUmV0NUdyYkNITXYtdjh0QjVEOTNGQTU4ajQ5M3pxdmlxUldUMUZtcGVpYno3WjBodXkzUENtQ3JIZkc2d3MxM0h5R3E1Mlo2bjdsb2J3Rmw4RzZEd2N0R1ZOS2VqZHZDeGdncXUyNng0Mk44?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-19T22:39:52+00:00"
+      },
+      {
        "id": "06dc4b20db1c0f32a7e3a0aee30e841618645623",
        "titulo": "Gómez Palacio avanza en nuevas guarderías del IMSS y garantiza continuidad del servicio",
        "resumen": "",
@@ -117,24 +135,6 @@
        "fuente": "Excélsior · vía Google",
        "seccion": "nacional",
        "fecha": "2026-08-19T21:44:46+00:00"
-      },
-      {
-       "id": "cea04abcf624168298086fc1704a508b067c62a5",
-       "titulo": "García Harfuch y ministra de Seguridad de Argentina hablaron sobre combate al narco y al crimen organizado",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOVNrOG5ZT0wzNzR4UU8xMHRlRWFGdWlxX2VITmxVaW1ScnVndFV1QWdYNGxsQ25CSHl6S3FGY0NpcmVTVVdndE9QTEY4QTlTZThIdXVmZHZwS0FaVllxTVZVT2U2SjFjZ05xd1Y5dDNhemRVS0Etb3AwM25fRHJlejhhaVhyVXliR2Y5TnJ30gGOAUFVX3lxTE8tNW9ocmdIeGNIaENWLWpSMzZrNUZKYjhtM1QybXdXWm9RQ1lOOUV6YkMxZ0NXMzlSS1FTMFZPc1Z5aWZKSlF4YU9jQndtWEJFQjRVS0xLZ0JUOXlGSkZ0NXo3S2NlM3didTVTUW9hNWdmVXNuNTBaQ3RQYlJRMmtoZm1PQl8wZjhrS1FXQVE?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:15:00+00:00"
-      },
-      {
-       "id": "00654fb4a8106042c2cd60357c15d11709e1610d",
-       "titulo": "¿Quiénes pueden tramitar el Reporte Personalizado de Cotización del IMSS y qué requisitos se necesitan para re",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQX2ZGUUd6Zm9EOThYa2xVaXQ4anIzNFdrQzNuVGpFUTlDeTNOc2ZWa1ZJWk0yelFvVVItUHZqSTFkVmlZVkh6dVlMVU5BOXdCVWJwbkQ3UzExNWsxVXRLR0ZkVUktbl95UFBaYXhtdDRwU3pwSTh0SWhNTDl2eS04eFdOWnAtR1I4b2dfTm9nVDVta3o0R182T2g0d25lNVgt0gGgAUFVX3lxTFBfZkZRR3pmb0Q5OFhrbFVpdDhqcjM0V2tDM25UakVROUN5M05zZlZrVklaTTJ6UW9VUi1QdmpJMWRWaVlWSHp1WUxVTkE5d0JVYnBuRDdTMTE1azFVdEtHRmRVSS1uX3lQUFpheG10NHBTenBJOHRJaE1MOXZ5LTh4V05acC1HUjhvZ19Ob2dUNW1rejRHXzZPaDR3bmU1WC0?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:02:00+00:00"
       },
       {
        "id": "a8750fc046b80b77c3e977df4586aaa27a5d80aa",
@@ -241,13 +241,49 @@
      "titulo": "Economía",
      "articulos": [
       {
+       "id": "a1a208c93cae464784ae20e6f72073bb9232f5ca",
+       "titulo": "Decomisan 5 millones de cigarros ‘patito’ en el AICM; provenían de Sri Lanka y Singapur",
+       "resumen": "La Agencia Nacional de Aduanas de México (ANAM) decomisó cinco millones 808 mil cigarros apócrifos en el Aeropuerto Internacional de la Ciudad de México (AICM).",
+       "url": "https://www.elfinanciero.com.mx/cdmx/2026/08/19/decomisan-5-millones-de-cigarros-patito-en-el-aicm-provenian-de-sri-lanka-y-singapur/",
+       "fuente": "El Financiero",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:52:14+00:00"
+      },
+      {
+       "id": "ee3013c0e30e9e9f0bb5ce91d84c340ab9491134",
+       "titulo": "Tensión en Medio Oriente: Trump anuncia una ofensiva económica ‘sin precedentes’ para aislar a Irán",
+       "resumen": "Trump exigió que todas estas operaciones “se detengan AHORA” y advirtió de que Washington vigilará a los países y entidades que permitan mantenerlas.",
+       "url": "https://www.elfinanciero.com.mx/mundo/2026/08/19/tension-en-medio-oriente-trump-anuncia-una-ofensiva-economica-sin-precedentes-para-aislar-a-iran/",
+       "fuente": "El Financiero",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:48:28+00:00"
+      },
+      {
+       "id": "91816d2b57cb766f1a8648fe1774ba7b229c5c1b",
+       "titulo": "Tere Jiménez y Martí Batres suman esfuerzos para fortalecer la atención del ISSSTE en Aguascalientes",
+       "resumen": "La gobernadora Tere Jiménez se reunió con Martí Batres para impulsar proyectos que fortalezcan la atención médica y amplíen la cobertura del ISSSTE en Aguascalientes.",
+       "url": "https://www.elfinanciero.com.mx/estados/2026/08/19/tere-jimenez-y-marti-batres-suman-esfuerzos-para-fortalecer-la-atencion-del-issste-en-aguascalientes/",
+       "fuente": "El Financiero",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:44:35+00:00"
+      },
+      {
        "id": "1bca9c6becf1633b3baf2c21e71b8f78489dfa16",
        "titulo": "(FOTOS): Trasladan a la novia y a la hija del ‘Tío Lako’, líder del CJNG, a CDMX",
        "resumen": "Fuerzas Especiales del Ejército y la Guardia Nacional detuvieron a 9 integrantes del Cártel Jalisco Nueva Generación durante un operativo en Michoacán.",
        "url": "https://www.elfinanciero.com.mx/nacional/2026/08/19/fotos-trasladan-a-la-novia-y-a-la-hija-del-tio-lako-lider-del-cjng-a-cdmx/",
        "fuente": "El Financiero",
        "seccion": "nacional",
-       "fecha": "2026-08-20T00:35:51+00:00"
+       "fecha": "2026-08-20T00:39:38+00:00"
+      },
+      {
+       "id": "b1fc165228d24d7ce0bebffb9bedaada764a63aa",
+       "titulo": "Pemex desaprovecha altos precios del petróleo: Banamex",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFI3V0lQUE5fOUlzWVpMVUpfZGh5N09MQ3haZVg5TGRGNkNtMHM4akdSaGlxTzl0SVhkUVd5VUJHalJrMGR1bnFmTUlkUkVqZ2xOTVlSUE9pZXdGR19JR1NaOWFXTWU4OEFSTDVOSFktaUV0cURISFZ5Q05NVjBlM1VPdDNWNnM1RkE?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:35:58+00:00"
       },
       {
        "id": "a0ffd6790d7e74aac48f21e8a2da42b02218cfc5",
@@ -266,15 +302,6 @@
        "fuente": "El Financiero",
        "seccion": "nacional",
        "fecha": "2026-08-20T00:30:59+00:00"
-      },
-      {
-       "id": "ee3013c0e30e9e9f0bb5ce91d84c340ab9491134",
-       "titulo": "Tensión en Medio Oriente: Trump anuncia una ofensiva económica ‘sin precedentes’ para aislar a Irán",
-       "resumen": "Trump exigió que todas estas operaciones “se detengan AHORA” y advirtió de que Washington vigilará a los países y entidades que permitan mantenerlas.",
-       "url": "https://www.elfinanciero.com.mx/mundo/2026/08/19/tension-en-medio-oriente-trump-anuncia-una-ofensiva-economica-sin-precedentes-para-aislar-a-iran/",
-       "fuente": "El Financiero",
-       "seccion": "nacional",
-       "fecha": "2026-08-20T00:22:59+00:00"
       },
       {
        "id": "60c1a9ed1d2e9dd1dd8b81a99e422554ac8fc8ea",
@@ -338,6 +365,15 @@
        "fuente": "El Financiero",
        "seccion": "nacional",
        "fecha": "2026-08-19T23:50:45+00:00"
+      },
+      {
+       "id": "8cf3503337d054b1231a0b6527508fcd982ac339",
+       "titulo": "Detectan gusano barrenador en Sonora previo a reanudar exportaciones a EU",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnhrRXY2T0FldjRqZkk2V0lHTkw0RXY0UTEyMmxYeWpPWlQtNE5YcXQ4UkcxQnN3cWpHb0FTVmtxUkJPYUloc0tkNkkzR0pQY1hVWWtmVThQbkFMMzRSbWdpbWhabkNzWGlMT0pvYXhQZnBpWmUwZzZNM0l1a3Ntd090YXNuWG1VS0dwaDI2eG9LSFRDZDl3a2p0MHNwYlJEdV9FQktCOG43MExF0gGsAUFVX3lxTE1SeGtFdjZPQWV2NGpmSTZXSUdOTDRFdjRRMTIybFh5ak9aVC00TlhxdDhSRzFCc3dxakdvQVNWa3FSQk9hSWhzS2Q2STNHSlBjWFVZa2ZVOFBuQUwzNFJtZ2ltaFpuQ3NYaUxPSm9heFBmcGlaZTBnNk0zSXVrc213T3Rhc25YbVVLR3BoMjZ4b0tIVENkOXdranQwc3BiUkR1X0VCS0I4bjcwTEU?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-19T23:34:04+00:00"
       },
       {
        "id": "17592413def1cf81325271ac943e294cb363bf26",
@@ -428,42 +464,6 @@
        "fuente": "El Financiero",
        "seccion": "nacional",
        "fecha": "2026-08-19T21:47:12+00:00"
-      },
-      {
-       "id": "7d1af4b86008941e8378100bfcdfc76fbdd13868",
-       "titulo": "Peso mexicano avanza a niveles no vistos desde 2024; ¿Cómo cerró la cotización HOY 19 de agosto?",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZGVheVpyVHJMTmVNRi1pWmJndVZkM3R1N2ktVU1GT0lfUWFTaml3cWhORFFxV3VxeTB3dFhoT3owNTNRVGVxcnIyWmZMVUlNTWVudmxRUEJWZ3luUkRtRXd4dWtRZXk4Ql9vRE1XeFpNYlJueXFPVzNnQUN5SlhVbHZ1VGloVkpOOUw0RF9QbGdXbWhaNVhPVdIBmAFBVV95cUxNZGVheVpyVHJMTmVNRi1pWmJndVZkM3R1N2ktVU1GT0lfUWFTaml3cWhORFFxV3VxeTB3dFhoT3owNTNRVGVxcnIyWmZMVUlNTWVudmxRUEJWZ3luUkRtRXd4dWtRZXk4Ql9vRE1XeFpNYlJueXFPVzNnQUN5SlhVbHZ1VGloVkpOOUw0RF9QbGdXbWhaNVhPVQ?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:46:00+00:00"
-      },
-      {
-       "id": "3ad1835bd3c554fe4fbb55f5e843e3d8b4553e93",
-       "titulo": "Los va a reprobar la vida: Detecta UNAM 22 intentos de trampa en examen de control en CDMX",
-       "resumen": "Entre los intentos de trampa en el Examen de control de la UNAM, varios aspirantes intentaron usar el celular en el baño.",
-       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/19/detecta-unam-22-intentos-de-trampa-en-examen-de-control-en-cdmx/",
-       "fuente": "El Financiero",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:34:57+00:00"
-      },
-      {
-       "id": "02d4b433626ede6341d91418b430a9292631d255",
-       "titulo": "⁠Hermana de Bisogno llama ‘difamadora’ a Pati Chapoy tras muerte del presentador: ‘Fue horrible para mi papá’",
-       "resumen": "Ivette, hermana de Bisogno, recordó la polémica que tuvo con Pati Chapoy luego de lo que dijo sobre Alex tras la muerte de Daniel.",
-       "url": "https://www.elfinanciero.com.mx/espectaculos/2026/08/19/hermana-de-daniel-bisogno-se-queja-de-las-declaraciones-de-pati-chapoy-tras-muerte-del-conductor/",
-       "fuente": "El Financiero",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:32:09+00:00"
-      },
-      {
-       "id": "8db33299cfdd32701b78076233e989f1df3ab62c",
-       "titulo": "‘¿Y la güerita, joven?’: Detienen a la novia y a la hija del ‘Tío Lako’, líder el CJNG en Michoacán",
-       "resumen": "Autoridades federales confirmaron la detención de nueve personas en un operativo en Michoacán.",
-       "url": "https://www.elfinanciero.com.mx/estados/2026/08/19/y-la-guerita-joven-detienen-a-novia-e-hija-del-tio-lako-lider-el-cjng-en-michoacan/",
-       "fuente": "El Financiero",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T21:27:27+00:00"
       }
      ]
     },
@@ -471,8 +471,8 @@
      "titulo": "CDMX",
      "articulos": [
       {
-       "id": "42f897338b3db7b15172719044f9948edf209011",
-       "titulo": "Detenido el político Fausto Corrales, testigo del secuestro del Mayo Zambada",
+       "id": "30f8e1b31a0eb00ed4cbfea5ee5797765fc5cd2a",
+       "titulo": "Detenido Fausto Corrales, el testigo clave del secuestro del Mayo Zambada",
        "resumen": "La FGR ha arrestado en Ciudad de México a este alto cargo de la Universidad Autónoma de Sinaloa, también acusado de encubrir el asesinato del exrector Héctor Cuén en julio de 2024",
        "url": "https://elpais.com/mexico/2026-08-20/detenido-el-politico-fausto-corrales-testigo-del-secuestro-del-mayo-zambada.html",
        "fuente": "El País México",
@@ -514,6 +514,15 @@
        "fuente": "MILENIO · vía Google",
        "seccion": "nacional",
        "fecha": "2026-08-19T22:19:25+00:00"
+      },
+      {
+       "id": "a4c2791a169aceb6a4e6d4bca954ef1d3918e29d",
+       "titulo": "América: Miguel Borja llega a la CDMX para cerrar su fichaje",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWZNR2pYUWRKMHVDZlg2cTlSMUxBRTlFd1Ayd3djX2w0R1RwVFJmS3B6SEYzb3ZMZmt5TEFIbVVTbEVPSzZqSDBCZV9KTmRKNzF4NkI5NlYwcDBGSEtZdFROaC0zbjlBSUdGajluUkJwQWJlOVdvTGU3WmI2RmdPTnBKVUMtbEVYQWxjS2ZPeGJ0SDc5Z2tMdlg5NmVHMEt0WTMzXzhuRF9kMl9nSFVB?oc=5",
+       "fuente": "ESPN México · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-19T22:11:22+00:00"
       },
       {
        "id": "1a5f0130f46fadbb68ed7daa12d97f5dbc5870a4",
@@ -685,15 +694,6 @@
        "fuente": "La Jornada — Capital",
        "seccion": "nacional",
        "fecha": "2026-08-19T09:37:22+00:00"
-      },
-      {
-       "id": "42ecf2f045500d20fad83d880620a7c5c75d32c4",
-       "titulo": "Alertan en Iztapalapa sobre presencia de droga sintética tusi por riesgo a la salud",
-       "resumen": "En sesión del Consejo de Sustancias Sicoactivas de la alcaldía Iztapalapa se alertó sobre la presencia de una droga sintética denominada tusi que se comercializa comúnmente como un polvo de color y puede resultar riesgosa debido…",
-       "url": "https://www.jornada.com.mx/2026/08/19/capital/028n1cap",
-       "fuente": "La Jornada — Capital",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T09:37:22+00:00"
       }
      ]
     },
@@ -795,6 +795,15 @@
     "tecnologia": {
      "titulo": "Tecnología",
      "articulos": [
+      {
+       "id": "4d14ac5591c772a0dbadee369fb6bf2f3d95678f",
+       "titulo": "Restablecen sitios web del gobierno de México tras incidencia",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTjRBaXhmRzJ4Y2FSajZpdDBvYUNMUXRSOF9MOVlJamZmbmFfUlpTTl9hem5mZ0RacUdUa05QUVY3dGhmVHJCZWFRZE1RQXBGbUVHWXZkOFRPQkxzLW8xeF8yZEtWWnNJSHJaUDJ5QUJGZUFKX2FVRXB4VV96TjU5QlhTWF9nQ0YxNDR3cTF30gGOAUFVX3lxTE9ta0FWaUtIQ1pXZlNxTWtrV0JhcTA1UEFKbkVTUzFUN2pmMTdxLVJXeUs3bWNPYlZ2ZTlsaV91NW1RWDBHNWxDN1N2Qld5eHBZY2xiWFVtMllES0lxU3JrY1B2Yk4xRENrYkFRd2gwMzhZQnUtVmQwRXhTU2xrYTZTbDlaWTJrYlhNcXNXZFE?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "seccion": "nacional",
+       "fecha": "2026-08-20T00:45:10+00:00"
+      },
       {
        "id": "1bf4845699e50ae12fa64ab86c00f022d6b5d5cc",
        "titulo": "Corte de conectividad interrumpe los sitios del gobierno de México, según ATDT",
@@ -926,7 +935,7 @@
        "titulo": "Hidalgo se une al pacto nacional para eliminar trámites burocráticos",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdHNvT19yNnJoM3haem8xazh3VGZWLXVka3FLNlRXQUdfdVRURnpxY1lVT3A3T19tR1czbTZSOGd0eFgxeTE5MnZndlFFOFZZQ0tQUDlPM1ZyN3VQTWxKUlpHMHFZRmpXSmpjLW5LdGdhSzRvbnFnVjNLVVlOdUhoZ0x2RzE4SWFLLTNSWHY3UzdMV0JYaENFZUxidEpkd21RX250LUNZajFnRGhVSjVFeDVLOW1OMmlhYWEySGZfb09MdGZyT3dnTQ?oc=5",
-       "fuente": "lasillarota.com · vía Google",
+       "fuente": "La Silla Rota · vía Google",
        "seccion": "nacional",
        "fecha": "2026-08-19T19:52:00+00:00"
       },
@@ -1010,15 +1019,6 @@
        "fuente": "NVI Noticias · vía Google",
        "seccion": "nacional",
        "fecha": "2026-08-19T10:29:21+00:00"
-      },
-      {
-       "id": "47f94379c8cc97b0981f038bbb70227116f50785",
-       "titulo": "El tenista australiano Nick Kyrgios, suspendido provisionalmente tras dar positivo por cocaína, según la ITIA",
-       "resumen": "El tenista lo reconoció en sus redes sociales: “Quería que se enteraran de esto primero por mí”",
-       "url": "https://elpais.com/deportes/2026-08-19/el-australiano-nick-kyrgios-suspendido-provisionalmente-tras-dar-positivo-por-cocaina-segun-la-itia.html",
-       "fuente": "El País México",
-       "seccion": "nacional",
-       "fecha": "2026-08-19T09:09:11+00:00"
       }
      ]
     }
@@ -1031,6 +1031,15 @@
     "nyt": {
      "titulo": "The New York Times",
      "articulos": [
+      {
+       "id": "75fc65e2df9defdf284fd138e776960edb8fb0da",
+       "titulo": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXRBVmk4cURDLVpJcVFxSl8taE1UcUsyTE8zcWxQeHZkbGU5RS1PZmt5Wl9nY19SY0tfZXl0eG42N1h2Tkl4aF92cW81OGFRelh3MnAwSURBd0pENGtLZkFaR3VRLURYVlJTbkNHVkVMZVBwcjNGbVhld21JaGdRaVhMcURqbnpzcjIwY2RxNVIzdUZKNHVic1FMalNrT0FLdXc?oc=5",
+       "fuente": "nytimes.com · vía Google",
+       "seccion": "ia",
+       "fecha": "2026-08-19T20:05:47+00:00"
+      },
       {
        "id": "5a033bf7b763cd82a661c3777bd6533546aca306",
        "titulo": "China Wants Its Tech Champions to Raise Money at Home",
@@ -1045,25 +1054,34 @@
        "titulo": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z09XYkpQZUoxejVlZWZFR3JJZGJLTi0weVdoWERmVW5kSVVzNmQyQjZYa1JFQ2pId0QwNV9CU2M2d3BTeWJ2ZXNjb2dYT2ZHYmstTklEaFNHdlYzbHdMNFpuQmZaWUpTcHB2VmFXWUM4eUNmOW9lVg?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T20:02:11+00:00"
+      },
+      {
+       "id": "46717a0aef59d4f1987b8212d7e2808438787ef0",
+       "titulo": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+       "resumen": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+       "url": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+       "fuente": "The New York Times — Tecnología",
+       "seccion": "ia",
+       "fecha": "2026-08-19T19:06:05+00:00"
       },
       {
        "id": "78834fc7a7c85951429d5cc6b8c4268ea850600c",
        "titulo": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcV9iU2cyOWd2eEx0X1N5RWhONl8wLXZvTWtOV19rNmo4ZXd6R0ZPSTVwYUdyLUw3UElPcXROZ2cyeFVhUWx2MnZsVERBMjRXRW1TeC15Sk5YM2ZKemRfUUZpS053OTlFVXVNdWJ2cDNQOUt0eGp6Q0RHQmJGM0FRcUVOTy10dDQxTFFpa1IwRlRkOGM?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T16:50:35+00:00"
       },
       {
-       "id": "46717a0aef59d4f1987b8212d7e2808438787ef0",
-       "titulo": "Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?",
+       "id": "1f000dfeb06c6701f08d47636bb82d8ba0baf749",
+       "titulo": "Google’s New Phone Comes With Plenty of A.I. Does Anyone Want That?",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWFBhbk11Q0ctTXc4b3ZUYUV5OHRQUHJzNW1ZU0NFYVJ1b3lyRElrVFpGODJQdWtlRkxZa1o3SVAwbW5CN3N6X0NSYXlnWXBKbEIwMmxGc0kwNmFYb25kWjRtMU84Zy1IdUVCUDNibkc5LVdPNjhheWlsS0ZFN3FXWXQtNjlwSENHWVY3RFMwcw?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T16:00:11+00:00"
       },
@@ -1072,25 +1090,16 @@
        "titulo": "Video: Inside the Data Center Capital of the World",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdWxXZGd1aXpSajNQYUd5UVE5Y1ZrY1MyN29EVVE2TzlYSjVUSUF2bGFENEx2Z1pvRjFGOW9UdUgtZkJIb2FtMU9uOGViLTIyUDNyR1B5Zk4wMy1RSnhob1Y3eExYS09WR3plRzJ5LXktVXd2c2FTUXZlSGJUcnhIdHJ5T0dQajQxS3V6bkxyX3pfcmhlSTJ6UEpVZUxCZw?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T14:20:42+00:00"
-      },
-      {
-       "id": "75fc65e2df9defdf284fd138e776960edb8fb0da",
-       "titulo": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYXRBVmk4cURDLVpJcVFxSl8taE1UcUsyTE8zcWxQeHZkbGU5RS1PZmt5Wl9nY19SY0tfZXl0eG42N1h2Tkl4aF92cW81OGFRelh3MnAwSURBd0pENGtLZkFaR3VRLURYVlJTbkNHVkVMZVBwcjNGbVhld21JaGdRaVhMcURqbnpzcjIwY2RxNVIzdUZKNHVic1FMalNrT0FLdXc?oc=5",
-       "fuente": "The New York Times · vía Google",
-       "seccion": "ia",
-       "fecha": "2026-08-19T14:12:29+00:00"
       },
       {
        "id": "7a31eb219e07017523c7b81cca6636d8f8ccc550",
        "titulo": "Bridget Todd Doesn’t Trust A.I., But She Told ChatGPT Everything",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WeVYzdGlWbk90dmxzdThCUUdVUXZkTEdIUHhWX29feHJab09Za2NHUE10Z2ttTWZTS3FRZnlVYURHM0FEOFBuWXR1QWhQZmdXYlBhUzVudC1PcWlzdlFqVHBYcmhoVkNqS2FhR25jUDNxdURVUDhVdUNHc3g?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T09:01:47+00:00"
       },
@@ -1099,7 +1108,7 @@
        "titulo": "Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OWDFTdzZPRUZTeWdxTEFsYlVIanU5ZTNrWExpcXFRSy1WaHdrRVl1UENhSUFKMVd6YlNYS19id04tRFBtYUIyNnBkTV9UYV9tVXgzRHktdmFNWjhRWE9pQjltNGF2a0RqZmVrN1dZNDUwOHJnS3VpSzR0WQ?oc=5",
-       "fuente": "The New York Times · vía Google",
+       "fuente": "nytimes.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T09:00:54+00:00"
       }
@@ -1122,9 +1131,18 @@
        "titulo": "La inteligencia artificial entra de lleno a la UDLAP: estudiantes, profesores y colaboradores tendrán acceso a Gemini",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUTNmTWNJMzk5bkpTUnQ2UTU2ZDdzZFRzU0VZRlNBV2dEdGR1SEIyeWl4TzhUS3l6ME5UQlphWXVQVng2b1pJUml1Si1vaWpScnAwa0FwNmlMTmlDSDlvd0RfRnViRG16NEdad0RPWVl4X2ZCR0xwaUx1dHZNX2FQWkYzQV9zNzVuQ2o2MlRBd3FTTmxabTVmZFF6ejhsWlFPMm1iUkd6ZmdLSE1YZzF6SVBEd09YTUZvYWkyRHBkME12WU9tMWxnZktUeVpwNEhMRUM0YzRkSUladWFaaFdaV09ITHA?oc=5",
-       "fuente": "El Quinto Medio · vía Google",
+       "fuente": "elquintomedio.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-20T00:08:23+00:00"
+      },
+      {
+       "id": "2d261c7675c7c748529a8a35db921a1d43c9a6ce",
+       "titulo": "Advierten autoridades riesgo en dejar decisiones de salud mental a la IA",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeV91R1piTjI2UnRRZEtvR0tvR0pRaTlqTGtJV1g3RWhhRl96MkdCTHlRWl81OTJlaDJodkRBRlppVFpQTmgySndiTVZyQm5FbnlxclpSNU9DajB6NTFCMDNneS0tT195amFXMHlycElORmFQa1FXUi1CTTdwY3QwM3paWG5YUXVObkhaWVZRb0dFOGhQallyaVRpS2JNQlFGUHd1d1NoYWtzQQ?oc=5",
+       "fuente": "Quadratín Morelos · vía Google",
+       "seccion": "ia",
+       "fecha": "2026-08-20T00:07:00+00:00"
       },
       {
        "id": "16cf60af96678f5a3a22b68f066184d27be84c14",
@@ -1167,7 +1185,7 @@
        "titulo": "Claude acelera el diseño de proteínas y el análisis químico con inteligencia artificial",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQd3ZJT25lTlhkRWsxUm5NaUl3RHhOQjBLVC1SU1pIWHN1dXQ2SVpac1YzUDUxNVIyTmxRTWdaZ0xQYTBVaDV6Y2dTRXBNY083ejFvLURtRHNqWEpUYWEwRU8yNHRLc01GSzZ2U1RlYW56TG1EVG91YzFySVZrSTh1bGVSMkhqOWlabVB6WVkyZVJXRTk3eDNYOWEtaFczUkx6OXJzV2FhSjZ6UEd3YlFWNnphc09SX3Z5YUs3ZzZYVE9nS2haZHNVMw?oc=5",
-       "fuente": "DiarioBitcoin · vía Google",
+       "fuente": "diariobitcoin.com · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T23:12:23+00:00"
       },
@@ -1217,6 +1235,15 @@
        "fecha": "2026-08-19T22:31:44+00:00"
       },
       {
+       "id": "749727fe22b53c929a53c7f81f4b19fb3a534b2d",
+       "titulo": "Google compra los datos de Spirit Airlines para entrenar su inteligencia artificial",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNXRON0J3X1lhaEIyX3hGQ3h2bl9GdUdBV1NuWDQ3NEY4VlR0M1BsTXZGVTZDLWNUWlZJalJ5NTdtZWRLWnA3WVpzUHZjWUVmMV9aUy1DTkxOSHZaLTBDWkV4QUt2a2N2UXZGdFdaUEZDc2NXSkg3dEdERlNMUDQwNkc5SGVBRDlleFFySHVENl9lbV9aSF9GWThnRXpaNUs0STgxYzg2YWxRdEltRGRQaC1NOWZaalNSYWFfSXhROWgtM2ZqZ0HSAcsBQVVfeXFMT2JvYmNYUllmdlNuT01jWUQ1NTlwZUxYbXF5LWswLWJOM011VjJWQXltS043cFBVeXdzbFJIQjg5cnhzMXdmUUR0Z0EyZlBGcGJaN0xvQTJZM0l4cUs1Y3ZTVF9LSEpJNnpGR2dHaEdZVTlUdWhhX3FVRXhHLUZFTWc3WW1MUl9YMlRXQTZuYUNxMVFJUVhseHMwTHlYYk5EaVN0OHJHR09sTmxzajdFbjRXM2dSaXhmWm1pSFduOWNMd1BTUmNqTDhGM3M?oc=5",
+       "fuente": "Portafolio.co · vía Google",
+       "seccion": "ia",
+       "fecha": "2026-08-19T22:24:55+00:00"
+      },
+      {
        "id": "8462517240a072636acc3407d743a69256009501",
        "titulo": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
        "resumen": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
@@ -1229,7 +1256,7 @@
        "id": "975c76764b748b14ecf8916e48a798bce9fa27ff",
        "titulo": "Deepseek, la baza de China en la pugna de la inteligencia artificial",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3BRa3Zwc1VFSDRxeHI2N0pMN3B2UWFGV1RuamV1U1pqbV9Hc2tzbkwxUV9PMm5ULXlnY3lkVkc1b2dFalA2aDhUXzdkUWJEeklNQTA4N0JsNlNYNGpyQWtGYTVibWdSb29mcF9QODZHTW5jSUFoS2cxYnNlSi1PRFZab9IBgwFBVV95cUxPb2ZxLXF4bzFzTlRQSG16Q2RmZXFHYlN1NS1wYktwRUZvVEpFTEdZT3hGamZhNDJ3eFBFZmNadEwxMkRTcS1iNmhidm5jaGFGTFdjNmFHZks3cmd6SEl1V3R5QmRfQ1NrdHdtWlEzTDVMZjh3akVrdzlKRFhIYndiNkN3UQ?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3BRa3Zwc1VFSDRxeHI2N0pMN3B2UWFGV1RuamV1U1pqbV9Hc2tzbkwxUV9PMm5ULXlnY3lkVkc1b2dFalA2aDhUXzdkUWJEeklNQTA4N0JsNlNYNGpyQWtGYTVibWdSb29mcF9QODZHTW5jSUFoS2cxYnNlSi1PRFZabw?oc=5",
        "fuente": "Expansión · vía Google",
        "seccion": "ia",
        "fecha": "2026-08-19T22:10:00+00:00"
@@ -1307,31 +1334,13 @@
        "fecha": "2026-08-19T21:30:54+00:00"
       },
       {
-       "id": "85f03f4652aa931f438601e8ab8a11c15fb120a9",
-       "titulo": "UdeG impartirá curso sobre uso de IA en el sector público",
+       "id": "01e962ef12136bb23a514404fc6feb1f2f0e3e7e",
+       "titulo": "La IA ya no es el desafío: el verdadero error está en cómo las empresas la implementan",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFJMSmZJQktSME5qbFBQdlp5X1MzczJZWkN5aGg5TVlUazZ0NzhIOVRtQmdiTXg0bGN6eFhXNkJJQkVqRHRPUE85ZGFUbDEwQVZFdkVFUEtqeTIzbkhLMlYxLVdOdTZuSllna3pBdzA5aG5JU25sbVRvUWRSc05ZUTBiVTFwcVB5VFl1bDFHOGZ0WkVXUVFQSVlqQUtvc1FFUWhv?oc=5",
-       "fuente": "Quadratin Jalisco · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRXNlcFZmenpYNlBYdmxLQ2NUVURhb0IwWm9RRm5rUVlZOEtxQjVpRUxUNHhkeHBDTjJKRFpyTzlPbGFMUlprOUtfaUVGbU5BRDVjWFBYOElsald3UGJyTVRRNmhLVzUwcTd4a2tWdktnT3pieEZidk9pR1dOaXpEbWxZeXBKNVpvQXhqbEowUEpBMzVtWEtQUU1RdUExTmpTUHMwclFuVEtqTFhoQ3gzNGYtaDFJZm8?oc=5",
+       "fuente": "Prensario TILA · vía Google",
        "seccion": "ia",
-       "fecha": "2026-08-19T21:18:00+00:00"
-      },
-      {
-       "id": "a96fa668d3154510f23f9f1ed4ec89897b191230",
-       "titulo": "Estudiantes de la UTNC de Nava, Coahuila, ponen a prueba proyectos de software e inteligencia artificial",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQU3FqUFBickx1T3laeGRWWlVsMjhrOUkwcm12d2NtcHl0dTFqMXpSOGRnckN0RVc0Z2c3NnFfUTdPZ19haGlhaVVYZmVnQzQ2WVUteFJfZThoX0hsZjd2SjRzSmViN3VFV0g0OFROSy1tOFpaNmVDR2huejduUXl5XzEyOEdZOFdsQTNQcm5NRGdwaE9FRVVVbDhOMXR1TENIODFVN3B2cmwxVTh5WHgtWUFBMVFFMjRNWlZIODc4T29nM3NYMm43cHh0ZXlBaUkwOTE3Z3F0N2ZIN0xxRHdyc0R1Qk5ZbURxZzkyRnBBaTlUQ3VBTnc?oc=5",
-       "fuente": "vanguardia.com.mx · vía Google",
-       "seccion": "ia",
-       "fecha": "2026-08-19T21:15:40+00:00"
-      },
-      {
-       "id": "dde66f4eaa1336af80929448aef3b8435574d472",
-       "titulo": "Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans (Amanda Caswell/Tom's Guide)",
-       "resumen": "Amanda Caswell / Tom's Guide : Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans — Head back to school equipped with AI…",
-       "url": "https://www.techmeme.com/260819/p45",
-       "fuente": "Techmeme",
-       "seccion": "ia",
-       "fecha": "2026-08-19T21:00:52+00:00"
+       "fecha": "2026-08-19T21:22:56+00:00"
       }
      ]
     }
@@ -1344,6 +1353,42 @@
     "dia": {
      "titulo": "Lo más importante del día",
      "articulos": [
+      {
+       "id": "b21b671675e4376f77e9b819e51f4dacd78c4392",
+       "titulo": "Cuatro personas habrían muerto y otras siete estarían desaparecidas tras una avalancha cerca de una mina de oro en el norte de Nariño",
+       "resumen": "Los hechos se registraron en la vereda Puerto Rico, entre los municipios de El Peñol y Policarpa, este 19 de agosto.",
+       "url": "https://www.eltiempo.com/colombia/cali/cuatro-personas-habrian-muerto-y-otras-siete-estarian-desaparecidas-tras-una-avalancha-cerca-de-una-mina-de-oro-en-el-norte-de-narino-3579543",
+       "fuente": "El Tiempo — Colombia",
+       "seccion": "colombia",
+       "fecha": "2026-08-20T00:46:18+00:00"
+      },
+      {
+       "id": "aec627e11177c50b9c182b2767e93d241a0b2729",
+       "titulo": "Naturgas espera reactivar proyectos de fracking en Cesar y Santander: faltan licencias ambientales",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjFUMjUydEYyNnZONXY0YkJ4S3d0Q0RtcGtUeVR2bEw4WkFtQ3RGUzJ2R3VFVTYwenY5Y1lEWk1BT19GVE5lakxFZlU4dWgxZzVzUjdPTkZoak1JbUp4OVQyM1Z5a1VHLTBhbGZxTDdoTmR3eEVRdUlPdXlDMVhXd1EtSGx5Y0ZYSVFDZ0ZTZWtteTVqeW4zV0JxajRJTVBMazRlSzNERkNQaGtRQ1JwdFlMMWhxNlA2S2g3NzBfWURueFRNSlJMWFA0UkF2N3N5Mk5OMWJkYXlPMzjSAegBQVVfeXFMTnpiVEd6eUZxSWg3NktkcUpVVjBCRTRqajY1YUUzWGF5TDdQeDNmVUttQ3VmZDV6RGtjd19SOF8zcF9OWnZLeTBFeDhmZXRuZUdFYndhX1hHeEpMb0lnWkxiS1FvMXFHcVI5LVhWWXVZalNHak9lcTNNX0JxSjAzZV95Z1Jmd3pTd0dZUHZIUVVxNk9CWnozcDlJNVJLbEZRVkJnczBXUmMzRzdadFRNWnhRajMtTnVZcVYwTFdVQVhJOWhxZWZITlllNk1MRmNfNEI1cjV6bkFiOHVLUkdGWVJIbGlfQTU5ag?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-20T00:44:03+00:00"
+      },
+      {
+       "id": "0232dcfb5c7c17b9e12621961090d8a4554cfd00",
+       "titulo": "Más de 10.000 afectados por terremoto siguen sin suministro de gas natural en el país",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGt6cFQwa1YteHlYNDg3b2lFTnhScElFV01FaDJpU2ZXTURBRGthTkxjOGw3eXZCYnhISE9ndjJwTnptSHBjeEF4SG1QVEdpRXltazVhSkJHTFA2allSOU5ZMFZDVjJWY3F0UmxMNjZJbkVhamY3OGh3ZXBIMEk1dVNKLUt4M1dzYmRFMzZ0a09LQlJ2VjFiVUVwcW1MTmw5U2RpbksxeUw2MzBkel9DdVZZTnBTbUV0MHBaNXYwSVAzR1V0cEs0LURoWdIB2AFBVV95cUxPZl9mbzk2bVg5a2FXdWd5dWhKZ1hmYS1uMTdmUDBrX3ZuRUp2WFgxelNwWG9xRmlTUF9qWTVwZmN0cWZDenNCc29yektXejdhZkVDN3BHLVhtM3BXM0IwaFFweWNIbVoyUE9UQ1p3M1hkeWNLemd6N0ZWMTViYzNWa3Q4NWFwZGlMaGxUMG5PUWlJV3dyTXY4WkNPYkNENnNWbDVFSGZRblNwZzBncFUyblRXVlhtcHpzTG1aek1NUFR0cjdpSjlSRWh6NlRaV1N5NFFWeS1PTFY?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-20T00:42:41+00:00"
+      },
+      {
+       "id": "39bc343bedbd6a115603e33c163420a736ef8c5c",
+       "titulo": "La tragedia que destapó cómo funciona el transporte marítimo ilegal en el Tayrona: cobran 100 mil pesos y no tienen permisos ni condiciones técnicas",
+       "resumen": "La muerte de la turista española tras el volcamiento de una lancha con más de 20 ocupantes dejó al descubierto esta operación informal.",
+       "url": "https://www.eltiempo.com/colombia/otras-ciudades/la-tragedia-que-destapo-como-funciona-el-transporte-maritimo-ilegal-en-el-tayrona-cobran-100-mil-pesos-y-no-tienen-permisos-ni-condiciones-tecnicas-3579539",
+       "fuente": "El Tiempo — Colombia",
+       "seccion": "colombia",
+       "fecha": "2026-08-20T00:40:00+00:00"
+      },
       {
        "id": "b7ce4c7bc672dc2ed4ae1911a7b61d9b9292afda",
        "titulo": "Violento ataque contra la Policía en Bolívar: niños quedaron en medio de los disparos",
@@ -1420,7 +1465,7 @@
        "id": "081a1b243a751d3df41fef4e8efb3a4c971b9c49",
        "titulo": "Video: ladrón que intentó robar en TransMilenio fue castigado a 'correazos' en plena calle",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNT0dnb0JwdHhRRzlxMklneHFMZ3VrYktiZWV5Z2IwZ3hEbDVaRG8zd0c2NGhhLWU1RmpfZE5nY0xxVUpjREt0ZzgtV3IwSGR3STdqYmk3SGt3VHpVU3R2RHkwaTlRNzBLNEFac2MzdnAtUEktZ3FTa29EUWpfcUttTG1jbzRla0FHekdIY2hmT1dwbzhLc3ZqdHZFWkpFVDd5X2JGX1VldnVvUlR4RGdic0RYdmdleExBLURpTF8tcHN3OFo0NVFPS0xMMjlmd9IB2wFBVV95cUxPcC1TeXdwWDRxM0FRT1U5WUFTSmNjX3NiYVBzVU5wakx4cjBlZk5pV3MxWkdmV2NaalphRTFwQ2pUWUFhMG03Rm4xOERONlJyRC0xNDFIeW01bVNrdE15d2RwWWsycVY1eWVUNnA0Rk5TTnNVUG03Yzh1X050c0RLeE1wcUJQQVd5M3d6OWJmMEVrMUFic2tmZ1JrYVVKbHRTSmhLWkRoNkZrZDZxZjVySERObHN5LWJ2Tmk1eXBvWnduTEVEUTdEdUxINkV3c2xibi1SLXBuaXVZaHc?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcC1TeXdwWDRxM0FRT1U5WUFTSmNjX3NiYVBzVU5wakx4cjBlZk5pV3MxWkdmV2NaalphRTFwQ2pUWUFhMG03Rm4xOERONlJyRC0xNDFIeW01bVNrdE15d2RwWWsycVY1eWVUNnA0Rk5TTnNVUG03Yzh1X050c0RLeE1wcUJQQVd5M3d6OWJmMEVrMUFic2tmZ1JrYVVKbHRTSmhLWkRoNkZrZDZxZjVySERObHN5LWJ2Tmk1eXBvWnduTEVEUTdEdUxINkV3c2xibi1SLXBuaXVZaHfSAdsBQVVfeXFMT3AtU3l3cFg0cTNBUU9VOVlBU0pjY19zYmFQc1VOcGpMeHIwZWZOaVdzMVpHZldjWmpaYUUxcENqVFlBYTBtN0ZuMThETjZSckQtMTQxSHltNW1Ta3RNeXdkcFlrMnFWNXllVDZwNEZOU05zVVBtN2M4dV9OdHNES3hNcHFCUEFXeTN3ejliZjBFazFBYnNrZmdSa2FVSmx0U0poS1pEaDZGa2Q2cWY1ckhETmxzeS1idk5pNXlwb1p3bkxFRFE3RHVMSDZFd3NsYm4tUi1wbml1WWh3?oc=5",
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:58:54+00:00"
@@ -1444,6 +1489,15 @@
        "fecha": "2026-08-19T23:56:03+00:00"
       },
       {
+       "id": "299b1d1ac5989a17293dcf97220e26833c7fadbb",
+       "titulo": "Noticias de Proyecto de anglo gold ashanti en jerico y tamesis",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWHlSWUxfRTh6bHY4cEl6NVI3SXlsQXh3V1FhdWRoSjB4UGxhcFVDN1hZOVVXRV9YM255dzB6eE0tOEpPZHhuTkFpMlpJNzRqbkZlRUUwLUc1Wm9JVzE4eXdUQTB0MkFjR2JCNjJ2a1VQRVhzVldNbnN5RlVYZmhTaEkxZEZvVUF5XzFxeGRR?oc=5",
+       "fuente": "El Espectador · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-19T23:54:11+00:00"
+      },
+      {
        "id": "919ae01b4423d4b75341d95bd0e982caeaf9b6e6",
        "titulo": "Colombia estuvo cerca del apagón total tras el terremoto: 17% de la demanda eléctrica se desconectó",
        "resumen": "",
@@ -1451,6 +1505,15 @@
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:47:44+00:00"
+      },
+      {
+       "id": "7c2ea7e56f03df6e3835e5efe613c48a753e49c6",
+       "titulo": "Zulma Lobato reveló el destino de los 11 millones de pesos que obtuvo por una colecta solidaria",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOTlfUk1QN3o1a09VY1VTNEtRem1DRlJMaGxtM1MwU05lcnJPUnh4QWFnNVE1SFF6WUdOYjJMSHd5M2xyc3c2cVBFZl9MRUJUQzhOR0tEbGJtam1JQ2JxSzBzWUF3b043UGoxdU1fVzAyQzM2QlRVOHR4RDh6Zi1uanc1aVBfX1FKcVU0WjF0QXBMR2QzZzhvMGRPcVpjcXB3Ym85YmJRaDE2V19hTy01Q1hqYTY3S3ZiaE9rbUdISFdLTVRzRXBWdU1EdWZzbVVUc3Rodl9rQdIB8gFBVV95cUxQTUQ3Tl90T2s3Vll5ZUU1ZVNtb3NrSFRNUXJ2QmxLeXhZWmlvZ3B5ODN6d05PMUd5QXFYTUZnVTdTT2Y3NFVxQzdELWVFQTh3dUhlUW5TYkFGbVB5TkMzODhYWVhOUGE5dXBrLVlzemUwdll3YTgxZjExdVlBQmJ3QTRVMkwtOTlES1A3MXppNGZNSUpFZW9VaGo3MGhVRXNPRjlLRXJ6QU5SQjBLTExhWVBKcXFoeW8taFFNZlVrVHB1N1JTOGdrMnlVS3RfcFZuT2VzZTNSODk4UmFURTFrUGhBMVR5ZXpIMy02SjFiUHhGdw?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-19T23:45:00+00:00"
       },
       {
        "id": "f0cc4c361c64f223b26cf82d15a6db859dac5816",
@@ -1474,7 +1537,7 @@
        "id": "31e3c789ef6ff1a8e99e0e6609e7a48561adc19b",
        "titulo": "DT de Egipto terminó hospitalizado tras pelea de sus dos esposas",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkhEaE4weHlmdWN1WGhfWDN3ZVVtUzRrem5nVk9hekpGWktrYURGOEY5b0dXb1UwSW5IWHMwWlY5OVBtYjJKZ3BJQ2k2VWlQdnJiS2JYOVRRb0NlcV9ObUZEUXZBYzFncWczTURMUDY2YWxjR2pCLW5YNW9ILXBtVmRDNTlITTdmTlR0YjNfdEdqbmdMbXBKU3VfVlIyTHNQLUdPUDJvZk13UUNsbUR2WlZoUdIBswFBVV95cUxOWkhEaE4weHlmdWN1WGhfWDN3ZVVtUzRrem5nVk9hekpGWktrYURGOEY5b0dXb1UwSW5IWHMwWlY5OVBtYjJKZ3BJQ2k2VWlQdnJiS2JYOVRRb0NlcV9ObUZEUXZBYzFncWczTURMUDY2YWxjR2pCLW5YNW9ILXBtVmRDNTlITTdmTlR0YjNfdEdqbmdMbXBKU3VfVlIyTHNQLUdPUDJvZk13UUNsbUR2WlZoUQ?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlUwelFkY2l0U1UwNzlnbHlOaHUtaF8xU3FVQ1NjRURyUjNKd2RMMXNwMlFjbzZRSU9OX0pmVmV1QVhzNHdqRGFqTUphT2FmYlZYd2xJSm1yRWs4dzV2VUJOblphQ0ZxRzhORU1BZENWTEo3UlJJUnB1N3ZrWkt2SEN5MUpuT2ZtaC0yVE1BMUZiQTJOZDhVUUhvNS1HcjAySGlVS1lB0gGzAUFVX3lxTE5aSERoTjB4eWZ1Y3VYaF9YM3dlVW1TNGt6bmdWT2F6SkZaS2thREY4RjlvR1dvVTBJbkhYczBaVjk5UG1iMkpncElDaTZVaVB2cmJLYlg5VFFvQ2VxX05tRkRRdkFjMWdxZzNNRExQNjZhbGNHakItblg1b0gtcG1WZEM1OUhNN2ZOVHRiM190R2puZ0xtcEpTdV9WUjJMc1AtR09QMm9mTXdRQ2xtRHZaVmhR?oc=5",
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:35:41+00:00"
@@ -1489,10 +1552,19 @@
        "fecha": "2026-08-19T23:34:55+00:00"
       },
       {
+       "id": "d1eab2e18c534f17a2401ba6878523d0e5ce8de3",
+       "titulo": "Diarrea explosiva en verano: cómo reconocerla y no confundirla con salmonelosis",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdW1md0U4NXhodlpsdWZhcWFGbzI3TGV0NnRiT1JVRERYUU1UUGgtVTBVN1JWSk9GcEgzRDUwd0FrbldYYTduMy1CRnBnZGdERGJwQ3g2YXBkazEtbGdtYVJmS0VGd3BSY3VTTENTTUdCeWRKSl9nTHNkX3plME9ldWhaemtxVXFqVzl6YlhoYkE1TjhFZU5RajlrTmZhRUFfTHFfUmRsSWZlUGhwMk1EWktnNVpUQ2hzWWRFS1NR0gHYAUFVX3lxTE9mOVR4akM5c1pBOHdNTGt2TnBYbkRHZVhDWTJMMmcyRmVielB1RzhpbXBtS25LUjZnaVdxaGVqYktEZkRBUE5wTlV0Q2pTVlhaQjhFVS1WSnRMeF91QlozbHA4YU50WDlTNUZMeTZwYUlmX2x4dGpMUE4xNUk0SDJodzhNU2pHQUNKNGcyVHJobm9rVXhOQTQ2QndmR3hOS2xMZS1RTEhDdkFXVkYxcDUtenA1VjdGZlFnVFBUOXZwazhqMGk2OFF1dlBSTkE3SlpmVFdQaDhUZA?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "colombia",
+       "fecha": "2026-08-19T23:30:06+00:00"
+      },
+      {
        "id": "c7a48d1511a8e710b4d732bb28c901ddbbd885d6",
        "titulo": "EPM dará incentivos a usuarios que ahorren energía de tras norma emitida por la CREG",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWdZcWV5LWNtdUFYZWh1eTk1dkVib2pxNUtIRG1COUxpVGROdk5xYkFhYnprZWZRamNjUUNyS3lKbG1ac1BCeG9KT3l1T003OExDRjB2TTNCaHlCQ01NZUdWbHNENzVCZG83US02cGdmYWRYMFJGWllGZHBFTTlIdmFpd2ZGTnB5X1dtNS1qUlNyQzFwcmNDQ3U2N2toUEVTZTRZTWNHWG5HWEdfVUx6ejJhY25IbTZEUlExdjZwZTVoLVE3X3pXMmdXRFRqUQ?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZWdZcWV5LWNtdUFYZWh1eTk1dkVib2pxNUtIRG1COUxpVGROdk5xYkFhYnprZWZRamNjUUNyS3lKbG1ac1BCeG9KT3l1T003OExDRjB2TTNCaHlCQ01NZUdWbHNENzVCZG83US02cGdmYWRYMFJGWllGZHBFTTlIdmFpd2ZGTnB5X1dtNS1qUlNyQzFwcmNDQ3U2N2toUEVTZTRZTWNHWG5HWEdfVUx6ejJhY25IbTZEUlExdjZwZTVoLVE3X3pXMmdXRFRqUdIB2wFBVV95cUxPalE4YjdTaVc3Wk5qU0hicVRuMEVwRzJQQjRvb1U0dll3Rk1DQzVyQTloT2swWVpZLTU2T2Z0SkZIVHctVWVic1V5Mjk3S3lpZzloUGVKZllLRGY4MjhONGQ3bW56TDJROE5pRGhiM01hT05fd3c5amdBSXJYQlN1Q1ZrSGJZS3diazBwbWtmZ2RwdWFYWDg0UEJwX0FtLWFyX0tNV3RxbHU4Qlc0Vk5xbi1felBFMmZPWUpldjVkOTJ1aE02OHNWeVFvVWhzSHljMFRnSW8tNVE0OEU?oc=5",
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:15:38+00:00"
@@ -1505,69 +1577,6 @@
        "fuente": "Blu Radio · vía Google",
        "seccion": "colombia",
        "fecha": "2026-08-19T23:09:12+00:00"
-      },
-      {
-       "id": "112dc4439d5c7cb643139bb7d6e342646a36c9d3",
-       "titulo": "Nuevo comandante del Ejército implicaría salida de 10 generales por antigüedad",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYVhOYXUwLU5DeGlMS1Y3Ulkya0J0eC1wTXNISXhGa2JSZm9PVFVWRVhVTHhZT0dKcTQ4UWFyZTBJZDJqRnNPY0IyZVpFUTFPWHFoOFdMTnBxdG0tdlF2akN2MEVwd2FXYTJhUVBzMWdySnFwYlNEc2xHcEJxUUFfMW5DY3pNN0JDOVAya0hVLTNtcVlxUEpPNV9pQmxTUE5KNFdQUWI1UEJpQWpFUWV5VlRrVGhsQdIBwwFBVV95cUxPNUM2QUV3c21WdTZTRUs3V21NdldScEhmSGxPczc5ZUdfc09zUTBOUWl4LXdybk1MY0hnYVhaVXRaUFA0NXI4MW05YnlPVzR3cTBLVHZtNWJvd09iTExRdHYtNDFpdlFVajRXamNkVEJOMElteThmUjk1b01HVVJTdTBzY3BGczVtS0d0Z0dFaGpiSWdrUkNhRzY2U042RXNhbXBEekdhWWRlLS04VHpxeDdMSDlWZEZvQXc1Z3o4SXltazg?oc=5",
-       "fuente": "Blu Radio · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T23:05:53+00:00"
-      },
-      {
-       "id": "7ea43a9530a3a20a581208469137e2333ee85fbb",
-       "titulo": "Revelan la identidad del hombre que sobrevivió a balacera en vehículo de alta gama y blindado en Bucaramanga: presentó una cédula falsa",
-       "resumen": "Fueron 10 disparos los que recibió el vehículo en la carrera 15, en el centro de la ciudad.",
-       "url": "https://www.eltiempo.com/colombia/santander/revelan-la-identidad-del-hombre-que-sobrevivio-a-balacera-en-vehiculo-de-alta-gama-y-blindado-en-bucaramanga-presento-una-cedula-falsa-3579509",
-       "fuente": "El Tiempo — Colombia",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T23:04:18+00:00"
-      },
-      {
-       "id": "f2a87f13bceb95fbdec4538929835742d6634486",
-       "titulo": "¿Quién es Natalie Harp, la “impresora humana de Trump”, y por qué causa tanta controversia?",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeVVhaGcwbVRGa3h6aEpBMEVzZUk4c3FvaDFnRE5XWkc0RDdPeW1wbVY1RlpVRy1LM2FUdXc3R0xRc0hYYzNFNS01TnIxYUZjaDk2aENVTXRnZUJFR2MzdDNnNEM2TmxfbFdjcmRxWGpPMkxGTzk1NDRBNXF0c0JPMDVmSTlYSlBuMTFWSEFxVlZHQ1NRVk91YWFZV25qZ3dkUVdHZkk0UmFKVE14ZHpLRlpFWGFBLVRLcDltZFpDMWVMY1lqNTFWT9IB3AFBVV95cUxORkFlRGhVV0NIblNtdUhjcDFNVVdXVmpSU1E4TUprVkRfOWhia2hTMmROak44b1RPN011bGo4UlczSzZERkd1TVBCMWxJMUp0NGQ2NmdsYjlBME1ZRUs2SmFQQkZUNjE5WDRWUko0TklDQ2NxNGZGaTlXVjhyanYtS0FkYUpLSjBPbk1TbC1oaGVLV0Rkc3dDNWJhVExNSFF0RVJ3NFV0eGg2MVViWTRodEs0SXFZbGNPWjF2bk5ZcHhBM3R1U1N4UTV2QmlxcVpfZjFoU192TVBCZmRO?oc=5",
-       "fuente": "El Espectador · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T23:03:52+00:00"
-      },
-      {
-       "id": "78695d6c4d81ae83217add2a3b01f1c47c0e7b2a",
-       "titulo": "Abogado de Angie Rodríguez pide revocar permiso de salida del país a Gustavo Petro",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR3pzUnVrMVMyVFlXYS1pa1JnNm1KNTIyX2h3eG1ZQU9CeWlEX2hjNVlBN3F0REczdUxMczZBQXg3eVo5amRXLThGRHpCeTZRWW5PNnFGR2ZkYzBmTzRXcXN6ZDhGZlZmdmI0SzFmNmlZbFBadThNRHZRaFZIeExleHo4MHBpcnJwa0I5ZkpUU3I1QUtrZnk4ODdEZEpWN3NYNEF2SC1EelV0S3NaM0V1RmxtTlp5T0pWeXY40gHIAUFVX3lxTFBRVUVaSFB1WENwUzBVQWI5cXlYcHVBa21TZUV3b1JmWXhtMEtWYXo1VmNwdk9SaERBVW1yZmVRTXdxeEpXZ2hfZ1VUODZKRjNjbHdzVFZhbUw1Rm5Xand6NWExSUVLS1ZCeFJXbWNXaU9YVFRTc2tkWS1FTmEwVHBPZkQ0eU9td3Z4cVRqSm5wMHN6ZnRMdjBjZEFsM3NGRThURUM5enE4TUVPd3JnU3NHT2hZekV2amJ0UWlyb1RUeTRqTURid0NF?oc=5",
-       "fuente": "Blu Radio · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T23:03:07+00:00"
-      },
-      {
-       "id": "e6eb5ce147c4059b2f770c69754b398be61d9d2b",
-       "titulo": "Balance oficial del presidente Abelardo De La Espriella tras terremoto de magnitud 7,4 en Colombia: cifras de fallecidos, heridos y desaparecidos",
-       "resumen": "El mandatario colombiano explicó que las compañías aseguradoras aquí 'manifestaron su disposición de hacer lo que corresponde'.",
-       "url": "https://www.eltiempo.com/colombia/otras-ciudades/balance-oficial-del-presidente-abelardo-de-la-espriella-tras-terremoto-de-magnitud-7-4-en-colombia-cifras-de-fallecidos-heridos-y-desaparecidos-3579511",
-       "fuente": "El Tiempo — Colombia",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T22:59:36+00:00"
-      },
-      {
-       "id": "af42eb75dd6b1dec855fc9846562918410ef3e7e",
-       "titulo": "Una noche para soñar: Santa Fe vs. River, partido Copa Sudamericana",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQSmpFeWZwUXBRamE1eWFsUS0weEdSOC1BWHlJTDhWUFRDRzNjQUgxZTdOTk9zcG5naXpwNjlIdmNBZ19sTHBSTHRVaWVxWmVKUjV6YTVfTUpSQUlYTUhJSERib0pVTjRXbmdaVDh6bUNNaHM5eGUwX2Q3UGJmQjhJLVNPQXpBSFVwUi1DeHlEdUtjcDFYXzlTWGN5S2dpSVYtSmZhNW1CLVdqS1dZYXlsdnRobGZnU3BHbkFEbDdiaXFXa2VjdTJrQk45QzU4X3FtUWlHRVpfYVZmcGUwZlF2WFZ5NlJGQUpJc1JwS1N6Rk81Y2tLMThmOU9PWk5jSzJxamVEZg?oc=5",
-       "fuente": "El Espectador · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T22:55:45+00:00"
-      },
-      {
-       "id": "a1ff839eef01985924f97b7de7d1aad31eaf9b81",
-       "titulo": "CNE autoriza pago de cerca de $5.000 millones por reposición de votos a campaña de Claudia López",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdVlIM2ZQUl9PV21ERTZyMkdZc0NuYThRZ1ZkbHpidkFuNnhfU2pYSmZHanRGYXktZWZhM2R5bzhCSFVEUnY5bXd4aklpb3h0Z21tb3Z4ZnNDRUhMUmxzTlBCSWJYTGVGTElFV1pnaHJ3NXpvU3BPQ0Nudlp2MV9iVENjSDd1RFVkZnM0SFVncm5yU3cybkRycDhYQldtQ0Y0cXRuSnhNQ2ZZb0tPZi1VUXpCVW5HSDFqMGREdENuNDh1Y1ZVMTZ1RmM2QkFPd2PSAdwBQVVfeXFMT0Z5aFBic29FYXpBM0I5R1RvSFlFRS0tU1U0VlZicDNhQU0wN1J0NWV3dU5Eb0dmUk94eGF4VEY5eGdGYzBZQVd1Z3ZVVzFmb1hjZXhLVm1EQTRvYm9XaTVTeDdFS29OSlU5WHJqUDdETnAxNHcxTXRCamxXczVSNWNjbW84VUdYS3hoTW1ta0FlMXBwaGhSdXdqa3dWemJmRDhOWEwtVUVWUTVYYzNVaUVwVGZQWEl5R2dWcF9NSTRKcEpqb19qUnJFRU5XSzNrVC01aWR0ZzZmbDEzQw?oc=5",
-       "fuente": "Blu Radio · vía Google",
-       "seccion": "colombia",
-       "fecha": "2026-08-19T22:50:17+00:00"
       }
      ]
     }
@@ -1581,13 +1590,22 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
+       "id": "89c302e4eedb52c7f5e334d6bb84e13f304bb859",
+       "titulo": "La mansión de US$12 millones de Peter Thiel en Buenos Aires quedó en el centro de una insólita protesta",
+       "resumen": "El magnate, que está de visita en la Argentina por dos meses, adquirió una propiedad en una de las zonas más caras de Buenos Aires y se reunió con Javier Milei en la Casa Rosada",
+       "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/la-mansion-de-us12-millones-de-peter-thiel-en-buenos-aires-quedo-en-el-centro-de-una-insolita-nid18082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T02:16:00+00:00"
+      },
+      {
        "id": "80fe673627f0fb9a175d973a2ea6555a0a7621a0",
        "titulo": "Independiente Santa Fe vs. River, en vivo por la Copa Sudamericana: el minuto a minuto del partido",
        "resumen": "En el estadio Nemesio Camacho El Campín, un equipo alternativo de Coudet, condicionado por las bajas, busca un buen resultado en la ida",
        "url": "https://www.lanacion.com.ar/deportes/futbol/independiente-santa-fe-vs-river-en-vivo-por-la-copa-sudamericana-nid19082026/",
        "fuente": "La Nación",
        "seccion": "argentina",
-       "fecha": "2026-08-20T00:36:20+00:00"
+       "fecha": "2026-08-20T00:55:58+00:00"
       },
       {
        "id": "c4248814d699fc160c04f90ba2de56dbde394792",
@@ -1596,7 +1614,88 @@
        "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-messi-en-philadelphia-vs-inter-miami-en-vivo-nid19082026/",
        "fuente": "La Nación",
        "seccion": "argentina",
-       "fecha": "2026-08-20T00:35:38+00:00"
+       "fecha": "2026-08-20T00:54:47+00:00"
+      },
+      {
+       "id": "464dabf7e0e8005d5d61d4bd6a230a8ad9c4c1e8",
+       "titulo": "Video: Lionel Messi volvió al gol en un momento muy especial y todo Inter Miami fue a abrazarlo",
+       "resumen": "El rosarino marcó por primera vez desde muerte de Jorge Messi",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/video-lionel-messi-volvio-al-gol-en-un-momento-muy-especial-y-todo-inter-miami-fue-a-abrazarlo-nid19082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:53:06+00:00"
+      },
+      {
+       "id": "204223e7da3530d6fdee50b68eab9eebc393abeb",
+       "titulo": "Mora Bianchi y Toti Spangenberg: el final de “Margarita”, los 17 Movistar Arena y cómo se enamoraron",
+       "resumen": "Se preparan para despedir a sus personajes y cuentan cómo surgió la relación entre ellos; el consejo de Cris Morena y el estreno final de una temporada que duró dos años",
+       "url": "https://www.lanacion.com.ar/videos/mora-bianchi-y-toti-spangenberg-hablan-del-final-de-margarita-y-cuentan-como-nacio-su-relacion-nid19082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:52:40+00:00"
+      },
+      {
+       "id": "b96b07dfe4ee596686369b1be5c49be6e1d61e24",
+       "titulo": "Platense le ganó a Coquimbo por penales y avanzó a los cuartos de final de la Copa Libertadores",
+       "resumen": "Se impuso por 7 a 6 desde los doce pasos, tras empatar sin goles y con la atajada de Cozzani; Fluminense, el próximo rival",
+       "url": "https://www.lanacion.com.ar/deportes/futbol/platense-le-gano-a-coquimbo-por-penales-y-avanzo-a-los-cuartos-de-final-de-la-copa-libertadores-nid19082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:52:26+00:00"
+      },
+      {
+       "id": "69ec70c21cd775ae782f9ec45509ba163f6f3c06",
+       "titulo": "WhatsApp Video 2026-08-19 At 7.06.43 PM",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZTR6aXd0c2VNZWI3aWhMQ0xXUTl6Y0pma1U4MlpXbmpRQmhYblhXWTZYV05zOXJZeWVoZkVJUmxJaDFDU3J0cVJScVBzYjYxaW82WC1qQVoxT1Q0ai1mS3RPQl84emlSaEtxYzJuWHZrUkxrVGxxLWY5M0IwSE94UlZGejZwand4WlBONVBXbDRkZw?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:50:58+00:00"
+      },
+      {
+       "id": "220363095d95c0a8af5a5c3c452c715a07931cf9",
+       "titulo": "Caso Cerimedo, EN VIVO: qué se sabe de la investigación al exasesor de Milei que está detenido en Bolivia",
+       "resumen": "El exasesor de Javier Milei fue detenido por el ataque a balazos a su expareja, una abogada y activista boliviana; tras su detención se negó a declarar",
+       "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-en-vivo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-que-esta-detenido-en-nid19082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:50:00+00:00"
+      },
+      {
+       "id": "0f9d4e60dd2a882592217141eabe90962bee9c3c",
+       "titulo": "LACHA PYME - Infobae",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVURfbjEtSURqNXl5THF4THppTDA3OHNpbTgyVGpsWVRuMTItczdVRlZiRkh2Ujk5UEdIdXRiN1JHSUFQdFR6LXd4U3pvbVBmUkxzdDdZcnZWMm5SWlR1bnA4R2FHM2h6RHIxUVhoYWgxUVIybzUyZmRrcUVhMFFOazNnbw?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:45:55+00:00"
+      },
+      {
+       "id": "903b57a55b7b764b553d4e08e514f6a1a202b192",
+       "titulo": "Aurelio Rojas, cardiólogo: “Consumir estas frutas por la noche puede fragmentar el descanso”",
+       "resumen": "El experto advirtió que comer algunas muy puntuales puede aumentar la respuesta insulínica; todos los detalles en la nota",
+       "url": "https://www.lanacion.com.ar/lifestyle/cuidado-cuerpo-belleza/aurelio-rojas-cardiologo-consumir-estas-frutas-por-la-noche-puede-fragmentar-el-descanso-nid19082026/",
+       "fuente": "La Nación",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:45:00+00:00"
+      },
+      {
+       "id": "b4cdfc9872e4b3e71fa0643e317f4eda511b52ed",
+       "titulo": "Presentación de Sangre Vampire, el nuevo comic de Jules Mamone.",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdFN2WTJOVUpWSjhER1hkSDdPbW01TUxVZjBaOFJmNE5QM0trNk1pSTFsVXc2b3BMS0MwTWlWYVRKSHNja2pyeU1zQ19FYnpCY1loUEQ4SFpKT0xuQXhkWUpQZ3VkOVoxOXFOQk85dXBRRnNyUTgza2FEUU0zM05UX1JJMHFqUTVYZU4wN0xVVC1RanpSZWhYbUZOX2FHM0x6Y2V2ZU930gG6AUFVX3lxTE9DSGVJZXM3UmZ5MDJ1UE4yampQS29QV0xBM3M3d3R1ZC1qN3RfZWMtejZrNDNrdm5jNkZxSkh1enhpY1lYM0dwYkR1QmNSVlJ6bTNkZ0hyMUlpaUpaVU9mcmlncXdlTWh2eHRxNnJXX1VSaHo1WWNxQmhOMXZQb2VBQm5zU3pxdkZoNkJ0VUFLcnIwcFMxNWNmWGtud0dHcF9lcHM5TXZMbF9HQWI5emxHVXFRSUY5NFNKdw?oc=5",
+       "fuente": "El Destape · vía Google",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:42:23+00:00"
+      },
+      {
+       "id": "3c0620dddda80c82c31a48a60035f5acf78e5d5c",
+       "titulo": "Carlos Zambrano reabre la puerta a la selección peruana",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMXpNcWJleUR0bTBUSEc1ZnQzb3gtT09oUU54T0YtMVktNndxUHk4TTRoLTQzQjdZd2JlWjJWWS1DTDNGNmRmNkcwai0xdDZnVjJfQ2taVF9JbkNra3MtekVwQmp4My1tSm1BMDJqRkJFXzRHal9iSlNCN2NnUzV6aFFJa1EzWDFQdUtaRmNKQkpZRjU3MFIyOElxMzE5QnpnSkN6M1ptOA?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:41:04+00:00"
       },
       {
        "id": "9e832dea1d03c99e1fb03cc5877b0d7917bd2812",
@@ -1606,6 +1705,15 @@
        "fuente": "La Nación",
        "seccion": "argentina",
        "fecha": "2026-08-20T00:35:08+00:00"
+      },
+      {
+       "id": "b296c0a8f37d3f1d755298ec64dcb3390919761d",
+       "titulo": "Suprema Corte invalida ley de Chiapas por falta de consulta a personas con discapacidad",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN0FWWGVUT2NRMXJ1TFVuVjU1STdJQmZLSWo4QjQ2SENvaWxTbG5BWW5zVVlLVUdvSURhV3VRektJcUpiRUhNYkotbW5MS01IZEFGTnFYdnY5cG5rbFVIeHJPS3JFMEhkLUxoWXhUdUFpQkJySS1sSVlWZDF4eXRVdGpZMlhnQXJwTHdXdHowZ2FQUDNybkwwSGZHcDZ6V21xa1liS1BBU2h0c0pSSFlMdjBPbUtIM0s3RkNRWFd1ajNWdWJnVVVNaU1B0gHkAUFVX3lxTFBlOE1WTVlTS3BpcTNnZGJSbW5rTHhMeVRKbWUtQUNkRUlZSWFvU2RsZ0pKcXR4Wmwxck54U1p0WjZ0amxzWFozcmE2Z2tGUG4xVU5hVTZ3LTBxLWVVeEV4dFp6Y09JdGZmSVd5OVNzYnkxTS1Zb2hJNHdYSkNBMnFEU3NtSFlUVkpTcm1KMUJpb2ZGVmY3NjZURU9SdWFIX3IzYUpqbnJEeGFlZkJTZEpjbXRxNHJpUXlnYlVxSlJHNUNMbVota3N3d3hNeVoxUlgwM0ZZN1hfUlJISHVLa1NmanJsZg?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "argentina",
+       "fecha": "2026-08-20T00:31:01+00:00"
       },
       {
        "id": "97116c7ee12525528f68adf51266ac22eb0ce527",
@@ -1635,15 +1743,6 @@
        "fecha": "2026-08-20T00:24:16+00:00"
       },
       {
-       "id": "220363095d95c0a8af5a5c3c452c715a07931cf9",
-       "titulo": "Caso Cerimedo, EN VIVO: qué se sabe de la investigación al exasesor de Milei que está detenido en Bolivia",
-       "resumen": "El exasesor de Javier Milei fue detenido por el ataque a balazos a su expareja, una abogada y activista boliviana; tras su detención se negó a declarar",
-       "url": "https://www.lanacion.com.ar/politica/caso-cerimedo-en-vivo-que-se-sabe-de-la-investigacion-al-exasesor-de-milei-que-esta-detenido-en-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-20T00:17:37+00:00"
-      },
-      {
        "id": "d37da4c535c3db988cfbde31061413f96f19675e",
        "titulo": "Javier Milei y sus medidas, en vivo: el armado electoral de cara al 2027 y la detención de Cerimedo",
        "resumen": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
@@ -1651,15 +1750,6 @@
        "fuente": "La Nación",
        "seccion": "argentina",
        "fecha": "2026-08-20T00:15:00+00:00"
-      },
-      {
-       "id": "204223e7da3530d6fdee50b68eab9eebc393abeb",
-       "titulo": "Mora Bianchi y Toti Spangenberg: el final de “Margarita”, los 17 Movistar Arena y cómo se enamoraron",
-       "resumen": "A dos años del comienzo del fenómeno, los protagonistas se preparan para despedir a sus personajes; cómo pasaron de un set de grabación a los grandes escenarios",
-       "url": "https://www.lanacion.com.ar/videos/mora-bianchi-y-toti-spangenberg-hablan-del-final-de-margarita-y-cuentan-como-nacio-su-relacion-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-20T00:14:11+00:00"
       },
       {
        "id": "dd26a5ded8a049aaa33d22492f9b14a1216cfbc8",
@@ -1723,87 +1813,6 @@
        "fuente": "La Nación",
        "seccion": "argentina",
        "fecha": "2026-08-20T00:05:00+00:00"
-      },
-      {
-       "id": "6af4cc3c282770393a923351902308e93530ce2e",
-       "titulo": "El concejal alertó por 21 agresiones en TransMilenio",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVV4dDJodmtVcVRiTzFzeVE3VUJSbFAxcnFuUnNtdzVZa09oblVfaVl4amZSVnc2TmhqelBRSVdjc2thQy1BSGxJSXpyUnNrZm1hdU1ZakszeHFZVDY5RWc5bVFyTDJoMnA1dnZ2RndEZ2xYNUQ2WkRpMzJiNWNzWkhMVV84QzVQTnh4WEY4NGZUeTFsbEpKa2YtUW5NbGNBOVB3?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "argentina",
-       "fecha": "2026-08-20T00:02:44+00:00"
-      },
-      {
-       "id": "3ef8fd2242bd8fe77396f57619b839165d6e8aaa",
-       "titulo": "Gabriel Rolón, psicólogo: “Hay que construir felicidad en el presente, en la eternidad del aquí y ahora, aunque sea imperfecta \"",
-       "resumen": "El psicoanalista hizo hincapié en la importancia de momentos vividos en el pasado y la resignificación que la persona puede darle en búsqueda de plenitud personal",
-       "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-hay-que-construir-felicidad-en-el-presente-en-la-eternidad-del-aqui-y-ahora-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-20T00:00:00+00:00"
-      },
-      {
-       "id": "0972d4302e7b984392d76265a10ef8d8df128216",
-       "titulo": "X2Twitter.com LWa Lw RLbLCt9m- 1080p",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdndQUnd3RVIwY0g1aUt1N2tvYTlvcUVwTG5VdXk5c0xEd0pXM2hmV24yTUg0TnhqbTNvdVFITEVPUEpFOU0tUGxrR0F2czJUUF9LSk9Nc0JkanpJbkZTN3h0REVLWGtvNnl0eXRmSnF2VGlYTF9kSU16dXk0SFZLODJlcm16R1FMTlZHMw?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:59:58+00:00"
-      },
-      {
-       "id": "85037112258a7bbe122aecbdbd6615c03a416c6c",
-       "titulo": "Murió la madre de las dos hermanas de 21 y 19 años que fallecieron en el choque de la ruta 60",
-       "resumen": "Ariadna Tillar iba a bordo de la Volkswagen T-Cross que impactó contra otro automóvil el domingo por la noche; ya son cuatro las víctimas fatales del siniestro",
-       "url": "https://www.lanacion.com.ar/sociedad/murio-la-madre-de-las-dos-hermanas-de-21-y-19-anos-que-fallecieron-en-el-choque-de-la-ruta-60-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:57:39+00:00"
-      },
-      {
-       "id": "dbee5e9678e0f524ceeeb7579624da725cb63fd1",
-       "titulo": "Habló la heredera de la bóveda del Cementerio de la Recoleta donde la Ciudad quiere poner un gift shop",
-       "resumen": "La licitación que abrió el gobierno porteño también permitirá la venta de alimentos y el servicio de tours nocturnos; versiones cruzadas entre los propietarios históricos y el gobierno porteño",
-       "url": "https://www.lanacion.com.ar/sociedad/hablo-la-heredera-de-la-boveda-del-cementerio-de-la-recoleta-donde-la-ciudad-quiere-poner-un-gift-nid18082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:57:38+00:00"
-      },
-      {
-       "id": "7c4ab11055060f17ba3f3588aa2a0c0f18945411",
-       "titulo": "Un helicóptero turístico se estrelló en una zona remota de Kenia: murió el jefe de inteligencia de Ecuador y su esposa",
-       "resumen": "El accidente, en el que también fallecieron otras cinco personas, ocurrió a las 9.13 (hora local) cuando la aeronave volaba desde la Reserva Natural de Loisaba hacia la zona de Ewaso Nyiro, en el condado de Samburu",
-       "url": "https://www.lanacion.com.ar/el-mundo/un-helicoptero-turistico-se-estrello-en-una-zona-remota-de-kenia-murio-el-jefe-de-inteligencia-de-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:57:30+00:00"
-      },
-      {
-       "id": "60360d4c799b2d7b47ca1550bc60b89e9c8e491a",
-       "titulo": "Los conductores describen una crisis diaria en TransMilenio",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXZsbjVaRWNVdU5UMi1FUV9UdG1xMUIyYkIySEVoZE8ybXRScFZYdGhNcVAyVm53ak9GSVdNVnlnaWxNYWFnMWw3d1VsQXVHNi1iSVhrNkNJLUlXS2RCU29leDdCZDN2LUdLM2JER1BTalNsT1N6RUNoTURlaGZta29USDVaTy1pV3NlVEtkSmlERzU3VkdJZEV5TEM4cE5WeVIybmVrd01yYXFp?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:54:38+00:00"
-      },
-      {
-       "id": "3f2b2f8963ad0b863ee6949c53e5d4baba7c2248",
-       "titulo": "Grabois cruzó a Espert por redes después del descargo del exdiputado libertario: “Contate otro”",
-       "resumen": "El exlegislador de La Libertad Avanza hizo una extensa publicación luego de haber ampliado su declaración en la Justicia; un enfrentamiento de larga data",
-       "url": "https://www.lanacion.com.ar/politica/grabois-cruzo-a-espert-por-redes-despues-del-descargo-en-la-justicia-del-exdiputado-libertario-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:53:38+00:00"
-      },
-      {
-       "id": "6517cb474c58dd2fcb988f7f2391a405b2ffab9c",
-       "titulo": "Cuál es la ciudad argentina con los alquileres más baratos en agosto 2026",
-       "resumen": "Los precios de los departamentos en alquiler continúan en aumento, pero no en todas las provincias ni ciudades suben al mismo ritmo ni tienen los mismos valores",
-       "url": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/cual-es-la-ciudad-argentina-con-los-alquileres-mas-baratos-en-agosto-2026-nid19082026/",
-       "fuente": "La Nación",
-       "seccion": "argentina",
-       "fecha": "2026-08-19T23:50:45+00:00"
       }
      ]
     }
@@ -2053,19 +2062,28 @@
      "titulo": "Última hora",
      "articulos": [
       {
+       "id": "d11bf64884b731a9a049b149c5a73b1fd01a539e",
+       "titulo": "Ataque armado deja a un hombre sin vida en la comunidad La Araña",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdXBnS1Qxd0RUMXNRRWg4VFZGcVMtazQtQUtxd2I4amFEQnhTTTFwaUFZazhacExyRk9KWkdNR0J5N2kzWXVrN0hyN2VpZnZyalI2dFhMZncySGp2SGZuNHJfY2NheXhTUldBNDRfemJMTzBwSkUwaWxELXU5LWFzWjg5RlJyMTZDUmZfUmZfTG1NYkJ4RWlURmZvUVFPUGptWjNoTTVERHNubmt5aUJLUE90eHNYZGtOd3c?oc=5",
+       "fuente": "El Sol de México · vía Google",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:55:40+00:00"
+      },
+      {
        "id": "9d65971aec0bdea66b45348b25a1943ef60490c9",
        "titulo": "Colombia va por incrementar turismo tras terremoto con medio millón de viajeros mexicanos",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEhidmZmeGQtb0ZlckhNcV9ZT0tKdTdYcTg5NmdpNWt0V2pDb3JYSDI3NDJlSXNZT0pFUWNOV1VEcHhsZFFCWFZ3U3NXMHQwb2dpZ2hZTXFISVEwNnJNVTM0dkp3ZE1XdTdwcDdJTDFkOTY2S2tlTkEyalZTV0lYaThjZFJIT3hrekF0RGZiUDR3X1BlN2w3bEtaQnVpVHRRcW56bzdLSHJQVkMzbDNqcFVqZkV1QUw5RmEtV3V4MV81bVoxVHhF?oc=5",
        "fuente": "López-Dóriga Digital · vía Google",
        "seccion": "internacional",
-       "fecha": "2026-08-20T00:42:43+00:00"
+       "fecha": "2026-08-20T00:44:53+00:00"
       },
       {
        "id": "68ddec8f63b6951bf813260ae14b4f2a9b10d945",
        "titulo": "Colombia estuvo muy cerca de sufrir un apagón a nivel general debido al terremoto del 10 de agosto: dijeron qué lo evitó",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWFc2NjJIUmJNS3Q2QzdNR0hPLWxoSlBack5pQ21KZWVIblc0MjRVaUgxNEpHdlRIb0VhRWxhNFhCRUU1cXBGQkNjdm1GT0t0UnNaZEg0NVJOZFdGX1RJQUdWSVdlTUJqbENEZnVMVTJyTk1Hb2MyNkthYXFVTlJZOFdxd05QekpaTUpydlNzVFR4VmlZZnR5RmpiRnoxQkVSd3FHX2ppS3RpSUFMdDZyUkZNT3ZXdUdMWWU3aHFzTUx1Q3JCNmxESWtaaU40TVU1QzZER2lOUDlvcW1TUVpZVVlHblRJTWZWQmIwb0RrZmJOSWhzUjFr?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWFc2NjJIUmJNS3Q2QzdNR0hPLWxoSlBack5pQ21KZWVIblc0MjRVaUgxNEpHdlRIb0VhRWxhNFhCRUU1cXBGQkNjdm1GT0t0UnNaZEg0NVJOZFdGX1RJQUdWSVdlTUJqbENEZnVMVTJyTk1Hb2MyNkthYXFVTlJZOFdxd05QekpaTUpydlNzVFR4VmlZZnR5RmpiRnoxQkVSd3FHX2ppS3RpSUFMdDZyUkZNT3ZXdUdMWWU3aHFzTUx1Q3JCNmxESWtaaU40TVU1QzZER2lOUDlvcW1TUVpZVVlHblRJTWZWQmIwb0RrZmJOSWhzUjFr0gGSAkFVX3lxTE1pVjRZM2cwbnRfRVVrbDU1blhXOFhvQUFpY3RUa3JNaGxteDhMSVJGR1BkZ2kzX0ZOb3ZtQ21LTWswWTlVZHJtYUlha0x4NmttdXVRdFd4cmV6NkkzRnl1allRempRNWpsMHFyalByakVkWm4zcUg0RmVFREo5N09ITU5VZG1pRGdVSE9YNlRHMEQ0YUFkdlJiem81NHI1WjVqYldNdDZrUk8zY01PaW0wWm5naF9OZ3NiMHplMGkwa0I3ak1YMHBwSXR4TlZzdFJwQlZCN1V2VjNRaWZUNjFicVhMenU4bjNScW83ZENROTRMQ25qX0psaHZGWV9aejdCYWR4Y2N4QUVwNDM4VzBsc3c?oc=5",
        "fuente": "Infobae · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-20T00:30:58+00:00"
@@ -2105,6 +2123,24 @@
        "fuente": "Infobae · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-20T00:05:21+00:00"
+      },
+      {
+       "id": "5d6b42c63adcfdf5c6de4a5166d033b58c10d918",
+       "titulo": "Terremoto en Colombia: Asointermedias informó que más de 700 toneladas de ayudas se han movilizado para apoyar a los municipios más afectados",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaHppUGNfeUctZ0FSUnhaU2F2UWpDSWNLZW5rbHkxMzRfOGNINGNjNnN5c0d0MG9JdGFMS1FkSjlrLS1YZkRKSWZvTzdRM1pNZk8xb3IyYU0yUFlzT095RnM4MWN4Q0tGUmU3T1JSUktfWVY5THdvRVBCR2JpalhKUmtjaVg3bTIwRGVmc0F1U0dYU1YwZmxrX0lZaUxSdVhkNU9hYWl0Zm1WSU55ZW5LRGgwc3JwaFdiQkpQUzJOaGlMdDdsa3lxTURKdlZ0WHRxcGVVazJXV2VvM2ExWERSQUVaTE5iZ29XcEFUbHVnd3BYOGl1QVFfWkRHaWpkaWVrcjR2MHJsOG93R1gwZW4zdGcxUdIBrgJBVV95cUxNRGpGTXlpeExoVXFTenlkZWZVbEZXMUV0MVdwRDhZbnJQaDNTQ0RHQUJCb0xuRHY0elNNS1BTV3RjMV83RE1fcnJFT0pqZGhNaHZuNHRhd2t0VFJqLVMyblRFcXFzTW1ER3BEd1lkV0tQSnl0SldDR0RkQTNjc1Z3d3pKS1R1QVBqZnpNWmVYZzVoT1VpYl9Zcm9XdHRWSmhHX0dHbUx3REVuYzU5aHhKUUozV2J1bk84YUxscTFjNFpxekFKTmcwOUtMRFg4c1VHUkcwbG5UQWVhelo2Y0c1RFZXM3pSQkpmWHFQRDFYcjdwb1FZQk9Xay1XUGhNbFNxVjV0VjI0Zzc5S1IwYzVibl9iZGt0NkwxdHZHVlQ4Z005RDlRX1ZuaksxWU9IQQ?oc=5",
+       "fuente": "Infobae · vía Google",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:03:45+00:00"
+      },
+      {
+       "id": "11d1abd486435836baaa9b1c27d4e341dc66a9d7",
+       "titulo": "Continuidad en servicios de salud tras el terremoto: nueva alianza entre la Territorial y Farmatodo",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdFJWYVFmeXBBd1BGZlRjV1VONnJKaVYtQmJnNk41U3R3MEhhOVBjdkNydHJ1VlU1WEVJT1FnUVpKWHB1RXJIQ0hjUTkydXByTGIzVXRRcmVZVVBtVHNDLU0xM01iZE9wNm5rRE1hdnE5NE52Y3lJLUxkdnlnNzdpSWNnY1A1a210WktKWDV6dmd1YzZSYUpyQmtadWxxQXRfQUJxQk85Tk1aT0E4THdpUUxDMV9jZDVwRlFR?oc=5",
+       "fuente": "La Patria · vía Google",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:01:48+00:00"
       },
       {
        "id": "4b0bffee12db1738c7fe036074f5e37fd2c9be8d",
@@ -2155,28 +2191,19 @@
        "id": "fb451b023d358fa67e07154013e9496056908865",
        "titulo": "Más de 750 militares estadounidenses han resultado heridos desde el comienzo de la guerra con Irán",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzdvS0s1OGVZYV9TdmhFZnhwdDUwUUVMbUlGZVBkbFhvYWhDSXFGZ3U2TGlFWFpGTEw0QUdhMEZrLXk2SnpoRWFaMlVQT3FReVhOU1k5blBwU2JFM1k1ZGd3MVhTR1NJRmpCOUN6eXNUMTdYUXUzc25ab0RHd2dMMEt6YUs2S0Jz?oc=5",
-       "fuente": "CNN en Español · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeXJ2ZzhmUmZwVncxdkk2YXRMM3FFSlJXTTZ4UUxVNzBVeG9kc0hKMy1zbHkyTktuNGNKNGN1Uzd0YmNreUIwUzZMV1lMNzdaVHVYNWxsamdiXzVzLUVYQ1ZUNWoteXJWc1ViU0E4eWJfTk5mN3ZadzZxcllzT2RidzAyUElidDlvdF81X0FOck5yaVBjeHVyMGpQdw?oc=5",
+       "fuente": "Yahoo · vía Google",
        "seccion": "internacional",
-       "fecha": "2026-08-19T23:36:00+00:00"
+       "fecha": "2026-08-19T23:36:24+00:00"
       },
       {
        "id": "b1cc7a6590580c1404077bd0931eab09a3b76e2b",
        "titulo": "Donald Trump anuncia “guerra económica” sin precedentes contra Irán y amenaza con sanciones a países que lo ayuden",
        "resumen": "",
        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQkVoLUw3QUZBa1VnUDhSNk1HNVgwM0QwV1pkWFduTGVrZDJZWUdLU0RiSEpLbWFDNklxdGZqSmtOZmdxelFpSWxGa0dkbW8zdXdIYVdqa1dIMnFfc2QtQnJNNFMwbEdWTWY5cXlYbU5rSzU4dzFxbUJLTE1XeVpxdWJkalhPNkhBNktwWlBhUFlibzQ0S0dKb1RhMWVmb2NSa1h5Tl9tZlY2RVB1NkpsTjU2RDJ1MThkamxRQkVxRmZybm13elR0YzNnNjFXUQ?oc=5",
-       "fuente": "univision.com · vía Google",
+       "fuente": "Univision · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-19T23:32:18+00:00"
-      },
-      {
-       "id": "9d246f4ffc0c95b346fc20419ec6059ae0d3cab4",
-       "titulo": "Las mascotas, otras sobrevivientes del terremoto de Colombia que buscan volver a casa",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPV3pQZUs0VFlRTUJ1ZnVhS1lnWTFvLUs0NWgwTzZjRlpMbXdybUpQU3hXVUNIYk5PMFl4NWhTaC1UR2hTRC02Zkd6RFI2NkNaZkVjRlY4ZkVLUFdxeHBXUzFqTjZ4aFFqWHFyaHMxOWhGRWlUZTQ3Xzh6TFdYUW12NTdTVmJldlRWNFZ4M0JtZm55emRfZG05eDJ3VjliZw?oc=5",
-       "fuente": "Yahoo · vía Google",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:31:55+00:00"
       },
       {
        "id": "82db1588c586a0ec39f464cb40108e022c764293",
@@ -2195,15 +2222,6 @@
        "fuente": "HolaNews · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-19T23:30:43+00:00"
-      },
-      {
-       "id": "5d6b42c63adcfdf5c6de4a5166d033b58c10d918",
-       "titulo": "Terremoto en Colombia: Asointermedias informó que más de 700 toneladas de ayudas se han movilizado para apoyar a los municipios más afectados",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNaHppUGNfeUctZ0FSUnhaU2F2UWpDSWNLZW5rbHkxMzRfOGNINGNjNnN5c0d0MG9JdGFMS1FkSjlrLS1YZkRKSWZvTzdRM1pNZk8xb3IyYU0yUFlzT095RnM4MWN4Q0tGUmU3T1JSUktfWVY5THdvRVBCR2JpalhKUmtjaVg3bTIwRGVmc0F1U0dYU1YwZmxrX0lZaUxSdVhkNU9hYWl0Zm1WSU55ZW5LRGgwc3JwaFdiQkpQUzJOaGlMdDdsa3lxTURKdlZ0WHRxcGVVazJXV2VvM2ExWERSQUVaTE5iZ29XcEFUbHVnd3BYOGl1QVFfWkRHaWpkaWVrcjR2MHJsOG93R1gwZW4zdGcxUdIBrgJBVV95cUxNRGpGTXlpeExoVXFTenlkZWZVbEZXMUV0MVdwRDhZbnJQaDNTQ0RHQUJCb0xuRHY0elNNS1BTV3RjMV83RE1fcnJFT0pqZGhNaHZuNHRhd2t0VFJqLVMyblRFcXFzTW1ER3BEd1lkV0tQSnl0SldDR0RkQTNjc1Z3d3pKS1R1QVBqZnpNWmVYZzVoT1VpYl9Zcm9XdHRWSmhHX0dHbUx3REVuYzU5aHhKUUozV2J1bk84YUxscTFjNFpxekFKTmcwOUtMRFg4c1VHUkcwbG5UQWVhelo2Y0c1RFZXM3pSQkpmWHFQRDFYcjdwb1FZQk9Xay1XUGhNbFNxVjV0VjI0Zzc5S1IwYzVibl9iZGt0NkwxdHZHVlQ4Z005RDlRX1ZuaksxWU9IQQ?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:28:48+00:00"
       },
       {
        "id": "2c6f462a43a4b724d9d5ee6086d964db6d85607e",
@@ -2267,15 +2285,6 @@
        "fuente": "INFO7 · vía Google",
        "seccion": "internacional",
        "fecha": "2026-08-19T23:01:00+00:00"
-      },
-      {
-       "id": "166654e2b0be14d7a4c133d92401a234ada712bd",
-       "titulo": "La Dian informó cuántas toneladas de ayuda internacional recibió Colombia hasta ahora para los afectados por el terremoto del 10 de agosto",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOWTBCaWt0S2RLTlF6QjdrakpPTi1nVTZ6T2o1dkYyQzVZb0tEaWd4NVJkRDJ4azlWWGZMWGhKUXVydU1XVXByRkFMR21OYmx5TWx4YXhlZ0pvZVVNWl9PTmQ3cmtIWG0xSWFfUzB3dDBRTzZqeGlrdG1VcXFXRWhpYVZ1U3Q5WmRmTnBVanJCc2UyLVpmdmNsY0Q3VG02bEotZWZtRGwwQ3Y4b3M1aXRiVjlsMnZGNndMMi1selE0OTA3dTkyRGZnZ1o3VDJ3LWhOdHlpU2h5cHd1QzdtNDI1OGhFb2J2bXJpU3BMWlBqRWo5VjlwV19qQVhFVmo0NlZabk1paXBnV1ZCV2JTWXZhRtIBqwJBVV95cUxQWnU4TTMzNi1qV3ZFNkdhcWFScGpPV01FTWl1dTBfYTNBVWNtdm0wTHpnenppaHl6ZFVLZ1ZfZlBOWXpwd0F6RVZtOUpUYmRQdkFiSVdaa1h4V0Z4WW1qczE1XzlZOEttMTRIY2duUU5wTVRoNjAwSVpBNmN1Wjh1dXlkRXVQT3JvVGhCcHc1ZFdOcHBiTG9nR09PM0ZJLUxrcTM5UEpyeVhXa2I4YzR2MVZ3YVZfb196M3dxYlNuUVJiYkVDeWMxb3NrZFpXX2U0T1U1SjdBVjlIN3hrelR2S0k1Sy1iNUtxU2NBOHJ4Q2kyS2UxMFhuazM2TTFwLWNPcUFwVXhRVXhXc1dwbHlHWGh1WF85X3NzVkNvampYYThQQnFBTEZENHlocw?oc=5",
-       "fuente": "Infobae · vía Google",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:00:57+00:00"
       }
      ]
     },
@@ -2283,13 +2292,13 @@
      "titulo": "Miradas del mundo",
      "articulos": [
       {
-       "id": "60bd3fd2e374a4bfde5fc09ba4db42e1e232efbe",
-       "titulo": "Publisher of US military newspaper resigns over differences with government",
-       "resumen": "Retirement of longtime publisher of Stars and Stripes comes amid push from Trump administration for editorial control.",
-       "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
-       "fuente": "Al Jazeera",
+       "id": "d632f8656cba013bbc02380586e9bd3d5486514e",
+       "titulo": "Israel's Bennett calls for Qatar, Turkey's exclusion from future role in Gaza",
+       "resumen": "",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-bennett-calls-qatar-turkeys-exclusion-future-role-gaza",
+       "fuente": "Middle East Eye",
        "seccion": "internacional",
-       "fecha": "2026-08-20T00:34:13+00:00"
+       "fecha": "2026-08-20T00:58:27+00:00"
       },
       {
        "id": "f9ebeb0f9e2c21d7b7082fa25934b176be521570",
@@ -2298,7 +2307,43 @@
        "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/australian-politics-live-penny-wong-labor-government-anthony-albanese-gambling-ndis-question-time-angus-taylor-pauline-hanson-ntwnfb",
        "fuente": "The Guardian — Mundo",
        "seccion": "internacional",
-       "fecha": "2026-08-20T00:27:49+00:00"
+       "fecha": "2026-08-20T00:44:36+00:00"
+      },
+      {
+       "id": "b774a9cc2c4a568bb991a7494bce02bcce88a042",
+       "titulo": "Reporters and military duo held at gunpoint by security at US space force base",
+       "resumen": "Officers reportedly believed invitees were trying to make unauthorized entry on to Vandenberg base in California Five news reporters and two members of the military who were invited to an event at Vandenberg space force base in…",
+       "url": "https://www.theguardian.com/us-news/2026/aug/19/reporters-held-gunpoint-california-space-force-base",
+       "fuente": "The Guardian — Mundo",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:41:12+00:00"
+      },
+      {
+       "id": "ea8bc4e329fcaba2096b55b2fdb044dc37d4d322",
+       "titulo": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
+       "resumen": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get…",
+       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
+       "fuente": "The Guardian — Mundo",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:40:43+00:00"
+      },
+      {
+       "id": "446e99b3a48d2dd54f5678adad520d5820a66c8a",
+       "titulo": "UC Berkeley professor admits to using AI to edit op-ed about students’ math skills",
+       "resumen": "Zvezdelina Stankova says she used AI to ‘help edit’ an article about some of her students being ‘five to eight years’ behind A math professor at the University of California, Berkeley, criticizing a “severe” math deficiency among…",
+       "url": "https://www.theguardian.com/us-news/2026/aug/19/uc-berkeley-professor-ai",
+       "fuente": "The Guardian — Mundo",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:35:11+00:00"
+      },
+      {
+       "id": "60bd3fd2e374a4bfde5fc09ba4db42e1e232efbe",
+       "titulo": "Publisher of US military newspaper resigns over differences with government",
+       "resumen": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration's push for editorial control.",
+       "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "seccion": "internacional",
+       "fecha": "2026-08-20T00:34:13+00:00"
       },
       {
        "id": "2309fd1b9cfc039a5a98927268ba8de50ca3d142",
@@ -2308,15 +2353,6 @@
        "fuente": "Al Jazeera",
        "seccion": "internacional",
        "fecha": "2026-08-20T00:26:59+00:00"
-      },
-      {
-       "id": "ea8bc4e329fcaba2096b55b2fdb044dc37d4d322",
-       "titulo": "Erin Patterson appeal live: prosecutors to seek life in prison without parole for triple murderer",
-       "resumen": "Victorian court of appeal also to consider whether triple murder and attempted murder convictions should be quashed Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice Get…",
-       "url": "https://www.theguardian.com/australia-news/live/2026/aug/20/erin-patterson-appeal-live-court-mushroom-murders-australia-victoria-ntwnfb",
-       "fuente": "The Guardian — Mundo",
-       "seccion": "internacional",
-       "fecha": "2026-08-20T00:25:37+00:00"
       },
       {
        "id": "e6d7c4380a1ff36a03836b0b93c917c3f9778427",
@@ -2465,7 +2501,7 @@
       {
        "id": "d4f4cef51d17e34492edd79facc880357c8bc161",
        "titulo": "Trump warns of punishment for any country that supports Iran: ‘economic warfare’",
-       "resumen": "⁠US ⁠President ⁠Donald Trump on Wednesday warned of economic consequences against any ‌country that supported Tehran or provided “any type of lifeline to Iran”. “Today, I am announcing the MOST CRUSHING ECONOMIC OPERATION EVER…",
+       "resumen": "US President Donald Trump said on Wednesday he was launching a major new campaign to target Iran’s economy, threatening “tremendous” punishment on any country that helps or does business with the Islamic Republic. The intensified…",
        "url": "https://www.scmp.com/news/world/middle-east/article/3364619/trump-warns-punishment-any-country-supports-iran-economic-warfare",
        "fuente": "South China Morning Post",
        "seccion": "internacional",
@@ -2479,33 +2515,6 @@
        "fuente": "The Guardian — Mundo",
        "seccion": "internacional",
        "fecha": "2026-08-19T23:29:41+00:00"
-      },
-      {
-       "id": "96bcf0d0ebe224b3c64e68370c900c9bca4a20ce",
-       "titulo": "Pentagon quizzes NATO allies on political loyalty, documents reveal",
-       "resumen": "NATO allies probed on loyalty to US policies in Pentagon questionnaire obtained exclusively by Al Jazeera.",
-       "url": "https://www.aljazeera.com/news/2026/8/19/pentagon-quizzes-nato-allies-on-political-loyalty-documents-reveal?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:24:43+00:00"
-      },
-      {
-       "id": "46418d5f6472641fbf1ebddc75c249c4ce108d51",
-       "titulo": "Lebanon hands former Syrian army general to Damascus after arrest warrant",
-       "resumen": "The transfer is the first from Lebanon involving a Syrian military officer who fled after al-Assad's government fell.",
-       "url": "https://www.aljazeera.com/news/2026/8/19/lebanon-hands-former-syrian-army-general-to-damascus-after-arrest-warrant?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:21:32+00:00"
-      },
-      {
-       "id": "76fed494d1c94aba1a044238a40c9518e95f3312",
-       "titulo": "Trump announces ‘most crushing economic operation ever’ against Iran",
-       "resumen": "US president also says any country that trades with Iran will 'face tremendous economic consequences'.",
-       "url": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "seccion": "internacional",
-       "fecha": "2026-08-19T23:18:32+00:00"
       }
      ]
     }
@@ -2759,7 +2768,7 @@
    "nombre": "ATDT y gobierno digital",
    "url": "https://news.google.com/rss/search?q=%22Agencia+de+Transformaci%C3%B3n+Digital%22+OR+ATDT+OR+%22Llave+MX%22+OR+%22Pe%C3%B1a+Merino%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "19 titulares"
+   "detalle": "20 titulares"
   },
   {
    "nombre": "Al Jazeera",
@@ -2777,7 +2786,7 @@
    "nombre": "Aristegui Noticias",
    "url": "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "53 titulares"
+   "detalle": "52 titulares"
   },
   {
    "nombre": "BBC Mundo",
@@ -2855,7 +2864,7 @@
    "nombre": "El País México",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
    "estado": "ok",
-   "detalle": "109 titulares"
+   "detalle": "108 titulares"
   },
   {
    "nombre": "El País — Economía",
