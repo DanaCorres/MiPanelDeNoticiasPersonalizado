@@ -45,7 +45,7 @@ ajustes:
   #   claude-sonnet-5   ($2 / $10, sube a $3/$15 el 1 de septiembre)
   #   claude-opus-5     ($5 / $25)
   # Haiku alcanza de sobra para clasificar y escribir resúmenes cortos.
-  modelo_ia: claude-haiku-4-5
+  # modelo_ia: claude-haiku-4-5
   # Cuántas notas por llamada. Más grande = menos llamadas pero cada una tarda
   # más y hay más riesgo de que la respuesta se corte a la mitad.
   lote_ia: 30
