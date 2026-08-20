@@ -20,6 +20,11 @@
 ajustes:
   # Cuántos titulares se guardan por grupo
   max_por_grupo: 25
+  # Máximo de titulares que un mismo medio puede ocupar al principio de un
+  # grupo. Lo que rebasa no se borra: baja al final marcado como desplazado.
+  # Evita que un feed de alto volumen (Milenio vía Google) acapare la sección.
+  # Ponlo en 0 para desactivar el tope.
+  tope_por_fuente: 8
   # Antigüedad máxima de un titular, en horas
   horas_maximas: 48
   # El panel arranca vacío cada medianoche (hora CDMX): solo entran titulares
@@ -156,6 +161,16 @@ fuentes:
   - nombre: Animal Político
     url: "https://news.google.com/rss/search?q=site:animalpolitico.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
     seccion: nacional
+
+  # --- Seguimientos temáticos (regla 7 de criterios.md) ---------------------
+  # A diferencia de los demás, estos feeds no están definidos por dominio sino
+  # por tema: barren todos los medios a la vez. Sirven para temas que sigues de
+  # cerca y que llegan dispersos entre muchas fuentes.
+
+  - nombre: ATDT y gobierno digital
+    url: "https://news.google.com/rss/search?q=%22Agencia+de+Transformaci%C3%B3n+Digital%22+OR+ATDT+OR+%22Llave+MX%22+OR+%22Pe%C3%B1a+Merino%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+    subseccion: tecnologia
 
   - nombre: Portada México vía Google Noticias
     url: "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419"
@@ -329,11 +344,6 @@ fuentes:
 
   - nombre: Middle East Eye
     url: https://www.middleeasteye.net/rss
-    seccion: internacional
-    grupo: miradas
-
-  - nombre: The New York Times — Mundo
-    url: https://rss.nytimes.com/services/xml/rss/nyt/World.xml
     seccion: internacional
     grupo: miradas
 
