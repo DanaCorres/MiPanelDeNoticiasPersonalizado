@@ -81,6 +81,25 @@ CLAVES_NACIONAL: dict[str, list[str]] = {
         "autonomia tecnologica", "gobierno digital", "digitalizacion",
         "datos abiertos", "ift", "instituto federal de telecomunicaciones",
     ],
+    "seguridad": [
+        # Delito y crimen organizado
+        "narcotrafico", "crimen organizado", "cartel", "cjng", "cartel de sinaloa",
+        "cartel de jalisco", "sicario", "sicarios", "huachicol", "narcomenudeo",
+        "fentanilo", "plaza criminal",
+        # Hechos violentos
+        "feminicidio", "homicidio", "asesinato", "asesinado", "ejecutado",
+        "masacre", "balacera", "enfrentamiento armado", "desaparicion",
+        "desaparecidos", "secuestro", "extorsion", "cobro de piso", "violencia",
+        "inseguridad", "linchamiento",
+        # Operación policial y militar
+        "operativo", "detenido", "detencion", "capturado", "decomiso",
+        "decomisan", "aseguramiento", "cateo", "guardia nacional", "sedena",
+        "marina", "ejercito", "policia", "ssp", "ssc", "seguridad publica",
+        "mando unico", "anam",
+        # Justicia penal
+        "vinculado a proceso", "juez", "juzgado", "sentencia", "extradicion",
+        "orden de aprehension", "carpeta de investigacion", "ley monse",
+    ],
     "opinion": [
         "columna", "editorial", "opinion", "analisis", "tribuna", "punto de vista",
     ],
@@ -91,13 +110,19 @@ CLAVES_NACIONAL: dict[str, list[str]] = {
         "camara baja", "camara alta", "congreso de la union", "reforma judicial",
         "reforma politica", "reforma electoral", "clase politica",
         "suprema corte", "scjn", "ine", "tepjf", "elecciones", "gobernador",
-        "gobernadora", "fiscalia", "fgr", "sedena", "marina", "guardia nacional",
-        "seguridad publica", "narcotrafico", "crimen organizado", "cartel",
-        "extradicion", "derechos humanos", "migracion", "migrantes", "aduanas",
-        "corrupcion", "secretaria de gobernacion", "segob", "sre", "canciller",
-        "consulta popular", "amlo", "impugnacion", "denuncia penal",
+        "gobernadora", "fiscalia", "fgr", "derechos humanos", "migracion",
+        "migrantes", "aduanas", "corrupcion", "secretaria de gobernacion",
+        "segob", "sre", "canciller", "consulta popular", "amlo", "impugnacion",
+        "denuncia penal",
+        # Salud e instituciones sociales como asunto de gobierno. Los
+        # instructivos de trámite ya los descarta la regla 2 antes de llegar
+        # aquí, así que estas claves no reviven el ruido del IMSS.
+        "imss", "issste", "salud publica", "ssa", "sector salud", "insabi",
+        "imss bienestar", "desabasto", "medicamentos", "cofepris",
     ],
 }
+
+PRIORIDAD = ["cdmx", "opinion", "seguridad", "economia", "tecnologia", "politica"]
 
 # "Política" en español es tres cosas: el campo, la *policy* y la persona.
 # Estas frases son policy de un tema económico y van a Economía, no a
@@ -113,18 +138,27 @@ POLICY_ECONOMIA = [
 POLICY_OTRAS = {
     "tecnologia": ["politica digital", "politica de datos", "politica tecnologica"],
     "cdmx": ["politica capitalina"],
+    "seguridad": ["politica de seguridad", "politica criminal", "politica antidrogas"],
 }
 
 _POLICY_ECONOMIA = _compilar(POLICY_ECONOMIA)
 _POLICY_OTRAS = {k: _compilar(v) for k, v in POLICY_OTRAS.items()}
 
-PRIORIDAD = ["cdmx", "opinion", "economia", "tecnologia", "politica"]
+# Menciones de CDMX que por sí solas NO hacen capitalina a una nota: son
+# lugares o destinos que aparecen de paso ("trasladan al detenido a CDMX",
+# "decomiso en el AICM"). Solo cuentan si ninguna otra subsección puntúa.
+CDMX_DEBILES = {
+    "cdmx", "ciudad de mexico", "valle de mexico", "aicm", "zocalo",
+    "paseo de la reforma", "chapultepec",
+}
 
 _CLAVES_COMPILADAS = {k: _compilar(v) for k, v in CLAVES_NACIONAL.items()}
+_CDMX_FUERTES = _compilar([p for p in CLAVES_NACIONAL["cdmx"] if p not in CDMX_DEBILES])
 
 # Pistas que vienen en la URL del artículo (los medios suelen delatarse solos)
 PISTAS_URL = {
-    "politica": ["/politica", "/nacional", "/seguridad", "/mexico/politica"],
+    "politica": ["/politica", "/nacional", "/mexico/politica"],
+    "seguridad": ["/seguridad", "/policia", "/justicia", "/estados/seguridad"],
     "economia": ["/economia", "/dinero", "/mercados", "/negocios", "/empresas", "/finanzas"],
     "cdmx": ["/cdmx", "/ciudad-de-mexico", "/capital", "/comunidad"],
     "opinion": ["/opinion", "/columna", "/editorial", "/blogs", "/firmas"],
@@ -159,6 +193,12 @@ def clasificar_nacional(titulo: str, resumen: str, url: str) -> str | None:
 
     if not puntajes:
         return None
+
+    # Si lo único capitalino de la nota es una mención de paso y hay otra
+    # subsección con señal propia, CDMX no compite.
+    if "cdmx" in puntajes and len(puntajes) > 1:
+        if not any(p.search(texto) for p in _CDMX_FUERTES):
+            del puntajes["cdmx"]
 
     maximo = max(puntajes.values())
     empatados = [s for s, p in puntajes.items() if p == maximo]
