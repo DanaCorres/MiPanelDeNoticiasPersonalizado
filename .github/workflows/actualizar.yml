@@ -38,13 +38,17 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Traer titulares
+        env:
+          # Si el secreto no existe, la variable llega vacía y el script
+          # simplemente se salta la curaduría. No falla la corrida.
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/recolectar.py
 
       - name: Publicar cambios
         run: |
           git config user.name "panel-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/datos/noticias.json
+          git add docs/datos/noticias.json docs/datos/descartadas.json
           if git diff --staged --quiet; then
             echo "Sin titulares nuevos."
             exit 0
