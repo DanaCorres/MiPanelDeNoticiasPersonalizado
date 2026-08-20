@@ -3,8 +3,17 @@
 Qué hace, en una sola pasada por lote:
   - decide sección y subsección leyendo el titular, no la etiqueta del feed;
   - asigna prioridad de 1 a 5 según criterios.md;
-  - escribe resumen para las notas que llegaron sin él (las de Google News);
-  - marca las que son ruido de servicio.
+  - marca las que son ruido de servicio;
+  - agrupa las coberturas del mismo hecho;
+  - escribe resumen solo si `resumenes_ia: true` en fuentes.yaml (apagado por
+    defecto, porque es con mucho lo más caro de pedirle al modelo).
+
+Tres cosas cuidan el costo:
+  1. Los veredictos del día se guardan en docs/datos/veredictos.json, así que
+     cada corrida solo paga por las notas nuevas, no por las de la mañana.
+  2. Los criterios editoriales viajan con caché de prompt: se cobran completos
+     una vez y al 10% en las llamadas siguientes.
+  3. Al final se imprime el costo estimado de la corrida.
 
 Todo es opcional. Si no hay ANTHROPIC_API_KEY, si la API falla o si algo
 viene mal formado, el recolector sigue con la clasificación por palabras
@@ -17,13 +26,25 @@ import concurrent.futures
 import json
 import os
 import sys
+from datetime import datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
 
 API = "https://api.anthropic.com/v1/messages"
 RAIZ = Path(__file__).resolve().parents[1]
 CRITERIOS = RAIZ / "criterios.md"
+CACHE = RAIZ / "docs" / "datos" / "veredictos.json"
+CDMX = ZoneInfo("America/Mexico_City")
+
+# Dólares por millón de tokens. Si cambian los precios, se corrigen aquí; solo
+# se usan para estimar el costo que se imprime en el log.
+PRECIOS = {
+    "claude-haiku-4-5": (1.0, 5.0),
+    "claude-sonnet-5": (2.0, 10.0),
+    "claude-opus-5": (5.0, 25.0),
+}
 
 INSTRUCCIONES = """\
 Eres el editor de un panel personal de monitoreo de noticias. Tu trabajo es \
@@ -37,11 +58,7 @@ Para CADA nota que recibas devuelve un objeto con:
   "subseccion" : si seccion es "nacional", una de {subsecciones}; si no, null
   "prioridad"  : entero 1-5. 5 = va hasta arriba, 1 = apenas merece estar
   "ruido"      : true si es contenido de servicio/trámite/SEO que no debe entrar
-  "resumen"    : dos líneas en español (máximo 40 palabras) con qué pasó, quién \
-lo decidió y a quién afecta. Si la nota ya trae resumen propio, devuelve null. \
-No interpretes, no adjetives, no completes lo que el titular no dice. Si el \
-titular no alcanza para un resumen honesto, devuelve null.
-  "historia"   : identificador corto en minúsculas y con guiones del hecho que \
+{bloque_resumen}  "historia"   : identificador corto en minúsculas y con guiones del hecho que \
 narra la nota (ej. "renuncia-monica-soto-tepjf"). Dos notas del mismo hecho, \
 aunque sean de medios distintos y con titulares distintos, deben compartir el \
 mismo valor. Sirve para agrupar coberturas.
@@ -53,14 +70,54 @@ bloques de código. Un objeto por cada nota recibida, en el mismo orden.
 {criterios}
 """
 
+BLOQUE_RESUMEN = """\
+  "resumen"    : dos líneas en español (máximo 40 palabras) con qué pasó, quién \
+lo decidió y a quién afecta. Si la nota ya trae resumen propio, devuelve null. \
+No interpretes, no adjetives, no completes lo que el titular no dice. Si el \
+titular no alcanza para un resumen honesto, devuelve null.
+"""
+
+
+def _hoy() -> str:
+    return datetime.now(CDMX).strftime("%Y-%m-%d")
+
+
+def leer_cache() -> dict[str, dict]:
+    """Veredictos ya emitidos hoy. Se vacía solo al cambiar el día."""
+    try:
+        datos = json.loads(CACHE.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if datos.get("fecha") != _hoy():
+        return {}
+    return datos.get("veredictos", {})
+
+
+def guardar_cache(veredictos: dict[str, dict]) -> None:
+    try:
+        CACHE.parent.mkdir(parents=True, exist_ok=True)
+        CACHE.write_text(
+            json.dumps({"fecha": _hoy(), "veredictos": veredictos},
+                       ensure_ascii=False, indent=1), encoding="utf-8")
+    except OSError as e:
+        print(f"  (no pude guardar el caché de veredictos: {e})", file=sys.stderr)
+
 
 def _pedir(lote: list[dict], sistema: str, modelo: str, llave: str,
-           timeout: int) -> list[dict]:
-    """Una llamada. Devuelve la lista de objetos o [] si algo sale mal."""
+           timeout: int, topes: int) -> tuple[list[dict], dict]:
+    """Una llamada. Devuelve (objetos, uso de tokens).
+
+    El bloque de criterios va marcado con cache_control: es idéntico en todas
+    las llamadas, así que se cobra completo la primera vez y al 10% después.
+    """
     payload = {
         "model": modelo,
-        "max_tokens": 8000,
-        "system": sistema,
+        "max_tokens": topes,
+        "system": [{
+            "type": "text",
+            "text": sistema,
+            "cache_control": {"type": "ephemeral"},
+        }],
         "messages": [{"role": "user", "content": json.dumps(lote, ensure_ascii=False)}],
     }
     respuesta = requests.post(
@@ -79,7 +136,21 @@ def _pedir(lote: list[dict], sistema: str, modelo: str, llave: str,
     if texto.startswith("```"):
         texto = texto.split("```")[1]
         texto = texto[4:] if texto.startswith("json") else texto
-    return json.loads(texto)
+    return json.loads(texto), datos.get("usage", {})
+
+
+def _costo(uso: dict, modelo: str) -> float:
+    """Estimación en dólares del gasto de la corrida."""
+    entrada, salida = PRECIOS.get(modelo, (1.0, 5.0))
+    nuevos = uso.get("input_tokens", 0)
+    escritos = uso.get("cache_creation_input_tokens", 0)
+    leidos = uso.get("cache_read_input_tokens", 0)
+    return (
+        nuevos * entrada
+        + escritos * entrada * 1.25   # escribir el caché cuesta un poco más
+        + leidos * entrada * 0.10     # leerlo cuesta el 10%
+        + uso.get("output_tokens", 0) * salida
+    ) / 1_000_000
 
 
 def enriquecer(notas: list[dict], secciones: list[str], subsecciones: list[str],
