@@ -312,8 +312,13 @@ def main() -> int:
     # 2c. Curaduría con la API de Claude. Opcional: si no hay llave o falla,
     #     devuelve vacío y todo sigue con la clasificación por palabras clave.
     subsecciones_validas = set(secciones.get("nacional", {}).get("grupos", {}))
+    sin_curaduria = set(ajustes.get("sin_curaduria", []))
+    para_curar = [n for n in candidatas if n.get("seccion") not in sin_curaduria]
+    if sin_curaduria:
+        print(f"  sin curaduría: {len(candidatas) - len(para_curar)} notas de "
+              f"{', '.join(sorted(sin_curaduria))}", file=sys.stderr)
     veredictos = enriquecer(
-        candidatas, list(panel), sorted(subsecciones_validas), ajustes)
+        para_curar, list(panel), sorted(subsecciones_validas), ajustes)
 
     # 2c-bis. Una historia, una nota. Se hace después de la curaduría para
     #         poder usar el campo `historia` que escribe el modelo.
@@ -330,6 +335,13 @@ def main() -> int:
             nota["historia"] = aplicado["historia"]
     candidatas, repetidas = colapsar_repetidas(
         candidatas, ajustes.get("umbral_similitud", 0.35))
+
+    # En las secciones sin curaduría no hay quien asigne prioridad, así que la
+    # asigna el gremio: si tres medios cuentan la misma historia, es que importa.
+    for nota in candidatas:
+        if nota.get("seccion") in sin_curaduria:
+            coro = len(nota.get("tambien_en", []))
+            nota["prioridad"] = min(5, 2 + coro)
     print(f"  repetidas: {repetidas} notas colapsadas en la historia de otro medio",
           file=sys.stderr)
 
