@@ -46,11 +46,14 @@ ajustes:
   #   claude-opus-5     ($5 / $25)
   # Haiku alcanza de sobra para clasificar y escribir resúmenes cortos.
   modelo_ia: claude-haiku-4-5
-  # Cuántas notas por llamada. Más grande = menos llamadas pero más riesgo de
-  # que una respuesta se corte a la mitad.
-  lote_ia: 40
+  # Cuántas notas por llamada. Más grande = menos llamadas pero cada una tarda
+  # más y hay más riesgo de que la respuesta se corte a la mitad.
+  lote_ia: 30
+  # Llamadas simultáneas al modelo. En fila se pasaba del límite de tiempo del
+  # workflow; en paralelo la curaduría completa baja a poco más de un minuto.
+  hilos_ia: 5
   # Segundos de espera por llamada
-  timeout_ia: 180
+  timeout_ia: 120
 
 secciones:
   nacional:
