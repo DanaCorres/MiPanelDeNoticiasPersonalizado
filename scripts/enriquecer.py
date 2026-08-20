@@ -173,6 +173,7 @@ def enriquecer(notas: list[dict], secciones: list[str], subsecciones: list[str],
     sistema = INSTRUCCIONES.format(
         secciones=", ".join(f'"{s}"' for s in secciones),
         subsecciones=", ".join(f'"{s}"' for s in subsecciones),
+        bloque_resumen=BLOQUE_RESUMEN if ajustes.get("resumenes_ia") else "",
         criterios=criterios,
     )
 
