@@ -28,6 +28,7 @@ import yaml
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from clasificar import clasificar_nacional, es_de_ia, normalizar  # noqa: E402
 from criterios import aplicar_tope, es_tramite, reasignar_pais  # noqa: E402
+from enriquecer import aplicar, enriquecer  # noqa: E402
 
 RAIZ = Path(__file__).resolve().parents[1]
 CONFIG = RAIZ / "fuentes.yaml"
@@ -245,57 +246,82 @@ def main() -> int:
     cosecha.sort(key=lambda c: (
         0 if (c[0].get("subseccion") or c[0].get("grupo")) else 1, c[0]["nombre"]))
 
+    # 2a. Se juntan todas las notas antes de repartirlas: la capa de curaduría
+    #     necesita ver el lote completo para poder agrupar historias repetidas.
+    candidatas: list[dict] = []
     for fuente, entradas in cosecha:
         for entrada in entradas:
             nota = preparar(entrada, fuente, ahora, horas_max, corte)
             if not nota:
                 continue
 
-            # Regla 2: los instructivos de servicio no entran al panel.
+            # Regla 2: los instructivos de servicio no entran. Este filtro por
+            # palabras clave es la primera pasada; es gratis y quita el grueso
+            # antes de gastar tokens. La curaduría afina lo que quede.
             if es_tramite(nota["titulo"], nota["resumen"]):
                 descartadas.append({**nota, "motivo": "tramite"})
                 continue
 
             # Regla 1: la sección la decide el contenido, no el feed.
-            seccion = reasignar_pais(
+            nota["seccion"] = reasignar_pais(
                 nota["titulo"], nota["resumen"], fuente["seccion"])
-            if seccion != fuente["seccion"]:
+            if nota["seccion"] != fuente["seccion"]:
                 mudanzas += 1
-            if seccion not in panel:
+            nota["_subseccion_feed"] = (
+                fuente.get("subseccion") if nota["seccion"] == fuente["seccion"] else None)
+            nota["_grupo_feed"] = fuente.get("grupo")
+            candidatas.append(nota)
+
+    # 2b. Curaduría con la API de Claude. Opcional: si no hay llave o falla,
+    #     devuelve vacío y todo sigue con la clasificación por palabras clave.
+    subsecciones_validas = set(secciones.get("nacional", {}).get("grupos", {}))
+    veredictos = enriquecer(
+        candidatas, list(panel), sorted(subsecciones_validas), ajustes)
+
+    # 2c. Reparto
+    for nota in candidatas:
+        if not aplicar(nota, veredictos.get(nota["id"]),
+                       set(panel), subsecciones_validas):
+            descartadas.append({**nota, "motivo": "ruido (curaduría)"})
+            continue
+
+        seccion = nota["seccion"]
+        if seccion not in panel or nota["id"] in vistos[seccion]:
+            continue
+
+        if seccion == "nacional":
+            # Orden de mando: la curaduría, luego la subsección fija del feed,
+            # y al final las palabras clave.
+            grupo = (nota.pop("subseccion_ia", None)
+                     or nota["_subseccion_feed"]
+                     or clasificar_nacional(nota["titulo"], nota["resumen"], nota["url"]))
+            if not grupo:
                 continue
-            nota["seccion"] = seccion
-
-            if nota["id"] in vistos[seccion]:
+        elif seccion == "ia":
+            if not es_de_ia(nota["titulo"], nota["resumen"], nota["url"]):
                 continue
-
-            if seccion == "nacional":
-                # La subsección del feed solo manda si la nota se quedó en la
-                # sección de su feed; si se mudó de país, se reclasifica.
-                fijada = fuente.get("subseccion") if seccion == fuente["seccion"] else None
-                grupo = fijada or clasificar_nacional(
-                    nota["titulo"], nota["resumen"], nota["url"])
-                if not grupo:
-                    continue
-            elif seccion == "ia":
-                if not es_de_ia(nota["titulo"], nota["resumen"], nota["url"]):
-                    continue
-                grupo = fuente.get("grupo", "otros")
-            else:
-                grupo = fuente.get("grupo", "dia")
-                if grupo not in panel[seccion]["grupos"]:
-                    grupo = next(iter(panel[seccion]["grupos"]))
-
+            grupo = nota["_grupo_feed"] or "otros"
+        else:
+            grupo = nota["_grupo_feed"] or "dia"
             if grupo not in panel[seccion]["grupos"]:
-                continue
+                grupo = next(iter(panel[seccion]["grupos"]))
 
-            vistos[seccion].add(nota["id"])
-            panel[seccion]["grupos"][grupo]["articulos"].append(nota)
+        if grupo not in panel[seccion]["grupos"]:
+            continue
+
+        for campo in ("_subseccion_feed", "_grupo_feed", "subseccion_ia"):
+            nota.pop(campo, None)
+        vistos[seccion].add(nota["id"])
+        panel[seccion]["grupos"][grupo]["articulos"].append(nota)
 
     # Ordena por fecha, aplica el tope por fuente y recorta
     tope = ajustes.get("tope_por_fuente", 0)
     for seccion in panel.values():
         for grupo in seccion["grupos"].values():
-            grupo["articulos"].sort(key=lambda n: n["orden"], reverse=True)
+            # Con curaduría activa manda la prioridad y la hora desempata.
+            # Sin ella, todas las notas valen 3 y el orden es cronológico.
+            grupo["articulos"].sort(
+                key=lambda n: (n.get("prioridad", 3), n["orden"]), reverse=True)
             grupo["articulos"] = aplicar_tope(grupo["articulos"], tope)
             del grupo["articulos"][ajustes["max_por_grupo"]:]
             for nota in grupo["articulos"]:
