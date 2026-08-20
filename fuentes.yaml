@@ -58,6 +58,20 @@ ajustes:
   # historia cuando la curaduría no opinó. 0.35 es prudente; súbelo si sientes
   # que junta notas distintas, bájalo si se te siguen colando repetidas.
   umbral_similitud: 0.35
+  # Secciones que NO pasan por el modelo. En ellas la importancia se mide sola:
+  # una nota que cubren varios medios sube, y las repetidas se colapsan igual.
+  # Sale gratis y para chismes o para "lo importante del país" es suficiente.
+  # Espectáculos no necesita editor: los ves de un vistazo y decides.
+  # En las demás la importancia se mide por coincidencia: si varios medios del
+  # país cuentan la misma historia, sube sola. Para que eso funcione hace falta
+  # que haya suficientes fuentes que se solapen; por eso Colombia y Argentina
+  # pasaron de cinco a diez medios cada una.
+  sin_curaduria:
+    - espectaculos
+    - espana
+    - colombia
+    - argentina
+
   # Pedirle resúmenes al modelo. Solo los escribe para las notas que llegan sin
   # texto (las de Google Noticias); las que ya traen resumen propio no gastan.
   resumenes_ia: true
@@ -148,6 +162,16 @@ jerarquia:
   "Aristegui Noticias": 3
   "Animal Político": 3
   "Semanario ZETA": 3
+  "Semana": 3
+  "La Silla Vacía": 3
+  "El Colombiano": 3
+  "W Radio": 2
+  "Caracol Radio": 2
+  "Página/12": 3
+  "Ámbito": 3
+  "Perfil": 2
+  "La Voz del Interior": 2
+  "C5N": 2
   "Zeta Tijuana": 3
   "ATDT y gobierno digital": 2
   "Portada México vía Google Noticias": 1
@@ -378,6 +402,27 @@ fuentes:
     url: "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
     seccion: colombia
 
+
+  - nombre: Semana
+    url: "https://news.google.com/rss/search?q=site:semana.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: La Silla Vacía
+    url: "https://news.google.com/rss/search?q=site:lasillavacia.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: El Colombiano
+    url: "https://news.google.com/rss/search?q=site:elcolombiano.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: W Radio
+    url: "https://news.google.com/rss/search?q=site:wradio.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
+  - nombre: Caracol Radio
+    url: "https://news.google.com/rss/search?q=site:caracol.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419"
+    seccion: colombia
+
   # ---------------------------- Argentina ----------------------------------
   - nombre: Clarín — Lo último
     url: https://www.clarin.com/rss/lo-ultimo/
@@ -397,6 +442,27 @@ fuentes:
 
   - nombre: La Nación
     url: "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml"
+    seccion: argentina
+
+
+  - nombre: Página/12
+    url: "https://news.google.com/rss/search?q=site:pagina12.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: Ámbito
+    url: "https://news.google.com/rss/search?q=site:ambito.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: Perfil
+    url: "https://news.google.com/rss/search?q=site:perfil.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: La Voz del Interior
+    url: "https://news.google.com/rss/search?q=site:lavoz.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
+    seccion: argentina
+
+  - nombre: C5N
+    url: "https://news.google.com/rss/search?q=site:c5n.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419"
     seccion: argentina
 
   # ------------------------------ España -----------------------------------
