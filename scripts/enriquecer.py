@@ -71,10 +71,12 @@ bloques de código. Un objeto por cada nota recibida, en el mismo orden.
 """
 
 BLOQUE_RESUMEN = """\
-  "resumen"    : dos líneas en español (máximo 40 palabras) con qué pasó, quién \
-lo decidió y a quién afecta. Si la nota ya trae resumen propio, devuelve null. \
-No interpretes, no adjetives, no completes lo que el titular no dice. Si el \
-titular no alcanza para un resumen honesto, devuelve null.
+  "resumen"    : SOLO si le pusiste prioridad 4 o 5 y la nota no trae resumen \
+propio. En cualquier otro caso devuelve null, sin excepciones: las notas \
+menores se leen de un vistazo por el titular. Cuando toque escribirlo, son dos \
+líneas en español, máximo 40 palabras, con qué pasó, quién lo decidió y a quién \
+afecta. No interpretes, no adjetives, no completes lo que el titular no dice. \
+Si el titular no alcanza para un resumen honesto, devuelve null.
 """
 
 
