@@ -272,13 +272,44 @@ def main() -> int:
             nota["_grupo_feed"] = fuente.get("grupo")
             candidatas.append(nota)
 
-    # 2b. Curaduría con la API de Claude. Opcional: si no hay llave o falla,
+    # 2b. Poda antes de la curaduría. Todo lo que se manda al modelo cuesta,
+    #     así que aquí se quita lo que de todas formas no iba a llegar al
+    #     panel: repetidos, secciones que no existen, notas de la sección de
+    #     IA que no hablan de IA, y el excedente sobre el cupo de cada sección.
+    #     Sin esta poda se pagaban ~2300 notas para publicar ~300.
+    antes = len(candidatas)
+    por_seccion: dict[str, list[dict]] = {}
+    ya_vistas: dict[str, set[str]] = {}
+    for nota in candidatas:
+        seccion = nota["seccion"]
+        if seccion not in panel:
+            continue
+        if seccion == "ia" and not es_de_ia(nota["titulo"], nota["resumen"], nota["url"]):
+            continue
+        vistas = ya_vistas.setdefault(seccion, set())
+        if nota["id"] in vistas:
+            continue
+        vistas.add(nota["id"])
+        por_seccion.setdefault(seccion, []).append(nota)
+
+    candidatas = []
+    for seccion, notas in por_seccion.items():
+        # Se conservan las más recientes con holgura sobre el cupo real, para
+        # que la curaduría tenga de dónde escoger al jerarquizar.
+        cupo = ajustes["max_por_grupo"] * len(panel[seccion]["grupos"])
+        notas.sort(key=lambda n: n["orden"], reverse=True)
+        candidatas.extend(notas[:int(cupo * 1.5)])
+
+    print(f"  poda: {antes} → {len(candidatas)} notas antes de la curaduría",
+          file=sys.stderr)
+
+    # 2c. Curaduría con la API de Claude. Opcional: si no hay llave o falla,
     #     devuelve vacío y todo sigue con la clasificación por palabras clave.
     subsecciones_validas = set(secciones.get("nacional", {}).get("grupos", {}))
     veredictos = enriquecer(
         candidatas, list(panel), sorted(subsecciones_validas), ajustes)
 
-    # 2c. Reparto
+    # 2d. Reparto
     for nota in candidatas:
         if not aplicar(nota, veredictos.get(nota["id"]),
                        set(panel), subsecciones_validas):

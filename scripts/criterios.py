@@ -121,14 +121,14 @@ TRAMITE = [
     r"\bquienes pueden\b",
     r"\bcomo (tramitar|registrar|solicitar|obtener|descargar|consultar|sacar|darse de alta)\b",
     r"\bcomo (te )?registr",
-    r"\brequisitos?\b",
+    r"\brequisitos?\s+(para|de|que)\b",
     r"\bpaso a paso\b",
     r"\bque (documentos|papeles) (se )?(necesit|requier|pid)",
     r"\bcuando (cae|se paga|depositan|pagan)\b",
     r"\bfechas? de pago\b",
     r"\bcalendario (escolar|de pagos)\b",
-    r"\bguia (para|completa)\b",
-    r"\btodo lo que (se sabe|debes saber|tienes que saber)\b",
+    r"\bguia (completa|paso a paso)\b",
+    r"\btodo lo que (debes|tienes que) saber\b",
     r"\bcuanto (cuesta|dura) el tramite\b",
 ]
 
@@ -145,6 +145,9 @@ LANZAMIENTO = [
     r"\bpor primera vez\b",
     r"\bdiario oficial\b",
     r"\bdof\b",
+    # Alguien DECIDE los requisitos: es una decisión, no un instructivo.
+    r"\b(define|definio|establece|establecio|fija|fijo|modifica|modifico|"
+    r"endurece|endurecio|flexibiliza|flexibilizo|elimina|elimino)\b",
 ]
 
 # Excepción crítica: digitalizar trámites es literalmente el trabajo de la
@@ -174,8 +177,13 @@ def es_atdt(titulo: str, resumen: str) -> bool:
 
 
 def es_tramite(titulo: str, resumen: str) -> bool:
-    """True si la nota es un instructivo de servicio y no debe entrar."""
-    texto = normalizar(f"{titulo} {resumen}")
+    """True si la nota es un instructivo de servicio y no debe entrar.
+
+    Se evalúa SOLO el titular. Antes se leía también el resumen y eso barría
+    notas legítimas: basta que el cuerpo mencione "requisitos" de pasada para
+    que una nota de política se fuera al descarte.
+    """
+    texto = normalizar(titulo)
 
     if any(p.search(texto) for p in _ATDT):
         return False
