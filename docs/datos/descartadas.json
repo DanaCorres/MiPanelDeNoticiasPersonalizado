@@ -1,5 +1,5 @@
 {
- "generado": "2026-08-20T15:24:49.961799-06:00",
+ "generado": "2026-08-20T15:27:13.031270-06:00",
  "notas": [
   {
    "id": "83a340ce2e334e7681e093299ff0e12ee9b47f56",
@@ -45,7 +45,6 @@
    "fecha": "2026-08-20T19:38:21+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "ontop-leadership-saltillo",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -76,34 +75,6 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "2bd9beb66ee838a27ce52743224be46e3e6ade0b",
-   "titulo": "Con ‘Only Flans’ y vista a la Catedral: Así es Charco, el restaurante rebelde del ‘Dining Fine’",
-   "resumen": "Charco, restaurante de Ricardo Verdejo en el Centro Histórico de CDMX, apuesta por el Dining Fine: comida de alta cocina en un ambiente casual, con productos locales, música y un espacio donde el equipo también busca disfrutar de…",
-   "url": "https://www.elfinanciero.com.mx/food-and-drink/2026/08/20/asi-es-charco-restaurante-dining-fine-del-chef-ricardo-verdejo-en-cdmx/",
-   "fuente": "El Financiero",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T17:55:35+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "charco-restaurante-cdmx",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "0172de086eddd44360919384ea9d5781dd523d81",
-   "titulo": "Wall Street abre con pérdidas por riesgo inflacionario: ¿Cómo opera HOY?",
-   "resumen": "El índice principal de la Bolsa Mexicana de Valores sube 0.57 por ciento, en los 64 mil 361.32 puntos.",
-   "url": "https://www.elfinanciero.com.mx/mercados/2026/08/20/bmv-wall-street-hoy-20-de-agosto-de-2026/",
-   "fuente": "El Financiero",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T17:53:08+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "bolsa-mexicana-valores-cierre-diario",
-   "motivo": "ruido (curaduría)"
-  },
-  {
    "id": "7a7a9019ecf478c058c5dec57d93e903ab845ad5",
    "titulo": "La Sociedad Interamericana de Prensa reconoce a Pilar Gil con el Premio Ejecutiva del 2026",
    "resumen": "La SIP destaca el liderazgo y visión estratégica de la consejera delegada de PRISA Media",
@@ -114,6 +85,7 @@
    "fecha": "2026-08-20T17:41:17+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "premio-pilar-gil-sip",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -127,7 +99,6 @@
    "fecha": "2026-08-20T21:18:58+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "liomont-evento",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -141,7 +112,19 @@
    "fecha": "2026-08-20T21:15:40+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "maynez-liga-mx",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "99f6b0d2c36fb9c0b80f1b747cf81390b24748df",
+   "titulo": "Modernizan el campo con maquinaria y tecnología para elevar la producción agrícola en Puebla",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdkJmYXh4SXJOTEpkS0otd0FPWUxSWWV4Y1Eyb2JjdWlEb2NfOUhSLUdCMjRMSUFUUUljYUJHa2VaajlrbDVyMVJWNVBRRHVQVEF2V3JRZG5jbHJIcmlZbFF0RjRTSnFpc2d5c3I5Y3lBY3hSN3lyVUtsUkF6NmlyQUtTaUtJWkx6dVhhUTREWi1mTDczUk1veGMtSTjSAZwBQVVfeXFMTW5DeW42S0RleE1TLVdla19wdGE4OXNTQU1XRDVhOHpmNGdKVl9mRk0wR2QzLXY1aWlvX1dCM0FweXZ4NFRfV3NwS3BmZW1aQzBCLVJDaEZCOThvcDlMR3FlUUZKZWhETUdJSWdiN01KZXlkWUdtYUxZQktsS3VoeDh1TTNlTXJEdFkxZWlUYm1SY3hhbExmTi15d25k?oc=5",
+   "fuente": "MILENIO · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T21:05:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
    "motivo": "ruido (curaduría)"
   },
   {
@@ -155,7 +138,6 @@
    "fecha": "2026-08-20T20:59:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "receta-banderillas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -169,7 +151,6 @@
    "fecha": "2026-08-20T20:55:55+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "pulsera-buena-suerte",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -183,7 +164,6 @@
    "fecha": "2026-08-20T20:54:10+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "mundial-2026",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -197,6 +177,7 @@
    "fecha": "2026-08-20T20:45:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "scroll-redes-sociales-cerebro",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -210,6 +191,7 @@
    "fecha": "2026-08-20T20:43:18+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "implante-coclear-loretta-ortiz",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -223,6 +205,7 @@
    "fecha": "2026-08-20T20:42:58+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "toros-serie-zona",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -236,6 +219,7 @@
    "fecha": "2026-08-20T20:41:49+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "pueblos-magicos-milagros",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -249,6 +233,7 @@
    "fecha": "2026-08-20T20:39:35+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "viaducto-beneficio-molestias",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -260,6 +245,32 @@
    "peso": 3,
    "seccion": "nacional",
    "fecha": "2026-08-20T20:28:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "7ea1546d9c3962ce62fb193652e4880e03f0cf38",
+   "titulo": "Club Puebla, enfocado en ganar a Santos tras sumar siete puntos en el Apertura 2026: Brayan Garnica",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQV0NaTDBFR1R3TDQyWExNNDBKcXV0NjZrM1BmY3FQcXMzWlRvV0ZUTWJEZlJvYUhRZVB6dU1lUHRDdzdKcVd0ZW1XV3dmdV8tZHdNOFk2U2JmN1JmUWpDV0RrdkVlTVFnVzhTV2JNeDhKRHRsN3F5anZvakx2ZGlUdnhCbVVuNVlJRVU4Q3Axb3FxMGxMOVBhNXZPSXnSAZwBQVVfeXFMUFdDWkwwRUdUd0w0MlhMTTQwSnF1dDY2azNQZmNxUHFzM1pUb1dGVE1iRGZSb2FIUWVQenVNZVB0Q3c3SnFXdGVtV1d3ZnVfLWR3TThZNlNiZjdSZlFqQ1dEa3ZFZU1RZ1c4U1diTXg4SkR0bDdxeWp2b2pMdmRpVHZ4Qm1VbjVZSUVVOENwMW9xcTBsTDlQYTV2T0l5?oc=5",
+   "fuente": "MILENIO · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T20:24:45+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "946f72b27832d2e8a16685078ca7cffb0d1ed469",
+   "titulo": "¿El SAT visitará casa por casa para verificar que cumplas con tus obligaciones fiscales? Ésta es la verdad sob",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSVNPNTlzb2pOUFFkbVFWY0VPdHU3cUppbzBTZUN2a25ma2xQaWFPb3VmenEzNThzWXk3d0w2Rk84ZWl2dTJyZjJiLVktZ2tEaWFqbl95ZTZOeDcyNkh4U25ZWnZzei16bG1uSGV1bE9fVnRMNnk0SlBCZ2E4dm1pQkNsMmx1bDRnaVVwTFdkbzNSV3E0cThGNWhlQm9YWFV10gGgAUFVX3lxTE5JU081OXNvak5QUWRtUVZjRU90dTdxSmlvMFNlQ3ZrbmZrbFBpYU9vdWZ6cTM1OHNZeTd3TDZGTzhlaXZ1MnJmMmItWS1na0RpYWpuX3llNk54NzI2SHhTblladnN6LXpsbW5IZXVsT19WdEw2eTRKUEJnYTh2bWlCQ2wybHVsNGdpVXBMV2RvM1JXcTRxOEY1aGVCb1hYVXU?oc=5",
+   "fuente": "MILENIO · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T20:15:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
    "motivo": "ruido (curaduría)"
@@ -291,6 +302,19 @@
    "motivo": "ruido (curaduría)"
   },
   {
+   "id": "82f42e4560699bc67b385fa595549f6014b54eaa",
+   "titulo": "Jesús Martínez reconoce al León y sus gente en su aniversario y previo a la venta de la institución",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRE43U2JsdVVxZXhnRUhaSndPMFQtZElvSHpadTVwX05XbUFmZTBJQXpBSWpid0FhTTh1andjUUtzYjZWcW5hX0J1QVRVaHhKdWJVWVhfSWRQVW1NdXlIZ1lDVzlsVGtnQU9faWxRSmJPdDgtR2czY0E0VWlxMjhhc09aakNnMGZ4VHU0c0VualhWTGt4V195VGZVUkYxZTJtSUZob3VoS1E1V3FVUVVpQXJvbUJlUDd10gG4AUFVX3lxTFBETjdTYmx1VXFleGdFSFpKd08wVC1kSW9Ielp1NXBfTldtQWZlMElBekFJamJ3QWFNOHVqd2NRS3NiNlZxbmFfQnVBVFVoeEp1YlVZWF9JZFBVbU11eUhnWUNXOWxUa2dBT19pbFFKYk90OC1HZzNjQTRVaXEyOGFzT1pqQ2cwZnhUdTRzRW5qWFZMa3hXX3lUZlVSRjFlMm1JRmhvdWhLUTVXcVVRVWlBcm9tQmVQN3U?oc=5",
+   "fuente": "Excélsior · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T20:11:02+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "motivo": "ruido (curaduría)"
+  },
+  {
    "id": "0869c4b2d38fec47eadd9e05e7e63ffe6212afa9",
    "titulo": "9 países donde los turistas mexicanos deben cuidar más su dinero",
    "resumen": "",
@@ -317,20 +341,6 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "f05be05166d72531ef35a23c65c9ada0f8a0ec2b",
-   "titulo": "¡Aterriza en el nido! Miguel Borja es nuevo delantero del América",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQd01yNEh5OHJTNXdleGpaNmlUZVFOVzA5YXNGVW1vR21WelB0UXhGay1WTjFaMnFmZ3ltTXpZTzJEWXFlcDlLLW1LQmNWclV5RVJ4YVVnbmoyN0w1c0RubkIzMERFRHJOYXdxLWM1UWlydV9xeXZTb093NVNUQWNKWXJ1OXFwc0ZUT2VYNkRiV0tNMXNXYWJrcWtSak9KM1nSAZ8BQVVfeXFMUDg3b2VBYzRXNm9WOC1mLUVEdmI0ZjVKcENjNkVzVmRmRWp5VHV2QmhmTXFWZEtIWENSbXBBSlRkRldlc0pHZWY2dTBfWDRJOE92SzQ5ZDVkQ21kNVlNdVAtVnc1NVdHbFo4RU9CaDBlVlJMOUgwM3ZCd01NR2NrNG9RbFJSVXJUbVRRc0FmT0xFTzd6ZmRNQlVjRHQ3NjBV?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:54:00+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "miguel-borja-america",
-   "motivo": "ruido (curaduría)"
-  },
-  {
    "id": "ef010266153afd127104baae5a96683462dedd81",
    "titulo": "Abre convocatoria para programa Altagracia Mercado en Hidalgo: canjea útiles, uniformes y calzado escolar",
    "resumen": "",
@@ -341,35 +351,19 @@
    "fecha": "2026-08-20T19:50:44+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "altagracia-mercado-hidalgo",
    "motivo": "ruido (curaduría)"
   },
   {
    "id": "9b87eb0417b3c399eda97b86fcd99af57230290d",
    "titulo": "Modifican circulación en bulevar Adolfo López Mateos de Tampico",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzZ2UVdvNDFuWXNESC1iZm1WUVZ3XzZ5YjlwbUhmQTExNThZWEVsek1vNldPYmRYU2d0NDRMOUJma2Rhckc0TVdTY1ZpVm10akRmSjFNZk82b0VZYjV5cVBoX1ZhbzFUd3NZNUtVWjM5OVFXWmlJUV81MWNHVzZBNzc0dmxxVXZINW1DdFR5ekNETG01VnRqeNIBmAFBVV95cUxOXzZ2UVdvNDFuWXNESC1iZm1WUVZ3XzZ5YjlwbUhmQTExNThZWEVsek1vNldPYmRYU2d0NDRMOUJma2Rhckc0TVdTY1ZpVm10akRmSjFNZk82b0VZYjV5cVBoX1ZhbzFUd3NZNUtVWjM5OVFXWmlJUV81MWNHVzZBNzc0dmxxVXZINW1DdFR5ekNETG01VnRqeA?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWFNjdHVqTl9DeE9ZZ1VfekdiUFFGODgyOG5TNFlKanF1ckgxendsc0ZQSlBBYm41ZUs0MzNXV1E0cEdQbnN4ajR5M09STzdPMWs0VFFNZzd0cFIwYkV3S013aGw5U0llN0Vjd2NTT2NiNkE2QVI2VmNrcnFGaVlYdG5pazJ3MFFESlNtSnA1QnZvT0RRMWtUONIBmAFBVV95cUxOXzZ2UVdvNDFuWXNESC1iZm1WUVZ3XzZ5YjlwbUhmQTExNThZWEVsek1vNldPYmRYU2d0NDRMOUJma2Rhckc0TVdTY1ZpVm10akRmSjFNZk82b0VZYjV5cVBoX1ZhbzFUd3NZNUtVWjM5OVFXWmlJUV81MWNHVzZBNzc0dmxxVXZINW1DdFR5ekNETG01VnRqeA?oc=5",
    "fuente": "MILENIO · vía Google",
    "peso": 3,
    "seccion": "nacional",
    "fecha": "2026-08-20T19:47:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "trafico-tampico",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "a6d19eb387047641a4ab18cf9499f864e23366ff",
-   "titulo": "Armando González se va a Grecia con Olympiacos de Atenas",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUUl1U3FiX3NTcm1WcFlVTFZlSmxlSjViQXhpSHdxXzNfOHU2NXJLWHd1NjhuUXE1Z2RNcEVPbEVlYmlxa0RxU0VfeHpzX3F5aVpTa0dJOTgyTnVYdWNmZDFKdGtBUV92SW9XcDNVVndEV0UzX3JMRTlSc3RrWkZSZXFBRHlLbTlGOXItWGp3N3FoUXNadXVreFBlWnVOSlduZURHWXY2c3B3V0h6dmhDSnNTYzFSbjE3VXc40gG7AUFVX3lxTE1WMHNfSldRV2h1dmZBLXZJc0JmMlk3aENpMHV3Z3ZjaGNEM2V3QlpCTjl0Z0N1MGlWX3RqWGtzV0RFdnBoS2dzeDI4RTVQV0hPYkhXZkFrNkE2bFh3Uk16cHBaRGp5RzViWTJpTXdzWmhMRHdBOFdTLU9DU05pTkdBczZTdjJmMldnVG5CdHJJQk5jSGxBMDlnc2NacnVJZjRZek0tNzRmQlNvZC1wNFZTSXJmWVBIQ1Q3Qmc?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:41:46+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "armando-gonzalez-olympiacos",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -383,21 +377,6 @@
    "fecha": "2026-08-20T19:33:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "creo-en-ti-fernando-nanosfera",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "64e695645250aa5be25204f325af80553f881f7b",
-   "titulo": "Maracaná albergará la inauguración y la Final del Mundial femenino de 2027",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb3ROeU8wVXh2SmxPQ0h0T1NTRlZaTXNOTW9TbW56RzBOYXZZUkQySTl5eEpzemFMNEJ5dFR6bnBiRGc0X1A1aUZxdDcxa1ZYZEZHRFBoby1VWlprNktRTXpzTXA5dnI2SWFXaFBCdXVHQS12cndCU2ZJS1JMUEY0emxfb0xaWWhIaGhTOTJKdXlkTTJkU2RkX0lwTUhhVG05SXFrZWlTTlNDdGZLMUFXUmMyWklQWDA0eE1EYtIBvAFBVV95cUxQNUxHVHZTNmR6aEdZeEV6WkVNSDZwQmltSHlQZkREa1FUeUpaMVJfQkZFWHlETjJIekR4RVVvajVxQ2JHTmoyYXVIaHdBQS1lcWRhcVVDZU9qMXlVWEZTd0R0a2xzdmZEQ1FfLXY1dDg5RkZMX3FZRnJmdUV5TmdVU0NFNEhuR3lhcTBGRzhIcFZwYlpkbjNwNmZXNFM0NERKNDMtb1JnVVlLczYxUTV2ekZfVmNrbHBnc0xjaw?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:33:00+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "mundial-femenino-2027-maracana",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -411,21 +390,19 @@
    "fecha": "2026-08-20T19:31:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "receta-papas-fritas",
    "motivo": "ruido (curaduría)"
   },
   {
    "id": "ce03f3ce9786f3ef7cfc549660da1100fb7fb5c3",
    "titulo": "¿Tienes esta planta en casa? Su maceta puede convertirse en un inesperado refugio de cucarachas",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMFd3QWpVWDRJdC1QZmV3Z2NsWERtbmprcVlfQk5XYzlkSXVIeWtFT3VOQnN3dmM5T0dPRXczVGQtekJpTDdRbHRjSGo1R3p3Y095T1hvRGF3V0pQeUlLT2FScHdPSzI1MkdmVFMzMl8xS3ZNTEtDclo0LU8zS2ZfeVNDOHVnaE4xbHYtddIBjAFBVV95cUxQMFd3QWpVWDRJdC1QZmV3Z2NsWERtbmprcVlfQk5XYzlkSXVIeWtFT3VOQnN3dmM5T0dPRXczVGQtekJpTDdRbHRjSGo1R3p3Y095T1hvRGF3V0pQeUlLT2FScHdPSzI1MkdmVFMzMl8xS3ZNTEtDclo0LU8zS2ZfeVNDOHVnaE4xbHYtdQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZ29DQ3FNY1NNdXVqdzBHZUlTbGVGVWdnNm5FU19oUmw2eE81OVFRTVZvTlY1eVdiSE55QVVUdFJzYU1QUXNpb3FNUFZsU3FyVFNIUW10YjNBVmhiSk5LVU04QmtSdEhCdEp1MkhfSUlWS2hkSVVuaFMwZ01XSE9wSmo3WmRrR0g3d2tBc9IBjAFBVV95cUxQMFd3QWpVWDRJdC1QZmV3Z2NsWERtbmprcVlfQk5XYzlkSXVIeWtFT3VOQnN3dmM5T0dPRXczVGQtekJpTDdRbHRjSGo1R3p3Y095T1hvRGF3V0pQeUlLT2FScHdPSzI1MkdmVFMzMl8xS3ZNTEtDclo0LU8zS2ZfeVNDOHVnaE4xbHYtdQ?oc=5",
    "fuente": "MILENIO · vía Google",
    "peso": 3,
    "seccion": "nacional",
    "fecha": "2026-08-20T19:30:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "plantas-cucarachas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -437,32 +414,6 @@
    "peso": 3,
    "seccion": "nacional",
    "fecha": "2026-08-20T19:27:00+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "f4c201cd8409626c545539114a7b46bd66e05a7e",
-   "titulo": "Charros iguala serie ante Toros luego de ganar en extrainnings",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZXNOYnNCQTFJU3ZXbm5Xa1g1S3Jpc0FOVEFITGRpTTl6WENaQVZrVXR5T1Q1R1paUW5MTXJPMWhuazY3QUtPR25BbzNtQlBIQU9KVElacWlyRHVhSmMtLUdNTXlxMEtZbGg1dXNYSnpCc0VRMzViejBLbDFGS3BwczJhbWpVMUtYUVHSAYoBQVVfeXFMUFJXU213MTBMVFJ4b3U5bjZ6akV4NVlzSW41eUZqREhwdTlsdEpOYkptc1JKOW04TmlDUTRrdGNaTVRxdEw5WUlyM2FjVjJpWFdES0tkcG1BRnh6N21hdHItM2x1WjVJVWxhY2REWk1meVJJN1lKVkl4TGtDVDBnVEpwdFA1d2RsaUdR?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:16:32+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "daf04b582f0e08fb376a9914f3f26184d42ebf8c",
-   "titulo": "Miguel Borja ya es del América: “¡Águilas, llegué!”",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSTJHN1BtTTYwaDJ4b0RnVVhxMjhCRUZvQ3Z0UmFKSTJEX0VMVHFqbUpWdHZPcE1Za3BjX0JsWEgtb3puZ3hJeHFRTmxBUk02WEZjQmRxdTl2d2dhUEZPNW10WjRqV1UtbDE0VnhDSENHdkM4WXdMMWpsRC1Sa0hRQjVmV1hwNVnSAYcBQVVfeXFMT0kyRzdQbU02MGgyeG9EZ1VYcTI4QkVGb0N2dFJhSkkyRF9FTFRxam1KVnR2T3BNWWtwY19CbFhILW96bmd4SXhxUU5sQVJNNlhGY0JkcXU5dndnYVBGTzVtdFo0aldVLWwxNFZ4Q0hDR3ZDOFl3TDFqbEQtUmtIUUI1ZldYcDVZ?oc=5",
-   "fuente": "Excélsior · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:16:09+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
    "motivo": "ruido (curaduría)"
@@ -528,32 +479,6 @@
    "peso": 3,
    "seccion": "nacional",
    "fecha": "2026-08-20T19:09:00+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "a48affe20f8c5af991ea9a886c3f870f82adde65",
-   "titulo": "¡Gastronomía, deporte y servicios gratis! Llega el programa 'Saberes y Sabores' a San Benito",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQXk1cHN0WlRjd0dIUUEwZFd5d3FSOXlhdUtBei0yTzZCWTF3U012dW01LS1iV3Q4dlRkMHFHQ3c3RndkT21iSjktSFdGczVDalpETEY3NTEyRE1uRncyZ2tQaGlpTVg0Y0NEbVVybll3VnJTSFVxSWRJVHgtX2l4SGYtX0pkRmtnaXF6NzE2WndiMzQ2RlI5WjJxQ08yRG1pbm1nMUNHTTNYa0t0YjNuSDB6WFRreFZYUGZiR1JPUXZlR0lGclBsXzlCeEhRZERDbFF4RjBsZlE2dzRRNVBuSklhcWY?oc=5",
-   "fuente": "debate.com.mx · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:06:38+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "9d3029e193cf17aa113680019d6f722caefbb8b9",
-   "titulo": "Novios salen de paseo al parque Cofre de Perote en Veracruz y se extravían; así fue su rescate",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWnRyc1p0aGtjaUFOd0NydjFIRFdMRUw2ZmZJNWNxeFY0angtQU9yaDk0T3RyLVJqb0hRRzVuNlUtb2RWNzJCMkZCYTBqdXRxTTYwbnlvS2tKSnhDcE5XZ2drenpLdUhTaGRuSU5XVzhlWl95NnJMSjM3YjhwOGRvek9GcjRCODhzSWhMU3hfUzlJd9IBkgFBVV95cUxOMWxORzM0LTFhU1Utc3RmUGhpUTNzUHI1dEwtNDdXclJWcjNBN1d3bFV5aEkyNnU4VTk3RWNlS3FGZlJIMl9QYnV3UFZ6cTdsNWw3Ti1jOEkwY3FPOGZkSmZBWE4yWDFxWGgwdDVtWHQzTVlYNndXeVlHRVZVMW9mYjNxRkFzTHdTMXhZZmhNa3FqQQ?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:00:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
    "motivo": "ruido (curaduría)"
@@ -647,7 +572,21 @@
    "fecha": "2026-08-20T18:33:31+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "etiqueta-celula-chapitos",
+   "historia": "celula-chapitos",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "848a83c13c5d48c1145f5dfd940017a56ae3e9b6",
+   "titulo": "Tarjeta de crédito vs tarjeta de débito: ¿Cuál te mete en más problemas con el SAT al usarla?",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMkZQQlpUWVJMWlNiMXg4b2NMNEpMc2tIUGJwSXJJVW1uU1JSWEttU0RTVC1pNldKMGVMU3pvZ1FFUTFxb1FRTjhldjRIQWFGOUlCLTBCOUxlVGdvTTFuNkdvNHhQMGpSMVREU1BacTV1V0dUVnVmX2YxVG8yUmFvOE0zazlKb0ZTVGozOGl1czk2T0lWS0YwT1J1ajJVTlVRTzg4blJQb3JQTWUwYklfUXdIcUktQW5tVXcxb1lFSWYxRDFNYXVsV3ZrZGRKSUtYT2VzS1JKbXlTSEc3?oc=5",
+   "fuente": "debate.com.mx · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T18:19:10+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "tarjeta-credito-debito-sat",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -661,21 +600,7 @@
    "fecha": "2026-08-20T18:17:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "popocatepetl-actividad-volcanica-en-vivo",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "8889fd5a48145a236e6d955122a06005fd3c0949",
-   "titulo": "Corte de agua en Veracruz: Grupo MAS anuncia suspensión temporal del servicio en tres colonias",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYy1hUl95ZmNFV0JoejNjcHpZS2ZDajQ4V2FPenhmX252SkMtdTBFcThORTM5NmdwTm04aFRKT0NmX3NINFFENDJWWUJqTmNwV29ORmxTbjcwTGpoWUVINTZRY0EtRE9ZWldDRTB1dWFXN0NSUmY4VVYwODFqRVFUQXNxSGVPUkxnRFAzQTR4YTE0UHhiVEE4eGVaSG52eVNJWGNBTzRMRTJMR0ItVWU2VzhscjFzam11bFJpRXd4V3Q3V2M0M3RaNm1fUnMxMWRrb3F6UXk3dmhCWjZxNWNB?oc=5",
-   "fuente": "debate.com.mx · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T18:13:27+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "corte-agua-veracruz-grupo-mas",
+   "historia": "popocatepetl-monitoreo-en-vivo",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -689,35 +614,7 @@
    "fecha": "2026-08-20T18:13:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "calendario-vacaciones-sep-2026-2027",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "fde3d4d529dc1a6b72b20bf4cef0ccbf485169f4",
-   "titulo": "Realizarán conservatorio sobre valor histórico del templo Sagrado Corazón en Lerdo",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRGN3RVJ6bWU3QXE3N0hYUTVyWktYdFdXRlZsMkVjVXRFUEJVeDY3T3ZwWXlmU1ZNS1k1ZVVtQThDTmozTGZQZ0JuVTJPeXJ5d1dWQUlCYS1IbVNDMGQycGJjLTFJcTRGUWl1SFNWVWpySS1iTE1xa0NvZ0pWTWVjbjZOT3IydXBEckpVM9IBjAFBVV95cUxQRGN3RVJ6bWU3QXE3N0hYUTVyWktYdFdXRlZsMkVjVXRFUEJVeDY3T3ZwWXlmU1ZNS1k1ZVVtQThDTmozTGZQZ0JuVTJPeXJ5d1dWQUlCYS1IbVNDMGQycGJjLTFJcTRGUWl1SFNWVWpySS1iTE1xa0NvZ0pWTWVjbjZOT3IydXBEckpVMw?oc=5",
-   "fuente": "MILENIO · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T18:12:11+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "conservatorio-templo-sagrado-corazon-lerdo",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "a34808b7292317e0304aeb4e748d1b57a65fec2a",
-   "titulo": "Choque e incendio de revolvedora deja un muerto y un herido en NL",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbURKN2dnNWZ6Znl3SE9GSlFDNHJXVkprZnpxaGpvdTV4Wm8xMHlFZzA3UW9mME1uVHBKRy1Wa2V5bWJKbDJnZEFvUDBtWmVtOGt3MTA1djQxNTJZYnJETDhQbHJLRGhpWk1iME1VRENvRXRiUXdoaVpycG45Nkcza2FGQ0FTaFJDZUxzakJ3SWprY1h4MXByNHpuUdIBmwFBVV95cUxNbURKN2dnNWZ6Znl3SE9GSlFDNHJXVkprZnpxaGpvdTV4Wm8xMHlFZzA3UW9mME1uVHBKRy1Wa2V5bWJKbDJnZEFvUDBtWmVtOGt3MTA1djQxNTJZYnJETDhQbHJLRGhpWk1iME1VRENvRXRiUXdoaVpycG45Nkcza2FGQ0FTaFJDZUxzakJ3SWprY1h4MXByNHpuUQ?oc=5",
-   "fuente": "Excélsior · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T18:11:34+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "choque-incendio-revolvedora-nl",
+   "historia": "calendario-sep-2026-2027",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -731,21 +628,7 @@
    "fecha": "2026-08-20T18:05:53+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "champions-league-2026-27-fechas",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "671ae8336e6d3ce2671c52f74203e1919b2b4659",
-   "titulo": "Asesinan a chofer de transporte público en Naucalpan, Edomex",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV09OcVBJQ0szamVvUnQtNktLbjZNd19SenRZaW13ZFkzMU1LaVBkUHdldWpadmZLdTF5clVsVS0zWlVpRlJka0VPV21FbEs3SVBOM0lDOGVIdEFuTXBYb2ZOTlV6LWpPbXlTd1dOYThVcWxMNEZYTnpsSkhGSHMyNE0tc0E4anlSUFZhb1BHV0dRS1JIdkRySC1jYURfWlVKX0000gGjAUFVX3lxTE1XT05xUElDSzNqZW9SdC02S0tuNk13X1J6dFlpbXdkWTMxTUtpUGRQd2V1alp2Zkt1MXlyVWxVLTNaVWlGUmRrRU9XbUVsSzdJUE4zSUM4ZUh0QW5NcFhvZk5OVXotak9teVN3V05hOFVxbEw0RlhOemxKSEZIczI0TS1zQThqeVJQVmFvUEdXR1FLUkh2RHJILWNhRF9aVUpfTTQ?oc=5",
-   "fuente": "Excélsior · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T18:00:22+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "asesinato-chofer-transporte-naucalpan-edomex",
+   "historia": "champions-league-2026-27-calendario",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -763,6 +646,20 @@
    "motivo": "ruido (curaduría)"
   },
   {
+   "id": "f778b074eca40d0dffe0b15c57888c565bc95cce",
+   "titulo": "Vanessa Huppenkothen - Proceso",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uZVo0dkRyT01JaXJPazIwVmRWck1Fb0c2czhrdGpUR0hQb0ZTVnJXSVBWb1VROEk2UFhDc3ZUOUJJODFRb0dXT2RfdDlzbTdOeGpmV1JkX0FJVVBzWHVyUWM0MFdFQzIxcXFGMzRDTHpnUQ?oc=5",
+   "fuente": "Proceso · vía Google",
+   "peso": 3,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T17:57:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "vanessa-huppenkothen-proceso",
+   "motivo": "ruido (curaduría)"
+  },
+  {
    "id": "e1177316c4c3b5a286c1477f1704b8b10738f952",
    "titulo": "Aston Martin F1 vende participación al dueño de los New York Jets y exembajador de EE. UU.",
    "resumen": "",
@@ -773,7 +670,6 @@
    "fecha": "2026-08-20T17:53:23+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "aston-martin-f1-venta-participacion",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -787,21 +683,6 @@
    "fecha": "2026-08-20T17:48:56+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "paises-viaje-salario-minimo-mexico",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "9b1e7035eefd6c6d8175de89c1d1854de6be2466",
-   "titulo": "La Maldecida', obra sobre el mito de Fedra, llega al Teatro J. J. Herrera en Xalapa",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQV0xGTE12Z3dYdzBmbDNGbktnV2dZbTVRWG9PX2JDVXBJSkUta1JJUTB1dndFM1pySmhXTV9mSlRib0Vidzlpc2JfYW9DMGlIb0tXV29CUk9FM3Nvb3JJOVZ5bjNKTEhVMkQ2NUNoRVFsTXh5UjJCZHQ4U1BkLWZNWWxzaDlYbG5YR1NfMENHZmZCLUtvVzc5UNIBmAFBVV95cUxQV0xGTE12Z3dYdzBmbDNGbktnV2dZbTVRWG9PX2JDVXBJSkUta1JJUTB1dndFM1pySmhXTV9mSlRib0Vidzlpc2JfYW9DMGlIb0tXV29CUk9FM3Nvb3JJOVZ5bjNKTEhVMkQ2NUNoRVFsTXh5UjJCZHQ4U1BkLWZNWWxzaDlYbG5YR1NfMENHZmZCLUtvVzc5UA?oc=5",
-   "fuente": "Excélsior · vía Google",
-   "peso": 3,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T17:42:43+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "maldecida-teatro-xalapa",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -819,6 +700,20 @@
    "motivo": "ruido (curaduría)"
   },
   {
+   "id": "cee580f29b0c8dbcc497d113fbc1cb916e9b2397",
+   "titulo": "Receta de galletitas pepas de frutos rojos, rápida y fácil",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQm1YSThOOG1CbjlHaURSeVJCSTJ5TlNSWWVyVk1faUR2VnZ2Zi1lNjZJMFN0VVdUM3RNODNfZndJQWZsbng4cDRaOXVDT3hkX2RKNGU2WE5yY2M4OGU1LVFKdEExYktWLWJwRlN3bXlkYmVsUUZGaXczVnlrYzIxQnZ5WklFWFVOZFJnMG5xYjBEQUZmSkhuLUdYQVQyRkJyNm4ybWJXQdIBwgFBVV95cUxNcTJQbXZhT19zenJqQ29HVXRJMVdGQ1JlTWNnS2ZQVjBTMlM2Y1hSc2RUa2tyRW1aME9DYkV2UWs1ZlFqWFk5TVhfSUhkMlJMRlVmaUVHeFVOQU53ZUg1ZnpxQWpGUkFTd0xnbVVFcW5WY1RlYjVfdzRBRHIyeUw5ZVZzSFliUjg5WXFNZHNsNFRzcnphcS1Ual9BS0FRbHFSdGZUc3AyNWtaQ3NGcW9lallhU3lsODJZdUdhQ1h4RnpnUQ?oc=5",
+   "fuente": "Infobae · vía Google",
+   "peso": 2,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T21:09:36+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "receta-galletitas-frutos-rojos",
+   "motivo": "ruido (curaduría)"
+  },
+  {
    "id": "290f39d4807db6739270dec25cdeac64f1dccac8",
    "titulo": "20260820 151253 - Infobae",
    "resumen": "",
@@ -829,6 +724,21 @@
    "fecha": "2026-08-20T20:33:53+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "infobae-sin-titulo",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "bbc75b406ff241936065221d4bc1c23c44ebc6c9",
+   "titulo": "Identifican una red del lenguaje que permanece activa incluso cuando no hablamos",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWNIMXNxZFZ2M0ZhUURzRVJTT3hBNXpJaWFjYTQwYW83d1FyVWQ5ajMzWGJ4TFJGQmxPRUFkazZLMUo0d2hmNzd0TGF5TlUxdXZFTDNlNmZTMWRFeHpVNDc0Qm5aVEh5eGNha0pUQlUtcUxiRmVIMGoxWm0taGVRYjhwSHdCMTNBVUx0ZzJkS1NuX0ZadkdFb09uZk8yRG9uTWpmWVdqNWp5ZExsTmFFeVhHamVtcmQzSlBWbWVDcVNVel9jMVZndkhn0gHkAUFVX3lxTE1lOEJzbThVbkI5d2NzM0xmcU5hckowRS1hZEFrWjlqa3dPNVhZZ2NTN1dIY0VDNy1JR2dPYW0yVldBUXJLLVJ2N0hvOWxjbmxLV2NjblQ2cWF6aHJzT1pLUi1ubWJkVW8yZkxic3pjWEwyeC1Wc2E3eXkyTzRaZERlMlRjN1VOeFZCMTlGZTYwdmJTOEkwOWpxYkJKRFRiQVVNZHRNdm92R2tRYy1DTXNQYXgtZl9MVkpDQkE4U1BURGEwUGtUYjhmZlhJQUh6SUJ5UEx3ZzhGTUhHT3F5MWg2QmZFeQ?oc=5",
+   "fuente": "Infobae · vía Google",
+   "peso": 2,
+   "seccion": "nacional",
+   "fecha": "2026-08-20T20:28:20+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "red-lenguaje-neurocientifica",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -842,19 +752,7 @@
    "fecha": "2026-08-20T20:10:31+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "b0bd9f20ebaa6a44e91fbd2c998a43bbc68a90e1",
-   "titulo": "Viernes 21 de agosto de 2026 (19.30 GMT)",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTd5bHFjeHFOTWd4cEdoNDk3c1c0V0FRYmVncThMQ2ZQYS1CMV9QT2lFbGtDenBVM1BEZ04wd0tIRVpoM3JEdmZiVkliQjNjRVA5UW1PLVpLeVhzODhOdEdXdlhnMWF4djVTVC0wN3NBQjZFc0ExNHR2Y2oyd3daOEdqMTF3WllZWjJaeFRVaGpZa2ViS1VpMnFsWWpNZmpOY2ZJTG9hODZkSlV5MEZj0gGvAUFVX3lxTE85N3lscWN4cU5NZ3hwR2g0OTdzVzRXQVFiZWdxOExDZlBhLUIxX1BPaUVsa0N6cFUzUERnTjB3S0hFWmgzckR2ZmJWSWJCM2NFUDlRbU8tWkt5WHM4OE50R1d2WGcxYXh2NVNULTA3c0FCNkVzQTE0dHZjajJ3d1o4R2oxMXdaWVlaMlp4VFVoallrZWJLVWkycWxZak1mak5jZklMb2E4NmRKVXkwRmM?oc=5",
-   "fuente": "Infobae · vía Google",
-   "peso": 2,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:59:35+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
+   "historia": "contenido-spam-twitter",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -868,6 +766,7 @@
    "fecha": "2026-08-20T19:45:32+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "servicio-metrobus-local",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -881,6 +780,7 @@
    "fecha": "2026-08-20T19:41:26+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "sismo-peru-placas-tectonicas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -894,7 +794,6 @@
    "fecha": "2026-08-20T17:50:53+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "accidente-trafico-rural",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -908,7 +807,6 @@
    "fecha": "2026-08-20T21:07:36+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "vehiculos-robados-amis",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -922,7 +820,6 @@
    "fecha": "2026-08-20T20:55:08+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "ninos-broadway",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -936,7 +833,6 @@
    "fecha": "2026-08-20T20:54:05+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "dos-pensiones-imss",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -950,7 +846,6 @@
    "fecha": "2026-08-20T20:54:04+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "elmo-carrera-plaza-sesamo",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -964,6 +859,7 @@
    "fecha": "2026-08-20T20:35:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "incendios-california-propiedad",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1019,19 +915,6 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "799550b08416792c2248a357b8a87045222de8e6",
-   "titulo": "América oficializa fichaje de Miguel Borja para el Apertura 2026",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc04wdnBjV1hJQmFWTy05akNxaC1lS3RVM3RSTVFkZURpbVJJUWcwa3Facm14UnJORFhvUi1VSGxCSDktUHZhYlRNSlB3TDVleG8yWEZNSGdsb2JhYzB5Tk1EclFmeUhEaTVhV1pLdURZV1ktNW9LSElHaXEtS1ZKWTNxNlU5MlhjRHZRaDRpLXA1SzdMSkdQZm5JLUZiZzRnVzBjMVBOSmpTODlLblFR?oc=5",
-   "fuente": "ESPN México · vía Google",
-   "peso": 1,
-   "seccion": "nacional",
-   "fecha": "2026-08-20T19:01:22+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
    "id": "65bcd4d7b31c885e12424bc0b0b72c750f58c7ab",
    "titulo": "Hoy No Circula viernes 21 de agosto: autos azules 9 y 0 descansan",
    "resumen": "",
@@ -1068,7 +951,7 @@
    "fecha": "2026-08-20T18:32:18+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "multas-infracciones-laredo-texas",
+   "historia": "multas-laredo-texas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1082,7 +965,7 @@
    "fecha": "2026-08-20T18:28:29+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "policias-cantina-deuda-aguascalientes",
+   "historia": "policias-cuenta-cantina-aguascalientes",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1096,7 +979,7 @@
    "fecha": "2026-08-20T18:26:01+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "bloqueo-autopista-mexico-pachuca-tlalnepantla",
+   "historia": "bloqueo-mexico-pachuca-tlalnepantla",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1110,7 +993,6 @@
    "fecha": "2026-08-20T17:54:43+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "historia": "monedas-conmemorativas-mundial",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1124,7 +1006,6 @@
    "fecha": "2026-08-20T21:16:42+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "miradas",
-   "historia": "us-army-grand-theft-auto-vi-bonus",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1164,7 +1045,7 @@
    "fecha": "2026-08-20T20:28:19+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "tambien_en": [],
+   "historia": "cotizacion-euro-panama",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1181,17 +1062,17 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "a1bc8a1ddd839bf6bc21f7b8cea1bd3d3fae8ec9",
-   "titulo": "León XIV: cultivar siempre en uno mismo una auténtica conciencia de paz",
+   "id": "1bf4384f27ed8b2f848e9e54ae1015c15d70997e",
+   "titulo": "Euro hoy en Bolivia: cotización de cierre del 20 de agosto",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWxscFFjQ2tOYS1vZ2tDVlFvcjlkcEpGZnNOQl9zaG0wQUZ5YUx3MkJnbHQ1SUpKNnNuY3Q5RXBvdVVPX3c0X21tOC1ETWd2V0FTcTRxd0R0WXlWM093ckdjaXpkdjhOYUp6TXp3RllVTE9YNko5YVlOdjBidlRnbnBZa1dvYW1PaWFvY0x4MVNmVXM?oc=5",
-   "fuente": "Vatican News · vía Google",
-   "peso": 1,
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2ZfWnMxWVBub1hwRGVLcFpvck5xdTMzZUZCbTVueWtiZDdUYzBaaXNGMGFkRHdLckFOOWwtX05JRjEtNzhBUDBmT1M1TzVwOUxWSURDVUxIZERRblNPbWtFSm5lLWxCaktpMVJwTFctUndBb0l5V2o4azZrT283YnRlaEFTXzNaSVc2ZXh6Mm96VEVoRjRCMkhMVFJ0azRpMWFvVNIBvwFBVV95cUxPdkdrem5sbmQtb1d1ZndQRW4wbGhXS091c0FuWlNaX05mOWI0bnNQZVRRdWd4aG14eFVUeWluei12TE5kNGU4Z1BEQjd0ZVpGV0hVWmxWbGJiWXhJN19EcDY4Z28tYnRCNTVubnV0UVpQSjV0UEROVzdIUFBnZEhUM0VDcGFzMXRKVTRZRkg2VUZSOVFHRVQ3enZqYXBmOEhFUnlLUWpadURhMVozRkJnWTRfMWVUUUNxUElnSkhObw?oc=5",
+   "fuente": "Infobae · vía Google",
+   "peso": 2,
    "seccion": "internacional",
-   "fecha": "2026-08-20T21:03:32+00:00",
+   "fecha": "2026-08-20T19:49:09+00:00",
    "_subseccion_feed": null,
-   "_grupo_feed": "ultima_hora",
-   "historia": "leon-xiv-conciencia-paz",
+   "_grupo_feed": null,
+   "historia": "cotizacion-euro-bolivia",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1205,7 +1086,6 @@
    "fecha": "2026-08-20T20:59:09+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "ultima_hora",
-   "historia": "tigres-uanl-cambio-tecnico",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1222,6 +1102,45 @@
    "motivo": "ruido (curaduría)"
   },
   {
+   "id": "76cd3ff0700e60f48a759dfae167e8ad913103df",
+   "titulo": "Así se han vivido los momentos posteriores al terremoto en Perú",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRi1oVFpnMktnSFZ2N0EwcnVxdG1adXk0LWFNSEJJT0UxTGp2LVkyVjlQSzltam1fb3RGMEJUT3A1N1pXX1hyc0tyemNqaE8yM3hsdGYyQWdYTkRiNE9JQ3gtUnV1X2FCWU45YzlNdVZVNXNJOWp1WlNWemtnSkdhczI1NFZNMzBodnN3ZFZRZjlOQ2Q5dG50Ym5XODhsc2NzM2hPREVBMA?oc=5",
+   "fuente": "Univision · vía Google",
+   "peso": 1,
+   "seccion": "internacional",
+   "fecha": "2026-08-20T20:38:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "ultima_hora",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "eb6caafc191e94fac9cfb4ce8cc2464ee82daaee",
+   "titulo": "El mensaje de Chiara Ferragni tras el terremoto en Perú, donde se encuentra de vacaciones con su novio: \"Estamos a salvo\"",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNV84R0RfUDIya1c4OXpxUGtMUzJYZ1ZoVmxPdmNwUFkxZkxaVzVpX195R1gzSU9sb3RfWUhHUklVOXFHU0RwQ3JxYnF4ckoxWG5SYW41Nm13RWVVU083Y29iVXJzOUhpN0NJVTFwR3ZORlZnQzcwb3AydGxHRy1zMlBZczFZNXFBY0NTa18xVE1mQ1BKSmtyUExXSQ?oc=5",
+   "fuente": "HOLA · vía Google",
+   "peso": 1,
+   "seccion": "internacional",
+   "fecha": "2026-08-20T20:29:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "ultima_hora",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "c57556516dd32f70ac7164a9152d6ceb299873fd",
+   "titulo": "Terremoto en Perú: la magnitud y la profundidad respecto al ocurrido en Colombia",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhDa1B5MHBua0hlanIyVHdGY3M2eUtQTUVsN2lTUDJ3VVBmR2ZJWjM5TXlQOEkwRWRRRmw2bjJIRUtEUFRSMlpncUU4a08yelFoRy0zNi1rZDNzQUdDWnhVTnROTWtUdlNfbjVuTkxYSGVNTzFoSTJVMjRJMDlPc2tKT2l3YzFwcm91WnQ3Y3VkUXVjTXloUDlUakg1MEctXzBkZEFIdmFJOE9wWU82OXpqNG1URUZneG5JUjJuNVVfcTTSAcgBQVVfeXFMUHZZdmh3WHR3T215YzhLLXY2djN1MWlLdlBnakJaTkRibmg1alE5QnFwN2VXTlJUUE9haThBSk01RXhVU3VHYVpjM3ZrOEVMZ0dUOU03YVRoNXBZa1VaRDJsSi1QNm9TVnR3SzVmY3praTlyc2piMHNjOU00bVFMdVFiR3pnTWdybFBKYnVtVk03MERWTk5kdmVKdlNYekc5TVEyaTctNEdTbDhUQjBvMV9famVvSkRoOWhpQUM2X0oyWDFlU0h5LWg?oc=5",
+   "fuente": "Revista Semana · vía Google",
+   "peso": 1,
+   "seccion": "internacional",
+   "fecha": "2026-08-20T20:13:25+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "ultima_hora",
+   "motivo": "ruido (curaduría)"
+  },
+  {
    "id": "bd978a57dc29b119873b3649897b443a0d516395",
    "titulo": "Ya es oficial y confirmado | España, Italia y Portugal prohíben el ingreso al país a todos los citadinos que posterguen la renovación del pasaporte",
    "resumen": "",
@@ -1232,19 +1151,6 @@
    "fecha": "2026-08-20T19:59:09+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "ultima_hora",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "c74e6b7a2630476c086225c887f01bfb0e304aab",
-   "titulo": "Fortes homenajea a Ordóñez con su importancia en Málaga",
-   "resumen": "El malagueño sale por la puerta grande a hombros del entusiasmo de la afición tras imponerse a una decepcionante escalera de Cuvillo; buena tarde de Morante, cogido y sin triunfo Leer",
-   "url": "https://www.elmundo.es/cultura/toros/2026/08/20/6a875b9cfc6c83bb1d8b4580.html",
-   "fuente": "El Mundo — Portada",
-   "peso": 3,
-   "seccion": "espana",
-   "fecha": "2026-08-20T20:33:19+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1271,6 +1177,7 @@
    "fecha": "2026-08-20T17:42:20+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "movistar-plus-futbol",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1284,6 +1191,7 @@
    "fecha": "2026-08-20T17:41:17+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "premio-pilar-gil-sip",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1323,6 +1231,7 @@
    "fecha": "2026-08-20T17:46:30+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "incendio-inca-muro",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1336,19 +1245,7 @@
    "fecha": "2026-08-20T20:53:13+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "0b87abaa0ae0c72c213e92309f2eeeba175082f0",
-   "titulo": "Silicon Valley Doesn't Get Why You Hate AI",
-   "resumen": "Technology leaders don’t seem to understand society’s gripes about AI, but boy, are they posting through it.",
-   "url": "https://www.wired.com/story/silicon-valley-doesnt-get-why-you-hate-ai/",
-   "fuente": "Wired — IA",
-   "peso": 3,
-   "seccion": "ia",
-   "fecha": "2026-08-20T18:49:07+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": "otros",
+   "historia": "enfriamiento-datacenters-especulacion",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1362,7 +1259,7 @@
    "fecha": "2026-08-20T18:20:35+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
-   "historia": "linkdaze-calendario-ia",
+   "historia": "linkdaze-smart-calendar",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1376,6 +1273,7 @@
    "fecha": "2026-08-20T17:15:01+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "astromech-financiamiento-genomic-ia",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1389,6 +1287,7 @@
    "fecha": "2026-08-20T15:42:39+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "ai-consciousness-debates-trap",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1402,6 +1301,7 @@
    "fecha": "2026-08-20T15:30:34+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "pixel-11-hilight-notification",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1415,6 +1315,7 @@
    "fecha": "2026-08-20T15:40:40+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "deere-2026-profit-ai-construction",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1428,6 +1329,7 @@
    "fecha": "2026-08-20T20:29:14+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "riesgos-ia-empresas-politica",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1441,32 +1343,21 @@
    "fecha": "2026-08-20T20:16:09+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "sb-energy-infraestructura-ia",
    "motivo": "ruido (curaduría)"
   },
   {
    "id": "e58926ef893c76c16a33c212e65ad4a538023c9f",
    "titulo": "BTS y Gemini se unen para darte juegos y actividades: así los puedes activar",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNnNIQmFrWHRSTXlEMER4Qzh2OXVIQmFZelYweGVWcXl3dU1nQm8wREx6ODhfZ29wWHhvZVlwd2hjY3dITF9kb0Z4aFVvZFFFUVpuMjJaeFR1M2tpdlVka2F6VVIyUll0Wk4ta0NXNjQzQ3JpRHowWXJQdE5SeGF5LVRoMmFuSE9ocmR3VHQ0NW9rd05oMUU2MWcwOURwbFd4YU56WmZMLTdPdXVKMUpBV0o5TEIyY0haS1kyOFFuV3dzYWtCWWtoMUo5Q1o3YWo2S25F0gHTAUFVX3lxTFA2c0hCYWtYdFJNeUQwRHhDOHY5dUhCYVl6VjB4ZVZxeXd1TWdCbzBETHo4OF9nb3BYeG9lWXB3aGNjd0hMX2RvRnhoVW9kUUVRWm4yMlp4VHUza2l2VWRrYXpVUjJSWXRaTi1rQ1c2NDNDcmlEejBZclB0TlJ4YXktVGgyYW5IT2hyZHdUdDQ1b2t3TmgxRTYxZzA5RHBsV3hhTnpaZkwtN091dUoxSkFXSjlMQjJjSFpLWTI4UW5Xd3Nha0JZa2gxSjlDWjdhajZLbkU?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHZGQS1jS0w0WGw0LTRjekZUZ1k3M1hCejZWeXNMMXpiRkhZbHRwY09rUXlFamxBZWFYczNmeTBQVW85X0RvWmI1bGd1R2UyOVhQbldpd3NDb080elVZcHRtZnVUdjEtZndZVWlSX0FuU2t0dFpOT3Z4R2FwTGhrNm16WUFFVDltYkozMTVLRVFMazAtUS1HeVhLRlVqNWZkWnMtOWtoaFozbkFfRFo1TTYtWFJUT3pz0gHTAUFVX3lxTFA2c0hCYWtYdFJNeUQwRHhDOHY5dUhCYVl6VjB4ZVZxeXd1TWdCbzBETHo4OF9nb3BYeG9lWXB3aGNjd0hMX2RvRnhoVW9kUUVRWm4yMlp4VHUza2l2VWRrYXpVUjJSWXRaTi1rQ1c2NDNDcmlEejBZclB0TlJ4YXktVGgyYW5IT2hyZHdUdDQ1b2t3TmgxRTYxZzA5RHBsV3hhTnpaZkwtN091dUoxSkFXSjlMQjJjSFpLWTI4UW5Xd3Nha0JZa2gxSjlDWjdhajZLbkU?oc=5",
    "fuente": "Infobae · vía Google",
    "peso": 2,
    "seccion": "ia",
-   "fecha": "2026-08-20T19:49:11+00:00",
+   "fecha": "2026-08-20T19:49:10+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "a7cbbb1637680362e46c34e4936ae11d69466322",
-   "titulo": "La App De Meta Que Crea Videojuegos Con IA Sin Programar",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMUxycW9hamQ4TERhTjFKXzVmMk1SY1VtSzJURVhSRUNPUlN2Slp4bzJYZW1fb3Zwd1EzNkRTN0VjcUFPMGhIbnVTVTdwVlV4SjFDMDBsSHgxOWM3dTZuYXk3dEJoVVJrUTFTQ0JVczhybFExSXluQXBXTUdEM01sS1lJai01M2ZjU2ZJQWRpRmJtYnR3ZmZvcENkbVJRbldMZ2tiLWVYRGhqSnUyQWhvYw?oc=5",
-   "fuente": "elperiodico.digital · vía Google",
-   "peso": 2,
-   "seccion": "ia",
-   "fecha": "2026-08-20T19:30:56+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": "otros",
+   "historia": "bts-gemini-juegos-actividades",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1480,6 +1371,7 @@
    "fecha": "2026-08-20T19:09:14+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "ia-economia-empresas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1493,6 +1385,7 @@
    "fecha": "2026-08-20T19:06:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "robots-control-ia-experto",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1506,6 +1399,7 @@
    "fecha": "2026-08-20T18:48:36+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "ia-plasticos-reciclados-moldeo",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1519,6 +1413,7 @@
    "fecha": "2026-08-20T18:22:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "pixel-11-alertas-fbi",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1532,6 +1427,7 @@
    "fecha": "2026-08-20T18:10:11+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "celulares-ia-google-chatgpt",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1545,6 +1441,7 @@
    "fecha": "2026-08-20T17:55:57+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "james-muldoon-ia-relaciones",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1558,6 +1455,21 @@
    "fecha": "2026-08-20T17:42:12+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "robots-humanoide-china",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "9d8cfdfb6cd76fc9cbd990349cb057b09657962c",
+   "titulo": "Meta AI aterriza en los ordenadores de Apple con funciones avanzadas: todo lo que puedes hacer",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWVV2U2dCZDloMmtNY3JzY0JjUjhEb3o4d09LTWxaLVEyUEQya1FweFoyT1VwTDBWT1NBQXowYk9Qc0JkMm1sRThjTFByeDIzS080ME5kT1lVVXE4aUtXd0paOV9rU2xNeUxFY2Fqdjd6TkZZY3lILVFodm9kcUFabUdYaXRLSUs2d1k0Zzhwd3BtbzJjTWpyVDBYWWJENm9SaDNCOENwTV96M1dKN21XblZYdlRSY2pBS09SbHliZjBMSWNDc0YzUlQzUWctNVk4NjktWDJsY0xlS1RQNDVv?oc=5",
+   "fuente": "20Minutos · vía Google",
+   "peso": 2,
+   "seccion": "ia",
+   "fecha": "2026-08-20T17:30:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "otros",
+   "historia": "meta-ai-apple-mac",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1571,45 +1483,21 @@
    "fecha": "2026-08-20T17:30:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "cv-ia-busqueda-laboral",
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "b399dd54da657c962646629633240a5914c57a02",
-   "titulo": "¿Cansado de la basura generada por la IA? A los gigantes tecnológicos les está pasando lo mismo",
+   "id": "e6e746136d05bd94cca945b07f96f21d742c8fec",
+   "titulo": "Meta AI llega a los Mac de Apple como una aplicación independiente: se podrá manejar con la voz",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNOFpkeEdrTERQSXExNy01V3RpTVhhQVh0ZlJEMElRWE1KTHNOSEdHdmdkMUVkeHRsZXUwRl8tY2UxVGR6N2Q2cEo4UFBVc19XZkd4TnZNbW5Nd1JITFg1am5ScFJMTkthOU9FSlJ6OVNrZ1Npdm80c0txVF9qNGhGckMwREpXMlFTZ0FkNl90UDJobDlfWjI1UThCQk9ZUXdkMF90R3E1clJoOVdCRjlTejU5Zl9xTWdYZDNNeWpYZE1kTG9BVDZvV1dST0FNS2xnOUpWLV9Ka0J5SnE4ckFkMw?oc=5",
-   "fuente": "Diario de Yucatán · vía Google",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWMxUE95bVdLV3F5MEhoaldFVUF0VzBVUDNocDBld1pBTzYxWkZTSFdqLXlhNVlKMUNSS25aUjJ4dkVqZVpLNVVYdGxWQURTdzZFNUFSQmw5RWFjNEpSMGFrV0U3LUZrdHdyWjhUWkdSdzdYVEc4bmlaWk1OMjVlRVVpaGJBNV9vWVM2ekI1VGVRSjNmakZDV0pwd2wwXzFOOFhDX2dRTi0yUDF2X2FiRW5Zd1cyVzFfcUpOYi1ZYWpRX2p6VUx4TFpEZWE2Z1NDU3YyLS1tTWZ2NUlTM191aVVSTGo3WlpHTDV6VdIB7AFBVV95cUxQTWMxUE95bVdLV3F5MEhoaldFVUF0VzBVUDNocDBld1pBTzYxWkZTSFdqLXlhNVlKMUNSS25aUjJ4dkVqZVpLNVVYdGxWQURTdzZFNUFSQmw5RWFjNEpSMGFrV0U3LUZrdHdyWjhUWkdSdzdYVEc4bmlaWk1OMjVlRVVpaGJBNV9vWVM2ekI1VGVRSjNmakZDV0pwd2wwXzFOOFhDX2dRTi0yUDF2X2FiRW5Zd1cyVzFfcUpOYi1ZYWpRX2p6VUx4TFpEZWE2Z1NDU3YyLS1tTWZ2NUlTM191aVVSTGo3WlpHTDV6VQ?oc=5",
+   "fuente": "Infobae · vía Google",
    "peso": 2,
    "seccion": "ia",
-   "fecha": "2026-08-20T16:52:05+00:00",
+   "fecha": "2026-08-20T16:17:27+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "4f5cab77065f2dc3403b0ac973e81b3b853f48f6",
-   "titulo": "¿Por qué las empresas de inteligencia artificial están comprando millones de libros?",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOM0dUYWE3MlpGVWFKOUstWEhYaEdMMDU5bTBKN0l3UXJuMm5xN2l0MDVjamx1aHYxcmVGUzRaT2NwWm1XaUU1QWlPMS1JWWlZT20tby1memFJM2xJVFhlbDBscHFhUmVmYWlORW9mVjgtT28xcU45RVlLMm9UVURZUlNyZng0SWtGQkN1VnRpUW1zbGFqWU16bmc5UUVmRXVUb3hRU1doNnBXUkJZX1pNUQ?oc=5",
-   "fuente": "OnCubaNews · vía Google",
-   "peso": 2,
-   "seccion": "ia",
-   "fecha": "2026-08-20T16:27:13+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": "otros",
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "4eb06dfce580fe2752aa8608ed08738fe20bd972",
-   "titulo": "WhatsApp prepara una nueva función de IA para expandir fotos al formato 9:16",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGhDZnZGUWxKWVhKYjhXRHJ6ckx6MVU4VFQ5NFdDZjFTMzJRVFFpbHlKelh3a2pkSzBvcHhIeDNCelRNRGpzQ2l0UTJkMzJFYVJrMlZRWGJDOUo3WUU4T3I3X2RUak9QblM2cVdPMDRvaGJRSmpyOG1NY2hJbzJRODR0TDBwMjZBQjhidWEwRG9rY2pYVU9MQWtnbEZZeFNJR0VWN2k2ajY?oc=5",
-   "fuente": "Prensa Libre.CR · vía Google",
-   "peso": 2,
-   "seccion": "ia",
-   "fecha": "2026-08-20T15:46:42+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": "otros",
+   "historia": "meta-ai-mac-apple-voz",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1623,6 +1511,21 @@
    "fecha": "2026-08-20T15:32:14+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
+   "historia": "google-bts-gemini-interactivas",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "16de9bb1f3b39b9d0bb3d780d51b441baf48f075",
+   "titulo": "PulsoEmpresarial Inteligencia artificial en las empresas: de la prohibición a la implementación de políticas de uso",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNc1VNYnJyTkRuU09SSFJENTFmcGVmUjQ2UjhfV1NJSThjVlZvbEwyemsyOHU4cENEa0hXdTlBTl9tWXlpdzltcW1PYVd4b0V4NjVBN3BXMjN3Zkl2Slo4LVpZdmNBYXV4Z2JPaV9ZZVV1MTdNRThHWWM4cVNrRGNMRDZQU2t5c3E4SGFwQ3FrQ1ZFeEVfQ1FQMVFlNWpjTDJiWW9LUWNDNFFhRkZnQWE2cDBTaWxveUFVWTBvanAtenFQZGlzc0NNT1dhbXBNTmlaN3hTWUVLdTRUWTFpT3cxZWZEbVhWR3M?oc=5",
+   "fuente": "El Impulso · vía Google",
+   "peso": 2,
+   "seccion": "ia",
+   "fecha": "2026-08-20T15:20:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "otros",
+   "historia": "ia-empresas-politicas-uso",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1636,7 +1539,21 @@
    "fecha": "2026-08-20T14:20:15+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": "otros",
-   "historia": "lmtm-agencia-2027-ia",
+   "historia": "lmtm-agencia-ia-marketing",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "59d1225b5a337067981b34b5a069200371a4dec8",
+   "titulo": "Equality on Demand | La inteligencia artificial también necesita a las mujeres",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDU1OWZ5czNfZlM2ekQya3YtbkpHQkhlOWlwTVVmZlBVZzhIdktSUGJ3RmJrSkp0aFhpSkdaSm81WEkxNHA1aDdNdEZQN1NsMTlpY0tKZUFQbTlldGFqN2RBc2trNkpQY2daNXlQQXhMUXhnc3JTSzA5Vk9hTl9SSGQwT3lab25BUEprSzVlWmZZbXBpX1psWk9SZWUxSjBiWVB1VjR4bThQYTMyaFg1UWJwUEtRUUgtWk9XUU9GZDB5RVVyc1dCWW8wS2VwemtTUWc?oc=5",
+   "fuente": "panoramaweb.com.mx · vía Google",
+   "peso": 2,
+   "seccion": "ia",
+   "fecha": "2026-08-20T13:00:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": "otros",
+   "historia": "ia-mujeres-igualdad",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1650,6 +1567,7 @@
    "fecha": "2026-08-20T20:09:55+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "fenomeno-nino-arboles-calor",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1681,20 +1599,6 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "3bdad63ce04b72aee06c572372c4732d22243b55",
-   "titulo": "Colegios privados enfrentan un reto: 85 % duplica tareas administrativas",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmVnVXhQSTZTWkJCRXYtdmt0UXlnRmtSWWdZWGdPRnFaZVJseWJmdFc0cUFnTDViN1g4YnlMWFk5ZlJIamtDTE11c2pMQ0szV3h5eXRuWjd4ZVdseVhDNUtXOUY0NFNWbFc5eGc5V2RqVnBTSUpWaUtWRHIxQVdzdlpNSlJ6cng5WDA3RGRnNlh6QnhHNDFUSnMtYVBRX2pTdjAzNUdpcDFxSXFFNC1qaUxFaUpBY0pzV1HSAccBQVVfeXFMTVFWaG1pUjZ4YUNIeWRYdzNpdUprcVhfMXJfM29ud3NNUGxvaHVfZWxiUUN5U1hXVEQ5Z3JfcjlKTnIzUjh6S25Ec3poaWduT0h4N2VIcU5QWkxsOHVZZ1NOM2NrOHFDWGJsMU5sZzhDYkhqU1lPTEQ4OVgxT0dLYmc0ZHgxSThtTzMwVURvOXBUc25VWW5sRE9idVc4QnkxWHhWNTNYTGVybnRYallBeFNzQlplVW5nRkp5N21GaG9ZZE5XS2tqUQ?oc=5",
-   "fuente": "Blu Radio · vía Google",
-   "peso": 2,
-   "seccion": "colombia",
-   "fecha": "2026-08-20T20:52:24+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
-   "historia": "colegios-privados-tareas-administrativas",
-   "motivo": "ruido (curaduría)"
-  },
-  {
    "id": "e3c67aafa7bc9f8180a5099e9d82250484dd6c8e",
    "titulo": "Dólar hoy en Colombia: cotización de cierre del 20 de agosto",
    "resumen": "",
@@ -1705,7 +1609,35 @@
    "fecha": "2026-08-20T20:31:22+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "tambien_en": [],
+   "historia": "cotizacion-dolar-colombia",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "bbc75b406ff241936065221d4bc1c23c44ebc6c9",
+   "titulo": "Identifican una red del lenguaje que permanece activa incluso cuando no hablamos",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQWNIMXNxZFZ2M0ZhUURzRVJTT3hBNXpJaWFjYTQwYW83d1FyVWQ5ajMzWGJ4TFJGQmxPRUFkazZLMUo0d2hmNzd0TGF5TlUxdXZFTDNlNmZTMWRFeHpVNDc0Qm5aVEh5eGNha0pUQlUtcUxiRmVIMGoxWm0taGVRYjhwSHdCMTNBVUx0ZzJkS1NuX0ZadkdFb09uZk8yRG9uTWpmWVdqNWp5ZExsTmFFeVhHamVtcmQzSlBWbWVDcVNVel9jMVZndkhn0gHkAUFVX3lxTE1lOEJzbThVbkI5d2NzM0xmcU5hckowRS1hZEFrWjlqa3dPNVhZZ2NTN1dIY0VDNy1JR2dPYW0yVldBUXJLLVJ2N0hvOWxjbmxLV2NjblQ2cWF6aHJzT1pLUi1ubWJkVW8yZkxic3pjWEwyeC1Wc2E3eXkyTzRaZERlMlRjN1VOeFZCMTlGZTYwdmJTOEkwOWpxYkJKRFRiQVVNZHRNdm92R2tRYy1DTXNQYXgtZl9MVkpDQkE4U1BURGEwUGtUYjhmZlhJQUh6SUJ5UEx3ZzhGTUhHT3F5MWg2QmZFeQ?oc=5",
+   "fuente": "Infobae · vía Google",
+   "peso": 2,
+   "seccion": "colombia",
+   "fecha": "2026-08-20T20:28:20+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "red-lenguaje-neurocientifica",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "60ebf281c93ef311d66a3b56eb3c58178ffa166b",
+   "titulo": "Euro hoy en Panamá: cotización de cierre del 20 de agosto",
+   "resumen": "",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV1hSUXhXdUxTcXhLWXJkYS12YlpCUzRxSDNLWmNFSHJvMm1KR2ZIMnVLMGMxUGVaR1JDc1FJNGZhaW5QcGtwc2ZtNmhhcFRQbnRJNFZaSzNfZkw5ajh3MHRBREQxaXNOcnlVVFZmd083MGFtcXBFeXdiQTJHRXNUbEFYY2VzR0JsZWZtX3VVSk1QRkhLaVo3ZUNUZ0FSZHJvckxV0gG-AUFVX3lxTE1ySEVtQ0tYSWpWeVZsVFZ6UVJOWEJjS0RtZVRUUHZZT2VFdm9EMElIU1hPRl9zMVExZXpXNDhuVW52WmxPeTVxbWVLbFNoWkdoVUFhaFRwMXVfY1hPei0tMTVuS1BGaldPSUEta3U4aDM3MG9ZRll1UWQ1LXBoY21vLWVpcGc4WGU5NG5HaUltNEZQSk9FczNmandPamhRYV9kWnNuaEoxdnNmWWJLZng5Z1BKQ19BemJtd3hPZkE?oc=5",
+   "fuente": "Infobae · vía Google",
+   "peso": 2,
+   "seccion": "colombia",
+   "fecha": "2026-08-20T20:28:19+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "cotizacion-euro-panama",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1719,19 +1651,21 @@
    "fecha": "2026-08-20T20:10:31+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "contenido-spam-twitter",
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "b0bd9f20ebaa6a44e91fbd2c998a43bbc68a90e1",
-   "titulo": "Viernes 21 de agosto de 2026 (19.30 GMT)",
+   "id": "1bf4384f27ed8b2f848e9e54ae1015c15d70997e",
+   "titulo": "Euro hoy en Bolivia: cotización de cierre del 20 de agosto",
    "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOTd5bHFjeHFOTWd4cEdoNDk3c1c0V0FRYmVncThMQ2ZQYS1CMV9QT2lFbGtDenBVM1BEZ04wd0tIRVpoM3JEdmZiVkliQjNjRVA5UW1PLVpLeVhzODhOdEdXdlhnMWF4djVTVC0wN3NBQjZFc0ExNHR2Y2oyd3daOEdqMTF3WllZWjJaeFRVaGpZa2ViS1VpMnFsWWpNZmpOY2ZJTG9hODZkSlV5MEZj0gGvAUFVX3lxTE85N3lscWN4cU5NZ3hwR2g0OTdzVzRXQVFiZWdxOExDZlBhLUIxX1BPaUVsa0N6cFUzUERnTjB3S0hFWmgzckR2ZmJWSWJCM2NFUDlRbU8tWkt5WHM4OE50R1d2WGcxYXh2NVNULTA3c0FCNkVzQTE0dHZjajJ3d1o4R2oxMXdaWVlaMlp4VFVoallrZWJLVWkycWxZak1mak5jZklMb2E4NmRKVXkwRmM?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb2ZfWnMxWVBub1hwRGVLcFpvck5xdTMzZUZCbTVueWtiZDdUYzBaaXNGMGFkRHdLckFOOWwtX05JRjEtNzhBUDBmT1M1TzVwOUxWSURDVUxIZERRblNPbWtFSm5lLWxCaktpMVJwTFctUndBb0l5V2o4azZrT283YnRlaEFTXzNaSVc2ZXh6Mm96VEVoRjRCMkhMVFJ0azRpMWFvVNIBvwFBVV95cUxPdkdrem5sbmQtb1d1ZndQRW4wbGhXS091c0FuWlNaX05mOWI0bnNQZVRRdWd4aG14eFVUeWluei12TE5kNGU4Z1BEQjd0ZVpGV0hVWmxWbGJiWXhJN19EcDY4Z28tYnRCNTVubnV0UVpQSjV0UEROVzdIUFBnZEhUM0VDcGFzMXRKVTRZRkg2VUZSOVFHRVQ3enZqYXBmOEhFUnlLUWpadURhMVozRkJnWTRfMWVUUUNxUElnSkhObw?oc=5",
    "fuente": "Infobae · vía Google",
    "peso": 2,
    "seccion": "colombia",
-   "fecha": "2026-08-20T19:59:35+00:00",
+   "fecha": "2026-08-20T19:49:09+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "cotizacion-euro-bolivia",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1745,6 +1679,7 @@
    "fecha": "2026-08-20T19:45:32+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "servicio-metrobus-local",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1758,6 +1693,7 @@
    "fecha": "2026-08-20T19:41:26+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "sismo-peru-placas-tectonicas",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1813,6 +1749,20 @@
    "motivo": "ruido (curaduría)"
   },
   {
+   "id": "34d1cb1afbd37f55c5cd53ce2475cfd509c464f7",
+   "titulo": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, jueves 20 de agosto",
+   "resumen": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+   "url": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-jueves-20-agosto_0_Q1ii65bAeK.html",
+   "fuente": "Clarín — Lo último",
+   "peso": 3,
+   "seccion": "argentina",
+   "fecha": "2026-08-20T21:03:00+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "tambien_en": [],
+   "motivo": "ruido (curaduría)"
+  },
+  {
    "id": "218ee406c870002f2ad7795b8763bf5f22468a5f",
    "titulo": "Gabriel Rolón, psicólogo: “En el recuerdo guardamos las cosas que hemos perdido para que la muerte no se las lleve”",
    "resumen": "El psicoanalista hizo hincapié en la importancia de momentos vividos en el pasado y la resignificación que la persona puede darle en búsqueda de plenitud personal",
@@ -1839,16 +1789,17 @@
    "motivo": "ruido (curaduría)"
   },
   {
-   "id": "6621dc3105214514d17911ab84bb40f850df3050",
-   "titulo": "Conrado Estol, neurólogo: “Si no se logra controlar la ansiedad con hábitos, hay que consultar a un profesional”",
-   "resumen": "En una entrevista exclusiva para LA NACION, el especialista detalló cómo alcanzar una longevidad saludable a través de cambios en el estilo de vida; advirtió sobre el manejo médico de la salud mental",
-   "url": "https://www.lanacion.com.ar/sociedad/conrado-estol-neurologo-si-no-se-logra-controlar-la-ansiedad-con-habitos-hay-que-consultar-a-un-nid17082026/",
-   "fuente": "La Nación",
+   "id": "328fa4bc6dbc713bae0d35415dc37eda9b3d3122",
+   "titulo": "La polémica frase del vicepresidente de Nacional tras caerse el pase de Edwuin Cetré: \"El morocho no quiso venir\"",
+   "resumen": "El extremo colombiano frenó su llegada a Montevideo cuando los clubes ya tenían todo acordado de palabra. Flavio Perchman, vicepresidente del Bolso, confirmó la caída de la operación con una frase que generó gran repercusión…",
+   "url": "https://www.clarin.com/deportes/polemica-frase-vicepresidente-nacional-caerse-pase-edwuin-cetre-morocho-quiso-venir_0_3uP6aWjjP1.html",
+   "fuente": "Clarín — Lo último",
    "peso": 3,
    "seccion": "argentina",
-   "fecha": "2026-08-20T20:49:00+00:00",
+   "fecha": "2026-08-20T20:54:28+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "edwuin-cetre-nacional-futbol",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1875,6 +1826,7 @@
    "fecha": "2026-08-20T20:54:45+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "sin-contenido",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1888,6 +1840,7 @@
    "fecha": "2026-08-20T20:54:25+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "cienciano-historia-brasil",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1901,19 +1854,7 @@
    "fecha": "2026-08-20T20:53:36+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
-   "motivo": "ruido (curaduría)"
-  },
-  {
-   "id": "338e38e88ad5787316a7b6a8416c600b72107f0c",
-   "titulo": "Secuencia 12 - Infobae",
-   "resumen": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Qa3kxZFVDQnljdFNfRlBNQTVuYWRyX1h0UzZnQXczYnVNN19QZXlDbmtfSnJkWVY0MHhld0VRMmFmWWk4bFMxWEVTRlNCN0M1MHYzSllfdkhiZmRKMmRwc040QUY2bkRteHZN?oc=5",
-   "fuente": "Infobae · vía Google",
-   "peso": 2,
-   "seccion": "argentina",
-   "fecha": "2026-08-20T20:50:08+00:00",
-   "_subseccion_feed": null,
-   "_grupo_feed": null,
+   "historia": "resumen-noticia-mundo",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1927,6 +1868,7 @@
    "fecha": "2026-08-20T20:06:22+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "martha-stewart-karl-anthony-towns",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1940,6 +1882,21 @@
    "fecha": "2026-08-20T20:05:00+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "anna-faris-sobriety",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "19ea4c3eb2ef2c134e397d0265b3483521714e12",
+   "titulo": "1000-lb Sisters star Amy Slaton shows off her incredible weight loss in tiny corset bra as she launches music career",
+   "resumen": "The 38-year-old reality TV personality teased the release of the upcoming music for her AI-generated track titled Pounds Hollow this week.",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16067811/1000lb-sisters-amy-slaton-weight-loss-music-career.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "fuente": "Daily Mail — Showbiz",
+   "peso": 3,
+   "seccion": "espectaculos",
+   "fecha": "2026-08-20T20:03:09+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "amy-slaton-weight-loss-music",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1953,6 +1910,21 @@
    "fecha": "2026-08-20T19:59:06+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "rebecca-adlington-cyprus-holiday",
+   "motivo": "ruido (curaduría)"
+  },
+  {
+   "id": "5978ccac0887fa214348a9724d292a8b4de1125c",
+   "titulo": "Taylor Sheridan reveals he was homeless TWICE and living out of his car before finding fine and making millions",
+   "resumen": "Undeterred by his predicament, Sheridan would typically retreat to wide open areas away from Los Angeles where he could 'safely sleep' as he continued pursuing fame.",
+   "url": "https://www.dailymail.com/tvshowbiz/article-16067809/taylor-sheridan-homelessness-hollywood-millions.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "fuente": "Daily Mail — Showbiz",
+   "peso": 3,
+   "seccion": "espectaculos",
+   "fecha": "2026-08-20T19:52:14+00:00",
+   "_subseccion_feed": null,
+   "_grupo_feed": null,
+   "historia": "taylor-sheridan-homeless-backstory",
    "motivo": "ruido (curaduría)"
   },
   {
@@ -1966,6 +1938,7 @@
    "fecha": "2026-08-20T20:30:56+00:00",
    "_subseccion_feed": null,
    "_grupo_feed": null,
+   "historia": "la-captura-estreno",
    "motivo": "ruido (curaduría)"
   }
  ]
