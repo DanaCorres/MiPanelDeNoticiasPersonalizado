@@ -54,6 +54,13 @@ ajustes:
   hilos_ia: 5
   # Segundos de espera por llamada
   timeout_ia: 120
+  # Qué tan parecidos deben ser dos titulares para considerarlos la misma
+  # historia cuando la curaduría no opinó. 0.35 es prudente; súbelo si sientes
+  # que junta notas distintas, bájalo si se te siguen colando repetidas.
+  umbral_similitud: 0.35
+  # Pedirle resúmenes al modelo. Solo los escribe para las notas que llegan sin
+  # texto (las de Google Noticias); las que ya traen resumen propio no gastan.
+  resumenes_ia: true
 
 secciones:
   nacional:
@@ -98,6 +105,92 @@ secciones:
     codigo: SHOW
     grupos:
       dia: Chismes y farándula
+
+# ---------------------------------------------------------------------------
+# Jerarquía de medios: cuando dos fuentes cuentan la misma historia, se queda
+# la de mayor peso. 3 = medio de referencia, 2 = normal, 1 = portal de relleno.
+# El peso no cambia qué tanto se publica de cada medio, solo quién gana el
+# empate cuando la nota está repetida. Edita los números a tu gusto.
+# ---------------------------------------------------------------------------
+jerarquia:
+  # --- Medios que no tienen feed propio pero llegan por Google Noticias -----
+  "El Universal": 3
+  "Reforma": 3
+  "El Economista": 3
+  "La Razón": 2
+  "Expansión": 2
+  "El Heraldo de México": 2
+  "Forbes México": 2
+  "N+": 2
+  "Azteca Noticias": 2
+  "Vanguardia": 2
+  "SDPnoticias": 1
+  "La Silla Rota": 1
+  "Publimetro": 1
+  "El Sol de México": 1
+  # --- Fuentes del panel ----------------------------------------------------
+  "La Jornada — Política": 3
+  "La Jornada — Economía": 3
+  "La Jornada — Capital": 3
+  "La Jornada — Opinión": 3
+  "El País México": 3
+  "El País — Economía": 3
+  "El País — Opinión": 3
+  "El País — Tecnología": 3
+  "Milenio": 3
+  "Excélsior": 3
+  "Infobae México": 2
+  "El Financiero": 3
+  "Uno TV": 1
+  "Debate": 3
+  "Sopitas": 1
+  "Proceso": 3
+  "Aristegui Noticias": 3
+  "Animal Político": 3
+  "Semanario ZETA": 3
+  "Zeta Tijuana": 3
+  "ATDT y gobierno digital": 2
+  "Portada México vía Google Noticias": 1
+  "The New York Times — Tecnología": 3
+  "The New York Times — Inteligencia artificial": 3
+  "The New York Times — Negocios": 3
+  "TechCrunch — IA": 3
+  "Wired — IA": 3
+  "The Verge": 3
+  "MIT Technology Review — IA": 3
+  "El País — Tecnología (IA)": 3
+  "Techmeme": 3
+  "Reuters vía Google Noticias": 3
+  "IA en español vía Google Noticias": 2
+  "El Tiempo — Colombia": 3
+  "El Tiempo — Política": 3
+  "El Espectador": 3
+  "Blu Radio": 2
+  "Infobae Colombia": 2
+  "Clarín — Lo último": 3
+  "Clarín — Política": 3
+  "El Destape": 2
+  "Infobae Argentina": 2
+  "La Nación": 3
+  "El Mundo — Portada": 3
+  "El Español": 2
+  "20 minutos": 2
+  "El País — Portada": 3
+  "Portada mundial vía Google Noticias": 1
+  "Sucesos graves vía Google Noticias": 1
+  "Al Jazeera": 3
+  "BBC Mundo": 3
+  "DW en español": 3
+  "France 24 en español": 3
+  "The Guardian — Mundo": 3
+  "South China Morning Post": 3
+  "Middle East Eye": 3
+  "TVNotas": 1
+  "Quién": 1
+  "Daily Mail — Showbiz": 3
+  "TMZ": 3
+  "Entertainment Tonight": 3
+  "E! Online": 3
 
 fuentes:
 
@@ -177,6 +270,13 @@ fuentes:
 
   - nombre: Aristegui Noticias
     url: "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419"
+    seccion: nacional
+
+  # Semanario ZETA (Tijuana): investigación de seguridad y frontera. Entra por
+  # Google Noticias porque su RSS propio no es confiable; si algún día quieres
+  # probar el nativo, es https://zetatijuana.com/feed/
+  - nombre: Semanario ZETA
+    url: "https://news.google.com/rss/search?q=site:zetatijuana.com+when:2d&hl=es-419&gl=MX&ceid=MX:es-419"
     seccion: nacional
 
   - nombre: Animal Político
