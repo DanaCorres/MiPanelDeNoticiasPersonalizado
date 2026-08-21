@@ -2421,6 +2421,1131 @@
    "ruido": false,
    "resumen": null,
    "historia": "terremoto-filipinas-agosto-2024"
+  },
+  "05179d90f94c6f0d12403530e61f983376cf2d8d": {
+   "id": "05179d90f94c6f0d12403530e61f983376cf2d8d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "China cierra la brecha tecnológica con Estados Unidos en desarrollo de modelos de inteligencia artificial, desafiando el liderazgo estadounidense en capacidades de IA.",
+   "historia": "carrera-ia-china-eeuu"
+  },
+  "400b6c947b141e774b2aba51f9b04a9f1c94b3fe": {
+   "id": "400b6c947b141e774b2aba51f9b04a9f1c94b3fe",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "DeepSeek lanzó versión multimodal experimental de V4 Flash que iguala el desempeño del modelo Opus 4.8 de Anthropic en pruebas de agentes multimodales.",
+   "historia": "deepseek-v4-flash-multimodal"
+  },
+  "4c1fe9eff553eec9d28e232ca73814c56b65600c": {
+   "id": "4c1fe9eff553eec9d28e232ca73814c56b65600c",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "alucinaciones-ia"
+  },
+  "4b7cbe82be786de7b8a527f534664bea5670f3d7": {
+   "id": "4b7cbe82be786de7b8a527f534664bea5670f3d7",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "regulacion-ia-leon-xiv"
+  },
+  "23cd30157d8e89f3b27ed0d9b85f5d10c7c2cbfb": {
+   "id": "23cd30157d8e89f3b27ed0d9b85f5d10c7c2cbfb",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": "robotica-ia-prediccion"
+  },
+  "973fafbf9fc24357aa1d462348986bb237bdd0e5": {
+   "id": "973fafbf9fc24357aa1d462348986bb237bdd0e5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "red-extorsion-dominicana-eeuu"
+  },
+  "d1a507d61b9bb255e89473648e58c9f3f44a44af": {
+   "id": "d1a507d61b9bb255e89473648e58c9f3f44a44af",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "gp-paises-bajos-2026"
+  },
+  "f00aca85f7e638c8b4553f5178fee9ccb6a1cb25": {
+   "id": "f00aca85f7e638c8b4553f5178fee9ccb6a1cb25",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "accidente-avion-alaska"
+  },
+  "7f2743ef3179f320b235031be833cf0029879528": {
+   "id": "7f2743ef3179f320b235031be833cf0029879528",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "proyecciones-peso-mexicano-2026"
+  },
+  "4d5df1c419cf0b05f8c1f851d876b6118b032b7e": {
+   "id": "4d5df1c419cf0b05f8c1f851d876b6118b032b7e",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "jumapag-guasave"
+  },
+  "47324ac85984d48e6d0950e930ea70a1227948fe": {
+   "id": "47324ac85984d48e6d0950e930ea70a1227948fe",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "hidratacion-olas-calor"
+  },
+  "5b474b781b822e2cc0369ffed38e7672838916bd": {
+   "id": "5b474b781b822e2cc0369ffed38e7672838916bd",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bacterias-uranio-mina-alemana"
+  },
+  "2e71278767fcedb7e90c87b4d6d8817479824b4c": {
+   "id": "2e71278767fcedb7e90c87b4d6d8817479824b4c",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "samper-invasión-naciones"
+  },
+  "1c66320efe2efa614dcde2eb80374e0b1ca27435": {
+   "id": "1c66320efe2efa614dcde2eb80374e0b1ca27435",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "papa-ia-colonialismo"
+  },
+  "83e128f10b72f9a4df27cafc1a7b3adeaae45223": {
+   "id": "83e128f10b72f9a4df27cafc1a7b3adeaae45223",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "oscar-maydon-cancelacion-concierto"
+  },
+  "dbfc0a0a0285483c56653b6ae2d233eb0e760392": {
+   "id": "dbfc0a0a0285483c56653b6ae2d233eb0e760392",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "agricultura-infraestructura-evora"
+  },
+  "ed6c47b0c7f10791277277256f8eb8b85551f0f4": {
+   "id": "ed6c47b0c7f10791277277256f8eb8b85551f0f4",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "comercio-ventas-mayoristas-junio"
+  },
+  "1860635f61ed5b3e30f44c5106b95ae6d50bd854": {
+   "id": "1860635f61ed5b3e30f44c5106b95ae6d50bd854",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "belinda-florence-cassez-miniserie"
+  },
+  "df2d41439839f9e47f64ccb9bf49ef7b6522578d": {
+   "id": "df2d41439839f9e47f64ccb9bf49ef7b6522578d",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "banco-bienestar-deposito"
+  },
+  "d5d5ba7bd4efdf2d6b7f207f0121bf935718ed95": {
+   "id": "d5d5ba7bd4efdf2d6b7f207f0121bf935718ed95",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "farias-laguna-expulsion-argentina"
+  },
+  "a98effcf8952e62c4c2d1a39bf8212350a311211": {
+   "id": "a98effcf8952e62c4c2d1a39bf8212350a311211",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "diabetes-guasave"
+  },
+  "b12eb619d49a0951cb774e6920ee7bf6bd1677e4": {
+   "id": "b12eb619d49a0951cb774e6920ee7bf6bd1677e4",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "farias-laguna-expulsion-argentina"
+  },
+  "8b809940f6ff972f1995d9c5bea0c6e5a60e0215": {
+   "id": "8b809940f6ff972f1995d9c5bea0c6e5a60e0215",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Gasolineros acordaron con el Gobierno mantener los precios máximos de gasolina Magna y diésel hasta febrero de 2027, beneficiando a consumidores.",
+   "historia": "tope-precios-gasolina-2027"
+  },
+  "d1a198b49ecf6b749dfae3e770ce835c39b25e88": {
+   "id": "d1a198b49ecf6b749dfae3e770ce835c39b25e88",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "samsung-galeria-menu-secreto"
+  },
+  "da7fdcf12382555194344c88c8f42eaab17248ec": {
+   "id": "da7fdcf12382555194344c88c8f42eaab17248ec",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "extorsion-digital-phishing-mexico"
+  },
+  "198413f2dfe04b1d78e45c0fb56ada7ba18dc61c": {
+   "id": "198413f2dfe04b1d78e45c0fb56ada7ba18dc61c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ataque-espada-escuela-suecia"
+  },
+  "fd505c47f2de8099a6f99bf9bc56533ce30b67b0": {
+   "id": "fd505c47f2de8099a6f99bf9bc56533ce30b67b0",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "farias-laguna-expulsion-argentina"
+  },
+  "499f25be48bc5c0f717d61028bc07cb27355847a": {
+   "id": "499f25be48bc5c0f717d61028bc07cb27355847a",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "manifestaciones-cdmx-agosto"
+  },
+  "70d63fbed5f2e30c08a4bd66984994e5a0b0bbcb": {
+   "id": "70d63fbed5f2e30c08a4bd66984994e5a0b0bbcb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sismo-ayacucho-parinacochas"
+  },
+  "4f74f46888e39688b5939126088d6a347569fb6d": {
+   "id": "4f74f46888e39688b5939126088d6a347569fb6d",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pib-mexico-julio-servicios"
+  },
+  "6ce67a5507088cf1be0b6268827d249871acabbf": {
+   "id": "6ce67a5507088cf1be0b6268827d249871acabbf",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "asesoria-financiera-millennials"
+  },
+  "cd1ac2bbe25362a631a54a935c85d3a05a5f715c": {
+   "id": "cd1ac2bbe25362a631a54a935c85d3a05a5f715c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "profeco-utiles-escolares"
+  },
+  "c49b3cd6fcfff3c2fead549e44752c2ae4799da8": {
+   "id": "c49b3cd6fcfff3c2fead549e44752c2ae4799da8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "clima-tlaxcala"
+  },
+  "a27223c77df2f854c099f51b3810f8fe10c95510": {
+   "id": "a27223c77df2f854c099f51b3810f8fe10c95510",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tren-pasajeros-aeropuerto-guanajuato"
+  },
+  "7582d7bc6784ea77558fa496a85ae8ced4fce088": {
+   "id": "7582d7bc6784ea77558fa496a85ae8ced4fce088",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "mananera-sheinbaum"
+  },
+  "7eb4784b1e02e44835c99bea52c13f4508ac839b": {
+   "id": "7eb4784b1e02e44835c99bea52c13f4508ac839b",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "d729f873b56517325225265196711b96391466fd": {
+   "id": "d729f873b56517325225265196711b96391466fd",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f36fbad089428fa9fb915a505f7c70155259a161": {
+   "id": "f36fbad089428fa9fb915a505f7c70155259a161",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "novicia-rebelde-monterrey"
+  },
+  "db6e871615c51e51cb137acc1b15fcbfcd1e2a60": {
+   "id": "db6e871615c51e51cb137acc1b15fcbfcd1e2a60",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "inversion-cfe-sistema-electrico"
+  },
+  "eb201a50ce2dd200ff622683ec225f2ccd34f19c": {
+   "id": "eb201a50ce2dd200ff622683ec225f2ccd34f19c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Contralmirante Farias Laguna fue trasladado a la penitenciaría federal de El Altiplano tras ser capturado. Su detención es parte de las operaciones contra militares implicados en crimen organizado.",
+   "historia": "captura-contralmirante-farias-laguna"
+  },
+  "8d43fad307ea1fec3428ea040c60f520800e9019": {
+   "id": "8d43fad307ea1fec3428ea040c60f520800e9019",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tren-pasajeros-guanajuato-predios"
+  },
+  "cda785f5b777ea05e815fcad38e76fc71de1bd7c": {
+   "id": "cda785f5b777ea05e815fcad38e76fc71de1bd7c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c81ba7d4e0feb8c02dc23060989e59cf6d4205d7": {
+   "id": "c81ba7d4e0feb8c02dc23060989e59cf6d4205d7",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "garcia-luna-dea-injerencia-extranjera"
+  },
+  "dd92a2a1c95e415ffe5920f44c50ec46961629d1": {
+   "id": "dd92a2a1c95e415ffe5920f44c50ec46961629d1",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Fernando Farías fue trasladado en helicóptero e ingresó a la penitenciaría del Altiplano. Su captura continúa la onda de detenciones de militares vinculados a crimen organizado.",
+   "historia": "captura-fernando-farias-altiplano"
+  },
+  "38cee645e9dea42d6af25d4dd2e08278aa3bd893": {
+   "id": "38cee645e9dea42d6af25d4dd2e08278aa3bd893",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "flota-camaronera-tamaulipas-reduccion"
+  },
+  "d22afd8dfbda11b6a0d02511e73534419691dbab": {
+   "id": "d22afd8dfbda11b6a0d02511e73534419691dbab",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "5a2c6df5a7d41914cc28fc714925e32ade0566d5": {
+   "id": "5a2c6df5a7d41914cc28fc714925e32ade0566d5",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "ed07a142f0406f9aa9b8a0b9e97380d32918c1ad": {
+   "id": "ed07a142f0406f9aa9b8a0b9e97380d32918c1ad",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hallazgo-cuerpo-garcia-nl"
+  },
+  "494ac080b2cf4f2bd869c0ca0a713321c4377f50": {
+   "id": "494ac080b2cf4f2bd869c0ca0a713321c4377f50",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alejandro-gardinetti-record-mundial-chistes"
+  },
+  "9922568ecb8d10432284fcb3ce4bac1314cd2383": {
+   "id": "9922568ecb8d10432284fcb3ce4bac1314cd2383",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f150ae4f4107e48b887d252acb9bf47ed30d5167": {
+   "id": "f150ae4f4107e48b887d252acb9bf47ed30d5167",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "5a714926d099fbc71a866b6ee3057ca8dce62775": {
+   "id": "5a714926d099fbc71a866b6ee3057ca8dce62775",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6b1aa8ec00c69514d669f619905e222f3bb4d988": {
+   "id": "6b1aa8ec00c69514d669f619905e222f3bb4d988",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-gripa-salud"
+  },
+  "e1c4688ee649ee68fd9704a44d5e7239024ca6d7": {
+   "id": "e1c4688ee649ee68fd9704a44d5e7239024ca6d7",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "49096c4218cf7d2eee2fdb5739f411d30d7d608b": {
+   "id": "49096c4218cf7d2eee2fdb5739f411d30d7d608b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Fernando 'N' fue trasladado a la penitenciaría federal del Altiplano tras su captura. Continúan las detenciones de militares de alto rango vinculados a crimen organizado.",
+   "historia": "captura-fernando-n-altiplano"
+  },
+  "54545b96600f217671421e6523238b20734bcc21": {
+   "id": "54545b96600f217671421e6523238b20734bcc21",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-enfermedad-mañanera-ausencia"
+  },
+  "8b0e1bfc051d2c59ad01d5186fd60a03c93d16af": {
+   "id": "8b0e1bfc051d2c59ad01d5186fd60a03c93d16af",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f1ad1e1d037f6979debd4be58bef5497f010c2dd": {
+   "id": "f1ad1e1d037f6979debd4be58bef5497f010c2dd",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "contaminacion-atoyac-edomex-puebla"
+  },
+  "dafba1fe129f7f639fdc82d3296191317feeb203": {
+   "id": "dafba1fe129f7f639fdc82d3296191317feeb203",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "1bdd49e784a4f1754c38b07e1183b72f5bbe7525": {
+   "id": "1bdd49e784a4f1754c38b07e1183b72f5bbe7525",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "3ed4f1496a9daf592a841966bfdd378e9b9bad4d": {
+   "id": "3ed4f1496a9daf592a841966bfdd378e9b9bad4d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mayo-zambada-cuen-corrales-chapitos"
+  },
+  "7bc190d6aca171b29aee8a7e820a8110eb025847": {
+   "id": "7bc190d6aca171b29aee8a7e820a8110eb025847",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "b4611faee20c51c36b0d63514e2ac6fc82e19911": {
+   "id": "b4611faee20c51c36b0d63514e2ac6fc82e19911",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un juez conocerá el caso de 32 colaboradores de Alito Moreno por desviación de 270 millones de pesos. La investigación avanza en contra del dirigente nacional del PRI.",
+   "historia": "alito-moreno-desvio-270-millones"
+  },
+  "9f002c503512b8786ca0b11af4b27b90bddb060f": {
+   "id": "9f002c503512b8786ca0b11af4b27b90bddb060f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "labour-jackdaw-rosebank-petroleo-reino-unido"
+  },
+  "26f613863075a5ee9aac523a1d5e7dc8c6200e51": {
+   "id": "26f613863075a5ee9aac523a1d5e7dc8c6200e51",
+   "seccion": "argentina",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "atentado-nadia-beller-cerimedo-bolivia"
+  },
+  "4ed75752e3e9bf0e08e2cc2d0dfab764f26f7221": {
+   "id": "4ed75752e3e9bf0e08e2cc2d0dfab764f26f7221",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ataque-espada-escuela-suecia"
+  },
+  "1d17609f38611b438dc76bae06b1928c980d1bb8": {
+   "id": "1d17609f38611b438dc76bae06b1928c980d1bb8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mercados-financieros-iran-eeuu"
+  },
+  "792a48375f1f36b4c438b3af048799811d3db6a0": {
+   "id": "792a48375f1f36b4c438b3af048799811d3db6a0",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Médicos Sin Fronteras interviene en Quibdó y Buenaventura tras el terremoto del 10 de agosto. Respuesta humanitaria en zonas afectadas del país.",
+   "historia": "terremoto-colombia-agosto-2026"
+  },
+  "996beea548f6c7a974dea1c0c00bfc47dabb83f3": {
+   "id": "996beea548f6c7a974dea1c0c00bfc47dabb83f3",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "terremoto-colombia-agosto-2026"
+  },
+  "ec334e261ccf0e75fa2095bb29ddd0091cfe9e1e": {
+   "id": "ec334e261ccf0e75fa2095bb29ddd0091cfe9e1e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-terminar-guerra-eeuu"
+  },
+  "2800c8cd78aab4b1ec7e5b66e33bfcd32e82f1d0": {
+   "id": "2800c8cd78aab4b1ec7e5b66e33bfcd32e82f1d0",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "principe-harry-demanda-privacy-daily-mail"
+  },
+  "76014000836ddf895bb2269bc95462d66c6ca2e1": {
+   "id": "76014000836ddf895bb2269bc95462d66c6ca2e1",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Turquía solicita a la Interpol orden de arresto internacional contra Netanyahu por el ataque a la flotilla en aguas internacionales.",
+   "historia": "turquia-arresto-netanyahu-interpol"
+  },
+  "69d91c485081fbe4d1e5932579f53fbebba5a8f5": {
+   "id": "69d91c485081fbe4d1e5932579f53fbebba5a8f5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "itamar-ben-gvir-israel-seguridad"
+  },
+  "7a0cb70fe2f96cfdcc42c2670376b51a778f5861": {
+   "id": "7a0cb70fe2f96cfdcc42c2670376b51a778f5861",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "El gobierno colombiano reporta 321 fallecidos por el terremoto del 10 de agosto. Cifra de damnificados en actualización constante tras el desastre.",
+   "historia": "terremoto-colombia-agosto-2026"
+  },
+  "12608e235c3efaed370686246ae9ca3593683e56": {
+   "id": "12608e235c3efaed370686246ae9ca3593683e56",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-terminar-guerra-eeuu"
+  },
+  "b08f61a24bbbf31974bc4c6265cdf0d2f6f901b7": {
+   "id": "b08f61a24bbbf31974bc4c6265cdf0d2f6f901b7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "turquia-arresto-netanyahu-interpol"
+  },
+  "18f8b799c5d2b6e76f39d09d13ef12acd602112d": {
+   "id": "18f8b799c5d2b6e76f39d09d13ef12acd602112d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marina-eeuu-portaaviones-trump-cambio-nombre"
+  },
+  "b5fac73de4dd61ff752bd9fd01ea4b2fc5d87e99": {
+   "id": "b5fac73de4dd61ff752bd9fd01ea4b2fc5d87e99",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Cientos de escuelas sufrieron daños en el terremoto colombiano del 10 de agosto, evidenciando años de desigualdad en infraestructura educativa.",
+   "historia": "terremoto-colombia-agosto-2026"
+  },
+  "83224b3a276250198b504bee8d1134f49abc7b33": {
+   "id": "83224b3a276250198b504bee8d1134f49abc7b33",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-terminar-guerra-eeuu"
+  },
+  "c5785bcdca8e883e002a85c6394b9b32ba341097": {
+   "id": "c5785bcdca8e883e002a85c6394b9b32ba341097",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Brote de ébola en República Democrática del Congo crece sin control con más de 2.500 muertes. Conflicto, financiamiento insuficiente y ataques a personal médico obstaculizan respuesta.",
+   "historia": "ebola-rdc-brote-2026"
+  },
+  "8031cb0881e2ac1523ecdca1609fe47e3413ca01": {
+   "id": "8031cb0881e2ac1523ecdca1609fe47e3413ca01",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "intento-atentado-martha-obezo-acapulco"
+  },
+  "6488e0826bb171c432564be236e8b4d7a8b841c3": {
+   "id": "6488e0826bb171c432564be236e8b4d7a8b841c3",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "telecomunicaciones-china-tokens-ia"
+  },
+  "316d03adfc65949d144c0b393ff9083c850a427a": {
+   "id": "316d03adfc65949d144c0b393ff9083c850a427a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "liverpool-temporada-2026-27"
+  },
+  "fb8ae9f191f24f6b0f6772d27d98a866d3950b61": {
+   "id": "fb8ae9f191f24f6b0f6772d27d98a866d3950b61",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bodas-gaza-conflicto"
+  },
+  "3486b78a170306155c795e927170b1fd7f2b32cb": {
+   "id": "3486b78a170306155c795e927170b1fd7f2b32cb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "cotizacion-dolar-cuba"
+  },
+  "19526755dc4b22b8394e067e98a395a702d01b5e": {
+   "id": "19526755dc4b22b8394e067e98a395a702d01b5e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ucrania-masha-oso-propaganda-rusa"
+  },
+  "5c91ba1e8a586b4371b44c0a76be02a3d0e9d335": {
+   "id": "5c91ba1e8a586b4371b44c0a76be02a3d0e9d335",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La Unión Europea regula el uso de inteligencia artificial en procesos de selección de personal y gestión laboral mediante nueva normativa.",
+   "historia": "regulacion-ue-ia-empleo"
+  },
+  "fee6d859394626d5f7d614e3d22f4ca2befecfd0": {
+   "id": "fee6d859394626d5f7d614e3d22f4ca2befecfd0",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "starcloud-centros-datos-orbital"
+  },
+  "25619d4c28c34e10ff73b2a6b565faf82a03bee2": {
+   "id": "25619d4c28c34e10ff73b2a6b565faf82a03bee2",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-nóminas-empresas-mexico"
+  },
+  "7b98d1ae788ab99abc42133ab559f0d6a80f279e": {
+   "id": "7b98d1ae788ab99abc42133ab559f0d6a80f279e",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": "samsung-research-ia-salud"
+  },
+  "1fac4cba365987e01a7184a435a5b1c02d4ce68d": {
+   "id": "1fac4cba365987e01a7184a435a5b1c02d4ce68d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "creadores-youtube-backlash-dinero-ia"
+  },
+  "a190abeaad84dedc51167ca2c4f9005c7b87ac32": {
+   "id": "a190abeaad84dedc51167ca2c4f9005c7b87ac32",
+   "seccion": "argentina",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caba-exposicion-ia"
+  },
+  "5759b5d7c41f3cd94bb01bcceebdd93574510ec5": {
+   "id": "5759b5d7c41f3cd94bb01bcceebdd93574510ec5",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "leon-xiv-riesgos-ia"
+  },
+  "84abf67d785e2f061b26f27f250aaa152cbe0051": {
+   "id": "84abf67d785e2f061b26f27f250aaa152cbe0051",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "ecosistemas-global-openlayer-ia"
+  },
+  "a12cbac87609d9edf42ce03005cb02e16d467ec3": {
+   "id": "a12cbac87609d9edf42ce03005cb02e16d467ec3",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "openai-meta-google-seguridad-ia"
+  },
+  "7f6214f37d2854405b1ada607afd0f9374ab5b52": {
+   "id": "7f6214f37d2854405b1ada607afd0f9374ab5b52",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Un terremoto de magnitud 7,4 sacudió Colombia dejando al menos 321 fallecidos. Las autoridades continúan evaluando daños y coordinando labores de rescate en las zonas afectadas.",
+   "historia": "terremoto-colombia-magnitud-7.4"
+  },
+  "ffc24195f99604a0589cf0830b874c1a6fe68621": {
+   "id": "ffc24195f99604a0589cf0830b874c1a6fe68621",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "airbus-conflicto-teletrabajo"
+  },
+  "6490afdcafe760f77c57fe7a7ec34d452aa92394": {
+   "id": "6490afdcafe760f77c57fe7a7ec34d452aa92394",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "labour-clima-net-zero"
+  },
+  "dbde0652fcf2879cedcee07b55091ba090f87e1d": {
+   "id": "dbde0652fcf2879cedcee07b55091ba090f87e1d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "navy-carrier-trump-doris-miller"
+  },
+  "04008a04d9c3b8cfeb2bc495d91415726dec0fe1": {
+   "id": "04008a04d9c3b8cfeb2bc495d91415726dec0fe1",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "80c328e851a7c704d2e1fa7c98e17a748701c382": {
+   "id": "80c328e851a7c704d2e1fa7c98e17a748701c382",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "djibouti-futbol-fifa-corrupcion"
+  },
+  "089f55f7f910b8887b350c0388ca609ff262b2f2": {
+   "id": "089f55f7f910b8887b350c0388ca609ff262b2f2",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un tribunal de Hong Kong condenó a Lee Cheuk-yan y Chow Hang-tung por incitación a la subversión. Los activistas llevaban décadas organizando vigilias por las víctimas de Tiananmén.",
+   "historia": "hong-kong-activistas-condenados-subversion"
+  },
+  "3da7fec2259240b9195d362187b6fabcfbb79131": {
+   "id": "3da7fec2259240b9195d362187b6fabcfbb79131",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fat-marmot-week"
+  },
+  "aee25d11d780260c384a9da34b75e14a1d0174cd": {
+   "id": "aee25d11d780260c384a9da34b75e14a1d0174cd",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Reino Unido, Australia y Canadá criticaron a Israel por rechazar investigar criminalmente un ataque en abril de 2024 que mató a siete trabajadores humanitarios en Gaza.",
+   "historia": "israel-gaza-convoy-humanitario-abril-2024"
+  },
+  "7651c6736f587649729743f36c4fc1cd1dab641a": {
+   "id": "7651c6736f587649729743f36c4fc1cd1dab641a",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "paises-balticos-independencia-ucrania"
+  },
+  "3880c0089c17b69b0ad33d8ad87c4af078e0f23c": {
+   "id": "3880c0089c17b69b0ad33d8ad87c4af078e0f23c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-negociaciones-eeuu"
+  },
+  "031fa822e13892f238c1bf4975478e2220c11114": {
+   "id": "031fa822e13892f238c1bf4975478e2220c11114",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "e16a3e1fb1960cf1af36f3fad57416eae86ebff1": {
+   "id": "e16a3e1fb1960cf1af36f3fad57416eae86ebff1",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-colombia-magnitud-7.4"
+  },
+  "92e3558f38857774a32e954036e080592c32cd1c": {
+   "id": "92e3558f38857774a32e954036e080592c32cd1c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "abluciones-agua-consejo"
+  },
+  "268be3e704ebd4c77b524862694cca49a336ddf8": {
+   "id": "268be3e704ebd4c77b524862694cca49a336ddf8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un terremoto en Indonesia dejó 83 fallecidos, 986 heridos y miles de evacuados. Las autoridades continúan coordinando labores de rescate en las zonas afectadas.",
+   "historia": "terremoto-indonesia"
+  },
+  "db180e3cbed6f8497d3cdb9887619d0673d82856": {
+   "id": "db180e3cbed6f8497d3cdb9887619d0673d82856",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "burnham-whitehall-alcaldes"
+  },
+  "9d6d58aad87b3b7c017e7d8046c179e68199c550": {
+   "id": "9d6d58aad87b3b7c017e7d8046c179e68199c550",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "albora-boda-conflicto"
+  },
+  "a6eb0ebe89fbf655b6263d5e4a4fe3e39a01cc84": {
+   "id": "a6eb0ebe89fbf655b6263d5e4a4fe3e39a01cc84",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alerta-soja-salmonella-ecoli"
+  },
+  "c3b5f2f0b147c2d55dd400df8df7a3a8421de5c7": {
+   "id": "c3b5f2f0b147c2d55dd400df8df7a3a8421de5c7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-negociaciones-eeuu"
+  },
+  "c8a63d4b72f359955655e3464a957062c467e636": {
+   "id": "c8a63d4b72f359955655e3464a957062c467e636",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4bdbaed960f16d524538aa603954006d72f04766": {
+   "id": "4bdbaed960f16d524538aa603954006d72f04766",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "openai-legal-tech-kimi-k3"
+  },
+  "8329177e97ad8f5a5caa53954e4d085b9c67ac8f": {
+   "id": "8329177e97ad8f5a5caa53954e4d085b9c67ac8f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "china-comercio-europa-octubre"
+  },
+  "17c672543fc62c0923bb0ff76b6686befe7000df": {
+   "id": "17c672543fc62c0923bb0ff76b6686befe7000df",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-eeuu-aislamiento-economico"
+  },
+  "55f9a96ef758f4729ab7c6f0d01fe592a26c4f7f": {
+   "id": "55f9a96ef758f4729ab7c6f0d01fe592a26c4f7f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-peru-magnitud-7.2"
+  },
+  "8d9c8823613dc4fd5d04dc90461784df69cb78cb": {
+   "id": "8d9c8823613dc4fd5d04dc90461784df69cb78cb",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6762b8408ca91cf732564c96b7bdbd1b8d0ffcbb": {
+   "id": "6762b8408ca91cf732564c96b7bdbd1b8d0ffcbb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-familia-ice-detencion"
+  },
+  "af45992033096b9e96362e3df801193a5873b539": {
+   "id": "af45992033096b9e96362e3df801193a5873b539",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-peru-magnitud-7.2"
+  },
+  "0fb288587b7216c4bd791f1d4c815c893060dd49": {
+   "id": "0fb288587b7216c4bd791f1d4c815c893060dd49",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "china-petroleo-reservas"
+  },
+  "474e49fd454943cc9a310972d36218db7ccf63ca": {
+   "id": "474e49fd454943cc9a310972d36218db7ccf63ca",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "7f63cd121fb9e884bfedf601e158a67e441a5910": {
+   "id": "7f63cd121fb9e884bfedf601e158a67e441a5910",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ronaldinho-ravenna-italia"
   }
  }
 }
