@@ -58,6 +58,15 @@ ajustes:
   # historia cuando la curaduría no opinó. 0.35 es prudente; súbelo si sientes
   # que junta notas distintas, bájalo si se te siguen colando repetidas.
   umbral_similitud: 0.35
+  # Horas (hora CDMX) en las que la corrida llama al modelo. En las demás se
+  # recogen titulares igual, pero se usan los veredictos ya guardados del día.
+  # Quita la lista entera para volver a curar en todas las corridas.
+  horas_curaduria:
+    - "6:30"
+    - "10:00"
+    - "15:00"
+    - "20:00"
+
   # Holgura de la poda: cuántas notas se mandan a curar por cada una que cabe
   # en el panel. 1.15 = 15% de más para que el modelo tenga de dónde escoger.
   # Subirlo mejora un poco la selección y cuesta proporcionalmente más.
