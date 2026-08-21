@@ -162,6 +162,2265 @@
    "ruido": true,
    "resumen": null,
    "historia": null
+  },
+  "9a265c9bf210459a435485dd40fe57221c3057b3": {
+   "id": "9a265c9bf210459a435485dd40fe57221c3057b3",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "odisea-en-el-espacio"
+  },
+  "591d0f68f16e622a833d309f7e680cf5418d2917": {
+   "id": "591d0f68f16e622a833d309f7e680cf5418d2917",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cancion-agua-limpia"
+  },
+  "00b2972e1431d8311268b6086a311f25e4c78230": {
+   "id": "00b2972e1431d8311268b6086a311f25e4c78230",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "economia-crecimiento-julio"
+  },
+  "781c0376947daa657bdb01adfed8e630d0b24622": {
+   "id": "781c0376947daa657bdb01adfed8e630d0b24622",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "se-comenta"
+  },
+  "f7bd9d3fcf20a092807e929396d2b7a25cb7d9cd": {
+   "id": "f7bd9d3fcf20a092807e929396d2b7a25cb7d9cd",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "horacio"
+  },
+  "2214e060a7e9eadf9358c22b9ef780f94b4f6b10": {
+   "id": "2214e060a7e9eadf9358c22b9ef780f94b4f6b10",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "oaxaquenos-paris-tamayo"
+  },
+  "f47ef95e34ce71c1d56d65ec289eaed517db9ab8": {
+   "id": "f47ef95e34ce71c1d56d65ec289eaed517db9ab8",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ole-mexico-seguros"
+  },
+  "469f6c5d30640f7491afccd0cb5d295d13f6962f": {
+   "id": "469f6c5d30640f7491afccd0cb5d295d13f6962f",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "presidenta-lopez-beltran"
+  },
+  "a3825631f823d3a43f4d405f2774bfef59a7d6a9": {
+   "id": "a3825631f823d3a43f4d405f2774bfef59a7d6a9",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "forma-sera-fondo"
+  },
+  "b881eed13bc11dcffc0a1c26a64eef36969de1e8": {
+   "id": "b881eed13bc11dcffc0a1c26a64eef36969de1e8",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "escapando-natura-meta"
+  },
+  "f751f020bfa0420800f6476ea36c21ceab29e166": {
+   "id": "f751f020bfa0420800f6476ea36c21ceab29e166",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cambio-climatico-el-nino"
+  },
+  "1bdd49e784a4f1754c38b07e1183b72f5bbbe7525": {
+   "id": "1bdd49e784a4f1754c38b07e1183b72f5bbbe7525",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "musculo-piernas-salud"
+  },
+  "f3e265b5fb16d45d42a40cb40698e5db105e9227": {
+   "id": "f3e265b5fb16d45d42a40cb40698e5db105e9227",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "bananas-salud-cardiovascular"
+  },
+  "a1659d96d801cb7705616bfa4715f11ee8708a03": {
+   "id": "a1659d96d801cb7705616bfa4715f11ee8708a03",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caso-menendez"
+  },
+  "5494f3af912f23f2fe2a949dcb9c6e34cc244898": {
+   "id": "5494f3af912f23f2fe2a949dcb9c6e34cc244898",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "errores-gimnasio"
+  },
+  "c4594c3bc6d3afa792b2aac12c6bac831e0f72cd": {
+   "id": "c4594c3bc6d3afa792b2aac12c6bac831e0f72cd",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "desayunos-salud-intestinal"
+  },
+  "30325315a369d83c8c48edbcd548a328be23fd19": {
+   "id": "30325315a369d83c8c48edbcd548a328be23fd19",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ejercito-poder"
+  },
+  "b1d467c4b9b645cae792bedf4f87bdd680179a3c": {
+   "id": "b1d467c4b9b645cae792bedf4f87bdd680179a3c",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "traicion-instrumento-politico"
+  },
+  "87edc55ee14ea3c80eff80660a3dcb4e03df8f6e": {
+   "id": "87edc55ee14ea3c80eff80660a3dcb4e03df8f6e",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "soberania-visa"
+  },
+  "8e6aaa3104156d7f042d131a0390e712889d11a9": {
+   "id": "8e6aaa3104156d7f042d131a0390e712889d11a9",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "michelle-pfeiffer"
+  },
+  "d670faa2ef38b54f867946d7b90ef6de3575d902": {
+   "id": "d670faa2ef38b54f867946d7b90ef6de3575d902",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exonerables"
+  },
+  "d9a871f63f33ba30052a0f547af655be13253b05": {
+   "id": "d9a871f63f33ba30052a0f547af655be13253b05",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "que-sera-negre"
+  },
+  "84f05c771dc69073c40821c872a46cb812ca0638": {
+   "id": "84f05c771dc69073c40821c872a46cb812ca0638",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "soberania-nacional-pretexto"
+  },
+  "32cd9501593a66c8722c3d95920c42f0f6170a7c": {
+   "id": "32cd9501593a66c8722c3d95920c42f0f6170a7c",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mitologia-plaza-publica"
+  },
+  "45cbc467d1428f61cc800234fc6e2da8a3bfaae4": {
+   "id": "45cbc467d1428f61cc800234fc6e2da8a3bfaae4",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "unam-rankings"
+  },
+  "a764ce3f18605b6034f05c96ae6a31f66f09c5f0": {
+   "id": "a764ce3f18605b6034f05c96ae6a31f66f09c5f0",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vuelo-mercado-aviacion"
+  },
+  "d91c9400f88e8f01b5abd715bad4d3edb28dd1aa": {
+   "id": "d91c9400f88e8f01b5abd715bad4d3edb28dd1aa",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amparo-tranquilidad"
+  },
+  "116fa6c5b245fbcda4c21a7b10adfbf2e281bb5f": {
+   "id": "116fa6c5b245fbcda4c21a7b10adfbf2e281bb5f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rusia-ucrania-paises-balticos"
+  },
+  "92d05fe94c839556cbbad7a46562482356ffcc35": {
+   "id": "92d05fe94c839556cbbad7a46562482356ffcc35",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "contrabando-migrantes"
+  },
+  "62fb192f59ae21fdbb4150aa15f13dd13cec7e92": {
+   "id": "62fb192f59ae21fdbb4150aa15f13dd13cec7e92",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "garcia-harfuch-cumbre-drogas"
+  },
+  "a9efee30d09fae832c0a528709b7a5381ca8ac4b": {
+   "id": "a9efee30d09fae832c0a528709b7a5381ca8ac4b",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "d334745d2f61e1b25ddbc24856d2c55a23acb14e": {
+   "id": "d334745d2f61e1b25ddbc24856d2c55a23acb14e",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "b85ccd010a026ccec2d880aafad6ad702fdbf73e": {
+   "id": "b85ccd010a026ccec2d880aafad6ad702fdbf73e",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "3c8027307bc0c49cb43a9635d14dee86cf58115e": {
+   "id": "3c8027307bc0c49cb43a9635d14dee86cf58115e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Tropas israelíes y colonos atacaron Cisjordania causando la muerte de un palestino de 19 años. El incidente ocurrió durante una invasión militar en el territorio ocupado.",
+   "historia": "conflicto-israel-palestina-cisjordania"
+  },
+  "4a0e5225019fe3f324ebfe09e166eaad429d6653": {
+   "id": "4a0e5225019fe3f324ebfe09e166eaad429d6653",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "9e4fc6df80fd7c68611606b08e1dbf595cbff989": {
+   "id": "9e4fc6df80fd7c68611606b08e1dbf595cbff989",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "bc6d266a0a88930351760563df806f229266f43a": {
+   "id": "bc6d266a0a88930351760563df806f229266f43a",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "investigacion-pemex-contrato-opp"
+  },
+  "5bf7b455165b61b579f3c572aee9a6204f8df847": {
+   "id": "5bf7b455165b61b579f3c572aee9a6204f8df847",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "e7ff70964a4500c55585054568b1112d68ac0617": {
+   "id": "e7ff70964a4500c55585054568b1112d68ac0617",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caravana-migrante-tapachula-2024"
+  },
+  "a580b5fb40f131811cfee87340c274707fc58ea2": {
+   "id": "a580b5fb40f131811cfee87340c274707fc58ea2",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "61f22f860f1260ad45a5e6f18f4c92eb9bd21ac3": {
+   "id": "61f22f860f1260ad45a5e6f18f4c92eb9bd21ac3",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c485390e34ee585753f20bf20142c6b4d04b5ea8": {
+   "id": "c485390e34ee585753f20bf20142c6b4d04b5ea8",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caso-melesio-cuen-investigacion"
+  },
+  "16516df60b54639b571f19264eaf33245adeb9fb": {
+   "id": "16516df60b54639b571f19264eaf33245adeb9fb",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "videovigilancia-pachuca"
+  },
+  "bd70be990bacfb8bad6aedc3c194ff816c12a8e2": {
+   "id": "bd70be990bacfb8bad6aedc3c194ff816c12a8e2",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hayden-panettiere-muerte"
+  },
+  "95efbe34df32736e9513186089f8388eb35cc1ee": {
+   "id": "95efbe34df32736e9513186089f8388eb35cc1ee",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "consulta-audiencias-lineamientos"
+  },
+  "416abae346281cfab5f3f4538726f56cfed568ad": {
+   "id": "416abae346281cfab5f3f4538726f56cfed568ad",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "excontraalmirante-farias"
+  },
+  "c8e0d5aab0c07f06dfa4b4cf5ab459388c5dda50": {
+   "id": "c8e0d5aab0c07f06dfa4b4cf5ab459388c5dda50",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Autoridades capturaron 14 mandos del Cártel Jalisco tras la caída de Nemesio Oseguera Cervantes. Las detenciones ocurren en el contexto de la lucha contra el crimen organizado.",
+   "historia": "cartel-jalisco-el-mencho-capturas"
+  },
+  "77c9124c70d9a6248a32fccf071c51b62def30ad": {
+   "id": "77c9124c70d9a6248a32fccf071c51b62def30ad",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un juez ordenó prisión preventiva para Fausto 'N', chofer de Melesio Cuén, acusado de encubrimiento de homicidio. La medida avanza en la investigación del caso.",
+   "historia": "caso-melesio-cuen-fausto-n"
+  },
+  "d21bc0c7f4cdf4390f8bb86b40dade2d06f63eee": {
+   "id": "d21bc0c7f4cdf4390f8bb86b40dade2d06f63eee",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c0bb45ae347fd1332d7d2b4f296f2ebef62155cc": {
+   "id": "c0bb45ae347fd1332d7d2b4f296f2ebef62155cc",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exfuncionario-dif-jalisco-captura"
+  },
+  "0d37cf0793e311725ded2b4d359d39f1634e4794": {
+   "id": "0d37cf0793e311725ded2b4d359d39f1634e4794",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "margaret-qualley-separacion"
+  },
+  "7c59435d2bd7b703c63ff6f69d71cb07253695f2": {
+   "id": "7c59435d2bd7b703c63ff6f69d71cb07253695f2",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "migracion-resiliencia-historias"
+  },
+  "e8d155814deae8f52f98853d0554d7e2b400ea94": {
+   "id": "e8d155814deae8f52f98853d0554d7e2b400ea94",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "avion-alaska-accidente"
+  },
+  "b9cba0d0406ff4299774b007879fc3c4ea83380b": {
+   "id": "b9cba0d0406ff4299774b007879fc3c4ea83380b",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "kiko-rivera-irene-rosales-familia"
+  },
+  "118179d6c7059896a796acb7e19a1beda874f34f": {
+   "id": "118179d6c7059896a796acb7e19a1beda874f34f",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "aafd8095c81e94bb8b0995074175905f468a2b44": {
+   "id": "aafd8095c81e94bb8b0995074175905f468a2b44",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "d341d1b977efb58ee101977e404d5828bbb43207": {
+   "id": "d341d1b977efb58ee101977e404d5828bbb43207",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "aprobacion-programas-sociales"
+  },
+  "575757419da23211dfb3bf91d90646364f06577d": {
+   "id": "575757419da23211dfb3bf91d90646364f06577d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La Universidad Iberoamericana documentó 58 fosas vinculadas a feminicidios en México. El hallazgo es parte de una investigación sobre violencia de género.",
+   "historia": "fosas-feminicidios-ibero"
+  },
+  "fc0a0babe767eaba2e1b36cfbb1f9180524d564f": {
+   "id": "fc0a0babe767eaba2e1b36cfbb1f9180524d564f",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": null
+  },
+  "4138ce8927ef7bfa803f2ab484612a06b2b7896b": {
+   "id": "4138ce8927ef7bfa803f2ab484612a06b2b7896b",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-abstension-oea"
+  },
+  "cdc600b148272eeab3129f07a5ba2eada66e089b": {
+   "id": "cdc600b148272eeab3129f07a5ba2eada66e089b",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-gripe-ausencia-mañanera"
+  },
+  "6e4afd3711965796be10b83841f68baef71e0432": {
+   "id": "6e4afd3711965796be10b83841f68baef71e0432",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bloqueos-viales-cdmx-21-agosto"
+  },
+  "2131f7a3337bd18a571faf3a7e57ab7c7b5839c2": {
+   "id": "2131f7a3337bd18a571faf3a7e57ab7c7b5839c2",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-gripe-ausencia-mañanera"
+  },
+  "a1d3c48f3022b226a814011c775cdb5553705239": {
+   "id": "a1d3c48f3022b226a814011c775cdb5553705239",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sector-asegurador-competencia"
+  },
+  "305025ee86d5d30df10337005c97bb4c0a3a14e8": {
+   "id": "305025ee86d5d30df10337005c97bb4c0a3a14e8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4152af6b760cc0a53f04f3435c4d9e27c9eed4ad": {
+   "id": "4152af6b760cc0a53f04f3435c4d9e27c9eed4ad",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alza-utiles-escolares-regreso-clases-2026"
+  },
+  "8ea82cbfb36ad80f1d2726ce837c1945a6a6b429": {
+   "id": "8ea82cbfb36ad80f1d2726ce837c1945a6a6b429",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "033ee52aa6d6b465e2abf12963b88cff9f5415bd": {
+   "id": "033ee52aa6d6b465e2abf12963b88cff9f5415bd",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "62983034ed18026413c2911d99150093db13e845": {
+   "id": "62983034ed18026413c2911d99150093db13e845",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "996def80bb58b5a217a9a7786a74db67d5a596d2": {
+   "id": "996def80bb58b5a217a9a7786a74db67d5a596d2",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "reflexion-presente-futuro"
+  },
+  "2d5e6873135d1cbad615f1ce5825f87fb914d363": {
+   "id": "2d5e6873135d1cbad615f1ce5825f87fb914d363",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "bbd266c4077a7c0319cd863485cf82e011eac707": {
+   "id": "bbd266c4077a7c0319cd863485cf82e011eac707",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "lukashenko-birmania-abastecimiento"
+  },
+  "698a0fae0a809eb670a79bf755e2fc8e5a7298fa": {
+   "id": "698a0fae0a809eb670a79bf755e2fc8e5a7298fa",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-desarrollo-adoptivo-lento"
+  },
+  "7f2e9e6cb06668c24dc4b1e423d66983cea128a4": {
+   "id": "7f2e9e6cb06668c24dc4b1e423d66983cea128a4",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alcaldia-carranza-efectividad-gobierno"
+  },
+  "0a9966d681c9aa36e68d43105447aeaaf87e9db4": {
+   "id": "0a9966d681c9aa36e68d43105447aeaaf87e9db4",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Autoridades aseguraron 4 millones de dosis de fentanilo en Baja California en un operativo contra la distribución de droga ilícita.",
+   "historia": "aseguramiento-fentanilo-baja-california"
+  },
+  "f84ca8d4ca87d198333ab7f3110b12e9fdeb4bbc": {
+   "id": "f84ca8d4ca87d198333ab7f3110b12e9fdeb4bbc",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f32d6c1785898ef47fd2a96019c37199a60332ff": {
+   "id": "f32d6c1785898ef47fd2a96019c37199a60332ff",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "03d2f0d1fa592ee9a7c55d49278942a835143ff1": {
+   "id": "03d2f0d1fa592ee9a7c55d49278942a835143ff1",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rendimientos-bonos-alza-contextual"
+  },
+  "ba3af93cade7fc6b7831e0d443f365e1316d6523": {
+   "id": "ba3af93cade7fc6b7831e0d443f365e1316d6523",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "crecimiento-zona-euro-industria-2026"
+  },
+  "acad68768f93bf46d7a446e293427522fc87346d": {
+   "id": "acad68768f93bf46d7a446e293427522fc87346d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-conflicto-medio-oriente-impacto-civil"
+  },
+  "8c8256b94e15f59cbdca113cc835264522c4f115": {
+   "id": "8c8256b94e15f59cbdca113cc835264522c4f115",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-ileana-cotrubas-soprano"
+  },
+  "c9a55fda23f00af21b98ee6a502288b7b20bcde1": {
+   "id": "c9a55fda23f00af21b98ee6a502288b7b20bcde1",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "25008906a10d64df7574f69e76e11725d74ecd62": {
+   "id": "25008906a10d64df7574f69e76e11725d74ecd62",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "socrates-condena-logica-justicia"
+  },
+  "0c045194cda4e99dc775c86efa72a9387816ca16": {
+   "id": "0c045194cda4e99dc775c86efa72a9387816ca16",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "libertad-expresion-censura"
+  },
+  "750020f36d7026c9fba925b52b014a14e5662903": {
+   "id": "750020f36d7026c9fba925b52b014a14e5662903",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "23e305a2ca0aa2bf1044b2e4e25cf8b6833ee233": {
+   "id": "23e305a2ca0aa2bf1044b2e4e25cf8b6833ee233",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "18ea56fa92b8b979528199fe326e179173828f93": {
+   "id": "18ea56fa92b8b979528199fe326e179173828f93",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "harfuch-proyeccion-2030"
+  },
+  "94854acaea78b1bff7cba30492263799904a3780": {
+   "id": "94854acaea78b1bff7cba30492263799904a3780",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pescadores-sobrevivencia-mar"
+  },
+  "6cbdce29954debc8f76b884ca600f86acd8b9602": {
+   "id": "6cbdce29954debc8f76b884ca600f86acd8b9602",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Detuvieron a un exgobernador, pero el patrón responsable de la desaparición de los 43 normalistas de Ayotzinapa continúa evadiendo la justicia.",
+   "historia": "detenciones-caso-43-normalistas"
+  },
+  "cdc66efb98f5d1ed1597c671ed185269b6380d06": {
+   "id": "cdc66efb98f5d1ed1597c671ed185269b6380d06",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "algoritmos-libertad-reflexion"
+  },
+  "2880ebf07b04d8084efe4c6becc4d11a09bdbd3a": {
+   "id": "2880ebf07b04d8084efe4c6becc4d11a09bdbd3a",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum señaló que Mónica Soto podría integrarse a la 4T, pero una disposición legal exige esperar dos años tras dejar el cargo de magistrada para ocupar posiciones en el Ejecutivo o Legislativo.",
+   "historia": "monica-soto-4t"
+  },
+  "487a84c77741f0eb57e2ada0adf423fe7f378e09": {
+   "id": "487a84c77741f0eb57e2ada0adf423fe7f378e09",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "a-la-mexicana"
+  },
+  "4c76a4a506383f223aedff2662e0ebcb8eaa3232": {
+   "id": "4c76a4a506383f223aedff2662e0ebcb8eaa3232",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "el-clasico-de-agosto"
+  },
+  "1a481fe2b4b7397167a39b8afa8cf2a7828319e5": {
+   "id": "1a481fe2b4b7397167a39b8afa8cf2a7828319e5",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "sheinbaum-farmear-aura"
+  },
+  "8fb3a677f2b6e5d15e1b01ee04c976738002d68e": {
+   "id": "8fb3a677f2b6e5d15e1b01ee04c976738002d68e",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "afectos-fronterizos"
+  },
+  "75a8310eba86b5c618f9e0200930c8ee735ea384": {
+   "id": "75a8310eba86b5c618f9e0200930c8ee735ea384",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hayden-panettiere-muerte"
+  },
+  "573485e0f5a1cf8ffd50e4db2f7299ff52c0b1de": {
+   "id": "573485e0f5a1cf8ffd50e4db2f7299ff52c0b1de",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Fernando 'N' fue extraditado a México tras tres meses de detención en Argentina por investigaciones relacionadas con presunto huachicol fiscal.",
+   "historia": "fernando-n-extradicion-argentina"
+  },
+  "8b5f5fa6bd706b3d25c8898c69a09825b56fa62d": {
+   "id": "8b5f5fa6bd706b3d25c8898c69a09825b56fa62d",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "epale-pariente"
+  },
+  "aec5403cca3dea95efe2b701bcc7507ae776bd59": {
+   "id": "aec5403cca3dea95efe2b701bcc7507ae776bd59",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El INEGI reportó un crecimiento anual de 2.7% del IGAE en julio, la mejor cifra del año en el Indicador Oportuno de la Actividad Económica.",
+   "historia": "crecimiento-economico-julio-2-7"
+  },
+  "3e7041d2fa1f304b077bbd475a7c28725d4d4698": {
+   "id": "3e7041d2fa1f304b077bbd475a7c28725d4d4698",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-nicaragua-abstension"
+  },
+  "736d6f69d1ede95119aac15ca2dcec4f368cd2e3": {
+   "id": "736d6f69d1ede95119aac15ca2dcec4f368cd2e3",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "avion-estrella-alaska-militar"
+  },
+  "b9ba3966e2d90186b612d3fb6edf65dce42d9f3c": {
+   "id": "b9ba3966e2d90186b612d3fb6edf65dce42d9f3c",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "trascendio-puebla"
+  },
+  "48798e72bdf65047fe0b870d3910536dc98d34d9": {
+   "id": "48798e72bdf65047fe0b870d3910536dc98d34d9",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "contraalmirante-banda"
+  },
+  "c38491fdfcdeb6cae07c6c906db386c6c0f3d50f": {
+   "id": "c38491fdfcdeb6cae07c6c906db386c6c0f3d50f",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "los-cochipolicias"
+  },
+  "3f02eba7533b190a9da05d3c222db682ba91f460": {
+   "id": "3f02eba7533b190a9da05d3c222db682ba91f460",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "melania-reaparicion"
+  },
+  "dec3e267e14f49a49868eb3c797839faeb45fe38": {
+   "id": "dec3e267e14f49a49868eb3c797839faeb45fe38",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-scroll-infinito"
+  },
+  "b49b8e3c27c93033b0a6713064dd57ac4b9bc9fa": {
+   "id": "b49b8e3c27c93033b0a6713064dd57ac4b9bc9fa",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "ediciones-era-disfunciones"
+  },
+  "00fb3d1ea7763ee8e9b7b38ad0f2ee183a51ce8e": {
+   "id": "00fb3d1ea7763ee8e9b7b38ad0f2ee183a51ce8e",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "caso-cerrado"
+  },
+  "b50eeb0e8721a590609e187734e003dc00fce658": {
+   "id": "b50eeb0e8721a590609e187734e003dc00fce658",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fallece-atanasio-garcia-duran"
+  },
+  "bd8fe0c5321a2f13e37add4927a973fe9652b9d0": {
+   "id": "bd8fe0c5321a2f13e37add4927a973fe9652b9d0",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "testigo-caso-seguridad"
+  },
+  "6d1e5769ea883cbcaf74df6d4209744afd3eb599": {
+   "id": "6d1e5769ea883cbcaf74df6d4209744afd3eb599",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "precios-gasolina-2027"
+  },
+  "b34dc9d7ebd193da74340c9dbfd36de478264504": {
+   "id": "b34dc9d7ebd193da74340c9dbfd36de478264504",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huachicol-transformacion-mexico"
+  },
+  "2995ba9dd66a4d5e3d63e8700f9686d1fd9b7e52": {
+   "id": "2995ba9dd66a4d5e3d63e8700f9686d1fd9b7e52",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "comunidad-impreso"
+  },
+  "cd0ae01a25ef3e6eb0b7ee0e8f297b00a3629a3e": {
+   "id": "cd0ae01a25ef3e6eb0b7ee0e8f297b00a3629a3e",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "muy-agradecido"
+  },
+  "4e3d504657f54c1aac83b7a7b0cd0ff55002cf4c": {
+   "id": "4e3d504657f54c1aac83b7a7b0cd0ff55002cf4c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "numeros-economia"
+  },
+  "6a718bc23800e39e01659be669d9b98eab7f8ae8": {
+   "id": "6a718bc23800e39e01659be669d9b98eab7f8ae8",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "baby-shark-kpop"
+  },
+  "43bd45e83f3e65153e3494a6fa478b1f8301aa64": {
+   "id": "43bd45e83f3e65153e3494a6fa478b1f8301aa64",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "friccion-entre"
+  },
+  "67dee279c8ec2759d5192230edfe80efcfb61dac": {
+   "id": "67dee279c8ec2759d5192230edfe80efcfb61dac",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "global-impreso"
+  },
+  "4da4c7dbef6188b8dcd00de7b4c462de5c37ddf0": {
+   "id": "4da4c7dbef6188b8dcd00de7b4c462de5c37ddf0",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "leccion-de-vida"
+  },
+  "521ef4c98403603637ef70cf79096a718a96945d": {
+   "id": "521ef4c98403603637ef70cf79096a718a96945d",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "credito-empresas-banxico"
+  },
+  "713492921d9c2d10822577fbcdc9440ca81967c3": {
+   "id": "713492921d9c2d10822577fbcdc9440ca81967c3",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "a29274eaa9c83fe4f20db8da76e1d5f4f75f69f2": {
+   "id": "a29274eaa9c83fe4f20db8da76e1d5f4f75f69f2",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "a505c446d4813198df7b6f333229e32b817765a8": {
+   "id": "a505c446d4813198df7b6f333229e32b817765a8",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detenciones-huachicol-fiscal"
+  },
+  "51988f43e851f557ac93486e9a33fc5155f11894": {
+   "id": "51988f43e851f557ac93486e9a33fc5155f11894",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Fernando Farías Laguna, contralmirante central en caso de contrabando de combustible, llega a México tras captura en Argentina. Audiencia de testigo vinculado a 'El Mayo' Zambada bajo procedimiento cerrado.",
+   "historia": "farias-laguna-huachicol-fiscal"
+  },
+  "dbb13e7ff022054b94b679d3a8871050533aaf32": {
+   "id": "dbb13e7ff022054b94b679d3a8871050533aaf32",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "arbeloa-xabi-alonso"
+  },
+  "18b6c3c08dc0d21024514ec4ccb4f01104b2da11": {
+   "id": "18b6c3c08dc0d21024514ec4ccb4f01104b2da11",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "imca-uadeo-recintos"
+  },
+  "4f8ac2bc6ea1df45b14a41a31bfafc9bd2658519": {
+   "id": "4f8ac2bc6ea1df45b14a41a31bfafc9bd2658519",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-mananera-ausencia"
+  },
+  "898b6fdb0d7305dba3fff6709639224d0460c25c": {
+   "id": "898b6fdb0d7305dba3fff6709639224d0460c25c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tundu-lissu-tanzania"
+  },
+  "04fa116de32e18d343d24389419d115a6d59ed55": {
+   "id": "04fa116de32e18d343d24389419d115a6d59ed55",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Fernando Farías Laguna, contralmirante clave en esquema de huachicol fiscal, regresa a México. El detenido en Argentina en abril es trasladado al penal del Altiplano.",
+   "historia": "farias-laguna-huachicol-fiscal"
+  },
+  "0a655aedc17f014cfa378b1fac5fc345e835519a": {
+   "id": "0a655aedc17f014cfa378b1fac5fc345e835519a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alessandra-rosaldo-victoria-ruffo"
+  },
+  "26aae40338b8a48f8864fcec40bec58fe85d80d8": {
+   "id": "26aae40338b8a48f8864fcec40bec58fe85d80d8",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "festival-teatro-siglo-oro-cdmx"
+  },
+  "afa9acd297b2e132f1bda3e46fef657ccd017434": {
+   "id": "afa9acd297b2e132f1bda3e46fef657ccd017434",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "luis-de-tavira-madre-coraje-cenart"
+  },
+  "a91ca20a7d3fe6cfcb0195e057c9fa66e82f7ecb": {
+   "id": "a91ca20a7d3fe6cfcb0195e057c9fa66e82f7ecb",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "suset-existo-mujer-museo-chopo"
+  },
+  "7674737e025d9b456c2a3dac7388a652fe2936af": {
+   "id": "7674737e025d9b456c2a3dac7388a652fe2936af",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sr-gonzalez-ciencia-ficcion"
+  },
+  "043a9ec6ce0df0d9399b4ec358039af3a33ca8a2": {
+   "id": "043a9ec6ce0df0d9399b4ec358039af3a33ca8a2",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "madreperla-album-debut-metropolitan"
+  },
+  "b0cb97c817b61469ebb703266a5705b99f838e20": {
+   "id": "b0cb97c817b61469ebb703266a5705b99f838e20",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "7e1d0013583e6a07b1cbccea96d556c3f2bb90c0": {
+   "id": "7e1d0013583e6a07b1cbccea96d556c3f2bb90c0",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "63f7843dbc3f8d20908b0c39c53184c721d7a135": {
+   "id": "63f7843dbc3f8d20908b0c39c53184c721d7a135",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "clases-economia-moral"
+  },
+  "62a40fc323e2f7768ab40d0d59935e06f0f350bf": {
+   "id": "62a40fc323e2f7768ab40d0d59935e06f0f350bf",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "homicidio-santa-catarina-nl"
+  },
+  "0d4aa7e27546cd8d13feb41fa29bee5096dd1ce3": {
+   "id": "0d4aa7e27546cd8d13feb41fa29bee5096dd1ce3",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "facf1705d412643997b4aa035a96113068f1c9c7": {
+   "id": "facf1705d412643997b4aa035a96113068f1c9c7",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mananera-sheinbaum-21ago"
+  },
+  "486bdc32bb004832d93a046dab7b71f6352ff59c": {
+   "id": "486bdc32bb004832d93a046dab7b71f6352ff59c",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-gripa-ausencia-mananera"
+  },
+  "080972c784cce0f3dafa1e88d1fa7a7b6b048788": {
+   "id": "080972c784cce0f3dafa1e88d1fa7a7b6b048788",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "9f11371bfa0bfc6ac4d0f39ac4d67ae9082b48b8": {
+   "id": "9f11371bfa0bfc6ac4d0f39ac4d67ae9082b48b8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "03cbed8c1670037d28f78ab677ac598956797739": {
+   "id": "03cbed8c1670037d28f78ab677ac598956797739",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6fefc94de429ccd1a0c06c010fe5745f007f8234": {
+   "id": "6fefc94de429ccd1a0c06c010fe5745f007f8234",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c9cc263c31b235077d54d44b86939633f3c69d86": {
+   "id": "c9cc263c31b235077d54d44b86939633f3c69d86",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "teatro-ingenio-cierre"
+  },
+  "76ffe0cbb8fcc55a164a5a8caa9f9602b0de3f6d": {
+   "id": "76ffe0cbb8fcc55a164a5a8caa9f9602b0de3f6d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "enfrentamiento-salinas-victoria"
+  },
+  "b7a863b13894d8c78f704e148925d7bf97627bcc": {
+   "id": "b7a863b13894d8c78f704e148925d7bf97627bcc",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-relacion-biden"
+  },
+  "10bfc0ce4aaea99ab1f5e34be922fa353974802e": {
+   "id": "10bfc0ce4aaea99ab1f5e34be922fa353974802e",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-gripa-ausencia-mananera"
+  },
+  "4a27a8a9089ba5fe5c3060512dd7d63ab214ea93": {
+   "id": "4a27a8a9089ba5fe5c3060512dd7d63ab214ea93",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nvidia negocia en etapa inicial con Rebellions, fabricante surcoreano de chips de IA, para posible alianza, inversión o adquisición.",
+   "historia": "nvidia-rebellions-negociaciones"
+  },
+  "2487acc987097647e427ae43de24f3ee56743af5": {
+   "id": "2487acc987097647e427ae43de24f3ee56743af5",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "nvidia-resultados-bolsa"
+  },
+  "dd4b36b828b1be2517a7853bad9d6f5fa49dcb1d": {
+   "id": "dd4b36b828b1be2517a7853bad9d6f5fa49dcb1d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tecprize-2026-ia-empleo-latam"
+  },
+  "f0a956234e19819c61ccdb2af4746232ba35d14d": {
+   "id": "f0a956234e19819c61ccdb2af4746232ba35d14d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "kucoin-ia-certificacion"
+  },
+  "b00e5a45236ceabda7340f0de93357e9fd102cab": {
+   "id": "b00e5a45236ceabda7340f0de93357e9fd102cab",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Anthropic crea filial en Madrid para comercializar su software de inteligencia artificial en España y mercados adyacentes.",
+   "historia": "anthropic-expansion-españa"
+  },
+  "361fb1bdcbf3cf8019113f4e9c6792d7e1ba9c2f": {
+   "id": "361fb1bdcbf3cf8019113f4e9c6792d7e1ba9c2f",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "centros-datos-electricidad-opinion"
+  },
+  "ffba3bf86ceb007e820ebb966a35d06120522585": {
+   "id": "ffba3bf86ceb007e820ebb966a35d06120522585",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Demis Hassabis, CEO de Google DeepMind, afirma que IA puede reducir el descubrimiento de fármacos de años a meses.",
+   "historia": "deepmind-descubrimiento-medicamentos"
+  },
+  "856e03e699ce9f3a18d8a7fe933a052f5faa1337": {
+   "id": "856e03e699ce9f3a18d8a7fe933a052f5faa1337",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "abogados-negligencia-no-usar-ia"
+  },
+  "6318ea3cba09b5f95f0a42ca4961b9c366a447ef": {
+   "id": "6318ea3cba09b5f95f0a42ca4961b9c366a447ef",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "prensa-francesa-contenidos-ia"
+  },
+  "db01f43cdfdc3cd13eae24a391bcb91e96478192": {
+   "id": "db01f43cdfdc3cd13eae24a391bcb91e96478192",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sector-farmaceutico-ia-costos"
+  },
+  "b6f7e2dc89e4704c8f236c6035fc0c462fc17e73": {
+   "id": "b6f7e2dc89e4704c8f236c6035fc0c462fc17e73",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "google-ia-escaneo-corporal"
+  },
+  "bd964a07132ab0486fd01a04dda371d00878670e": {
+   "id": "bd964a07132ab0486fd01a04dda371d00878670e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremotos-caribe-andes"
+  },
+  "88d9a0b59729b79e26087497d4ecb4b2ef799c01": {
+   "id": "88d9a0b59729b79e26087497d4ecb4b2ef799c01",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-alumno-india"
+  },
+  "cf05eef582f6b8b1b779e6a145b2790b9e2a5f67": {
+   "id": "cf05eef582f6b8b1b779e6a145b2790b9e2a5f67",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Trump amenaza con guerra económica contra Irán. Las sanciones buscan presionar la economía del régimen.",
+   "historia": "trump-iran-sanciones"
+  },
+  "1199c843c231f7c36c8126ac49621b3e41e0caa6": {
+   "id": "1199c843c231f7c36c8126ac49621b3e41e0caa6",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nueva ronda de sanciones económicas de EE.UU. contra Irán. La ofensiva escala una semana después del aniversario de la guerra.",
+   "historia": "trump-iran-sanciones"
+  },
+  "e6cb6f332afc77498ba685d4527b2c15d7e67b29": {
+   "id": "e6cb6f332afc77498ba685d4527b2c15d7e67b29",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "perro-terremoto-colombia"
+  },
+  "51695d792934c6f06e8e088d81ec3f78e017397f": {
+   "id": "51695d792934c6f06e8e088d81ec3f78e017397f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "submarinos-india-alemania"
+  },
+  "7a91b53b20e41d16f0599a3a7e4cfc74a157388a": {
+   "id": "7a91b53b20e41d16f0599a3a7e4cfc74a157388a",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "accidente-aereo-pensilvania"
+  },
+  "ff9c30e4771f248dc0b7fac20576934f7e8a7fe1": {
+   "id": "ff9c30e4771f248dc0b7fac20576934f7e8a7fe1",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "charla-suscriptores-terremoto"
+  },
+  "6fab594593cdd177291bae053f2d5c3807942a10": {
+   "id": "6fab594593cdd177291bae053f2d5c3807942a10",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hambre-america-latina-republica-dominicana"
+  },
+  "85db4008e019ea6339a6c4c3bca10834c44d0182": {
+   "id": "85db4008e019ea6339a6c4c3bca10834c44d0182",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "EE.UU. designa a Hezbollah como proxy de Irán y sanciona su red de financiamiento. La medida apunta a la Fuerza Quds del IRGC.",
+   "historia": "hezbollah-iran-sanciones-ee-uu"
+  },
+  "277573e88311bded78c712853be73c5d90a86bf7": {
+   "id": "277573e88311bded78c712853be73c5d90a86bf7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Presidente de Irán declara que Teherán está en posición de fuerza y aboga por poner fin a la guerra. Señal de negociación potencial.",
+   "historia": "iran-conflicto-posicion-fuerza"
+  },
+  "ee9e7999ce80bc310d062a023c3f3a7980126f6e": {
+   "id": "ee9e7999ce80bc310d062a023c3f3a7980126f6e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-flores-indonesia"
+  },
+  "d49c8a91663eb2ddc74c49b882ad7623eca451c9": {
+   "id": "d49c8a91663eb2ddc74c49b882ad7623eca451c9",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "singapur-fondos-hong-kong"
+  },
+  "9e87c14aab542bf2ebcfc171d184320cb9c59813": {
+   "id": "9e87c14aab542bf2ebcfc171d184320cb9c59813",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "musiala-bayern-salud"
+  },
+  "0f5896127190b1fd73368c965aaa884c623c82a5": {
+   "id": "0f5896127190b1fd73368c965aaa884c623c82a5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-colombia-ninez"
+  },
+  "6ca4fe4849aae1cd340a54eba4cb6c97f6368623": {
+   "id": "6ca4fe4849aae1cd340a54eba4cb6c97f6368623",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "imran-khan-pakistan-hospital"
+  },
+  "b70cd6c02c0d4f893aedfea429d3aa672988fe56": {
+   "id": "b70cd6c02c0d4f893aedfea429d3aa672988fe56",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trump-aranceles-carne-molida"
+  },
+  "90dfc85d6fb58417d0b1215cf541c33edd2acefd": {
+   "id": "90dfc85d6fb58417d0b1215cf541c33edd2acefd",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "jamie-oliver-dividendos"
+  },
+  "34f0a6aa00aa3f7f37a9f4a99b68f86450a0a75f": {
+   "id": "34f0a6aa00aa3f7f37a9f4a99b68f86450a0a75f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-ayacucho-peru"
+  },
+  "67b9a028516a863b437e980afdb67e50d536be80": {
+   "id": "67b9a028516a863b437e980afdb67e50d536be80",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "DeepSeek presenta versión experimental del modelo V4 Flash con capacidad de interpretación visual. Alcanza rendimiento comparable al Opus 4.8 de Anthropic.",
+   "historia": "deepseek-v4-flash-vision"
+  },
+  "19f39da1b821e11a5fac4390b3d0dc824fdebe52": {
+   "id": "19f39da1b821e11a5fac4390b3d0dc824fdebe52",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "inversion-ia-wall-street"
+  },
+  "eecf5cf7faf5f01372f0f6bec601470d43a3020b": {
+   "id": "eecf5cf7faf5f01372f0f6bec601470d43a3020b",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "deepmind-eve-online-ia"
+  },
+  "892d5585baa9ca997c6042729ea90227a925b173": {
+   "id": "892d5585baa9ca997c6042729ea90227a925b173",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "nueva-york-tecnologia-ia"
+  },
+  "5a0740eda7b40f8582d95d6e4d2d94a0442d36df": {
+   "id": "5a0740eda7b40f8582d95d6e4d2d94a0442d36df",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "chatgpt-imessage-apple-mac"
+  },
+  "242ac773141f26efe5741fd7bb559e922b702447": {
+   "id": "242ac773141f26efe5741fd7bb559e922b702447",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "openai-pausa-dos-semanas"
+  },
+  "7112f7ccc0479a2cb2a0b4c35f96acc08d0ac02b": {
+   "id": "7112f7ccc0479a2cb2a0b4c35f96acc08d0ac02b",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "patreon-algoritmo-creadores"
+  },
+  "9657b76877a576186925d846fb9916d2cd7328db": {
+   "id": "9657b76877a576186925d846fb9916d2cd7328db",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "papa-matrimonio-ia"
+  },
+  "220258c45aa56ff8982c5914b89cdafdf1851e78": {
+   "id": "220258c45aa56ff8982c5914b89cdafdf1851e78",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "papa-ia-humanidad"
+  },
+  "c472ff99e31e0535ae47ef106cb138198b5cdb7b": {
+   "id": "c472ff99e31e0535ae47ef106cb138198b5cdb7b",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mit-ia-autores-imagenes"
+  },
+  "236d3247b366895beaa725304025b72ca2b597fd": {
+   "id": "236d3247b366895beaa725304025b72ca2b597fd",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "deuda-ia-corporativa-inversores"
+  },
+  "b9d078a20ba5a3b2b971dd20e1e1ab3182ae0fe7": {
+   "id": "b9d078a20ba5a3b2b971dd20e1e1ab3182ae0fe7",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tmec-presion-automotrices-proveedores-asia"
+  },
+  "18f14bb077b140456903037b1531041a6b356120": {
+   "id": "18f14bb077b140456903037b1531041a6b356120",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alerta-lluvias-cdmx"
+  },
+  "d3e5d6c6eb75bec46bba5af3ffe37ac4ddc1f545": {
+   "id": "d3e5d6c6eb75bec46bba5af3ffe37ac4ddc1f545",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "infantino-afc-reeleccion"
+  },
+  "1a6f942620d850b32cfcdbb7d74cb2169a9b922e": {
+   "id": "1a6f942620d850b32cfcdbb7d74cb2169a9b922e",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "nina-polaca-rechazo-ia-composicion"
+  },
+  "bc3b25259a1a433d8706b808c49e0e4d5b80d1b0": {
+   "id": "bc3b25259a1a433d8706b808c49e0e4d5b80d1b0",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "seguridad-nezahualcoyotl-estado-mexico"
+  },
+  "671811f00ee8b33a1a76ba6c8f69e2c3244c140c": {
+   "id": "671811f00ee8b33a1a76ba6c8f69e2c3244c140c",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "padgett-columna"
+  },
+  "4c068f3070a0ebbebc0e8303a3d50ffee0feeee3": {
+   "id": "4c068f3070a0ebbebc0e8303a3d50ffee0feeee3",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vidas-cuidando-columna"
+  },
+  "934b5fb7be111f8b8f139d29c5871de703dee2b4": {
+   "id": "934b5fb7be111f8b8f139d29c5871de703dee2b4",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "laiseca-recuerdos-voz-columna"
+  },
+  "9eb4733b7173f425081d8531ea30f02bdfb29a71": {
+   "id": "9eb4733b7173f425081d8531ea30f02bdfb29a71",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "torre-reforma-colon-oposicion"
+  },
+  "f53da042caaa8e776ea0236afee671694463050d": {
+   "id": "f53da042caaa8e776ea0236afee671694463050d",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "patr-metro-subarriendo-irregularidades"
+  },
+  "d9e12a36f7d984984881de8c9018a9e7f626a1e4": {
+   "id": "d9e12a36f7d984984881de8c9018a9e7f626a1e4",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "baches-cdmx-servicio"
+  },
+  "31d8d258f9555e50035274fddb7dae559598e800": {
+   "id": "31d8d258f9555e50035274fddb7dae559598e800",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "La SSC presentó ante un juez cívico al conductor de una camioneta que perseguía a la conductora Vanessa Huppenkothen, quien denunció el acoso en redes sociales.",
+   "historia": "vanessa-huppenkothen-persecusion"
+  },
+  "2309bd92831f8da33726a71e49233749083d41e6": {
+   "id": "2309bd92831f8da33726a71e49233749083d41e6",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Dunia Ludlow, directora de tiendas Superissste, anuncia candidatura interna en Morena para alcaldía Cuauhtémoc, criticando gestión actual de la alcaldesa.",
+   "historia": "ludlow-candidatura-cuauhtemoc-morena"
+  },
+  "c48d2720238730bf85745ba047db1013dbd68b8f": {
+   "id": "c48d2720238730bf85745ba047db1013dbd68b8f",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "riesgo-alto-edificio-del-valle-sismo"
+  },
+  "a168a7b6e43ccba21900201ab4d2d4837301ac93": {
+   "id": "a168a7b6e43ccba21900201ab4d2d4837301ac93",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bloqueos-centro-historico-cdmx"
+  },
+  "03e952682270958fc010784713a60e9db5f6c327": {
+   "id": "03e952682270958fc010784713a60e9db5f6c327",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mural-holografico-metro-auditorio"
+  },
+  "ef4deed91e042666585b935aa8ece5752c3ca6a2": {
+   "id": "ef4deed91e042666585b935aa8ece5752c3ca6a2",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "homicidio-mujer-defensa"
+  },
+  "ec6713001349d939c0566a843bab75f85792783b": {
+   "id": "ec6713001349d939c0566a843bab75f85792783b",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "México lleva 25 años creciendo en promedio 2% anual, por debajo del 2.4% de América Latina. La Cepal señala el bajo crecimiento como problema estructural de la economía mexicana.",
+   "historia": "mexico-bajo-crecimiento-cepal"
+  },
+  "761d4fced3dfdbd400fe8131075027580d29bc76": {
+   "id": "761d4fced3dfdbd400fe8131075027580d29bc76",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "anforama-cierre-75-anos"
+  },
+  "185ba8c6d8da98fdac8aabe280c2fae7cd6d1379": {
+   "id": "185ba8c6d8da98fdac8aabe280c2fae7cd6d1379",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "encuesta-semanal-sheinbaum"
+  },
+  "0fee269c2521611f72a95072812773ed94e9702f": {
+   "id": "0fee269c2521611f72a95072812773ed94e9702f",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Sheinbaum atribuye la apreciación del peso a economía sólida y confianza internacional en México, según declaró en rueda de prensa en Palacio Nacional.",
+   "historia": "peso-apreciacion-sheinbaum-economia"
+  },
+  "ec5f066dbe912518bc25efe0ba0a7ae71f1531fd": {
+   "id": "ec5f066dbe912518bc25efe0ba0a7ae71f1531fd",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "El Banco de México considera mantener la tasa de referencia mientras la inflación continúa estabilizándose, según la minuta de su última junta de gobierno.",
+   "historia": "bdem-tasa-interes-inflacion"
+  },
+  "8a1ea1705904236e1a1df020afb3518c583e6a20": {
+   "id": "8a1ea1705904236e1a1df020afb3518c583e6a20",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Turquía emitió orden de arresto contra Benjamin Netanyahu y otros acusados por detenciones de activistas de la flotilla hacia Gaza, según anunció el ministro de Justicia turco.",
+   "historia": "turquia-orden-arresto-netanyahu"
+  },
+  "cd4cd32ae7f31e5508f395ccc64491fe2c4ff999": {
+   "id": "cd4cd32ae7f31e5508f395ccc64491fe2c4ff999",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trump-aranceles-carne-molida"
+  },
+  "20ab5ff0c901dc226707878cf7c0050d31196b57": {
+   "id": "20ab5ff0c901dc226707878cf7c0050d31196b57",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "chile-segunda-fase-derrota"
+  },
+  "2ee703b0f2fabb6d52622f97cd7ba86754b2bd72": {
+   "id": "2ee703b0f2fabb6d52622f97cd7ba86754b2bd72",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "China logró recuperar cohetes reutilizables, avanzando en tecnología de lanzamiento. Los analistas advierten que esto podría dar ventaja militar a la PLA en operaciones futuras.",
+   "historia": "china-cohete-reutilizable-pla"
+  },
+  "a8663deef052e5e7c4d4f22a6f01b05fb4233111": {
+   "id": "a8663deef052e5e7c4d4f22a6f01b05fb4233111",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "el-nino-intensidad-siglo-uk"
+  },
+  "9077a139ccad910ac7c94dbe39bba6af2fe6eaa7": {
+   "id": "9077a139ccad910ac7c94dbe39bba6af2fe6eaa7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "armas-alemania-rusia-asesinatos"
+  },
+  "840de0ce10618ddfe0383ba23ea116f670c0f632": {
+   "id": "840de0ce10618ddfe0383ba23ea116f670c0f632",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-fin-guerra-posicion-fuerza"
+  },
+  "a0a09851b9c19e8e9641d13c601f832f2bfcbc0a": {
+   "id": "a0a09851b9c19e8e9641d13c601f832f2bfcbc0a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "prince-harry-daily-mail-pago-legal"
+  },
+  "9a7fd143c2917563eb7843b21fbf899315d63897": {
+   "id": "9a7fd143c2917563eb7843b21fbf899315d63897",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ola-calor-futbol-corea-sur"
+  },
+  "75207ace74e167d1966a4993bb3765fc08db9015": {
+   "id": "75207ace74e167d1966a4993bb3765fc08db9015",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-colombia-agosto-2024"
+  },
+  "bbd6dd3c695edc25855c8abcd375a808d12026de": {
+   "id": "bbd6dd3c695edc25855c8abcd375a808d12026de",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "conflicto-israel-palestina"
+  },
+  "8c02cdb554ee8b1ce78c08acf9b876f637762210": {
+   "id": "8c02cdb554ee8b1ce78c08acf9b876f637762210",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El presidente de Irán pide el fin de la guerra, afirmando que Irán se encuentra en posición de fuerza ante las presiones estadounidenses.",
+   "historia": "iran-pide-fin-guerra"
+  },
+  "36dc62786e4d6300614abcaa5fc14783061185b6": {
+   "id": "36dc62786e4d6300614abcaa5fc14783061185b6",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "west-ham-canto-solomon-israel"
+  },
+  "e2708255c994090d03c488dad8fd46c871791439": {
+   "id": "e2708255c994090d03c488dad8fd46c871791439",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "aisha-wahab-california-election"
+  },
+  "ef5bf2d31b98d28d32b5a4862f977b092a649397": {
+   "id": "ef5bf2d31b98d28d32b5a4862f977b092a649397",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tiananmen-vigil-organizers-prision"
+  },
+  "39f015f65af48d5a6eee425ebc0b3623062a0aa8": {
+   "id": "39f015f65af48d5a6eee425ebc0b3623062a0aa8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "min-zin-detained-china"
+  },
+  "3df70a2326aea4c6bbea62a57c39f63cc2f05645": {
+   "id": "3df70a2326aea4c6bbea62a57c39f63cc2f05645",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El presidente iraní demanda el cese de la guerra desde una posición de fortaleza, mientras presiona diplomacia en contexto de tensiones regionales.",
+   "historia": "iran-pide-fin-guerra"
+  },
+  "7d4e95fbd02ed7b0939de90bfb42b9964b15bbcb": {
+   "id": "7d4e95fbd02ed7b0939de90bfb42b9964b15bbcb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "uk-ban-bienes-palestina"
+  },
+  "33cf5ca4efcd03c7c144fa7c243b07e816a55dfa": {
+   "id": "33cf5ca4efcd03c7c144fa7c243b07e816a55dfa",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El saldo de muertos por el terremoto en Indonesia asciende a 83, con cifras en revisión conforme avanzan las operaciones de rescate.",
+   "historia": "terremoto-indonesia-agosto-2024"
+  },
+  "298019d24131ffdceff8459877ffe0e27fce12ac": {
+   "id": "298019d24131ffdceff8459877ffe0e27fce12ac",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "palestine-action-barclays-sentencia"
+  },
+  "c2def36d2eaa6a3210d6f46bd367f5ea38267158": {
+   "id": "c2def36d2eaa6a3210d6f46bd367f5ea38267158",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "harry-meghan-regreso-familia-real"
+  },
+  "7670104d13847bff3ad5e8e8768307a850337fe0": {
+   "id": "7670104d13847bff3ad5e8e8768307a850337fe0",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hong-kong-visitor-quota-sai-kung"
+  },
+  "f37077e23cedc91c4056f4b8defd241d67d321d8": {
+   "id": "f37077e23cedc91c4056f4b8defd241d67d321d8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El presidente iraní Pezeshkian afirma que debe terminar la guerra hoy, cuando asegura que el mundo reconoce la victoria de Irán.",
+   "historia": "iran-pide-fin-guerra"
+  },
+  "72cb6054b2a9798f278eb6966c166df7e17daa72": {
+   "id": "72cb6054b2a9798f278eb6966c166df7e17daa72",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hizbula-sanciones-eeuu-iran"
+  },
+  "8db42b5a50d085e167665a081eff411a235a3319": {
+   "id": "8db42b5a50d085e167665a081eff411a235a3319",
+   "seccion": "espana",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sismo-granada-2024"
+  },
+  "aa59f3ac3bee34ea30e4938722bba57cf29ae7d4": {
+   "id": "aa59f3ac3bee34ea30e4938722bba57cf29ae7d4",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El presidente iraní pide el fin de la guerra desde una posición de fuerza mientras enfrentan presión de Estados Unidos.",
+   "historia": "iran-pide-fin-guerra"
+  },
+  "da6211b1e86355f9e743cbdf9d8d54c30062efcf": {
+   "id": "da6211b1e86355f9e743cbdf9d8d54c30062efcf",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "cad464a0e36bf704be1d999c35f9dfcde2395696": {
+   "id": "cad464a0e36bf704be1d999c35f9dfcde2395696",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Aliados estadounidenses en Asia expresan preocupación por la capacidad de Washington para contener a China mientras mueve recursos militares hacia Irán.",
+   "historia": "eeuu-asia-militar-iran"
+  },
+  "12c2577c33f50aa167ac623f02b4dd17134953ed": {
+   "id": "12c2577c33f50aa167ac623f02b4dd17134953ed",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "jiang-zemin-centenario-xi-china"
+  },
+  "8741ccbf22ca8d23eccbb80ba26a4c7f7b91b9d4": {
+   "id": "8741ccbf22ca8d23eccbb80ba26a4c7f7b91b9d4",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4bfa15111a9db47f77873504dba525a9efd3aba8": {
+   "id": "4bfa15111a9db47f77873504dba525a9efd3aba8",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-colombia-cafe-produccion"
+  },
+  "dbb24d3a99548500554bce98785781ce50c306c7": {
+   "id": "dbb24d3a99548500554bce98785781ce50c306c7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "singapore-sentencia-abuso-menores"
+  },
+  "6512420516168d637c65d0c0885d099763df54bd": {
+   "id": "6512420516168d637c65d0c0885d099763df54bd",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "uk-home-office-trafficking-albania"
+  },
+  "9800d095a86d337cf0f5fb3ee5b0a9d48a26d9d1": {
+   "id": "9800d095a86d337cf0f5fb3ee5b0a9d48a26d9d1",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "robotica-china-humanoid"
+  },
+  "931dd024fc50909d04e73c0ea4c7bccd2e0671da": {
+   "id": "931dd024fc50909d04e73c0ea4c7bccd2e0671da",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "atentado-viuda-armando-chavarria"
+  },
+  "a86a4a53db8381a1edeebb734f609c81855aac13": {
+   "id": "a86a4a53db8381a1edeebb734f609c81855aac13",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "bb5ca26e52bd2626cfd97242220bbeb266927a26": {
+   "id": "bb5ca26e52bd2626cfd97242220bbeb266927a26",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "belgica-israel-e1-asentamientos"
+  },
+  "4b07010625e7fe9f2f787f1eaaa4154091f238bc": {
+   "id": "4b07010625e7fe9f2f787f1eaaa4154091f238bc",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-filipinas-agosto-2024"
   }
  }
 }
