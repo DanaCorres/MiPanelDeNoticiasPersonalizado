@@ -1,7 +1,7 @@
 {
- "generado": "2026-08-21T13:27:20.433891-06:00",
+ "generado": "2026-08-21T13:28:36.672961-06:00",
  "desde": "2026-08-21T00:00:00-06:00",
- "total": 236,
+ "total": 225,
  "secciones": {
   "nacional": {
    "titulo": "Nacional",
@@ -10,60 +10,6 @@
     "politica": {
      "titulo": "Política",
      "articulos": [
-      {
-       "id": "cd449dad84b5c9a32adbd96663ac99cb07db2c36",
-       "titulo": "Rubén Rocha regresa como gobernador de Sinaloa pese a los señalamientos de vínculos con el narcotráfico",
-       "resumen": "El mandatario morenista se había separado del cargo en mayo, después de haber sido acusado por la justicia de Estados Unidos de favorecer a la facción de Los Chapitos del cartel local",
-       "url": "https://elpais.com/mexico/2026-08-21/ruben-rocha-anuncia-su-regreso-como-gobernador-de-sinaloa.html",
-       "fuente": "El País — Portada",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:56:29+00:00",
-       "historia": "rocha-moya-regresa-gobernador-sinaloa",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "0469cfe8ecc53dd6d6c2cd6a3c058ffc7c159412",
-       "titulo": "Álvarez Máynez tras el regreso de Rocha Moya: 'Es un día de vergüenza nacional, es una burla'",
-       "resumen": "Álvarez Máynez critica el regreso de Rocha Moya, calificándolo como vergüenza nacional y burla de la justicia.",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVFlkS3NvTjVXUVRJVTBNZndGYTRET2NHTnhnaHRVdnh0RF9zSkZkbS1pc1had1ZNRmJNNUJhSnJIN2dlRHdSYkE0RUJJV3FDZjFVM0trVDYzS2VMMERqU0pUU2lURHRNaU9mNG8xOHN3VGZKeXBBN05rY2hXWkV4eXNsa3J6Q3lUV3ZqZlFpZ2tsZ2pjOGN5bVNVUTBqWmFmR29MSmdWRTVaalhGamI1RTA3WDE4RHpXUTVzMUFLREFWbWY4M2xPc2pTcUZNQTEwR2k0NzNoak55c0U?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:43:40+00:00",
-       "historia": "rocha-moya-regreso-critica",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "56e2532bc9ab6d3e38c8cab56607d7ffe6b8d4cc",
-       "titulo": "El regreso de Rubén Rocha Moya: ¿Qué pasará con Yeraldine Bonilla, la gobernadora sustituta de Sinaloa?",
-       "resumen": "Yeraldine Bonilla tomó el puesto de gobernadora de Sinaloa después de que Rubén Rocha Moya pidió licencia para ser investigado por la FGR por supuestos vínculos con el Cártel de Sinaloa.",
-       "url": "https://www.elfinanciero.com.mx/estados/2026/08/21/que-pasara-con-yeraldine-bonilla-la-gobernadora-sustituta-de-sinaloa/",
-       "fuente": "El Financiero",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:42:39+00:00",
-       "historia": "rocha-moya-regreso-sinaloa-gobernadora-sustituta",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "d587af13379a2cf73c567ee15b9a38601f112e8b",
-       "titulo": "México rechaza deportación de mexicanos a terceros países; pide a EU respetar acuerdo",
-       "resumen": "México rechaza deportaciones a terceros países y exige a Estados Unidos respetar acuerdos bilaterales sobre repatriación de mexicanos.",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeE12YnhvNE5QaDBsbnVveFFONjJES0JKNjRIMU42Q3pIeXY1d3hRVm5fZlRhaHJUQVlWckdnNFI3aFVUaU1IWTM4b3JMRm9jNExoN1BnV3lIa19nZkJhUzNXb1pCQm9WRC10TUFuTzNjR1cwTUVPWlpiZ0ozcU9ybHl1TDBlQzdMaXpNQlROZjBFamFmckFiYUYzbDV0c2lzRTNjejF6RkRCVmN4T1HSAa4BQVVfeXFMTnhNdmJ4bzROUGgwbG51b3hRTjYyREtCSjY0SDFONkN6SHl2NXd4UVZuX2ZUYWhyVEFZVnJHZzRSN2hVVGlNSFkzOG9yTEZvYzRMaDdQZ1d5SGtfZ2ZCYVMzV29aQkJvVkQtdE1Bbk8zY0dXME1FT1paYmdKM3FPcmx5dUwwZUM3TGl6TUJUTmYwRWphZnJBYmFGM2w1dHNpc0UzY3oxekZEQlZjeE9R?oc=5",
-       "fuente": "Excélsior · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:38:14+00:00",
-       "historia": "mexico-rechaza-deportacion-terceros-paises",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
       {
        "id": "16eaad69827aca3e3ceeba3a69f12b6c0fd55de5",
        "titulo": "Video: Rocha Moya retoma gubernatura de Sinaloa, ‘regresó con la frente limpia’",
@@ -74,27 +20,11 @@
        "seccion": "nacional",
        "fecha": "2026-08-21T17:11:00+00:00",
        "historia": "rocha-moya-retoma-gubernatura-sinaloa",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "48d46fb3cc4014b5fae0c874a74d3dd617babc31",
-       "titulo": "Rubén Rocha Moya retoma gubernatura de Sinaloa tras licencia temporal",
-       "resumen": "Rubén Rocha Moya retomó el cargo de gobernador de Sinaloa tras una licencia temporal de 112 días, reapareciendo en Palacio de Gobierno y reuniendo a su gabinete.",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcGpoRnpvb3BfQ0JLemFtOFpBZkN3T2VpQjNfY2s3dG84ZDZXR1JpejJ0Mm5fMTRDWDNnOXVqNnM4QlYzb1JFQzRIX1JVZ2VYWmE1bTliSjJEV25fNmtibEItS0hlbVZsdTM5V1BvdHJZREg5Y29DbzVDS0JwcElfd28tUWFwSGFhZ0xWcEVMcGk3M2ZpUnYzRUZhTnZiQzIwNTVwRQ?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:50:12+00:00",
-       "historia": "rocha-moya-regresa-sinaloa",
        "tambien_en": [
-        "debate.com.mx · vía Google",
-        "MILENIO · vía Google",
-        "Aristegui Noticias · vía Google",
-        "Infobae · vía Google"
+        "Semanario ZETA · vía Google",
+        "Aristegui Noticias · vía Google"
        ],
        "prioridad": 4,
-       "resumen_generado": true,
        "desplazada": false
       },
       {
@@ -106,13 +36,64 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T19:23:40+00:00",
-       "historia": "rocha-moya-regresa-gobernador-sinaloa",
+       "desplazada": false
+      },
+      {
+       "id": "a2cf60a825192365f492c445701eee1daf4c88ac",
+       "titulo": "‘Situación se salió de control’: Así habría muerto Cuén en el secuestro de ‘El Mayo’, según nuevo testigo",
+       "resumen": "Un supuesto testigo del secuestro de ‘El Mayo’ Zambada revela versión sobre la muerte de Héctor Melesio Cuén y el presunto montaje para ocultar lo ocurrido.",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/21/situacion-se-salio-de-control-asi-habria-muerto-cuen-en-el-secuestro-de-el-mayo-segun-nuevo-testigo/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:21:58+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "152dcfd257e4fd1bcc856c23093013e91627e1c9",
+       "titulo": "De 13 mil a... 3 pesos: Adulta mayor acusa que desapareció su dinero tras perder la Tarjeta del Bienestar",
+       "resumen": "La mujer de la tercera edad no ha podido recuperar el dinero de su Pensión del Bienestar tras reportar la tarjeta como desaparecida.",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/21/de-casi-13-mil-pesos-a-396-mujer-denuncia-desaparicion-de-apoyo-tras-perder-tarjeta-del-bienestar/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:13:47+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d6c583897a9e4f39b333752276088a9da3c9e5fc",
+       "titulo": "Rubén Rocha Moya anuncia que vuelve como gobernador de Sinaloa tras ser investigado",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVFIcDJRQ2xLcTQ5MVcxcmhGY0FQNnBzSkU1T2NWRElNLXh6dDQwTGVILVdsZUNpcGpFa1NST3BsV0pHMnJlUVdXemppUVBFejFCSmtaOVowTU5VWm1XclZqc3NXWnN0TkFDVHF3aHdpWmIweDFNNGRVeVFLMUxtaVQyaXRDM2lxRHhja05KOTXSAZABQVVfeXFMTndQS3JOY2lvVDRiZ2R2dGZfNmctcVJGWExBUi1uN0kwTV9JSWF1WnVYNWJUMy1hajBYNXRDZXNDSzBHNTZVMUFKUzdReFVqak1pZlNlS1VuVzM4cXpzR2YxZThyYlFUTHFONzcxVllMUXdrcU5IRklobzcyeW5BaU56VXBDOGU5UWxVNURSdEpO?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:12:02+00:00",
        "tambien_en": [
-        "El País México",
-        "MILENIO · vía Google",
         "UnoTV · vía Google"
        ],
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "d7463281211d800d8eecf63b59cc25d982c3b3ad",
+       "titulo": "'La Mañanera del Pueblo', viernes 21 de agosto de 2026",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNUplajNsaVp5THNhWFQ2VmhhLVBIMzliaW9QV2YxVGt6YlpOU3kyVm5PNFVHZmFSa3ItTGVjZHlNSG1fQnVaZW1QOWVJdUJ5UVpsU0ZQYmpoV0NUUGtRemhkd1hVNHNHVUxyYjRjTjJISG9kNkx2SEYyMFdVWU01S0JIRUbSAYQBQVVfeXFMT3RaZzBMd1o0cmNxbU4yc0V1a2ZUcktKSFBwZG1rRHdNLTBSTmxCYmUyRUM5ZEhEODBReFlhQThHc29GOUNsZnJFRzVCZnFJOTROZ2dJbFhJd0E2WndmVG92dkpGdFpGbHYza3N4RjNJNkVIZFNLRHFFcjdObi1IZVVwZ0dk?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:04:13+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "7220d95a3d9b074d68a0f33caf5d93bf0a1867e9",
+       "titulo": "El caso Lockerbie revela la corrupción judicial de Occidente a niveles dignos de Hollywood",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXdjVVhKZVJfenlMNDdHYXQwRkhjRW1RQlZISndPanB4Y2RsQk9rb1ZMaDZYZllZQXFmY2dWYUc3NHk5a2sxc1ViWlRtZ0E5SGNuRUprZktOYkQ3c0xqQzRSYUJpQXNQUFRQTDItZnMtMjR1WURTT0VLT0NGS054MjJ3ellVSGRyLXdPbHBwYTc0aVlqQmx4alJMTVZWYTNyZEJ1a1MtbFBYMmpRTEY1RUplR28xb1p4UC1ZVi1halk?oc=5",
+       "fuente": "Semanario ZETA · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:00:00+00:00",
        "desplazada": false
       },
       {
@@ -129,46 +110,25 @@
        "desplazada": false
       },
       {
-       "id": "456e17301508d2da5afc65237366003681c699c8",
-       "titulo": "Aumenta la deserción escolar por embarazo en menores de 20 años en México: INEGI",
+       "id": "cbb6a016d3fa1911c7692470bdb1a446ea96747a",
+       "titulo": "Vecinos bloquean vialidad en Nezahualcóyotl por desabasto de agua",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVElHbWhQVXRGNTZfcUJHVFBsRklPTV9JSDd1UTgxY25PV1FYaTNkTGFnbmJ4Xzg5cDB0ejdKVDAzcDlaQTl5SWNLVDZOTVBveHU5ZUM5ZTIxdWs3WlpwcTJqNmc4OWE0ejRfNllyX0hLNUpoTGJiaGkyR21QeUlFSXNFdGxSSjF0cE1ray1oclV5Rnc4WWQ1bmhPMVlmSHU3OVJXU2EzdEJjdVpmQ3Jad0Vjd1ZMMEdHOFh4MkwwdFlkYWxMSUJzalRmWHg?oc=5",
-       "fuente": "debate.com.mx · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDZzSHJNZWNTN1dHUlcyUTE1ZjJTeEFLelA0YlhLb0R5UGtmMTRtSnRRaUNfcFA4bnROSUMzYWtXSTM2YVNzQkVlWlZPRGdFRlJOLXlQandYaGFPcy1OUUxFVzlGVFFCZG5qVFNyd0dVaTVtejExbWVxVHVsa1hYSHZQRVpaR1lFMHFZRUtVVXNCQkl5UWNHUGhwTdIBmwFBVV95cUxOQzN0akFOZGM4WVNXWHNjVjBLNThuS2pNenRhRFl0eHZyZWdXb29tM2dHbXJhRFJYelVYVy10NDFySDdSUDVPUjhRX1U4SWxDbmlwcmZIYnd1RVRuS29Rdk9KRFpueUdBSFQ2bjV0M3V3a1ZiaDd6UWV2RmlXWmdIU1FFZ3J0cDhvTF9vUzBfT3lvMEJaWnFRcTJ3WQ?oc=5",
+       "fuente": "MILENIO · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T18:47:43+00:00",
-       "historia": "desercion-escolar-embarazo-menores",
-       "prioridad": 3,
+       "fecha": "2026-08-21T18:42:00+00:00",
        "desplazada": false
       },
       {
-       "id": "bc46b5d0c814946e735d068591d78c997619e278",
-       "titulo": "El regreso de Rocha Moya representa una burla institucional: Maribel Chollet",
+       "id": "bc5276596afe3fef21906d3fc3b5b9f82a1592f0",
+       "titulo": "\"Es un mal mensaje\": regidor del PAN",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdzdwcXo5V2FRcWx0Zi1MX3hmX1VUUUszQ2JTQmdQUHhiWDEtZVBibEVtX1R2MzFpLXNsOVZrX0pHZ0VIRzZtbm9ma3hlSGhlN1NMVlZvVUxsbWVHWTJBTHNhRUFEOVhwdE1EQTBGSnljUnZ4QzlYUElSWkpobmxwUTlBTHc1RnBwZXlsRlAtYnpTYjBONVdCS1o1d2MzWEM1QW1pT1hMaUZNMDN5bkNWN3hjOWNra3BpZTZqNktYRWpzNVVpSTNMNjBGX1ZnOW5ZUUpV?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObkRVN0RMVmpJRHJfWG5kRmc1NXhHSXZoQndOQmp6MnZBdW1IcDVfeGdQTS1lXzhwSm5uYjRqWld2TkhVQUVhMk1VQUVEdEhFZlpRcXJZOE92bzQzSWh6allXSzdyQ2JiTGVCc2lFU3U0SVVYYTFNZkNkZ2RPS0FzVXgzYW93c1RiVTNRNHEyUHVRSVdEYkVZdjNGWQ?oc=5",
        "fuente": "debate.com.mx · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T18:28:25+00:00",
-       "historia": "regreso-rocha-moya",
-       "tambien_en": [
-        "Grupo Animal · vía Google"
-       ],
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "73ae1a6b2de3bf7dbb4b1699244189b3700401ad",
-       "titulo": "Liberan al defensor zapoteco Pablo López Alavez tras más de 15 años en prisión",
-       "resumen": "Pablo López Alavez, defensor zapoteco, fue liberado tras cumplir más de 15 años de prisión. La medida ocurre en contexto de revisión de sentencias.",
-       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGRnNGNnYm1LTE4tOUU2N1JkTlExZUlXMTNtT3hWVWtIM2RYb0xKbTI2d2JkY0tWNnhtQl9kNEl1VGFWTHZTdzlWZnkyTnJoV2duckhDa2N4NFM0R2pTT0VDd3NZNkxHSlBpODNYd2toU3c5dk1BX3dwUDBjdHRaczA0dElFYzFrdkY2bHBNRC1nRnNTUjl0Y19pVjYwWVdpNTBiQVBOVG5uSGRjUlIxQnA3Mjk3OUFEdXc3WU9hZVpfUFVPUjJCRGZyN3BQRWNxdkhKeHhPazg5ZG55?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:12:45+00:00",
-       "historia": "liberacion-pablo-lopez-alavez",
-       "prioridad": 3,
-       "resumen_generado": true,
+       "fecha": "2026-08-21T17:43:37+00:00",
        "desplazada": false
       },
       {
@@ -180,89 +140,41 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T17:18:04+00:00",
-       "historia": "presidenta-salud-gobernación",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "19f5b6430e1068a31f79f056a7b4a2fbf2bb8d66",
-       "titulo": "Juez desecha amparo por restricciones para comentar publicaciones de Rocha Moya",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVZPM28zQlZLbWQzWWZ0SlI5TGZ2YWxNdnVGaFpiaEJPUlcxUW5NWXRISk1CV1UtT3JrWGpDR18wa2xaREVBUmlNdHVDblZ0SldvMGhiUE9QTlVGQ0h5c2htb25nbnhZRWVXWGVZNmh3d1F4ZTM5MDJ1UmtnX2ZXOFM4VE9zdjdXNmFmU2oxa1htSVlhYTlHbGlDX1ExY3IzTWctUGVyemRQQVZ6ejFjUVZB?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T19:19:09+00:00",
-       "historia": "amparo-restricciones-rocha-moya",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "dabd558a128b7a1af6f90584e0dbe74b21c724a8",
-       "titulo": "Sheinbaum se ausenta de 'La Mañanera' por salud",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPXy1hTVJHVW12d0NycEtFdkc2REM3NkkwN3h5T1lmRGFZU3pWWUlmYjVVdExLUVN0WVRkc2p4VFdHSHB2OTFzTXhPWlZVaDRFSzItSldUenVhX0hpRWZfY1JNLXF1Y1BxVUhra1pRMllYRDhwWnFVNkdadGVqNE1FX2g0ZHZEOFlGakxSR0NoQTRpRmgzbVUtMm9HRGjSAZwBQVVfeXFMT2Y5U2hxTjdrSWI0S1VYcWhDaks1bkVtVjJ6NG0tTkR0T2Jnbkh1R2dtVnpaYjU4dHREUllTLUt2eTNJd3VYN0xYOGZPaDRCV0NxSnl5ODRRMFZ2ZEU0YjVodGp4QS0zbTFlQ1hmTHQwQjE4ZHp2MVhRdENCbDdCMzE5ZWZ3VUdyRGJrTElHR3YteWxiVnFTZHV6c1Ri?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T19:03:00+00:00",
-       "historia": "sheinbaum-ausencia-mañanera",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "b37b26a6663f668b13c97888908e797e65a122d6",
-       "titulo": "'El que nada debe, nada teme': Samuel Aguilar, sobre amparos de funcionarios de Atlixco",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcnJKWWFRY2Q1aFZEVTc1TkNab1lYWlZKRUZTQ2d6bDUyNzhqbzhIdFlnSVZ5VURBNlhNaFlnbUJfUkJKUnVLNnBIbm5hampvTWxNdE1FQ0c3YkI0OXJORW5Gcmo1OWFzemFXb0VaS0pQVUt5dlg3R0tLR0dBby1hY1ZQcWh1bEhzVmlWQWNOMUlnNlht0gGUAUFVX3lxTE0xRTBTZHVRZk5pdndxcVBvX25sTDdJcE5jaWVxN1Y3S1VOX1YzTWdDTmd1NXM5RFZzOXRKUHFyb2NVRGNvTkJCMFctYnE1MDVfZFlMVDlKTGFSeVkwaWM1dVFRa1FxcFI2dmt3YS1ReHR1d1d6bjFsMi12cGxub1M0QUs5R0lyaEpHaG01TVgzeTJzVHE?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:40:36+00:00",
-       "historia": "amparos-funcionarios-atlixco",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "c0438c439e7ea20c1b0c320ed9345fe7dcdb151e",
-       "titulo": "Rocha Moya regresa apegado a derecho, pero su actuación estará bajo el escrutinio ciudadano: abogado Morales",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYVZwcG5QOGtla1pIdGdSRnVTYXV5bEp2SEJGNGdZM0JBYVlhUWZPU2JnZHBHVE5USTFhbmxIUVVLR2JMY3BsUjZTNmtudWh1Tmd3VGppMHRvMGpyUjJQX0I4cnZ4enk1Rk15UzZ1b04yeWQxekRuTDY5Nm9vZ3FTTnI3Sl9BUVU5c3lpQ1o3dWp6alFpSTNIc2EwejNNMEg4cTdTbEJpU0xMZ1V2Vlh1U0wxTlNlZEdxcTVKWUFBN2hEUllSWmxTcExHUTdUNFBWWW80cmthYWdYcWhIa1Y0ZWxkX2dENkhnQVpMaS1zTk5FWVhKcGNuRTQ3dDc?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:32:04+00:00",
-       "historia": "rocha-moya-regreso-sinaloa",
-       "tambien_en": [
-        "Infobae · vía Google"
-       ],
-       "prioridad": 2,
        "desplazada": false
       },
       {
        "id": "3a5e1a752236437f1f28a7332a09a7f694225274",
        "titulo": "Paloma Sánchez explota contra Morena por regreso de Rocha Moya: 'No solo lo protegen, lo premian'",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVg5dnNBLUxmNV9uZVFpT3Y1UWVvRFpaYUpGS3BwV0UyTjk2U1N1czNBZFpheEpxdEdVWndrNzlTWDdLcWxwQ3pxcFpDU3hFXy1iMTlRMmJEUTJBVzN3TG44R1RCU1pUV1pFTnZINXAtSE9tS2VZUGpwaldrLTk1LUNtaF91d2dHMDZYd0pYbTlwNnJ5WWlxZmpxQ0xPdTZsMjdNd3N6TmswdHJKcnNGeVJwM2xJdXo5RmhZeG4zY1dQZ1JpUUZlc2k2cDEwU1V2VEhDd0R1MlhpLWVMREVZVA?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQdzlBVWVsUUM1eWlGOG0zU0VyaDlFVkVfX2JGUnpkZDR3QW9SdEhySVNkVjd6WWdVeDlzb05zbWdMSUQ3bVJEeTlmWWxTYjBCS2lhS21zRUstZzU3UnZZZmNfRGV6U29QdGxOaU1Ldk9uUWF5TjlZNVNfcjhNZ3ZSdzVsNXZPNjF3YkFVUEFLRGdRdjRvblBwb0tsTGd0OG5tNHJJYXgwV0JDVFloRVpTNzl2elFOSlcycFA0Y25zSVRESV9QV2lVQ2wtWlRGNHFnMWdFeFBCelpiNUVaQW1lamJGTllLdw?oc=5",
        "fuente": "debate.com.mx · vía Google",
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T17:04:15+00:00",
-       "historia": "paloma-sánchez-rocha-moya-morena",
-       "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "bbcbb757a4f8b939fc5bca83b06af901f3e18772",
-       "titulo": "No sabían cuáles iban a aparecer en la pantalla: la historia detrás de los dibujos que Vélez mostró ante Defensa",
+       "id": "bc589a7fc61e92af173dcfc5a0e5e43c6d3af369",
+       "titulo": "Es una burla para los sinaloenses: PAN por regreso de Rocha",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSUxuX2NPT3ZEdDA4WU0wM1loaFNpVk9tRkhmb3UtYURUX2JWbnlGMl9jcXZCaHBTUUNYYW9nSk02Q09RSGtDenZoMGk1OG5jc1oxNjZYZHJTd2pLSXU3SWtZcnlLcllxQlVrSHE5MXZXU3lDVmY5eENrUTRSNk02cHJkRG5obWs5MnRYVjBmaTMwR0VJLWc2bmJyRVVwZjVQcU9IaEhuczZ5ZkJ6blduMmJzVWJrOWNzVnZWVW5BajdIeW9RWUxNbWFmNUw2d0U3UDJSdHlHbFlUTGtrUHJXUUxSM19vVzdNcTcyUg?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSzJ1djlkc3VvTjJ6OWp0SXN3RmtwLTJnYTRoYlN6S0NjNW1FOFJYbWhTeE01M0x1RWJra0QxMkVVT2d4Ni00eU5ZcnVkRFEtSjBzT2hITElGTWx5TjNDX3cta2Y4UkJzMW50V2Y4d3J4OUZxa0ZSSU81RzRCMl9IMWJBS0N6ZjVqR205X1M1QVJSZDlwRXl3U0hRX3F2SWU2dE5oQ1hQQ2RUZk01OGUwcHp0WW9MYVdqdllYbUd3?oc=5",
+       "fuente": "debate.com.mx · vía Google",
+       "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T17:17:53+00:00",
-       "historia": "vélez-dibujos-defensa",
-       "prioridad": 2,
+       "fecha": "2026-08-21T16:31:14+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "25242df5ab7fd6dbc18daae4be2464c8f23b864f",
+       "titulo": "México ‘reclama’ a EU por enviar mexicanos deportados a Guatemala y Honduras: ‘No estamos de acuerdo’",
+       "resumen": "México expresó su inconformidad a Estados Unidos por enviar a mexicanos deportados a Guatemala, Honduras y Costa Rica, en lugar de trasladarlos directamente a territorio nacional.",
+       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/21/mexico-reclama-a-eu-por-enviar-mexicanos-deportados-a-guatemala-y-honduras-no-estamos-de-acuerdo/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:24:29+00:00",
+       "historia": "mexico-reclama-deportaciones-terceros-paises",
+       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -274,33 +186,6 @@
        "peso": 1,
        "seccion": "nacional",
        "fecha": "2026-08-21T18:45:15+00:00",
-       "historia": "resumen-noticias-agosto-21",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "bc5276596afe3fef21906d3fc3b5b9f82a1592f0",
-       "titulo": "\"Es un mal mensaje\": regidor del PAN",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc19lSy1xUVJ1bTdmRGRta0RYczJmZ3dqbG83WGJNSUI3aUlnZW9oVXFwZ0JCSEVNTG93RWoxYkV4Sm4tQUc0NGp0a29RbFc0RzYtVFBDdFQxLXd5WFM3dDZmNzJpSEV4a2dFRkpUZjczQi1GN2lqaEpXbzJzakVPcDdEVGdzdVpDTGt3aVBRZmkwUGtXemFNY3dNMTdiN2U3?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:43:37+00:00",
-       "prioridad": 1,
-       "desplazada": false
-      },
-      {
-       "id": "d7dc15283c166bcf924d9c09dc8899c182833443",
-       "titulo": "De México para el mundo: exposiciones de México en Asia y Europa reunen 3.8 millones de visitas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWnVXMU9SaHdUN0JyOGFuektZV192ZXZMS0h4V0RKYTFfbndySk1qUnR5ME1kSF8zb0w1NlFPYnFESERtQnhpWjUwQnUzQ202UE5aVzMta1BEbHBzUElOWldSVVoybThOcEdjaEx4ZTN4cXVXa1RrSkp6WjdhR3pnSk1SQXRNaUtUdmV1bUxQU0FoSUFPLUxfdEZ2MUY1cHpmZFhGSUdLaEpJS2FMd3BiRHVhNnRsWEpscldxTnVoaVpLV0k?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:08:13+00:00",
-       "historia": "exposiciones-mexico-asia-europa",
-       "prioridad": 1,
        "desplazada": false
       }
      ]
@@ -309,57 +194,14 @@
      "titulo": "Seguridad",
      "articulos": [
       {
-       "id": "a2cf60a825192365f492c445701eee1daf4c88ac",
-       "titulo": "‘Situación se salió de control’: Así habría muerto Cuén en el secuestro de ‘El Mayo’, según nuevo testigo",
-       "resumen": "Un supuesto testigo del secuestro de ‘El Mayo’ Zambada revela versión sobre la muerte de Héctor Melesio Cuén y el presunto montaje para ocultar lo ocurrido.",
-       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/21/situacion-se-salio-de-control-asi-habria-muerto-cuen-en-el-secuestro-de-el-mayo-segun-nuevo-testigo/",
-       "fuente": "El Financiero",
+       "id": "19f5b6430e1068a31f79f056a7b4a2fbf2bb8d66",
+       "titulo": "Juez desecha amparo por restricciones para comentar publicaciones de Rocha Moya",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWVZPM28zQlZLbWQzWWZ0SlI5TGZ2YWxNdnVGaFpiaEJPUlcxUW5NWXRISk1CV1UtT3JrWGpDR18wa2xaREVBUmlNdHVDblZ0SldvMGhiUE9QTlVGQ0h5c2htb25nbnhZRWVXWGVZNmh3d1F4ZTM5MDJ1UmtnX2ZXOFM4VE9zdjdXNmFmU2oxa1htSVlhYTlHbGlDX1ExY3IzTWctUGVyemRQQVZ6ejFjUVZB?oc=5",
+       "fuente": "Semanario ZETA · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T19:21:58+00:00",
-       "historia": "muerte-cuén-mayo-zambada",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "d5deaf1e39bdf4f04070861dbf5c681842f07620",
-       "titulo": "Fiscalía de NL reconoce negligencia en búsqueda de joven; pide disculpas a 15 años de su desaparición",
-       "resumen": "La Fiscalía de Nuevo León reconoció negligencia en la búsqueda de una joven desaparecida hace 15 años y presentó disculpas oficiales a la familia.",
-       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGJ2cTVSWGdMM29YRHp4a1E1cXdTQ2xsR2M2dUJXWVd0OXZBNEtTYVNydTVnVEdpMmJMV3pFanhsS0d6YUZzaGdYQnJkcGRycDRieWZMRVRMR19pWURrTk9VcU9EZUZ1ME1zRUdTUlc5azBqcTN4dFJEaU9rLWh4cy1NdVNrdGhRb1I2YThSZFRRWHR3RFZpS0t0aWtNdmVuM3BBUkh3MkxpYThEMGhqZFpOcXI3NVJBRDRSUUl5Q0NrUUx3Q05fZEJ3ZTE2S2pidGFXVjdtUUpQOU1rMWNLZDVlQVJZTi12bWFVN2JFN2xoRDB1b3ZadjNB?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:53:11+00:00",
-       "historia": "fiscalia-nl-negligencia-desaparicion-15-anos",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "7b353cd97a813ad479bdc2bf8c16ee17dafe1989",
-       "titulo": "Dan prisión preventiva a Fausto Corrales, imputado por encubrimiento en el homicidio de Melesio Cuén",
-       "resumen": "Detuvieron a Fausto Corrales, imputado por encubrimiento en el homicidio de Melesio Cuén. La Fiscalía lo sometió a proceso con prisión preventiva por su supuesta participación en el crimen.",
-       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVNaRmFmaFNQT2ZZa21zYmFwamlyUzZuazFEa3ExcXFaVkIzeEJJSU1Zc3dadzdqbEROeUZCb0JuSWdaVU1pLVZmWW1kaWw3aFN6UGJwNUVndHFTb1hlMFZLX01uNHBVSXRFR0Y0YlE5VktkV2t6UzJRZzlLdDBHVXlZd05yUjVFMm9JN2xtWHdHajBjNDV2QmhoaXBMOVAxcW9CVk8xSnhyVnVQNmZQaE5aY3U5Wm1jRGllT3ZpWjhnNTBCVTR1cDdEYXd3RWJGa2VfekxPYzFYZTQxWmZtck5vdk80cWFUSHZZMVNR?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:04:28+00:00",
-       "historia": "fausto-corrales-encubrimiento-cuén",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "d7830d31b8d585355e5563bf83d01385c9cd8784",
-       "titulo": "EU sanciona a barcos de Ecuador... por tráfico de cocaína a México: ‘Llega al Cártel de Sinaloa y CJNG’",
-       "resumen": "Los barcos de Ecuador simulaban ser parte de empresas pesqueras, pero eran utilizados para el tráfico de drogas hacia los cárteles de México.",
-       "url": "https://www.elfinanciero.com.mx/mundo/2026/08/21/eu-sanciona-a-barcos-de-ecuador-por-trafico-de-cocaina-a-mexico-llega-al-cartel-de-sinaloa-y-cjng/",
-       "fuente": "El Financiero",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:49:53+00:00",
-       "historia": "sanciones-barcos-ecuador-trafico-cocaina",
-       "prioridad": 4,
+       "fecha": "2026-08-21T19:19:09+00:00",
        "desplazada": false
       },
       {
@@ -371,8 +213,6 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T19:15:00+00:00",
-       "historia": "mexicanos-detenidos-sudafrica-narcolaboratorio",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -384,192 +224,6 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T19:12:00+00:00",
-       "historia": "huachicol-fiscal-leon-saez",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "cbb6a016d3fa1911c7692470bdb1a446ea96747a",
-       "titulo": "Vecinos bloquean vialidad en Nezahualcóyotl por desabasto de agua",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDZzSHJNZWNTN1dHUlcyUTE1ZjJTeEFLelA0YlhLb0R5UGtmMTRtSnRRaUNfcFA4bnROSUMzYWtXSTM2YVNzQkVlWlZPRGdFRlJOLXlQandYaGFPcy1OUUxFVzlGVFFCZG5qVFNyd0dVaTVtejExbWVxVHVsa1hYSHZQRVpaR1lFMHFZRUtVVXNCQkl5UWNHUGhwTdIBmwFBVV95cUxOQzN0akFOZGM4WVNXWHNjVjBLNThuS2pNenRhRFl0eHZyZWdXb29tM2dHbXJhRFJYelVYVy10NDFySDdSUDVPUjhRX1U4SWxDbmlwcmZIYnd1RVRuS29Rdk9KRFpueUdBSFQ2bjV0M3V3a1ZiaDd6UWV2RmlXWmdIU1FFZ3J0cDhvTF9vUzBfT3lvMEJaWnFRcTJ3WQ?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:42:00+00:00",
-       "historia": "bloqueo-nezahualcoyotl-agua",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "2b0155d8db081e7583eecf335024ebaebd332e0f",
-       "titulo": "Localizan a cinco de los seis integrantes de la familia que fue reportada como desaparecida en Sinaloa",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV3IwMFVCWTMteE93a2VQUGJtRGZHTWF2NVNRZnUzMWNHVE1kdHFMQUZFNlRKREV5UXQ4LVdnLXBDMnRtMVJrVDV5bm80OTkzV2VPUTJ2cnNrTGlTLUlFQ0N0OFdLeVVsR2p0d2szYTFBYzRBUVR6bjRSbUgxSnNwcjFMN01wSm45S1pJVF9zUVdpMktxSUltT1p0bC1ZUHlJZnfSAaIBQVVfeXFMT3ZtZ05TQzhVNzBlb29BR05OWFBGSUtNNE9QZWJUdTNQdWx4VTd6TTNfMXhoM3Z0a0pYeEh1a1c5M3hZVUpIZUtsRWJ6SU91N01IeDBKMDVwcEpVN3p2X29rb3FOclo2b3pfVGdidXNiUnAwSmN6RERYcmxNNG00T0xkczg2OXZzVFY2elVPY0ZyM3I2MlQ1d0d4LWdWT1BxXzR3?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:40:00+00:00",
-       "historia": "familia-desaparecida-sinaloa",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "6ec73a43df69e01edbb49584e59f77db5bb5ed4f",
-       "titulo": "Advierten aumento de empresas irregulares de seguridad privada; piden padrón único",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaS1XOE1lenhZSlh5amFISUJlMUs3QUk5d0NKdHZzbWNHb0dBSDdhbjhDQlFxVlNua0Y5TXlBankta29SNThNS2FUc3I4TlFoUnpTbS1lRGttTXV6QjBYYUF5c3RqTWowWDhwcjkyVWQ1bE1YbGtueDUwZUlzZ1hOUzVPMi1GOEk2QkhKS1JDTEphYXowb082eUVmWjdLeWdpcnhZeHQwa2VwZWNneG1laVJBeFE?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:20:27+00:00",
-       "historia": "empresas-seguridad-privada-irregular",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "4a3295a06e75b37b1d8ac667fc3cfee0ff7bb1c4",
-       "titulo": "Aplazan audiencia intermedia para sentencia de Joaquín Guzmán López, hijo de ‘El Chapo’",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVd5bTJ2cW56LVI1N2E2ZmQwNlFJNXJqaEsxUHg2Z3Rjb21CMEk4a0Vxa1hrSXNqZFBVRHVRbGREdUJiMi1UMTZRUHgzNm1CT1hRYUtzdmpUaXBtRldUWWxfTlB3Nk93Y3lrQ0ZxY3l2V2RfZjdySkdidGV4dUNMNm9UcnVvcE95U1paMHlUd9IBjwFBVV95cUxOQnAxUFZKQ2JDZmlRSFVaY1ltNm5tcTBWNWxVX1JRY3poSlVBVlhpTVd6WkhPMGRUNS1wVkV2RWpnNUdKcU9ZWUptUjlFaE4yMUlVZVY3LVJIcjgzTHBpbDFMLWJ6RFF2VlpwYldRMTdoUUNjNzFDcDJ2d0g2MXlJYXhGT3E2clFwRmJCLU4zdw?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:20:00+00:00",
-       "historia": "joaquin-guzman-lopez-sentencia",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "8ca25ce126eced5283c694c6256f07caa48354b8",
-       "titulo": "Más de 5 mil fosas clandestinas fueron localizadas en México en tres sexenios",
-       "resumen": "Se localizaron más de 5 mil fosas clandestinas en México durante tres sexenios. El dato refleja la magnitud de desapariciones y crímenes sin resolver en el país.",
-       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM1ZQU2RDZmw1dHhibGZGQlhOeGJVQmFmZlREOWViYXl6TTBIQjROeFF6WEhSV213aGlxd1BldGpQVWMtcnFkWTVXcF9HbElUbTJiTmNRWTNNd2QwT3ZoTWk0c0FjQVByRXgxRDdadzN6Q0F5WXZtNWR5dlpKajVkZ3hicHNmazlLOTZqdnhUWDV4Q1Q3WURqMGVEbkJDQ3VkcTFsVTV2TUVidlFHMURaMG8wNG5kTV9pWTg5dXNPTEhKcW5YblV5VzhWQ3RaLU9n?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:01:21+00:00",
-       "historia": "fosas-clandestinas-mexico",
-       "prioridad": 3,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "f96a50c98dc7c781b05a563f3cc42afa27861de7",
-       "titulo": "Tras reportes de violencia en el sur de Tamaulipas, registran pocas denuncias",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2w3VzNmZGFpNmVGWklJdHpHSms0V3lnNnVhN1R3OW1JdW56Sl9uenI1SHJJdFB4R1dNTTNuc0JCZHJKQkZQSkhrQTlLVGJlM2ZoWXJJZ2dPVUJ1U2hNWmk2M2pxdGxkTmJkcmo3bkdPaUdvTnJQZVViOWVKVS0tdFlhT1JwUkRic2xF0gGLAUFVX3lxTE05NlUzTkFDbFp6ckQyTWp6MUc0c3NGZEI1QzRkaHhwV2tWSi1mcGV2S0luMm13NGRNdkxPODNrNlhab2xuYjBXR3ZPMkZRWWppdmduMFRXVU82YW5ORFBfRWVrWFUtekh5eHZmM0szWjhiUWRycWhNNWM4MHNnUTZ1Rm1JQkxmS215OHM?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:57:12+00:00",
-       "historia": "violencia-tamaulipas-pocas-denuncias",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "38492c23515d9814643bf2f40c4688169e4f9e9e",
-       "titulo": "Hallan cuerpo e investigan si es de Octavio Haro, agente inmobiliario desaparecido en Jalisco",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUthamFoOVNBSkkwQlRZem5qQjZFb2ZnUGFINkJjZkl5M05icU1ZWmxxOVlVdWExQ2ZQTzBJeS1IODMyOWNUT3k0dFlWNGYteFQ4d3hxMElFaWpabkQzSnF4akp6U1pDamRkTDVmNW5XRGpRODNzNUNvNzV6RlQtckVzT2x5cWtWS0FCStIBjAFBVV95cUxOeGpfLTEtR0NGRnREOGVJSFR6S1h6V2pHNFNUR251T0lOTzZ3a3FlYnVOTUc2bm9nd0pfU2JnWV9OTWtfRi1yUmk5anNuUm9pY0dxTWFSbmpqdzh5T1Q2UmhpSU94OWNqS1ZtM1pHX2ZnMUhVYl91bFd0aEV4Sm1FN19OVUtXRDNxYWtkcw?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:45:13+00:00",
-       "historia": "octavio-haro-desaparicion-jalisco",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "5c27c93b7cb0ee94b4f4cc6d70299fb131a765b0",
-       "titulo": "Prisión preventiva a Fausto Corrales exchofer de Héctor Melesio Cuén",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdmNWUnZMcDhvTTdtcmFPc2E5T3ZBTDZCVnNfVngyLU5IcXhvZW16Q0h4bE5ielR4b3JNRjU4NE5KblU4ZUV1clN0TUlFY1VxenZxTnNYMkYwWWZTNU91dUtwdXd3bTFMUXhaZl9lejUzUDFFeWtDbmVNTzZBNjZzWk1NTUZ1OTJ4emlZLUVCN3JVdWN4WHN2SmU2YUdjOVJpQ0tV?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:44:50+00:00",
-       "historia": "fausto-corrales-chofer-cuen",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "2100a982bbbc5f43dc0cc8ec0fb1d1a672ff642e",
-       "titulo": "Aseguran 172 explosivos, arsenal y desmantelan laboratorio clandestino en Sinaloa",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOamlrS0s4U3lWREtXRE1iY0lDSGNVR3ZYNnhNU2x0LWhEdUVWb1J1cHYxWHY4SlVVQXhoOVJGemg2amFHQzBEZk1yVzBreFlqV2RIU09aRDJNbXRrLXJPYUpEZWYxLUpfU24yVDJmNlNiMjltOE12UVp3UTdDaWhmalNTSnBLUm45d2tXOFR0emNsZjRCMU9ISl92TUkzbko0Z1lwNNIBpAFBVV95cUxNWEx6Vm9YQTZRaWFKQlVVc3U5Q0x1ME1Jc0pkZ2puRVJ6Y1RBNjNJcjVRM0J5ekVPS29BWHg1b3ZaaGZwMVlKM29MVnJ5a210ekhMRTExeTBfa3l5dFYwXzJ5Qm9oUmxfLWRndFVJUVhiZWhIR2ZuS2ZudVZncXJheFdwYXJPVzZyY0ZEYUxPcGJYLWJLeEIzUnRoMVdqLXJobXNkbw?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:38:00+00:00",
-       "historia": "explosivos-arsenal-laboratorio-sinaloa",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "42ae9337983b02f1defe2213ab0d79eb6be47cd4",
-       "titulo": "Adolescente de 17 años habría asesinado a su padre con un cuchillo en Guadalajara",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHh4emFYaHJSS1ZsWm5kSll6U050QzVtRXphU3RDdGRFSTJZTEdUQTNuNi1CZXpJVUpSUWpUZXBDNzcxQzZ0bV9YSEx4N0tTelI5NXdTU0lVRkV4aUpOdUVpT2hmRHJHajZkVzZHTF9jRVIzdktEQVdkM292TTRBMkNxcWJMUlI0WEJyU1FkcVMwdU52U1Z0eS1iWmVoNW53SlI5S0k3eTI4YXp4bWc0TWJMVS14NVJkcHFNZVRIbXlDVnN3UDFQR21XV3BhTDZrd2VwcQ?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:36:02+00:00",
-       "historia": "adolescente-asesinato-padre-guadalajara",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "00b06a4b32396e2e908ed7766ca68e76dd0e788a",
-       "titulo": "Esto sabemos de la familia que desapareció mientras viajaba de Guamúchil a Mazatlán",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRlpjV3RzcGcyTjVxLWxZYm53bTN0eGlXZHktR2NCSzhIVWU2S2pGQ1pQUncyUnRwWXIxMHk4OEVNZ0xMQXVWcXdOaWMzWUVHaDNDR29NOFVEbV9KMzlybl9fbkl5cU9YNVlTR3BreEtPazhNNWFLbUZzZTZHM2VjSWhaUEV2dEhfRXVR0gGLAUFVX3lxTE9CanJ5eklpV09ZUl9tTFlsVEl5WE53bUZ0djhLdTFTQUhUbF9MOVluMV9GcGRQWXJpdkYyQVVWVmVoSC1wWmFFMW9vZk1KaVVwUWFQdnl2SVV4OXJQR29lRjBiSEF6WEE3QjF6d1JjMENYUF9pdUxOVnNIUElkZEhlY093bnExY2drNlk?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:19:00+00:00",
-       "historia": "familia-desaparecida-guamúchil-mazatlán",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "f755e19ec61edadd66b4b4b5653a041d98c770ae",
-       "titulo": "Profugo de la justicia, Francisco Álvarez, hijo del R1 revela detalles sobre el asesinato de su expareja Valeria Márquez: VIDEO",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOMklBaW5HYmFXc3UxYzgtcTNVYnJfbW1vV1o0eWdOMW1DY3JCWE44NjJuSmtfdExOT2phVG5abTl0TzBXVUlGMGpqVGZOYWVtOF84RUhTaW52Z3BHQTB5ZjgzZ1BTeGhoQUE0dUFSRGRmNTNaWmRtNnRabUgwM3VmWjYzNmJYWGtDN2NiaDN0WHV1dExST3FqWk9mWFhJc0ZJZUpPa3IzT2JlVnFwcU5hRmlUNFBQRFk0bDUxRnFjN2t5a0FJUFZ3cVgzTEs5eU5QOXNsQkJuUVdYakR1a1ZIcVlLb0pOOFo1b2ZORjMtZm5qYVhHZEJUZ3ZVMkhuVVhSNW1SajdkWWhTT2otcDIw0gGUAkFVX3lxTE92ek1sNjl3U0hpUmRvSlMwQlB0ZEk2OTFlelVhWHZVUEhkcS1uMV8tNjVYUkhRWnpSNE82dnVmVkdkYXk0Zm00aWJ1T3B2X1hELVF3WkZvWlZRWnZOa3d3NkNhR2pBdXRacWZzNm5xdk9Nc1RlRW5rVmJOQzdGYmFWNEE5ekNZSlZFLWJORUVUR0g3Q0dpMTlpNHRGSzFGaXdzbWE0aGZZaXRRZ1U5VXhqTmFveFZoVVJmMmZxRUl4T084T29QbnBOSHBaZ192Wk9GaTRyS0ljMDM2WFd5TncwdzBVdVdJaWJ2MTdWVmNoZVNCMkJNUXRQa2FZRTg1T3dFWC02VENyajlwREpJenRTc1JYQg?oc=5",
-       "fuente": "Reporte Indigo · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:47:00+00:00",
-       "historia": "francisco-alvarez-valeria-marquez",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "88ca55f894a16233aa8feb9e63a91c9d62d5682c",
-       "titulo": "Rescatista de perros denuncia atentado; incendian su automóvil en Tijuana",
-       "resumen": "Un rescatista de perros en Tijuana reportó un atentado contra su automóvil, que fue incendiado. No se especifican motivaciones ni detenidos.",
-       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2xZRG1QV2NHcWV3T0tTdmx4Y0UwbXdxb2FEcjZ2MkRuSUhqZUI4V2lNV19QaWd1U3lCYlJZOFN6YXBiT3BQSEVJemllZ1JNNE80NGo3c2FKWldkdy1wUWEtY0lqeFQ2V2dJeEFYOWkweWozNnd4ZHJBaThnQ25Na3F5clZNR3MyUFVfYnhhemo2WGFDYUZCdTdQaWtRblpCaVJwNklTSFBhRzNiUElIY2hEU1lDTW9KWktESFg4TkhQQdIB3AFBVV95cUxPNURuekoyak4tZmp1N0dtSm9wYTBraXl4WHRZNEVIdDAyQXlQNEFXV2liQmY0cVBPRDI3LXlwX3kyb2d6eV9FS0N6RFFiNThkaHJfVWZrNkc2dWhMQmlJeU9GREU4ektVZFRZdTFxZ2NZTDNYUlBFX1ZmWUp2d3JPNVJkZGtQdTlZUVNLYmY4Zl9IdFVfMXJBV2V5NDB6Wk81RnQteU9XTVF5NDREbmpPVnFaM2psbm8tTkR0TGk3dVhjdU02dW1iVGlISUN6V3phejNlNFRGYkppeFZV?oc=5",
-       "fuente": "El Imparcial · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:22:18+00:00",
-       "historia": "atentado-rescatista-tijuana",
-       "prioridad": 3,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "74930709effd3fcc865595545be8e60ffcf46f27",
-       "titulo": "Video exhibe presunta extorsión de policía municipal en Tlaxcala",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUJDd2VFUTFWS3hyTjlnb2ZfZUIzcDdCeDd1dUdTTE9sUFNRaUxzQXlEUUNyLVVzS0hTV0hHWXJ0S3BzMDRpbllOMVRaRTNiaF9SeU9BVnc4OHIxeDVIM09vY2xjVXpfSUlWRExfZG5wMVZ4SlhGblFzVHhoR1VTUDZWOE9Rc3JpLWd4SmFsQzBkVUZKZnJxNXRtUld1bnhQWWRrV1pDOA?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:30:35+00:00",
-       "historia": "extorsion-policia-tlaxcala",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -581,8 +235,20 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T18:57:44+00:00",
-       "historia": "jesus-gabriel-vinculacion-proceso-culiacan",
-       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "cd449dad84b5c9a32adbd96663ac99cb07db2c36",
+       "titulo": "Rubén Rocha regresa como gobernador de Sinaloa pese a los señalamientos de vínculos con el narcotráfico",
+       "resumen": "El mandatario morenista se había separado del cargo en mayo, después de haber sido acusado por la justicia de Estados Unidos de favorecer a la facción de Los Chapitos del cartel local",
+       "url": "https://elpais.com/mexico/2026-08-21/ruben-rocha-anuncia-su-regreso-como-gobernador-de-sinaloa.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:56:29+00:00",
+       "tambien_en": [
+        "MILENIO · vía Google"
+       ],
        "desplazada": false
       },
       {
@@ -594,234 +260,28 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T18:55:41+00:00",
-       "historia": "red-huachicol-huasteca-potosina",
-       "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "59e856ef9fca30a3e64da0dd991b6046c177ad75",
-       "titulo": "Un Muerto y Una Mujer Herida es el Saldo de un Ataque Armado en la Colonia Las Heras en Irapuato",
+       "id": "4a3295a06e75b37b1d8ac667fc3cfee0ff7bb1c4",
+       "titulo": "Aplazan audiencia intermedia para sentencia de Joaquín Guzmán López, hijo de ‘El Chapo’",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOejdhWVIyQkplR0UxeFkyaTIyYkdhVFl5OURqNFlZR0lnaDdhdlJPLXpsVi00dHFlQWRGNzFENnRDa2FTTnJxNWFFMGVvQVhiUzZLdlhCaFBUOHducGxQTG5fR0JfN09CUGEzY0xCVzdNNm1xanNwd2lZemU3c2lUUk1pSTRTQ1dNMWVrVnEwSDFTQXZxZ3kyVk5xX01UR2VOeWhEeXF5WWZ5OVZtb1h2UExSd25LdllfNEtKc1liTG1GN2gycl9TYnN6ODZLSmtzdDFKeUY0NWxzaFJoUmxsNWVTcGpYcXc?oc=5",
-       "fuente": "N+ · vía Google",
-       "peso": 2,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:43:43+00:00",
-       "historia": "ataque-armado-irapuato",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "0f26033e9b90df05fa45083eaf82f879c4b7b3e8",
-       "titulo": "Buscan más complejos delictivos tras localizar laboratorio de metanfetaminas en Fresnillo",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSllxZnBpemdYYjE1LWUxbW92OVR3a29sV3p4NTI3cTFiQ1hGLUVGczZCTVBibVRWMWFzUjZEOWpMbnBzZFp6NDl5aGo3QnEwcXFSNVNqSUdnTy14SDh2dDhVRlhZNkVhY3dyT2ljdnE2NzRSbXdUcVAyNDZVMTZXVEhVTG0ybjh4RHMxdUMzanBxQjlESmdNVTFmMDRkbFMxTmxiSDIzaEJ1UUFSSktMSXNhMEVLbkw2N00tRUxCQ0hxNzk1cC1BRHFR?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T19:21:49+00:00",
-       "historia": "laboratorio-metanfetaminas-fresnillo",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "dda7130b8ccd60309fd42fccdbb4654b4f32e682",
-       "titulo": "A bastonazos, abuelita enfrenta a asaltantes en la Ruta 30 de Puebla",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmFDSlgtNmlHNjNUdFpmWWRVcGpwMlBkQkIzZTZFa1RvWGt6OTFiT0dOQkVRUkQ5SkxYQVN3VXR1QWtHcjV3dUpyQVB1NFhtdV9GdTJNdWtqeWxRX3R2dWdqOWFDYkNXeEF5dXZQOEJsLWpTc3hRYjl4RHNFcVlRbEtpTDVfNDA5R0dKVGFLbVFKSWxIT1ZPSHQzUEVaaEJGWHhJdWlnNm4?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:49:05+00:00",
-       "historia": "abuelita-asalto-ruta-30-puebla",
-       "prioridad": 2,
-       "desplazada": false
-      }
-     ]
-    },
-    "economia": {
-     "titulo": "Economía",
-     "articulos": [
-      {
-       "id": "e34f3f82c28f74edc784d4bfb898d89eeda58e0a",
-       "titulo": "Pese al impulso del Mundial, sector servicios registra su peor racha desde 2021",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPX1hJNXZ3UjdfM3FDcjNHNzVfM1JpNkNTU0ZiMFdQMGZUdXlJdVFfX2JNWnJqVUlSRm80LVRVVGtlUHZyMnBZNnJic3R4Z0pIOVNvV0Y5QklZallkVXhWSmJRUDB3dkdUNkpEN01uTFlzZUp3d0NEam9Hcml0aEMwbHlOOWJVdUtCRjBTdHh5cnRBdkHSAZMBQVVfeXFMTXJpa1FfRHFvR2ZHS2Nndi01S0Nualg1MWVTSXUwYUEyT1lVaUtVUmVibjV1eHBvaXlyY01sRVo0QVFKMVBzQ2pPbjRQYmJ5akthZVc0ZF9QTWJndFhoOG5sMnBaaHl6ZGl6Y3lBbGw5NTFpX0ZKMGI4eVBZOVpiTVV0ZTNSUG92eHRja3JEbG4zR2lZ?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeVd5bTJ2cW56LVI1N2E2ZmQwNlFJNXJqaEsxUHg2Z3Rjb21CMEk4a0Vxa1hrSXNqZFBVRHVRbGREdUJiMi1UMTZRUHgzNm1CT1hRYUtzdmpUaXBtRldUWWxfTlB3Nk93Y3lrQ0ZxY3l2V2RfZjdySkdidGV4dUNMNm9UcnVvcE95U1paMHlUd9IBjwFBVV95cUxOQnAxUFZKQ2JDZmlRSFVaY1ltNm5tcTBWNWxVX1JRY3poSlVBVlhpTVd6WkhPMGRUNS1wVkV2RWpnNUdKcU9ZWUptUjlFaE4yMUlVZVY3LVJIcjgzTHBpbDFMLWJ6RFF2VlpwYldRMTdoUUNjNzFDcDJ2d0g2MXlJYXhGT3E2clFwRmJCLU4zdw?oc=5",
        "fuente": "MILENIO · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T18:50:00+00:00",
-       "historia": "sector-servicios-racha-negativa",
-       "prioridad": 3,
+       "fecha": "2026-08-21T18:20:00+00:00",
        "desplazada": false
       },
       {
-       "id": "2408e0d866ae7791fc74234b053c04ec9abb0196",
-       "titulo": "Río Zahuapan se tiñe de rojo y revive alerta por contaminación en Tlaxcala",
+       "id": "e9a0eb72ec7f4ee420435e9c5dcbe3d07e2b4d7e",
+       "titulo": "Detienen a 10 por el secuestro de dos personas en Zacatecas; víctimas ya fueron liberadas",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPWjd1eFRDYXM3eW91M3RvZnJVMkwwLUIxeVFiWFB3UE9adU9ZbmgzekVpbW9Vc284TE0yNHlqQnZfUlNUYjViZVdQM0FESDVPUDBIcUppdXZNOW9OU2Q2UGVqVE00NzloVGdYR2gzNWdiZjNXZHZqRDlNUzh0andRN0k3X3RUZEtCVUd1UnJvVWhuUU5WTUdDVWo0N0dYQndvMlk5OXowWnlXUQ?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:32:03+00:00",
-       "historia": "rio-zahuapan-contaminacion-tlaxcala",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "152dcfd257e4fd1bcc856c23093013e91627e1c9",
-       "titulo": "De 13 mil a... 3 pesos: Adulta mayor acusa que desapareció su dinero tras perder la Tarjeta del Bienestar",
-       "resumen": "La mujer de la tercera edad no ha podido recuperar el dinero de su Pensión del Bienestar tras reportar la tarjeta como desaparecida.",
-       "url": "https://www.elfinanciero.com.mx/nacional/2026/08/21/de-casi-13-mil-pesos-a-396-mujer-denuncia-desaparicion-de-apoyo-tras-perder-tarjeta-del-bienestar/",
-       "fuente": "El Financiero",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T19:13:47+00:00",
-       "historia": "tarjeta-bienestar-desaparecida-adulta-mayor",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "4757b064791c76afa9a5692c0259cc17202c3917",
-       "titulo": "Wall Street abre con ganancias en medio de bajas del petróleo: ¿Cómo opera HOY?",
-       "resumen": "Del lado de Europa, las ganancias son de 1.01 por ciento, en los 20 mil 10.90 enteros, seguido por el FTSE 100 de Londres que aumentó 0.76 por ciento.",
-       "url": "https://www.elfinanciero.com.mx/mercados/2026/08/21/bmv-wall-street-hoy-21-de-agosto-de-2026/",
-       "fuente": "El Financiero",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:32:02+00:00",
-       "historia": "wall-street-ganancias-petroleo",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "820a4828b45f88652bcd363bee4cdc0cc41987ed",
-       "titulo": "Negociación con Volkswagen Puebla está en etapa compleja: Sitiavw",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWJyX2R0MmFjRVR2R1ZvOVZHdWFtOUc1akFDVDhxYUJ1eGV6V1JZeVRVcjFyOFZIME1OOUk2Y0NOX3NRbGxxQ015NV83RlJLamtIeUNqRTVCNEdZTDRzOW1Tbl9vOVV1ejBGWjlZR1RlRXlJY0ItS1hXSWw0VDZzMHdDcEh3SUxOalBDTlln0gGOAUFVX3lxTE1hYnJfZHQyYWNFVHZHVm85Vkd1YW05RzVqQUNUOHFhQnV4ZXpXUll5VFVyMXI4VkgwTU45STZjQ05fc1FsbHFDTXk1XzdGUktqa0h5Q2pFNUI0R1lMNHM5bVNuX285VXV6MEZaOVlHVGVFeUljQi1LWFdJbDRUNnMwd0NwSHdJTE5qUENOWWc?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZ0ljcEtESWMwc1RwZ0xXbDhjdW5pUWhoaENPSjM0MEkzWUFIdVc1eWtxT2k4TGpaU2lLUElDQnNEUDZZYVdJaTFvLXVVd05zZFpIMmpRMEl1b0x2eWc2ZWlqcVRSeGJ4U240OUdNM2ZKd1haX21NYjYzRFdvSjlLRFRXY2tFZGFGeE01dXVYcmZRYlRtV1RxcU530gGaAUFVX3lxTE9jX3pLdHFMbmlzcGZVcTVpeHFhTGdkRjRKb1NYY2JfNzdJS2FwdzVIZTU1blNYcUZCME9kVE1NOWlSekNwSlJVSnJRWVYzcno0V3pjMjVPYlF2c0FsQU4wekpUNjdWMlpnMl9RdVZfY3ZYSWw3SV84UTI3TWxqVlVXZEppVHF6bHNpdnJCdFlVbnlaMjhWZmRRdHc?oc=5",
        "fuente": "MILENIO · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T17:26:34+00:00",
-       "historia": "negociación-volkswagen-puebla",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "6cdfa8db28a2386c26ae244c636a434b86b27031",
-       "titulo": "Peso apunta a llevarse la semana ante el dólar: Tipo de cambio está en 16.89 unidades",
-       "resumen": "La diferente entre las tasas de interés de México y EU benefica al peso, señalan especialistas. La tasa del Banxico es de 6.5% y la de la Fed, 3.5%",
-       "url": "https://www.elfinanciero.com.mx/mercados/2026/08/21/peso-dolar-precio-hoy-21-de-agosto-de-2026/",
-       "fuente": "El Financiero",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:41:31+00:00",
-       "historia": "peso-tipo-cambio-dolar",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "cd81546d1419315b08010dd1c14463eff02b2a87",
-       "titulo": "Tipo de cambio gana mientras se queda debajo por debajo de los 17 pesos por dólar",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ0JmNl9zYkZiTUFPeDNkcEoxYkM3SFNlVlh3Y0NzbHhpMTVuNjdWWlo4UnZoU1hnR1JYU3VCQ2RZdHQ1WXBmV19RUG9Cbk0tRl8tam5wblEyWWxTaTJSRGRUWldIMkJxWmVHNE1yekNGT2dIZHJyME00OWVDbE1KbGpRYk9pZG1QT2F0U1BUSjBEdmZRV3IyX0ZJMS1tYlcyM3dIMTBCR1pWUFV2N1FHTTdwNGE4RXdZS1dCZ1UwZXdGUTdQVE9wWTgtMVRDRUVFcDQ4UndB?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:02:12+00:00",
-       "historia": "tipo-cambio-dolar-peso",
-       "tambien_en": [
-        "UnoTV · vía Google"
-       ],
-       "prioridad": 1,
-       "desplazada": false
-      },
-      {
-       "id": "70a7dc7394c63a037c1efa4355def2d095541c92",
-       "titulo": "Adulto mayor va a retirar su pensión y su cuenta muestra más de 1,351 millones de pesos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNN3hxT051cTdfTURaLVdPS040SkQzeVVQTW9MbGt0THJLbXd5akE4YWI3eU5mWFlsUXJXdnI1ZEVtX0p0elBsVVhFZW5hbnNyakNnaVI0M09sZk1iTUpNanZwZUo0ZG1FVEhydk14T1VfQlhRV1dWWlkwd01yRllIVWk5czdxZE8zbmxjUURjcmJMZURvQXdxMTdsMHZaNV8tc0lGWHdkakVFMTBYQV9tTGFsaU5pbTBpUXdZUldKaVU3Rk5scHZTRU5mSkloRHo3TEF0Rk9hVjVDb0w2eVhYU3NVWQ?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:28:00+00:00",
-       "historia": "adulto-mayor-pensión-anomalía-cuenta",
-       "prioridad": 1,
-       "desplazada": false
-      }
-     ]
-    },
-    "cdmx": {
-     "titulo": "CDMX",
-     "articulos": [
-      {
-       "id": "1b25e457c2a3156656fc603b6fa7bd8b009edb7b",
-       "titulo": "Titulares de locales comerciales en el Metro serán sometidos a controles para evitar lucro; cobran hasta 100 mil pesos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbV8tUEt2eXdXR3k2LXFRaDFVbDJQajlqYWc0Qk44UlpoN1JyNlZCNnJrS0p4WE1kYU1lSzRRVllzNUEzSEFiV2ZiNVB1YWRodGEwQ2JxbnFFdWc1ckZIYkQ2NDFMN2x1Uks3Qk1aVUdvWEpDMFNqel8yY1NldFZOYUNRdFdFWDFlbHVCRFZWR0ZEaVlvZzI4S0plSUZ5UW11T1hFaWg4bUdZdW5ZbWtkc1NpelhwZkktUERMbzF5X1J2MGFqbGNjQlpxakVFRnFCcl9JLXctR0tBRkVKeWo5TnZSTW9NczFhMEk3VDNTcVRIM1o4ckE?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T17:08:00+00:00",
-       "historia": "metro-comercios-controles-lucro",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "72d721a5671c1e658ecc00014b0e579487b5596d",
-       "titulo": "Ceniza del Popocatépetl podría afectar a CDMX",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOW5SUVhIV2xOTklyaGxNMlYtNEpTTDdWdnRwa05IdTR6VWtIVDJzYXBPWjVua1FfRTl6WWpLeFdsYU1UbEg0V3Q4ajhqV0Z4ZTNFVDdNelNyY01rMHBmRTJyVTdFZ3dOY2VJeFJXbjNPbVNISlVVTWxla2pYRmY1d2pUOVJwQlAzMzAwTzFMbS1USzjSAZMBQVVfeXFMTzluUlFYSFdsTk5JcmhsTTJWLTRKU0w3VnZ0cGtOSHU0elVrSFQyc2FwT1o1bmtRX0U5ellqS3hXbGFNVGxINFd0OGo4aldGeGUzRVQ3TXpTcmNNazBwZkUyclU3RWd3TmNlSXhSV24zT21TSEpVVU1sZWtqWEZmNXdqVDlScEJQMzMwME8xTG0tVEs4?oc=5",
-       "fuente": "Excélsior · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:36:36+00:00",
-       "historia": "ceniza-popocatepetl-cdmx",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "3b6433c921a84944559d0b35dbc9bb149d0913bb",
-       "titulo": "Sin entrega oficial, Ahome aún no decide qué hará con Trapiche, CIE y Teatro Ingenio",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTE56bVljNks1RE5Td0NmRVBheF9yY3hnZUI2VFRBR2lBS3QxUEJfTnZ0OGZ5STdnVm5aSWFKZzkwN3B4dmRCMlZvZll1NVRoLVRYTTU5ck9UOWt1UW1NSjByR25sczFWdjZBbF92VTV4UV9YQ28tcGZlSkRRR2o0eFZ0Q3ZUSU91RlNvYlZ6bUJ6SnBqR01NRVhXU3pZbEt6THlpeWZJbmxIX3ZhU0tCV3Q5VXFKYmg0bFVvbkNmZ1hHSF9uTWRnN2ZvV09aTnhhSE9fMjJiXzdFRFk5RGc?oc=5",
-       "fuente": "debate.com.mx · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:10:38+00:00",
-       "historia": "ahome-trapiche-cie-teatro-ingenio",
-       "prioridad": 1,
-       "desplazada": false
-      },
-      {
-       "id": "44ba54d85360d8e97e4a754fb9226c191ed1373c",
-       "titulo": "Metro Auditorio estrena mural “Apoteosis” y llueven críticas de usuarios",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRlRqLV85UzlkQjN5Yy0weHVkeWNLQ1RiME1zMXE3R2RPajJrX1dpdUxNN0NhZEVlVDZEWjJOVXoyWXppakdZU3FWZDRHQXZxeVJadGVkRTFuTkI1cEV2ZkNpRVFBRUNpZ2JkeUYtZXR3bTM3RHQ5VzRvSzBQV0ZCOW0wOXBrZ0hVSEkzQ3NJTG9kTUVmbXV0SDlKcVB1MHAzY3NMMkt4ZHl0TGl0c1hJeHl1bmVab0cyd2c?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T16:55:54+00:00",
-       "historia": "metro-auditorio-mural-apoteosis",
-       "prioridad": 1,
-       "desplazada": false
-      }
-     ]
-    },
-    "opinion": {
-     "titulo": "Opinión",
-     "articulos": [
-      {
-       "id": "9cd778d875582fa268ae5e1eb0b101a4141de6fb",
-       "titulo": "Alma Guillermoprieto: “Que el futuro no se parezca a nuestro pasado”",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjhpYjdzSUdKODAwZjdXTWJGalp1SzUwZVVEaUlwOXRKQjBxZVJ0VG5DOW1zWmVWMWR3ZzFxV1BkeWUtS2NNM0xRYjVUZU52YkQxT0NwazBxVGtvbFZOTUdqdU9wN0Q2aER5MFIyUjFYcWVCV2lqOTROcTY0bXVBb3h3MUhvTmo1U0hUSGpndlRfTFloVWl30gGXAUFVX3lxTE14MmNfdjhqam1ZbHJaamF0LXZHZEZTVVNXS1Y5dmdodE5xSnNYbFI0VHhvdllGbDNnUEZQbWpTM0FwM2dSMnhGb2ZWUWNsWjVpTTNuZllYLUJtczZKekhhUHNVY1ZqWFlWRHg4MDJKcXl4a1RqSHROOTFuY0V1Q2dnQVdienBMeXRUYmZ4OGFqZkh1SmMzbFU?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-08-21T18:53:38+00:00",
-       "historia": "alma-guillermoprieto-futuro",
-       "prioridad": 2,
+       "fecha": "2026-08-21T18:18:06+00:00",
        "desplazada": false
       },
       {
@@ -833,41 +293,291 @@
        "peso": 3,
        "seccion": "nacional",
        "fecha": "2026-08-21T18:13:37+00:00",
-       "historia": "david-toscana-narcotrafico",
-       "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "32a2130bf4b2e0951a643735bc53afdeee8b7d9d",
-       "titulo": "El camino al oprobio: historia del fracaso de la censura",
+       "id": "f96a50c98dc7c781b05a563f3cc42afa27861de7",
+       "titulo": "Tras reportes de violencia en el sur de Tamaulipas, registran pocas denuncias",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaGwtMUR3My1mc0xJY3BBNl9FV1JVdW14ZXQwZ3dKQlZETEMxTHFTalFobkx2d3VuN0xoczBjRDE0djVkTVFEVTl6cmxNUW82b2tQdnFNXzRzamNIM1FOTWM2OWJTQU5oU1dNYmpzT2RRbElLZ0dobnlXeURrY1hXNUYxR3Z4TjAyYVdDS2pxRlA3MHRFVDBLVmFZRlFtZ9IBngFBVV95cUxQR3FnbkNHdjNKNDNUQUNyV0VQVmxtMkR0VnhvN2h4dDhJOXdkdmk5R3lYUTB6UDNua3Zoem5yWjNIZV9PUzdFc1BkbF9BbktIYl8xVlgwZkRGMHg3SVFQaWc2RUpUQVJGNloxV2pzYTlqMWNjWFpBMU56UEM5R1ZkSXZXM1FpUlh2RktpZWk5LVR5Mm5LYjlucFRPZWJMUQ?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPX2w3VzNmZGFpNmVGWklJdHpHSms0V3lnNnVhN1R3OW1JdW56Sl9uenI1SHJJdFB4R1dNTTNuc0JCZHJKQkZQSkhrQTlLVGJlM2ZoWXJJZ2dPVUJ1U2hNWmk2M2pxdGxkTmJkcmo3bkdPaUdvTnJQZVViOWVKVS0tdFlhT1JwUkRic2xF0gGLAUFVX3lxTE05NlUzTkFDbFp6ckQyTWp6MUc0c3NGZEI1QzRkaHhwV2tWSi1mcGV2S0luMm13NGRNdkxPODNrNlhab2xuYjBXR3ZPMkZRWWppdmduMFRXVU82YW5ORFBfRWVrWFUtekh5eHZmM0szWjhiUWRycWhNNWM4MHNnUTZ1Rm1JQkxmS215OHM?oc=5",
        "fuente": "MILENIO · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T18:51:53+00:00",
-       "historia": "censura-periodismo",
-       "prioridad": 1,
+       "fecha": "2026-08-21T17:57:12+00:00",
        "desplazada": false
       },
       {
-       "id": "df73bbaa20cd57e5dfc6ae3b156de9df6c29c843",
-       "titulo": "Los males latinoamericanos y su mayor padecimiento: la pobreza | Sobre el periodismo de Alma Guillermoprieto",
+       "id": "d5deaf1e39bdf4f04070861dbf5c681842f07620",
+       "titulo": "Fiscalía de NL reconoce negligencia en búsqueda de joven; pide disculpas a 15 años de su desaparición",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSk00dkJEYk50WDZPUDJsb01XMWNQa0dPYVNqTEhPU0Y5aHYxbXE0cE9tb0hGMjc2SVJNUlo2Ul9ydFhDbHRSUEZ3bUQ2UzBvcFBmeXkwSGthUThiWFd3NDRoX21tQjN3VFhVQTI3NlA1X2VFem1pSEdlNFF3VjVxRUswMmh0M0RNQlVETmR3eUpLSmhMbkRMcFVOaWk3SGhUOUU1X0Nn0gGmAUFVX3lxTE9wT25WVHZNLTFhcjBjYS15QmhYaGc1elBiMDhxaHFBTFd3emNJMXhiQVhfbElhRnJERHdJY0xDa2FPc1gtekxPc1FRLXFybF9Pc1ZqTkVKYWllVmNOSlZoYngtZEVnTGtlX3Npd3JPTXNJallLVGJaWGlYZElYSHEySXhGODZqdFhvNmI1U0hYQU1IOWFzTm1pSWdGT0dnU0xRblFhVlE?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGJ2cTVSWGdMM29YRHp4a1E1cXdTQ2xsR2M2dUJXWVd0OXZBNEtTYVNydTVnVEdpMmJMV3pFanhsS0d6YUZzaGdYQnJkcGRycDRieWZMRVRMR19pWURrTk9VcU9EZUZ1ME1zRUdTUlc5azBqcTN4dFJEaU9rLWh4cy1NdVNrdGhRb1I2YThSZFRRWHR3RFZpS0t0aWtNdmVuM3BBUkh3MkxpYThEMGhqZFpOcXI3NVJBRDRSUUl5Q0NrUUx3Q05fZEJ3ZTE2S2pidGFXVjdtUUpQOU1rMWNLZDVlQVJZTi12bWFVN2JFN2xoRDB1b3ZadjNB?oc=5",
+       "fuente": "Proceso · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:53:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "56e2532bc9ab6d3e38c8cab56607d7ffe6b8d4cc",
+       "titulo": "El regreso de Rubén Rocha Moya: ¿Qué pasará con Yeraldine Bonilla, la gobernadora sustituta de Sinaloa?",
+       "resumen": "Yeraldine Bonilla tomó el puesto de gobernadora de Sinaloa después de que Rubén Rocha Moya pidió licencia para ser investigado por la FGR por supuestos vínculos con el Cártel de Sinaloa.",
+       "url": "https://www.elfinanciero.com.mx/estados/2026/08/21/que-pasara-con-yeraldine-bonilla-la-gobernadora-sustituta-de-sinaloa/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:42:39+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "42ae9337983b02f1defe2213ab0d79eb6be47cd4",
+       "titulo": "Adolescente de 17 años habría asesinado a su padre con un cuchillo en Guadalajara",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSHh4emFYaHJSS1ZsWm5kSll6U050QzVtRXphU3RDdGRFSTJZTEdUQTNuNi1CZXpJVUpSUWpUZXBDNzcxQzZ0bV9YSEx4N0tTelI5NXdTU0lVRkV4aUpOdUVpT2hmRHJHajZkVzZHTF9jRVIzdktEQVdkM292TTRBMkNxcWJMUlI0WEJyU1FkcVMwdU52U1Z0eS1iWmVoNW53SlI5S0k3eTI4YXp4bWc0TWJMVS14NVJkcHFNZVRIbXlDVnN3UDFQR21XV3BhTDZrd2VwcQ?oc=5",
+       "fuente": "debate.com.mx · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:36:02+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e9396ceba12e0fcd74a7dceda9dbad32330f063d",
+       "titulo": "Guanajuato lidera homicidios pero seguridad avanza según gobernadora",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb0JVWWw5R3lOWTNLdUJvQlI4ZC1ya2RCVEJwVEFZblRIdmhpQlRpVU5qZXp3Z2JReEZBTnVaM0JOckRSWmlaVHl2bDNPVVVDM01peGo3VS1TNmY1RkV1N0RUSmhqUENkNDB4MmtGaWlkQXVOYXMwT29EZE5ka3ItenZZT2ZIdTl5R0JyaDlTOXZCNzN5MUVqQ1pKNlBVY3Byd0dwOG14bHZjd3dmTEliLWFseGdkMkZoZmJz0gG7AUFVX3lxTE16WmloZVQ2R3RBS2duYW93dDlnXzJraHRmeXFjUXhDWWtUalJ0TXFWdWVuNHBCTjBfUW85SGV1VThkQ2k3ZHJxaV9jTklDMktPTU4weE42X3JJcVd2cm9RaDh0ak4zRFI1SUhiNi00M1VzUVF6ckpBancxVXBIWkMwQ2tCZzluWWd5b2YySWNRREVsSDQ3TVRCeWpIdU1sOS1sZC1abFZORHl5N1RSdmdPeG02Zk5BdlZ1Q2s?oc=5",
        "fuente": "MILENIO · vía Google",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-08-21T18:51:29+00:00",
-       "historia": "alma-guillermoprieto-pobreza-latinoamerica",
-       "prioridad": 1,
+       "fecha": "2026-08-21T17:14:35+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "31830afb55c9645e0d145cdddee66b8a16a8cb03",
+       "titulo": "“Asuntos familiares”, una disección teatral de la violencia y los tribunales, llega a Cultura UNAM",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUjU5U3VtdDhfWDZYd3ZuTk5Nd1ZKNGNSNEVhU3BxMjZFa2ZfQjBqYmI4UmlDSURyMkhwTElhTGpRUk0zd0VZcXpaY0dSUHRWZGFqSHhPN2NBTnBnYk5nWHM0TVhIdENsbklOZmFLNEhwT1RCblFuejFVbkR1SG5LSC01ZFNOczd1aEhyTW1ScXdTNk1NbzU5NXRtRlRRVzN1OWM2QXdSOFBfQlZ3R2VqZzNxX0owakRDZDR2aDhLZDBRM3ktVWVDcUpGd2VHM0NtVVloal80WGw1QWRIYk5KZElLb00zZw?oc=5",
+       "fuente": "Proceso · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:09:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d7830d31b8d585355e5563bf83d01385c9cd8784",
+       "titulo": "EU sanciona a barcos de Ecuador... por tráfico de cocaína a México: ‘Llega al Cártel de Sinaloa y CJNG’",
+       "resumen": "Los barcos de Ecuador simulaban ser parte de empresas pesqueras, pero eran utilizados para el tráfico de drogas hacia los cárteles de México.",
+       "url": "https://www.elfinanciero.com.mx/mundo/2026/08/21/eu-sanciona-a-barcos-de-ecuador-por-trafico-de-cocaina-a-mexico-llega-al-cartel-de-sinaloa-y-cjng/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:49:53+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1546e65a6e2252268daf1f1198a888dc10f49758",
+       "titulo": "Gobernador de Sinaloa retoma el cargo tras acusación de EEUU de nexos con el narcotráfico",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNYUFCUHpRdE83dGpzVGllVlFfMWg4U2hOeWxtbzhVcXBUajhEOGlGVHBsZmFmZHFrQWt4RDhyVG8zT2ZaeENhTE1UVXRqN1JUdVNueHVQQm1tV2J6ODZHblRRb2JRWVQ5V0FxMW5ZYTVacXdEcjNKcm5IakZ0Wi1RLThLZDZhcUh6NnlIc3lTMFZzZzh1QmwxdFZSWU40R2lxMk9aSmI0MzlKNHNKazYyZzF3MG1IZmJqd09teERLd0JTaTQwbHFxQkRqaXM5X3N3NkFWdlA3SUdPUdIB9AFBVV95cUxNSGJsLXpjbi0zRTdxcWU0MHhLNmd0Q1RoV2ZzNUl2bDFSZk5ucFFpT25LR0pYaTVscmpnZjREaDEzNl92WUNRVjBjRkZaaGZPQ3dFQ0NCN1Ftcm05ZTdmTGlBNy1NQWFSYkZiOTBOb1JlYXdQQkFXQXVkQVA5RE1zb2RoTTN3NmdJQnZLQzB5YTEtRFhuV0RxZjRxV3dOZ1BLdGVUQ1BRdnNTVDVERFdKcnlOdVBWQjJFVXJnOTlzQldETWo5VDVSM0tJUWl5cHdKTmpaMVd4X3NrR2NqUXdISC1fWGh5VE81ZXI0NTV1Zk9FMnlQ?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:38:59+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "7901f25e7078e2660f664dc9ee45ef8b415cdb96",
+       "titulo": "Otra vez: decomisan 52.5 millones de cigarros falsos en Michoacán",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEZUaUZlQmpOYzNvRXR4V19Dd0lSbjZONU9VOG9ZU2V6NVhjZ2xEZ1NjVlRUWkJnTFltR1RSdkExOEJGTmpTZm11VzJoZ050azIweHgwYnJhT1VpZVVIaTF0VE13US01LTAxaExaaWd6OTRFZ2dDOFVEN1RuenFLLUdxTER0VVZLSDk1QllkOGh6dTZTMm1zcW1UUFhOY0JsRWNJ?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:02:54+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "74930709effd3fcc865595545be8e60ffcf46f27",
+       "titulo": "Video exhibe presunta extorsión de policía municipal en Tlaxcala",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQUJDd2VFUTFWS3hyTjlnb2ZfZUIzcDdCeDd1dUdTTE9sUFNRaUxzQXlEUUNyLVVzS0hTV0hHWXJ0S3BzMDRpbllOMVRaRTNiaF9SeU9BVnc4OHIxeDVIM09vY2xjVXpfSUlWRExfZG5wMVZ4SlhGblFzVHhoR1VTUDZWOE9Rc3JpLWd4SmFsQzBkVUZKZnJxNXRtUld1bnhQWWRrV1pDOA?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:30:35+00:00",
        "desplazada": false
       }
      ]
     },
+    "economia": {
+     "titulo": "Economía",
+     "articulos": [
+      {
+       "id": "4757b064791c76afa9a5692c0259cc17202c3917",
+       "titulo": "Wall Street abre con ganancias en medio de bajas del petróleo: ¿Cómo opera HOY?",
+       "resumen": "Del lado de Europa, las ganancias son de 1.01 por ciento, en los 20 mil 10.90 enteros, seguido por el FTSE 100 de Londres que aumentó 0.76 por ciento.",
+       "url": "https://www.elfinanciero.com.mx/mercados/2026/08/21/bmv-wall-street-hoy-21-de-agosto-de-2026/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:32:02+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c4f617b14306f273580d5a4b1a8397f4037be22e",
+       "titulo": "Visa americana: 7 cosas que debes tomar en cuenta si ganas el salario mínimo",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUnVISUVtWkh4dzQwZzN3VXRUbmFiUFRLTU1VQzdTaVlvcmc3dThfUExZOEQyekxxRzYxRjRlUE8xT1k1Z1FuTEJ1dl8yazQtLVo4VmlVQV9HbWg0Nm5CN0Y1ekNDQ29BNWJ5TjFyWnlhUklmSXpLbUIwRjBLUURvNXBPV2kxd05kTDM1b1Z2dzN2YWtkNEp4VEdGQ291cUYtSjMtY29YTzhrSHNUX0ZJZHFabkZOMlJUYlJIOA?oc=5",
+       "fuente": "debate.com.mx · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:09:02+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "cd81546d1419315b08010dd1c14463eff02b2a87",
+       "titulo": "Tipo de cambio gana mientras se queda debajo por debajo de los 17 pesos por dólar",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZ0JmNl9zYkZiTUFPeDNkcEoxYkM3SFNlVlh3Y0NzbHhpMTVuNjdWWlo4UnZoU1hnR1JYU3VCQ2RZdHQ1WXBmV19RUG9Cbk0tRl8tam5wblEyWWxTaTJSRGRUWldIMkJxWmVHNE1yekNGT2dIZHJyME00OWVDbE1KbGpRYk9pZG1QT2F0U1BUSjBEdmZRV3IyX0ZJMS1tYlcyM3dIMTBCR1pWUFV2N1FHTTdwNGE4RXdZS1dCZ1UwZXdGUTdQVE9wWTgtMVRDRUVFcDQ4UndB?oc=5",
+       "fuente": "Proceso · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:02:12+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "12b0f2e8a41a5c2f0318e26a0d5ef2b60f94e6b2",
+       "titulo": "Guanajuato contempla inversión de 2 mil 742 mdp en infraestructura eléctrica hacia 2029",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkJPNDR2eEItdTlnYThzRnl1eE44eGxLa3B2VzNzbXhQWmU2U1Nrd2Nxcy1ERTVZM0g4QVVwTmxsTXVLY1ZEZ0NwV0txWXVpNlB5R2hwaTZ5bTNEdmcyc2dMYUtLTnZzUkZoT0g3SjRnNTc2WGlUekNJXzZCN2hfa1c2cEJEVWFMME83QWpXNlVQSDgyOWxaRFJpcy1lQdIBngFBVV95cUxOZ0V5LUdJajVMTTNxb2I4UVFBUU5zek5xYnV3c0tWb0FJMjZtcmVabE5yTUNtOVZyZmtMa1VTMTlVVk1jTVNYMzBYNTY2eEhya3RDRUFTZzFCZnRJcUhNVjBWLVBnV25SN3pYNFJzMHZVeW9aWi1Cdk5GeFdqME41UnFiVGxBc0RIT3c1YU1tVm55QURvWkI3Z3FjdDNQQQ?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T17:22:56+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "6cdfa8db28a2386c26ae244c636a434b86b27031",
+       "titulo": "Peso apunta a llevarse la semana ante el dólar: Tipo de cambio está en 16.89 unidades",
+       "resumen": "La diferente entre las tasas de interés de México y EU benefica al peso, señalan especialistas. La tasa del Banxico es de 6.5% y la de la Fed, 3.5%",
+       "url": "https://www.elfinanciero.com.mx/mercados/2026/08/21/peso-dolar-precio-hoy-21-de-agosto-de-2026/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:41:31+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a88f4d880a041d1155136f159e8c1134a7954377",
+       "titulo": "Apple pagó a Irlanda cerca del 40 % de todos sus impuestos globales el año pasado",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUlPbTlyWmhZX2Q2MFloRWFHbWROZEJ3TzZOdmR6SUgzYXE0YURGZTN4V2FqTlRPc3BsbmlMUVcycnpMQlpBOGVVLTE2aDI4bGUtcXMwMUtBWDFCU2xSLVZxUlVodUNJcEFOem45b3FTN29rRTA2a2xnRTRQYW1KRk1wVDI0M3dDNUlaWGRHeXNNMG1fa01kWGFYMXdVbWRELUVoemtTZnNjWHZLUG5JSURWV0w1RXdHODVqRUEtY3RDR0Qwc3Z3Qkk2cTfSAecBQVVfeXFMTUo0UlRMNnpDanc2SGtUdFVsWUdoMjlJemZBNHl3OENWY3ZmRVo4UmRqUERXeUZZWkE0bHFRUmVoQ2tLZUpTc1NtRjVGdmpXTEU5UmdtWlJEc3VndHQ4cmFPMFJzcjVXb3dvbUkwZXZiZFdUQWQ1NnkwcEh4R21jT25GVV9MZW1lOVVuOGNYSjhaVG9Ja3JxYm1VV29TR3BhVGJON18zcmlZYktpX0o1Q0Q1UzRPUjJwa0RDS01JdFRuWkc1SVktYWZ5QnhxUHFPd1R2Qk9TQnRTQlR2ODdtX0tBNzM0WThZ?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:16:31+00:00",
+       "desplazada": false
+      }
+     ]
+    },
+    "cdmx": {
+     "titulo": "CDMX",
+     "articulos": [
+      {
+       "id": "e53c33c34aa4e72ee9c075429f175532f10d00a6",
+       "titulo": "Reivindicación libanesa: inmigración y memoria de Nueva York a la Ciudad de México",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT1d4MzM5UU5mY25MTlZtZjFYdXQxX0JjVUVXTDdwandfeDRTb0FaelZaWVgxdFZfOXNDT0lsYzdFN3Q1bEREQ21lNHo0a3BvSWZkX3E3NkhEQ1FuZlNQalp6ZDBKN3Q3UTNOd0NKSktJc2VtRnZIZ2xwTl9BeTZPZVZNR1VodFJqMk9pUl9NNkdUZ2FvMFdZWWx30gGaAUFVX3lxTE5ZZHh2RC1JcDRFUDV3Vk5UM0hnRHNvMnZVeWgwOGFnRVBQYUdlTTNzOVBRR1Qyb2VDaVo5NkdkVmxLc1VCYURzY01LQjRxdW5OV010Mk4xVm5GUzNOa2dIQm50a3lONU9JNGVJeW5pMlBwOS1SclBhUWtHX2g1M192Ul9jaV9zbEtlWVk4dnNKZHBfN0FvbjJ5S1E?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:48:40+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "9dc0a4509849c93e97d582ed554696e9a0d303b9",
+       "titulo": "¿Lloverá este fin de semana en CDMX y Edomex? Prevén un cielo nublado y clima fresco para este sábado",
+       "resumen": "El Valle de México se alista para un sábado 22 de agosto con cielo nublado y temperaturas frescas.",
+       "url": "https://www.elfinanciero.com.mx/cdmx/2026/08/21/clima-en-cdmx-y-edomex-sabado-22-de-agosto-con-cielo-nublado-y-fresco-source-ia/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:16:49+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a7be03a13eb0c568013b66968ca3ce5abb4f9ea5",
+       "titulo": "Motociclista resulta lesionado tras choque en la colonia Miguel Hidalgo",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWh2ZjJUM1FqTExqMEUzbkREb0VYcmZmNVBLVEVGZF83T0dzQmtBOU5lcGdEbVZaWG9hbUhIM0pUaTdjUGE0ejd0S1VQdXBjOU5waUNKM3UtT3dVSVc2dXJPS1VuT3lZZkVUb0VET0VoaFhkVG44SVBiUUZieHpJQlI4QzRablgtZzg0eXJBeVE4eWhVZUo0OXNLME5NcXlsRmVWMUt2djVhNlJCQXFmU2hYalVzR0ZYaEtycVFxZkE2RzhFWERIZHRMR3dEUE0?oc=5",
+       "fuente": "debate.com.mx · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:08:32+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "72d721a5671c1e658ecc00014b0e579487b5596d",
+       "titulo": "Ceniza del Popocatépetl podría afectar a CDMX",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOW5SUVhIV2xOTklyaGxNMlYtNEpTTDdWdnRwa05IdTR6VWtIVDJzYXBPWjVua1FfRTl6WWpLeFdsYU1UbEg0V3Q4ajhqV0Z4ZTNFVDdNelNyY01rMHBmRTJyVTdFZ3dOY2VJeFJXbjNPbVNISlVVTWxla2pYRmY1d2pUOVJwQlAzMzAwTzFMbS1USzjSAZMBQVVfeXFMTzluUlFYSFdsTk5JcmhsTTJWLTRKU0w3VnZ0cGtOSHU0elVrSFQyc2FwT1o1bmtRX0U5ellqS3hXbGFNVGxINFd0OGo4aldGeGUzRVQ3TXpTcmNNazBwZkUyclU3RWd3TmNlSXhSV24zT21TSEpVVU1sZWtqWEZmNXdqVDlScEJQMzMwME8xTG0tVEs4?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T16:36:36+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "320e2928e8166cbb511ee4de6111d464574fbd47",
+       "titulo": "¿Para quién aplica el Hoy No Circula este sábado? Autos con holograma 1 y 2, terminación par, en CDMX y Edomex",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTRyN1NjWlZRWVp6MFJySTNWUHNKY0JHWWl3cnozakZ1VWF0ZTVDZWtDU0J4ZXV4ZDl5b09NRnYwUTlSY1pPQl8wU2RzX2Vzc0JRVV8wS2lBS1k3ZVFUbHI4Wk9sek15LS1fRmxPVDBTQTNDSkg3a0tFdERNTUFuRUZyc204RV9JNEhaY0NqenYxLUQtaG5zeUNacGtmUDZseVBpdXk1bWg3WWxkbmpMWVFNMlQtS2VodERva3M0aWhRZXdDMUtFMkZDUEg1b3YyOGhwVGVmRWprb1lyQzBaQUlISXVoSWhkTUo0Uw?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:12:15+00:00",
+       "desplazada": false
+      }
+     ]
+    },
+    "opinion": {
+     "titulo": "Opinión",
+     "articulos": []
+    },
     "tecnologia": {
      "titulo": "Tecnología",
      "articulos": [
+      {
+       "id": "f9c768393bc64c3fc513e4ab37fb5a5d9db85dfa",
+       "titulo": "¿Un famoso te mandó un mensaje en redes sociales? Advierten sobre fraude del \"artista enamorado\"",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZVJFMmR6MUxkU203Sm83TENPVVdxLWM0ODFjUEk2cTY5Qnh2Z2lqbzhfLVVucFhkS3ptLV85eC1meFJ5WEtBenZvamRyT3VqTDNINlJNOW0wYlJCd2hNV1lPUExXM3NuMG92SUxxRklJd0RMUGw3c2VuZzhaTTdPeUI4UUlRdzU0ZU1Xd0NTSTBTZXNmbHF6WHpYM0gxU0t3ck5BakN6a2xHWVVISUJkTmtGMEQ2TDlPb09tTUIyd3FFWWF0TVlYLVZpXzdBSmM3dldTMFNzd1ZwOFpUVjdEeDk1ZjFscXE4S1VN?oc=5",
+       "fuente": "Proceso · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T19:22:29+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "138c9c0a8cc5e338a17376915618f2bcf59eab71",
+       "titulo": "No todo lo que brilla es oro: riesgos ocultos de los lentes con inteligencia artificial",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tREh5R0c4bllwZXN1cXhWbWZOd084QVgwTXhtaXNoVndMNTFIbjVwVHFwdGI4bzdtQ1hvRF9MR1NLYnU3MW9oNFRia0RweHNfYzhiTGJxc0RoS2pYaXFMVC1vam9zWkUzRU9lM25CQkxPUFk4WnfSAXtBVV95cUxOMTJ6YVlMeXYyejBKNUtLNVloRkliZHpiVzBsVEktdTVPQTRWLXlzVTFZODFSbWpubGo2UnZaUGE3T1huZmhzRFNjZHlMRHNDRF9ubWNhOTR3U1VLMTNaZkZpcmxYOXNOcUJKSkUxSFVRZTRpazFLZTZ5LWc?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:25:05+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "20d6b4896dc8322e8a8f3fe0899426c855e1500a",
+       "titulo": "Homenaje a Elsa Aguirre: exposición fotográfica en Cineteca Nacional y película gratis en streaming",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcGl3eVBBN1RaTEJaSEk5dFRLWUd6NGx4Y1J1MXhDNDN5bDBjZTRNNndXZEJNYnI2N01JLWpleWhZRXc3QkpvOGQ4MWdTUF9tekRVQXUxTDVHUDM2N0VIajh5d3Azc0VoSXFOdDBnWnB3ZklFeVNnYktnX1cwcWpDdEFtZlBFcG9hNDlsaWk5SzN0QjBOSWd2ME5LVDhJUEZyb29qb1c0XzNpcWNUbE5FY0ZzdDRKaVdidkxkTE5PRTdtYl9MZzZYeWQxWVdyazdha0pJ?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-08-21T18:55:52+00:00",
+       "desplazada": false
+      },
       {
        "id": "5759b5d7c41f3cd94bb01bcceebdd93574510ec5",
        "titulo": "León XIV alerta sobre los riesgos de la inteligencia artificial",
@@ -901,8 +611,6 @@
        "peso": 3,
        "seccion": "ia",
        "fecha": "2026-08-21T18:12:48+00:00",
-       "historia": "recall-data-centers-votantes",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -914,8 +622,6 @@
        "peso": 3,
        "seccion": "ia",
        "fecha": "2026-08-21T16:37:29+00:00",
-       "historia": "rechazo-contenido-ai-slop-gigantes-tech",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -950,33 +656,6 @@
      "titulo": "Otros medios",
      "articulos": [
       {
-       "id": "09845c038ff4aff53e03f6c769ca7d09c2f42e72",
-       "titulo": "DeepSeek lanza un modelo de IA experimental que rivaliza con Opus 4.8 de Anthropic en tareas de agentes y multimodal",
-       "resumen": "DeepSeek lanzó un modelo experimental que compite con Opus 4.8 de Anthropic en tareas de agentes e IA multimodal. Marca un avance en capacidades de IA de código abierto.",
-       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRU5EXzNKRjVwQ0dGQ0NyekFMdS1iajBuS1hieW1WOWNwNGRHYXVJMzljbmpJSjlSLXROUWdfRFN4c2l4X3o4enI1dmpnZGFZNjBwaHh2WG82T05xSFBKX3NIQTRwSXNFdmx2RmZjSmpZQm11dk1aWmh0ckw4VEZVVHBLUXpudTNCYVl3dV9NUUJXNjNhaThYeFhBRDlhMmU1c2pDQXAydktNVEdnWjFGUGs1OWl2YldoQkdiRzhIWXVIdlE4TFp2WXZWU202bmhVTklLeFRHbHdMYzJJNWwtZ2QyUFBEdjA1akk2aWljOXVuV2lsREJ5b0dB0gHwAUFVX3lxTE55cWFBZkkwLWlISjlleDI5dGFqMHdFbWlWMzc1NVUzTHFtZG5GbTZKOVUtbTh2WTlHNjZkMVpxd3Z6MGVxLVlmaGpVSzVMc0xjQ0ZpMUNJZkJDQXJ5d0M2ajJXd0JzT3dzNkoxaVJDUzE5ZUp5ZWdYNFBFc0xHRDRGT0dHRTZ2T0padVlQREx3ODhhMUdEaHVRSkxZR1JxdklTVTF5bDhGdExnVEh6NS1RZlRVVC1rTFF3Vms3akdCR1Y0czdZb1dJSXYxbWRiV18zakhQZjZQNXdWU1lEM1Qtd1BUUXJtVGp4eVpPbTNuYw?oc=5",
-       "fuente": "diario.elmundo.sv · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T17:04:50+00:00",
-       "historia": "deepseek-modelo-experimental-rival-opus",
-       "prioridad": 5,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "6b4403b5190bf8447b0290fc6e6df7cd1f171132",
-       "titulo": "Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI (Mark Gurman/Bloomberg)",
-       "resumen": "Mark Gurman / Bloomberg : Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI — Apple Inc. is cutting jobs across teams…",
-       "url": "https://www.techmeme.com/260821/p19",
-       "fuente": "Techmeme",
-       "peso": 3,
-       "seccion": "ia",
-       "fecha": "2026-08-21T19:06:28+00:00",
-       "historia": "apple-despidos-vision-pro-siri",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
        "id": "400b6c947b141e774b2aba51f9b04a9f1c94b3fe",
        "titulo": "DeepSeek unveils an experimental multimodal version of its V4 Flash model, saying it nears the performance of Anthropic's Opus 4.8 on multimodal agentic tests (Bloomberg)",
        "resumen": "Bloomberg : DeepSeek unveils an experimental multimodal version of its V4 Flash model, saying it nears the performance of Anthropic's Opus 4.8 on multimodal agentic tests — DeepSeek unveiled an experimental AI model that can…",
@@ -987,62 +666,6 @@
        "fecha": "2026-08-21T13:00:59+00:00",
        "historia": "deepseek-v4-flash-multimodal",
        "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "338fe355529da618f0cc783aab545375e3df13a9",
-       "titulo": "NVIDIA le mete un hachazo del 74% al coste de la IA: NeMo Switchyard reserva los modelos caros para las tareas que de verdad los necesitan",
-       "resumen": "NVIDIA reduce 74% el costo de la IA con NeMo Switchyard, un sistema que reserva modelos costosos solo para tareas que realmente los requieren.",
-       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ29mQlhRWlZweXB1X01iQjNRS2pDYVhsd21ONUhqaWlOVG5vNkZXTVBLYllsTFlwZDdPUTU4RnlCYXV3Zi1Vckk3SDZ3MGNHNnR1ZUVCTzNYMXV0bFpsTUZWS1Z1Y1dvQjFrSUpfdm5rN3htV0FXXzNmMXQ4Uy14aGN3OEJhZ0RWMHdYNUdYTjAyRzM1RXNOcnFFWjhMLUFWUUptMFRqc0tQTVlubWlBSFFQWk10U1hVMHQxZkJBUlU2VlE5V3dRbUcyNE9zM25CVjNwdnJ4c2tsX0FpYTNxS3BJd1lENWM4YXdicG03d05iekxyNEM1WGdxM3ZGYzN1OUlJN29uTkVaSV85RW5hVjhHWmhjTGpWcEp1R3NHcGY5RW5tcHBZ?oc=5",
-       "fuente": "La Razón · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T19:01:00+00:00",
-       "historia": "nvidia-nemo-switchyard-costo-ia",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "594a53e7d7c353d8d296ccc8d9f2296433cc3019",
-       "titulo": "Google presenta una herramienta para ayudar a los medios de comunicación a reducir la pérdida de tráfico causada por la inteligencia artificial.",
-       "resumen": "Google lanzó una herramienta para que medios de comunicación reduzcan la pérdida de tráfico causada por IA. Responde a conflicto sobre apropiación de contenido editorial.",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFFEMDRhdVRxUjBOOVdJZnZUQlJrUmdBTXZPNXpLRC1aak1MdlVMRFhrMWJ6ZFA3QURtMkljS1F3MlgzWWc4OEwwM3NjU1oyRXc1TVduYlFOVzJ1eHVCdjFpWlNjMWxUcnhKSVlNSG9XZ1hSa1BNd1pNVlJ6NUNvYkhndzFYeFVDRk1JWlVGX0dBWmtKaG1CbTJwbw?oc=5",
-       "fuente": "Vietnam.vn · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T17:01:27+00:00",
-       "historia": "google-herramienta-medios-ia-trafico",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "b64c84eb9760e30a5a0533907cf35cec1b07997b",
-       "titulo": "Slack Code: agentes IA programan en canales colaborativos",
-       "resumen": "Slack lanzó Slack Code, que permite que agentes IA programen directamente en canales colaborativos. Nueva capacidad de adopción empresarial.",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUWpvNm93aURtd2trVWE4YjVWT1VxNmdGcUVNcktYR0ZFMzN2eDd1eksweU5yVDQ5MkQxOXgwMzBfMjFxS1hEcmZGY0hUQ0g5bG1xVHZnZU1TeG1SVGd2Y2llT3pRQzBoWlNZTFJLNjlpX0NXZnl0bjZOcUFnRjQzaFN3SHVRVG5fa2xNeFdlc2I?oc=5",
-       "fuente": "El Ecosistema Startup · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T16:33:45+00:00",
-       "historia": "slack-code-agentes-ia-programacion",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "14283adfa7834b3d3b8cc696afd8bbde40f7d5af",
-       "titulo": "NanoClaw llega a Slack: crea equipos de agentes IA con un mensaje",
-       "resumen": "NanoClaw llegó a Slack permitiendo crear equipos de agentes IA con un mensaje. Lanzamiento de herramienta para orquestación de IA en colaboración.",
-       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObVhBdmFvZmkzX2ZTN05KVVBDSzFLYTdDVmx0Vl9iMmszZU5nNWFVVkU2eUctbnNpZlNEdEdGekI1ZGF5Z2pPQVNMRFdrWTRDN051RzJPaklrREJFS21NQnh1T0p1aU1ZYm9YczRxM3R2M2NjdE9xYUg3bTQ3cjhDMDRWdWlmWVROZVQzd3ZoNUV5Y1cydjJpMTBnTQ?oc=5",
-       "fuente": "El Ecosistema Startup · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T16:18:53+00:00",
-       "historia": "nanoclaw-slack-agentes-ia",
-       "prioridad": 4,
-       "resumen_generado": true,
        "desplazada": false
       },
       {
@@ -1074,6 +697,17 @@
        "desplazada": false
       },
       {
+       "id": "6b4403b5190bf8447b0290fc6e6df7cd1f171132",
+       "titulo": "Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI (Mark Gurman/Bloomberg)",
+       "resumen": "Mark Gurman / Bloomberg : Sources: Apple is cutting 200+ jobs, including ~100 positions from the Vision Pro unit and another 100 from the Siri team, as it focuses on new devices and AI — Apple Inc. is cutting jobs across teams…",
+       "url": "https://www.techmeme.com/260821/p19",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-08-21T19:06:28+00:00",
+       "desplazada": false
+      },
+      {
        "id": "003a1f2317e865e7dd071c9b999eb45c57e1d728",
        "titulo": "Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools (Claude)",
        "resumen": "Claude : Anthropic says Mythos 5 is now in public beta in Claude Security for Enterprise users, and it is working with providers to embed Mythos 5 in defensive tools — No items found. — Reading time — min —…",
@@ -1082,8 +716,39 @@
        "peso": 3,
        "seccion": "ia",
        "fecha": "2026-08-21T18:35:02+00:00",
-       "historia": "anthropic-mythos-5-claude-security",
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "89e56b984e56348ae8aaa6572a62c6eed191e28c",
+       "titulo": "Investigadores del MIT revelan que ninguna obra o autor influye por sí solo en la imagen que genera una IA",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT19xVkJjaUc1RlZDLUtNOFJsek84NEFEY1ZFeHRTQ1hYMl9qeDBWZm52MXc3YWhzUEdDVnkxbmRyaUJUVGlrVkhnZzNIRUp5UDhobEpTR3U3TE43ckh6VUJmZUdpSnJaTkd5dzI1SUpNdjdaWjNvQkdadTk1SnlEX3VScENHV2NyS0dTQmhMWEVXNFFvUVR4cEpMclZrQWpJUjRwSmZuTnFxUE5nZVNIRGhEd3JlNzQ3dHdXelBkTVo1a0VJQkozaU4zekMwWWvSAdQBQVVfeXFMTVktejdYUEtaMVFGaGM4Ty1NYXB4SGFqZExtTGt0NWFWcTduWEtLb3A4YmpjQUF1RkFBVnN2ZHdwTXhjS3RzbS1ab1N0SmNzSU5UMGdKcTdMbXhCemtLQ0pYWjZyQkR0N3VRWk1yT21CMm1PMUZzWEhHVHl3bWZRTmFQODNON3NQUVN0MUhWV2xjY3EycWFaMnN1aFYwZHZ5SUZNWktZZGtOWW5Ud3VGNHZiMlZQd3ZrS09yV3ZoMENSMUVfY01HQW9jTXdxQUZZcS1aYjA?oc=5",
+       "fuente": "El Economista · vía Google",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-08-21T18:07:56+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "16f91cef86d6c674d78e2d5d907a022fe366aa5f",
+       "titulo": "Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September (Bailey Lipschultz/Bloomberg)",
+       "resumen": "Bailey Lipschultz / Bloomberg : Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September — Nscale is seeking to raise as much as $3…",
+       "url": "https://www.techmeme.com/260821/p17",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-08-21T17:25:01+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1fef00c3024e1ef82a936eec3b55b57108fcf459",
+       "titulo": "Papa León XIV pide regulación de la IA y apela a una tecnología \"orientada por la caridad\"",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDR3TEZTcDJESzNvOUp5LTZJa3d2ckZSY0w5b2pnM3NMd3V6TGwwdmtOTGRUVXl0S1RVbV95X0pDQlRNRXFGbWxGM1kyUkRJWVNPM3VpYjhNTDBXUzM3WVQ0eUs4VEQyeUV6Vi1iczdMOE01enY3ZEswbjZUVk1QOGdkSDdwMWxXZDVJaVRnOTRraExVa1FaeUMtVlRvZnd6WXNtb01zMlVVTDB6dlJ2RnRhQThQU1I3c2d5RTVpcmhMVWNSSUJybTVmTENUWXRfYjhXWGtjdkk3YVFQbXZv?oc=5",
+       "fuente": "EL UNIVERSAL · vía Google",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-08-21T16:48:09+00:00",
        "desplazada": false
       },
       {
@@ -1113,6 +778,39 @@
        "desplazada": false
       },
       {
+       "id": "cfeac9645029702a09d1eb83eeb7413849480df9",
+       "titulo": "Patreon announces new and overhauled features, including recommendation algorithm changes aimed at making it easier for smaller creators to get discovered (Jess Weatherbed/The Verge)",
+       "resumen": "Jess Weatherbed / The Verge : Patreon announces new and overhauled features, including recommendation algorithm changes aimed at making it easier for smaller creators to get discovered — ﻿The platform has an extensive roadmap of…",
+       "url": "https://www.techmeme.com/260821/p8",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-08-21T12:35:03+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "45afb886ab34db5fabaec9c5fe765fa99eb55fee",
+       "titulo": "¿Está lista nuestra democracia para la disrupción de la inteligencia artificial?",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVVZUWTZjbF9EclhfcHFSc21kVlRGRGVrcmVEaWl1VTlxVlEtRVdwOUlXZ0NuWlpEbDRiVlIzR0RGVUpzYmkyVXdidFZVa2twSlJNR0dDaHFsRzNFdkh3dVI1NEpIemZTWkdQdmN6N01GTEl0QjFLQ3hjdFpBcVRMVzJvMnE2am9GYWlCM1hKbXRUS0E0d1EwVDlvNXdDQUVPOHRHajRWM2NrQzI1RUJHM29fN2haQzQ?oc=5",
+       "fuente": "tolima7dias.com.co · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T19:15:40+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "338fe355529da618f0cc783aab545375e3df13a9",
+       "titulo": "NVIDIA le mete un hachazo del 74% al coste de la IA: NeMo Switchyard reserva los modelos caros para las tareas que de verdad los necesitan",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQ29mQlhRWlZweXB1X01iQjNRS2pDYVhsd21ONUhqaWlOVG5vNkZXTVBLYllsTFlwZDdPUTU4RnlCYXV3Zi1Vckk3SDZ3MGNHNnR1ZUVCTzNYMXV0bFpsTUZWS1Z1Y1dvQjFrSUpfdm5rN3htV0FXXzNmMXQ4Uy14aGN3OEJhZ0RWMHdYNUdYTjAyRzM1RXNOcnFFWjhMLUFWUUptMFRqc0tQTVlubWlBSFFQWk10U1hVMHQxZkJBUlU2VlE5V3dRbUcyNE9zM25CVjNwdnJ4c2tsX0FpYTNxS3BJd1lENWM4YXdicG03d05iekxyNEM1WGdxM3ZGYzN1OUlJN29uTkVaSV85RW5hVjhHWmhjTGpWcEp1R3NHcGY5RW5tcHBZ?oc=5",
+       "fuente": "La Razón · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T19:01:00+00:00",
+       "desplazada": false
+      },
+      {
        "id": "bf7bb6e103ad251dc533e7d76b2b9be3fe54b437",
        "titulo": "OpenAI pausa el entrenamiento de su IA más avanzada tras incidentes de seguridad",
        "resumen": "",
@@ -1121,8 +819,6 @@
        "peso": 2,
        "seccion": "ia",
        "fecha": "2026-08-21T19:00:53+00:00",
-       "historia": "openai-pausa-entrenamiento-seguridad",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -1137,6 +833,39 @@
        "desplazada": false
       },
       {
+       "id": "200a4cdde32aff6caee86083141fd0b8c169d1d2",
+       "titulo": "Ranking de seguridad de IA: OpenAI, Anthropic, Google, xAI y Meta, ¿qué empresa es más segura?",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX1QyM3N0TUgwcmxDd1JkQk9HYWVHQ2t0bVZPYVYwSkVLeTlzeXp6OVR4YTNLdGZXZmRGWkVBQk1aUE5xZklQYUFWamxLTkhRUDBFdFZqUEk2RG9UanlUTjVsNHo3ZGhvd2tPMjhiQWFrenZvUVIyVlJha19iZV9yZ1djcGh4U2J2UkRmRDdPcWYxUFpSaVlYOWZFZVo4TUwtQ0dndm8xWi1hdUN5czYtdzNFMFBpejV1aXV2dGFucHZFTk5CNG91VEZ4ODItMFdyeGc?oc=5",
+       "fuente": "ITSitio · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T18:52:05+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "4f81b67cb017ec40a768d918763e93fbe80f94e2",
+       "titulo": "El Papa advierte: “El mundo no necesita una inteligencia artificial que disminuya la humanidad”",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVFUN1NweVZmeGJOYTQ3OTF4LUFKM3JkNUhSY2ZyUUxNRl8yM0RHd25SclVjbk0wd1JyOWdqdXRqV1h2VmZHSWJxUXNvQ0xfOWVoWEZGY3A0ZlpFWXFaMEM1U0w0TVViVTZsVHZ2U1lkVE44dXN1anliMUdPY1kzWFNkSWZwUFBrTEY2WlVaV3paVlZOVFY4M3RVMEo1Y0lHdzJ2Nk5IZTJ3RXZB?oc=5",
+       "fuente": "HCH · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T18:47:27+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "b829828345583a5d45054f702a13cddb54be22f8",
+       "titulo": "Anthropic, la inteligencia artificial que inquieta al planeta, aterriza en España",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMFloYWpvT2dvUVNsRTVLc0tpQTIyOFlNZ05kMVlZZmx2eEEwak85aDJUR1JQSHdXZm1jdUdGbXlSOGktN3FlRTZRY3lPX2s1MHFpWE9aeGRZYThPUUx6TnA1S0RpSVZ2UFk3aVVvQmllYmtXUndCRDYzQXQyeEJaQVFOVGc5Ym5PbTJmWXhSSVpFU05rbHQ4VWt0cVdMZHhyQzctUi1odEpiNUh0ekhnVU1SNEg0X1VhQmZ3bWNEVjlsVlhBSlI1eWNQUzhDNmFEZHZxYm5pbVdPWm4yZnpsbFVldVVkemPSAYMCQVVfeXFMUFUyMDN4djc0N2R4d0lmSV9kNThPQXNlTzY3QXpXdGNGYUNDcWZTd2hkX2p1bzRJUG85aEF2cGZiU3MwaVVWTzJZOXBmWVY3MDBrcVlCbHJKdDR3QjlzcVFqcmN5dEh4UnAwdG9LR05jUThIYzd5c19ob1VfUXRpRV9yZ09KM1lIRzBLRk9rN0NVaXZYTXp1Z25JOGV6aFNmUDdDQ0J5TmREQ2FCTmRTVHZCZU5RVTFscmJ5RnVuVFloWWhTQ2NGNnlrM3Bvc3BBZnFOMy1RLUhWcXpqd1JxQWxwTDVERU84aWpDaW80Y2NVVVBDaW5WQWhPZkdaOVgtQ3B1QQ?oc=5",
+       "fuente": "La Voz de Galicia · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T18:44:41+00:00",
+       "desplazada": false
+      },
+      {
        "id": "7c8885515864b48f392c9edacba0606dccaff774",
        "titulo": "¿Por qué Meta se convirtió en cliente clave de los servicios de Inteligencia Artificial de Microsoft?",
        "resumen": "",
@@ -1145,11 +874,42 @@
        "peso": 2,
        "seccion": "ia",
        "fecha": "2026-08-21T17:54:06+00:00",
-       "historia": "meta-cliente-microsoft-ia",
        "tambien_en": [
         "FM Universo 97.3 · vía Google"
        ],
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "d01f816f16e26df9a0a0911198416729430e613e",
+       "titulo": "Codex de OpenAI: Un cambio radical en el desarrollo de agentes de IA",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQnRjYmRYQTFDTFd0UVRySEJoNEJRdXZpUlRjNFVLRHdNZUhGYUR4dDI1TE5GVjVxUnBfUFpQMG9acTREdUVwa1dZdloxY192SFFmVndyT2puemNtVjQzbnRSMnl0TXctZnAzbkFSTDFwbUVpUzY1eVJqXy1oMThFQ3lFMHF1Q2dtWmtPRmhaVzVic251R0hOYjZKTmFfMmZpQUFUdk5kTQ?oc=5",
+       "fuente": "ZonaDock · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T17:15:46+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "98caf544ae077e62dc9bd45d52c94014a41cda84",
+       "titulo": "CABA, primera ciudad a nivel global en contar con un índice de exposición ocupacional a la IA generativa",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVS1jVFRjVmx6UDhhSE13cTdkbno3azY5RGg4WlU4RDYyOGlXQmF0MVFGTVpyc01fVmdOR3FvX293SmxKdUI3cEVnQ3loeW8zUlJvX0NaM0NrRE1xMVRNTUVCNXhHTVBFMDlxbTdKT3dwSjFPSHNJa3d6X0VMU243UFBYUHpoX1lITWppWENDSjA4cXNQdGE2NURiWGgwTU1GNDlxS0M0MUZhYlhZQ0J6ZktoM2pSTFpsdmxkZnFScU9HQmNNX1dIQ0hfTDRvV21UdEZzZTIxQ3BBLXhXbGt0TnlDTXFMc3pjck95eTBMSDQ?oc=5",
+       "fuente": "Nueva Ciudad · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T17:08:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "09845c038ff4aff53e03f6c769ca7d09c2f42e72",
+       "titulo": "DeepSeek lanza un modelo de IA experimental que rivaliza con Opus 4.8 de Anthropic en tareas de agentes y multimodal",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRU5EXzNKRjVwQ0dGQ0NyekFMdS1iajBuS1hieW1WOWNwNGRHYXVJMzljbmpJSjlSLXROUWdfRFN4c2l4X3o4enI1dmpnZGFZNjBwaHh2WG82T05xSFBKX3NIQTRwSXNFdmx2RmZjSmpZQm11dk1aWmh0ckw4VEZVVHBLUXpudTNCYVl3dV9NUUJXNjNhaThYeFhBRDlhMmU1c2pDQXAydktNVEdnWjFGUGs1OWl2YldoQkdiRzhIWXVIdlE4TFp2WXZWU202bmhVTklLeFRHbHdMYzJJNWwtZ2QyUFBEdjA1akk2aWljOXVuV2lsREJ5b0dB0gHwAUFVX3lxTE55cWFBZkkwLWlISjlleDI5dGFqMHdFbWlWMzc1NVUzTHFtZG5GbTZKOVUtbTh2WTlHNjZkMVpxd3Z6MGVxLVlmaGpVSzVMc0xjQ0ZpMUNJZkJDQXJ5d0M2ajJXd0JzT3dzNkoxaVJDUzE5ZUp5ZWdYNFBFc0xHRDRGT0dHRTZ2T0padVlQREx3ODhhMUdEaHVRSkxZR1JxdklTVTF5bDhGdExnVEh6NS1RZlRVVC1rTFF3Vms3akdCR1Y0czdZb1dJSXYxbWRiV18zakhQZjZQNXdWU1lEM1Qtd1BUUXJtVGp4eVpPbTNuYw?oc=5",
+       "fuente": "diario.elmundo.sv · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T17:04:50+00:00",
        "desplazada": false
       },
       {
@@ -1161,8 +921,17 @@
        "peso": 2,
        "seccion": "ia",
        "fecha": "2026-08-21T17:02:35+00:00",
-       "historia": "chatgpt-menores-edad",
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "594a53e7d7c353d8d296ccc8d9f2296433cc3019",
+       "titulo": "Google presenta una herramienta para ayudar a los medios de comunicación a reducir la pérdida de tráfico causada por la inteligencia artificial.",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTFFEMDRhdVRxUjBOOVdJZnZUQlJrUmdBTXZPNXpLRC1aak1MdlVMRFhrMWJ6ZFA3QURtMkljS1F3MlgzWWc4OEwwM3NjU1oyRXc1TVduYlFOVzJ1eHVCdjFpWlNjMWxUcnhKSVlNSG9XZ1hSa1BNd1pNVlJ6NUNvYkhndzFYeFVDRk1JWlVGX0dBWmtKaG1CbTJwbw?oc=5",
+       "fuente": "Vietnam.vn · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-08-21T17:01:27+00:00",
        "desplazada": false
       },
       {
@@ -1174,113 +943,6 @@
        "peso": 2,
        "seccion": "ia",
        "fecha": "2026-08-21T16:38:43+00:00",
-       "historia": "debate-regulacion-ia-competencia-tecnologica",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "45ca61d6f627a77ee15f044da660c58e3f9f8cae",
-       "titulo": "Human in the Loop: por qué la supervisión humana es clave para que la IA tome mejores decisiones",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZTRyZDR3X21lX09jSVNxV0NfQ1g5OENyVVQxSXRVVE03cVM2SVFSc1VfT3hRT2IzdWpBVDNpTzBXaEw1QjdCenVoTUZSWXNQTkxQWEQ4dlJUVGhURTdnaTdCamFVbUJUd0JYX2tYcmppV2FQY1ZtXzI5TzFYUkp2alpxcnZJYkNHc3AydExVZlZWcmxmWWpvR0I3TFVnRlB1WVJ4Z0VuanRBcHc1SHlhLU5kS2ZDYlZGNkJOcUVidlBUcW5DU0JzSS01NmN5dDhJQ3JKV2xDUE9vcW5faGVsN1B6RlNJeHdEazZ5TEZJWEU1MHhvTWgyNmk4QdIB-wFBVV95cUxQZTRyZDR3X21lX09jSVNxV0NfQ1g5OENyVVQxSXRVVE03cVM2SVFSc1VfT3hRT2IzdWpBVDNpTzBXaEw1QjdCenVoTUZSWXNQTkxQWEQ4dlJUVGhURTdnaTdCamFVbUJUd0JYX2tYcmppV2FQY1ZtXzI5TzFYUkp2alpxcnZJYkNHc3AydExVZlZWcmxmWWpvR0I3TFVnRlB1WVJ4Z0VuanRBcHc1SHlhLU5kS2ZDYlZGNkJOcUVidlBUcW5DU0JzSS01NmN5dDhJQ3JKV2xDUE9vcW5faGVsN1B6RlNJeHdEazZ5TEZJWEU1MHhvTWgyNmk4QQ?oc=5",
-       "fuente": "El Cronista · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T14:05:51+00:00",
-       "historia": "supervicion-humana-ia-toma-decisiones",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "ac7a52634a4f2f149de83b880e082228b498d551",
-       "titulo": "Arabia Saudí refuerza su liderazgo en inteligencia artificial con un nuevo marco nacional para una adopción responsable",
-       "resumen": "Arabia Saudí anunció un nuevo marco nacional para la adopción responsable de inteligencia artificial, reforzando su posicionamiento como líder regional en tecnología.",
-       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXExcW5OSTlicjlnbExtbmJZaGN0dHBuazNaTjRzbGplcTdJOWMtcDlxb2V2LTdrTkNhU19CdW1pUjVROVNoR0xwbUgxLUlHZGpFMW5nWDFLaWlobkVfVjNlWmI0T0VKLUJ5Zm4wazA3U3FkQ21kYnJBelppbG84eEQzOEZMS3pzRmRnQjQ2QW9tdEk3UDh0TG95NzBMbWtDNE1rM2owa2lMS2NQamVBdmZzekN6TkxrNWVSY0ZLRVcwTUNZVjVUUzZJVUhHUGlnbmdZR2N0eXN4S3JHclZXb0JvNGlYc3dEcnZWUlU4M1ZZclluSUhfVVZicmfSAfwBQVVfeXFMTUVxMXFuTkk5YnI5Z2xMbW5iWWhjdHRwbmszWk40c2xqZXE3STljLXA5cW9ldi03a05DYVNfQnVtaVI1UTlTaEdMcG1IMS1JR2RqRTFuZ1gxS2lpaG5FX1YzZVpiNE9FSi1CeWZuMGswN1NxZENtZGJyQXpaaWxvOHhEMzhGTEt6c0ZkZ0I0NkFvbXRJN1A4dExveTcwTG1rQzRNazNqMGtpTEtjUGplQXZmc3pDek5MazVlUmNGS0VXME1DWVY1VFM2SVVIR1BpZ25nWUdjdHlzeEtyR3JWV29CbzRpWHN3RHJ2VlJVODNWWXJZbklIX1VWYnJn?oc=5",
-       "fuente": "Vozpopuli · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T13:43:25+00:00",
-       "historia": "arabia-saudi-marco-ia",
-       "prioridad": 3,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "a12cbac87609d9edf42ce03005cb02e16d467ec3",
-       "titulo": "OpenAI, Meta y Google, bajo la lupa por sus medidas de seguridad para la inteligencia artificial",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOalRtVXpoX092RGZvV0VDWHBKUUJGSjZsdlA3QldIdDhLLU9zb0tlUzloOF8zWGVpcXB3R01FRDZyVlpzcTBJQmVhRllWT1JTbE9IZUlOZVo2YzZaQkpsQk00OGkxeF9lVnVMdTh6NUtSNGpFWFAxNUdBVVBUMUlZV0lBQ3pMOWVoeDEtWndPblkwTkg4Sm9DU1U0WFNVbkE0Mkp2MXhva2hHRlVLNFHSAbMBQVVfeXFMUDBycmRhMWQ3dW00OTJZbjJlMmZZcklzLUltMkgzNXM2R1ZCOHhCN3YzZmdFVExQMTdKaDUtcDdoQVVMRVRhZ3BNLXFFMEtlZWc4Ukhta1V5cnpnS1JpbjVvSnBoUmtIeGc1anZzc1BTZTFKaWJvRkxtN2Z3WTBkNjhZR005dHZEbkdRb1YyWW9aeTVEQW12RmV3bjY0NngxTm9qX1VsWTZpOVZySGthU0pkSHM?oc=5",
-       "fuente": "Ambito · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T13:22:00+00:00",
-       "historia": "openai-meta-google-seguridad-ia",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "5a0740eda7b40f8582d95d6e4d2d94a0442d36df",
-       "titulo": "ChatGPT puede controlar ahora la app iMessage en los Mac y abrir un nuevo frente con Apple",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT0hqMnQ0STUxREtQY0I3LWVUS1Etek15Uk5yN3BiRHg3RDRhMHJ3WW56djBmekFnaFVoQ2p3N1JIV0ZVR2l2WDhwNVJCRmMzLXZZYWRTZ0IwOEtFdWpUZW50Nk5sOTJQU2JEOWVGekZrbEdXbVFKckpOTTJndXEwYU93YUUxMHVGZGtGMUgwZ1JuTndUbDIxZmNxeFpBbm5teWlpT05xWW1CaUNzOUFpWjZYOHpfT0nSAbwBQVVfeXFMTlpVRnZZOWVMZFJzdS1CY2k2UUxpaW0tNjhaVmduUm5pZHBEUllXdjhfdTIycG80YWxEWllUeXBqM2xoQ1l3RFR0clZwSHViLXNPTkl1OHJRYzBacnQ1dmNoR0tjTlpuN0g2TDdmRGtFRFYtYUJLQzNMM3docDhDbVdCX2xOQWNxMHBNRm9NNVdTN0FJOWZpRnVsekstX1NvaTRqUks5VkpaYVBaTWFQTE1uVWp1UlJGU2d0X0w?oc=5",
-       "fuente": "La Vanguardia · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T11:36:18+00:00",
-       "historia": "chatgpt-imessage-apple-mac",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "4b7cbe82be786de7b8a527f534664bea5670f3d7",
-       "titulo": "León XIV insta a los legisladores a regular la Inteligencia Artificial: “El mundo no necesita una IA que...",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORDZwdC1XWndUbzRxbTdkVm9MMHN3UHFmSm91d0xzMDJXQ3k1S3lkWlE1OHpGMV9mbmstR0VTNlp5elBQSGVYNHVkbjdvcGFRbHFra2hZZnA2Tm1fVmlLQjRoZ0RxTVJqUW5KYkI1N1V5bHc4aFE5c2toSGdGdGRiMHFlb1lnak9QLWJFamh4YWpNdG5uVmdIWTFoNzdFWUhuam1jaEtOMzVmSkVhWVVYNXJEN090QmRPdWZnVjZR0gHDAUFVX3lxTE95YmhuOUVxX0lJN3dzUm5lVnEzeG52eTdDYmZVNjdJeDB2aDJDSHV6SlVOTHByMm9Qa2Zxa1pNQmNURjRJT3BETzdNdEpjTE5wcjdOTnloazNtTGdGeThkNFhpaWpfWkVSLTlhckE3c3ZqMzVmOHQteXBqYm1Lbmp5dFN1bG1BcTlDX1FXUVdUQmR0RURXVzZaYkhiQjJLeWRsZEhIbEwxczhWSld1Y3RpLVFRVDJuS2NQQmhsb2d5dVlTcw?oc=5",
-       "fuente": "Vida Nueva · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-08-21T11:22:10+00:00",
-       "historia": "regulacion-ia-leon-xiv",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "138c9c0a8cc5e338a17376915618f2bcf59eab71",
-       "titulo": "No todo lo que brilla es oro: riesgos ocultos de los lentes con inteligencia artificial",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tREh5R0c4bllwZXN1cXhWbWZOd084QVgwTXhtaXNoVndMNTFIbjVwVHFwdGI4bzdtQ1hvRF9MR1NLYnU3MW9oNFRia0RweHNfYzhiTGJxc0RoS2pYaXFMVC1vam9zWkUzRU9lM25CQkxPUFk4WnfSAXtBVV95cUxOMTJ6YVlMeXYyejBKNUtLNVloRkliZHpiVzBsVEktdTVPQTRWLXlzVTFZODFSbWpubGo2UnZaUGE3T1huZmhzRFNjZHlMRHNDRF9ubWNhOTR3U1VLMTNaZkZpcmxYOXNOcUJKSkUxSFVRZTRpazFLZTZ5LWc?oc=5",
-       "fuente": "Excélsior · vía Google",
-       "peso": 3,
-       "seccion": "ia",
-       "fecha": "2026-08-21T18:25:05+00:00",
-       "historia": "lentes-inteligencia-artificial",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "89e56b984e56348ae8aaa6572a62c6eed191e28c",
-       "titulo": "Investigadores del MIT revelan que ninguna obra o autor influye por sí solo en la imagen que genera una IA",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQT19xVkJjaUc1RlZDLUtNOFJsek84NEFEY1ZFeHRTQ1hYMl9qeDBWZm52MXc3YWhzUEdDVnkxbmRyaUJUVGlrVkhnZzNIRUp5UDhobEpTR3U3TE43ckh6VUJmZUdpSnJaTkd5dzI1SUpNdjdaWjNvQkdadTk1SnlEX3VScENHV2NyS0dTQmhMWEVXNFFvUVR4cEpMclZrQWpJUjRwSmZuTnFxUE5nZVNIRGhEd3JlNzQ3dHdXelBkTVo1a0VJQkozaU4zekMwWWvSAdQBQVVfeXFMTVktejdYUEtaMVFGaGM4Ty1NYXB4SGFqZExtTGt0NWFWcTduWEtLb3A4YmpjQUF1RkFBVnN2ZHdwTXhjS3RzbS1ab1N0SmNzSU5UMGdKcTdMbXhCemtLQ0pYWjZyQkR0N3VRWk1yT21CMm1PMUZzWEhHVHl3bWZRTmFQODNON3NQUVN0MUhWV2xjY3EycWFaMnN1aFYwZHZ5SUZNWktZZGtOWW5Ud3VGNHZiMlZQd3ZrS09yV3ZoMENSMUVfY01HQW9jTXdxQUZZcS1aYjA?oc=5",
-       "fuente": "El Economista · vía Google",
-       "peso": 3,
-       "seccion": "ia",
-       "fecha": "2026-08-21T18:07:56+00:00",
-       "historia": "mit-investigacion-obras-ia-influencia",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "16f91cef86d6c674d78e2d5d907a022fe366aa5f",
-       "titulo": "Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September (Bailey Lipschultz/Bloomberg)",
-       "resumen": "Bailey Lipschultz / Bloomberg : Sources: London-based AI infrastructure startup Nscale is seeking to raise as much as $3B in its US IPO, which could take place as soon as September — Nscale is seeking to raise as much as $3…",
-       "url": "https://www.techmeme.com/260821/p17",
-       "fuente": "Techmeme",
-       "peso": 3,
-       "seccion": "ia",
-       "fecha": "2026-08-21T17:25:01+00:00",
-       "historia": "nscale-ipo-infraestructura-ia",
-       "prioridad": 2,
        "desplazada": false
       }
      ]
@@ -1294,64 +956,6 @@
     "dia": {
      "titulo": "Lo más importante del día",
      "articulos": [
-      {
-       "id": "93cf397a7d44fdaf2cc3c829016128fe1172927e",
-       "titulo": "Terremoto en Colombia: desgarrador balance con más de 300 fallecidos y miles de familias afectadas",
-       "resumen": "Terremoto en Colombia ha dejado más de 300 muertes y miles de familias afectadas. El saldo sigue actualizándose conforme avanzan operaciones de rescate y recuento de víctimas.",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGdiYXhuZzIxYmJ1bmpOU0IwQ2xyVkkyZXBIYUp3a3pTb1pkdk5XUXpMRmNBUG1zaUtCTHhnaHRVb292MXBVZ1Nyc1JVWHMzZFBYTlMwdmJtaVdPcHgybkQ3R0FzRmY5TDNMaExSTGtLOU9VOGdCNlRNZGQtT2RwcXBBZkM3TUZtQjJ5UDRWdWl6LWdCV3M2Z2dxNzRZWXBmaWNzS1NnMk91bDItTHFxOW9OV0hHUHRlSWFB0gG7AUFVX3lxTE9SeHNVVWNfYkdkamdsYWFKZ1JWOTQ5WG5TbHRPaFMzb1l4b2RSdDhINm9pZTc5NFZhbXZNSmVyMWRsbmJFOFlRcmhuekJOd3Q5ZTVURFc1dktuV2dCVHh4OUszOUxGNkg1d184N2pJcmRadHlPYnlYWmhaanIxQ0ZkdUdZWmxjNUpyaVcyd1VuNFJBVDNGdWdfaFNaSjNOakY5V0VFd2l2eTJCVUh2dFoxY2hVV2lqb0hmSnc?oc=5",
-       "fuente": "MARCA · vía Google",
-       "peso": 1,
-       "seccion": "colombia",
-       "fecha": "2026-08-21T18:49:32+00:00",
-       "historia": "terremoto-colombia-agosto-2024",
-       "tambien_en": [
-        "Tabasco HOY · vía Google",
-        "Cabo Mil Radio · vía Google"
-       ],
-       "prioridad": 5,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "b3d8fb2e443ca985779efce3853992ae07c32b60",
-       "titulo": "Incendios en Colombia: 13 municipios, 24 conflagraciones y más de 20.000 hectáreas arrasadas",
-       "resumen": "Más de 20.000 hectáreas de vegetación han sido devoradas en el departamento del Tolima, en el centro-occidente de Colombia, donde este viernes 21 de agosto se registran 24 focos activos en 13 municipios, según las autoridades…",
-       "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260821-incendios-en-colombia-13-municipios-24-conflagraciones-y-m%C3%A1s-de-20-000-hect%C3%A1reas-arrasadas",
-       "fuente": "France 24 en español",
-       "peso": 3,
-       "seccion": "colombia",
-       "fecha": "2026-08-21T19:01:53+00:00",
-       "historia": "incendios-tolima-colombia-agosto-2024",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "4310baec1dd50a511f48cbdac4a99c55d5091bd3",
-       "titulo": "El terremoto en Colombia golpea los territorios ancestrales",
-       "resumen": "El terremoto en Colombia impactó territorios ancestrales de comunidades indígenas. El desastre afecta de manera especial a poblaciones con fragilidades económicas y territoriales históricas.",
-       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXRmMHBIUUFHeEJRbmJnVk5zSXpnYThHaUdZTkI3eUx3UGJGZUE5SXp3VzNtUkZySWhlcnd1RzZNN0hlLWRMMXJoTGhXOGFjVE5vdDlQTWhrZGNQbWtOOExfNnVWeEZrWmFBSENieUZYandxNWRyajlDV005WEcxZ2otNHUxMTdnZnF1OExfNzJNWnpCNWdqQ1ItYnZaeDVMVmx3b1RsLWZHNkRsQkwzODJsZkNwX0M4SEZWY0YwSjFaTDE0UnFUbUhGZ9IBywFBVV95cUxPQVNKTElzX1l6NTluZXRnSXRWaWlFd3FmUC1yQjNzSnI4a3V6UDJoaTNtNGJBTmNYaVVVSFRFUWpXaUVWZkk0NFRzdFFmTmVQN0dwNjVabHRaZWlaamZrdkUybm5seVE4bGZ6Z3RpYURIWEpoOVFNRkZhejBZdkNLYXFTWHpyS1MteXBwRi0xUF91NFJjOVVTeUJQXzdIbFpuXzJHX2lOMVJocFB2QUhReThRODdmTkIzYm9uQVVtWS1RYXhwSkhIbkpoOA?oc=5",
-       "fuente": "DW.com · vía Google",
-       "peso": 1,
-       "seccion": "colombia",
-       "fecha": "2026-08-21T18:35:29+00:00",
-       "historia": "terremoto-colombia-territorios-indigenas",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "629d40dbe3ba9b19b0fc28f507b3d9f51306834f",
-       "titulo": "El CICR visita municipios del oeste de Colombia golpeados por el conflicto y el terremoto",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRDg4cmhocVRFUWNYcExNUHpOWUpvZFdBUXhtYzRCSWRpNGV0dlI2ZVZNdUJfZnNlRUg3UXJ0UGlQRnhGcnJMOEVINms5MG9zQUY4bkNGODRkMGJEVVlUajR5bzNuaHNmNTNxRlpQVEp0dXZtS0FsQXdaSzBWdEpreGNBUW42TXFrTkltamZHRzBBRU50VTU3Z2ZLa3VudEtBX1J6c0dsVlFUT2hoYnZlZmF0X2dxLUVOUlU5M3JqV0RxR2VIaXhzZnMtWHN2Yjg3VG1QLWloN1FWUdIB9AFBVV95cUxOb0R3VXdjTVpDMWc1aTRuQWRPbVBSSl83WFNFWll3MEFwSjhBZUFBZzMyVmlNenJVQzRhakNwelVIenVFZThEZUxMSTJIRWZRMllkaS1OUGtPc2M3Z3VSOWtTM0xVdmtsY2xXUHB6cXhfMGd2d0Z2ZHYwQ1VCajBab1N5dnhJdmdZWlM1YnJpLVMtMHFWXzRLOW9TeUVQUTlCWjRLRS00MXBpdDB1TzAxQ2didW0xdUx0Mkd2WlE2N25SQ3RGaFZmQ0VvRlZkVnNWQ25BVVhkZXpfNFc0NU8wRHZ5OTkycDNjTlhBY1FuVE5WRkd0?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 1,
-       "seccion": "colombia",
-       "fecha": "2026-08-21T18:23:54+00:00",
-       "historia": "cicr-colombia-terremoto-conflicto",
-       "prioridad": 3,
-       "desplazada": false
-      },
       {
        "id": "1982de98bf68d3fb0da25cbd538449d444766247",
        "titulo": "Lotería Chontico Día y Noche: resultados del sorteo del 21 de agosto de 2026",
@@ -1521,14 +1125,14 @@
        "desplazada": false
       },
       {
-       "id": "edcbf467ef87ba32dd2b51a57c36fa2992e8f03e",
-       "titulo": "Adulto mayor falleció tras incendio en su vivienda en Planadas, Tolima: autoridades investigan si una vela inició el fuego",
-       "resumen": "La emergencia ocurrida durante la madrugada provocó la muerte de Edolio Cuéllar, mientras que la causa de las llamas aún permanece bajo observación.",
-       "url": "https://www.eltiempo.com/colombia/otras-ciudades/adulto-mayor-fallecio-tras-incendio-en-su-vivienda-en-planadas-tolima-autoridades-investigan-si-una-vela-inicio-el-fuego-3580057",
-       "fuente": "El Tiempo — Colombia",
-       "peso": 3,
+       "id": "3ba71d68597217d71980f05086ecdd0521c5c39d",
+       "titulo": "Precio del euro hoy en República Dominicana: cotización de cierre del 21 de agosto",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEdBUlhCMHVhc01nai0ydXJ0dDVqZ29XQ2JPSWJDazRFSWhqOGtyNVoxb29hT1M2ZWpJT2w5QzEyemZBMlhSNk4tN0IwZVRvRGRzaFc0MnV6WGJ2RUs1T3Vlb05ud2ZpZnJQZ3N2RVNYZWlWNkNLdFdyUnZNb1A3eF8yVlJxRXYwdDVQbDJUTU5iYXBXdjN2X0dJRHpoOHRLWVExeWNVVldkRndUWl9Ia2d5UlhaaENIZ1VwM1NnbC16YlNw0gHfAUFVX3lxTE1UN3ZNT0pvSGk5OG1yMUxpZml4Q3RWbWx5LXpicXhuRDkxS2ZndmxVbGpXa1ZOTllEMjA3c0V4dFRwMnhZa0FLME5xTXNTYUwxbW5CWVhXWVFvbjhmYmVCekR1UGJSLUh4aXhHX2s3bkxWWXBLN3FXODdMa2UtaUNvMEJzS0JKazNGdjRrbW5CYWxvRTYtWTNhTE5lOEQwQ0VxQldra01nQ1ZzRURsNUIwU1VDTldtY0l6aGpEdlg1dmN2MHFJejZ6SVRjWWg3bmFqRjFfajRibE1Hbkc5X1k?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
        "seccion": "colombia",
-       "fecha": "2026-08-21T18:31:59+00:00",
+       "fecha": "2026-08-21T19:25:03+00:00",
        "prioridad": 2,
        "desplazada": false
       },
@@ -1541,6 +1145,18 @@
        "peso": 2,
        "seccion": "colombia",
        "fecha": "2026-08-21T19:25:03+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "044488ae0f49e7ddf7e5ef44470c92a93d8c3ff2",
+       "titulo": "Etiquetado e impuestos saludables, en la mira por intereses políticos y económicos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQWVGbUlLMWJSN3NrbnF6SkhzV1hzNWk1bTd4X19UempLZDJNZEYxMFZWN2JVeWprTDh0MjJaTmFMRGtqRXR0d3ZEYmtyMjUwVmJBWm8xckVVRDU3M19yOHh5QUNHODhGN1l3OE9FNlNVQnhURFlraWQzNUxGZWlObmRidHM0cmZBVkpJREh4c01rOUFWTTc3NWNFam92cC1lSFZmeDlHSXpfQzF2MGZVNEx3bHVjNFBU?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "peso": 2,
+       "seccion": "colombia",
+       "fecha": "2026-08-21T19:22:29+00:00",
        "prioridad": 2,
        "desplazada": false
       },
@@ -1601,6 +1217,42 @@
        "peso": 2,
        "seccion": "colombia",
        "fecha": "2026-08-21T19:02:55+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "0a9283f2c53cc9c7a70a8e62bade173840f73c95",
+       "titulo": "Cali recoge más de 33 mil toneladas de escombros: Mañanas Blu, Camila Zuluaga, 21 de agosto de 2026",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOazhZRy1yUnRBT1NIRkwweXZ0YV9BVDhGOGpEaTg2SmpwbVhtT21wQTJ5Ym42OFJSeGVuZzJERXFsakZQelV1eVBlcW9EdjZ4VTRRXzJHY05QUUJDN3huMUw4ZkNKQXEzRTdsQWtnSHZGWTk0TG55Z0w0R1A4WDBXNFNJREhpUjY4RFN4a1ZpbkZMNXl5a0NrOXZMWjdqVjZadE1jczlzd0xza3l6clN2UDZfMktiMTR3aF9WQi1HTHpmSGN6RVRLOU5ieU96NlhlZV81V3Zxclg5dUYw0gHqAUFVX3lxTE9LVmZXckE2UW1XQkNQRnVhV0xXeDJNMERuTHZSdi1lM3BIbHlTbkFRQndPRUYyM3NwRjd2Z3h1QTJGZ3RNekZHVXFmSzJFYXlBelc3UHJmR3lWRUhBMzA1UUVsOUFzS0hjYzhxa3pBbFhHTU5mME5IZTctdjNmaFJMQlVpdzRVcFlEa2dhTDNuaUVfQ0dJaWpmdi1fOFo3WkhVc3BvYnA5MkxNQ1J5TU0tdjB4eTVjNHR2eU0yXzJEa1pZdEthN3Y5UHB6SWQtV05XOFh3RjRYS0k0Q0NqQmVnbVFIRVBDWVlXQQ?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "peso": 2,
+       "seccion": "colombia",
+       "fecha": "2026-08-21T18:58:39+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "7bb157c92653cc192badfe444769e2501eebae1d",
+       "titulo": "Franco Colapinto habló sobre el impacto que tuvieron las mejoras en el Alpine de Pierre Gasly durante el inicio del GP de Países Bajos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOMjlmRWdEYkxvSzFmLXNRdHVnMy1wM05senY3NkoxZmRGOWhHazVqYWFfYmxnMjUzUDlrR3dqY2NBX2MxUVFoRkJtTjVsYUdWLXdKdDZLZWtoQWxETG9rbzdyQlozYjBrcmRFZE5CRnRUZEVBMkhjTDJtbWtGY0xuN1JqV3dJZkt3cDg0a2Q5UzZMOFFnT1ozeVNHRHBOeXRieXZ2bDV6cXhYSkJ4M1ZFWGJOQ2dqb1kzZG1GR2dUVXM4bEN0QXpDcDlYUW5QVnFRUV9FNFFxckF6NzVaUjYyMzUyMmc0Q2ZMblhLTkJiUXVVYmFUX2x4dGVWNy10ZmxJbVNjbDhHNEN2bFnSAaYCQVVfeXFMTy1WOEV4bkxmMUs3aEVRVTlvM0dpaFUxcHpCeHhObVFpRzRpN0NDMmFGNWplOVQ0YllaekdSYnV6S2NxdlZoUGEzYzFIU3V2SnpmOU9pS245VFNPN2lPcGZlcWg5MFBTc2tCWmV4LWM5VnRvRkxrUTlvaWNGQW1GSGhvRkNDLTdhUm8tYmZpRFVjWWlmVkxkWE5laHdnemVXdnl1Z2dZdFlScXNvS3czSzZOUnZrS1BPSUNySVNIX01LNkNScGNOMldBRVpCUWxZWm1JcTg3N3M4NzdWeWZJUnVnNU5nRXBkTWZfWmhvb0FMSHFSalk5UFFUMmNwSl9aaGRPMFl0UzBGeWJLOTQ1V1FpTmxLa0Y4NXFyRngyUHhLczd0N0l3?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
+       "seccion": "colombia",
+       "fecha": "2026-08-21T18:51:10+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "177dd607fc8bdf5f47298d5203dca80c1e6f566a",
+       "titulo": "Avianca veta al influencer Yeferson Cossio hasta 2027 tras incidente con químico en vuelo a Madrid",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdUJJRUI5alQ5TlF6S1N3Unk1QTh2X0l0RVdFMVd3NXJjWXZJN1l5VUlXRDhCZkFkdEtrSlQ4RTlhQ05aVml3NHA4OGthaWVGR3R3NVY2WThEdlZwODdDaWx6UkxGVkFnejJjeDRBMTBMU2ZoOWZkN3JXMHhvU0RqUVdseHhQeGxhWUZzTV9URU9PekZkc0lIcHphQjZORjRRcV9qQmFSYTA4WWhMN3pNVnJuWmNhTFRZd0dWUVh3Q3pZSGFxdW1wcGY1VHhnMk05?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "peso": 2,
+       "seccion": "colombia",
+       "fecha": "2026-08-21T18:48:07+00:00",
        "prioridad": 2,
        "desplazada": false
       }
@@ -1859,19 +1511,6 @@
        "desplazada": false
       },
       {
-       "id": "98caf544ae077e62dc9bd45d52c94014a41cda84",
-       "titulo": "CABA, primera ciudad a nivel global en contar con un índice de exposición ocupacional a la IA generativa",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPVS1jVFRjVmx6UDhhSE13cTdkbno3azY5RGg4WlU4RDYyOGlXQmF0MVFGTVpyc01fVmdOR3FvX293SmxKdUI3cEVnQ3loeW8zUlJvX0NaM0NrRE1xMVRNTUVCNXhHTVBFMDlxbTdKT3dwSjFPSHNJa3d6X0VMU243UFBYUHpoX1lITWppWENDSjA4cXNQdGE2NURiWGgwTU1GNDlxS0M0MUZhYlhZQ0J6ZktoM2pSTFpsdmxkZnFScU9HQmNNX1dIQ0hfTDRvV21UdEZzZTIxQ3BBLXhXbGt0TnlDTXFMc3pjck95eTBMSDQ?oc=5",
-       "fuente": "Nueva Ciudad · vía Google",
-       "peso": 2,
-       "seccion": "argentina",
-       "fecha": "2026-08-21T17:08:00+00:00",
-       "historia": "caba-indice-exposicion-ocupacional-ia",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
        "id": "a190abeaad84dedc51167ca2c4f9005c7b87ac32",
        "titulo": "CABA: segunda jurisdicción más expuesta a IA del mundo",
        "resumen": "",
@@ -1917,6 +1556,18 @@
        "peso": 3,
        "seccion": "argentina",
        "fecha": "2026-08-21T19:05:02+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "4a8c8c87ae8cc50ccf7ce3dba4eaa777629eb34f",
+       "titulo": "Guatemala: un viaje único al mundo maya entre la selva del parque Tikal",
+       "resumen": "Sin la fama de las ruinas mexicanas, el país centroamericano atesora ciudades antiguas todavía enterradas, donde aún no llegó el turismo masivo, que impactan por los templos de gran altura; visita a la cercana isla Flores",
+       "url": "https://www.lanacion.com.ar/salud/guatemala-un-viaje-unico-al-mundo-maya-entre-la-selva-del-parque-tikal-nid13082026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-08-21T19:04:44+00:00",
        "prioridad": 2,
        "desplazada": true
       }
@@ -1971,6 +1622,18 @@
        "desplazada": false
       },
       {
+       "id": "cd449dad84b5c9a32adbd96663ac99cb07db2c36",
+       "titulo": "Rubén Rocha regresa como gobernador de Sinaloa pese a los señalamientos de vínculos con el narcotráfico",
+       "resumen": "El mandatario morenista se había separado del cargo en mayo, después de haber sido acusado por la justicia de Estados Unidos de favorecer a la facción de Los Chapitos del cartel local",
+       "url": "https://elpais.com/mexico/2026-08-21/ruben-rocha-anuncia-su-regreso-como-gobernador-de-sinaloa.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-08-21T18:56:29+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
        "id": "23352a32221625083cd023d074e7a0adbc47c0b7",
        "titulo": "¿Por qué juzgan a un hombre por el asesinato del rapero Tupac Shakur 30 años después de su asesinato?",
        "resumen": "La estrella de hip hop se convirtió en los noventa en una de las figuras más influyentes de la cultura estadounidense. Esta semana ha comenzado el juicio en el que se acusa de su muerte a un hombre que confesó el crimen en una…",
@@ -1979,6 +1642,18 @@
        "peso": 3,
        "seccion": "espana",
        "fecha": "2026-08-21T18:54:14+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "13fac6d909b3210344af1cba38f5e4d5e6207a87",
+       "titulo": "El Tribunal Supremo permite que Trump continúe, por ahora, con la construcción del salón de baile en la Casa Blanca",
+       "resumen": "Además del ‘ballroom’, el plan incluye un búnker militar subterráneo que el Gobierno usó como argumento principal ante el máximo tribunal",
+       "url": "https://elpais.com/us/2026-08-21/el-tribunal-supremo-permite-que-trump-continue-por-ahora-con-la-construccion-del-salon-de-baile-en-la-casa-blanca.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-08-21T18:42:25+00:00",
        "prioridad": 2,
        "desplazada": false
       },
@@ -2115,6 +1790,18 @@
        "desplazada": false
       },
       {
+       "id": "a88f4d880a041d1155136f159e8c1134a7954377",
+       "titulo": "Apple pagó a Irlanda cerca del 40% de todos sus impuestos globales",
+       "resumen": "Ese 40% se refiere a más de 14.500 millones de euros.",
+       "url": "https://www.20minutos.es/lainformacion/economia-y-finanzas/apple-pago-irlanda-cerca-40-todos-sus-impuestos-globales-ano-pasado_7028253_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-08-21T18:16:01+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
        "id": "c85771cd790f5c4ad5410d523896865a9dfcf2e9",
        "titulo": "Marruecos reivindica su \"derecho histórico y geográfico\" sobre Ceuta y Melilla y reclama su \"retorno al seno de la patria\"",
        "resumen": "El ministro de Justicia marroquí, insiste en el diálogo con el gobierno español al respecto. Más información . Rabat cuestiona la soberanía española en Ceuta y Melilla: \"Seguimos reivindicando nuestros territorios\"",
@@ -2160,20 +1847,7 @@
        "seccion": "espana",
        "fecha": "2026-08-21T17:58:14+00:00",
        "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "8db42b5a50d085e167665a081eff411a235a3319",
-       "titulo": "Un terremoto de 2.5 vuelve a alertar a Granada y su Cinturón en un viernes plagado de seísmos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0VyRnpuYnY0YjVLaG1DSEw3OG1uQjVaSkZmX2lMdzlReTNxeGhhYW1EOThWR3I0eWpzcXg2TjVPMkk0QUpqYlZqZFc4eW9RbXdueW0xemNIUDJlNHBISHdEdWUyTml6a3JFbUtaQ3dBUU52bTE5MlNsOWstSU83YVJkVnowZl9GUS1qaU5PS01NQ3JOeU1FbEoxbi10Z3hMSDh6X0tqWdIBrAFBVV95cUxOZHpzUzJ2RlZ2UVB4aktNeG1JMGZVMm9xLWRPaW9jQTZSR3FUSDJTaWI3d3lobVRaX0QwVXBZM3REMGoyX3NEMVNnUGJhbmpsOThwQkpxdWlnTG91THNlVFlqd1FDd19HQTMyYjYyMm02SUFJaWZYZURpVC16NEtxNkVrVF9STEg2cG43a2dCT1NHNVBqS1BaeUh2NWJWa2MxNmdJSl9OcUg2d0xk?oc=5",
-       "fuente": "Ideal · vía Google",
-       "peso": 1,
-       "seccion": "espana",
-       "fecha": "2026-08-21T18:28:12+00:00",
-       "historia": "sismo-granada-2024",
-       "prioridad": 1,
-       "desplazada": false
+       "desplazada": true
       },
       {
        "id": "f3b822afddd4edbce7c66c0dfaf72fee4ebb9ab1",
@@ -2210,30 +1884,6 @@
        "fecha": "2026-08-21T17:34:45+00:00",
        "prioridad": 2,
        "desplazada": true
-      },
-      {
-       "id": "871ce6149aee4c645ec94c49cfe301534f1129e2",
-       "titulo": "La vacuna del melanoma demuestra la utilidad de la tecnología ARN ante el cáncer",
-       "resumen": "Lo interesante de esta vacuna es que no es una general para todo el mundo, sino que se va diseñando a partir de las características del propio tumor de cada paciente.",
-       "url": "https://www.20minutos.es/salud/vacuna-melanoma-demuestra-utilidad-tecnologia-arn-ante-cancer_7028229_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
-       "seccion": "espana",
-       "fecha": "2026-08-21T17:34:13+00:00",
-       "prioridad": 2,
-       "desplazada": true
-      },
-      {
-       "id": "8a746f1089fad8b58a1e77f958a515aedfff8dd0",
-       "titulo": "Apple prepara una avalancha de novedades: estos 10 dispositivos podrían lanzarse en septiembre",
-       "resumen": "El iPhone Pro, el Pro Max y los Apple Watch son las apuestas más seguras.",
-       "url": "https://www.20minutos.es/tecnologia/moviles-dispositivos/apple-prepara-novedades-10-dispositivos-lanzarse-septiembre_7028008_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
-       "seccion": "espana",
-       "fecha": "2026-08-21T17:30:00+00:00",
-       "prioridad": 2,
-       "desplazada": true
       }
      ]
     }
@@ -2247,17 +1897,14 @@
      "titulo": "Última hora",
      "articulos": [
       {
-       "id": "a813663bcb230a081d772e688c7a7600f6a4e5fc",
-       "titulo": "Sube a 83 personas sin vida por terremoto de 7.7 en Indonesia",
-       "resumen": "Un terremoto de magnitud 7.7 en Indonesia causó al menos 83 muertes, dejando numerosos damnificados y afectando infraestructura en la región.",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDhxS0Q0MENpZngzLVg4dGl1aUxaUUkzVVQ2SF84bm5OWEI5Rk9NNVU4YTVxa2E5Q3VFWTVNOGtwc1Q5YjBRd0lUdU9PY0FYaHlSVUdkVHBScEhONVlaV0g3a1ExQVFLRk1ZSUVWQkQxdVhCTEc0MHNmc0RaaWI0dkY5ZmxGWWUweFIyYUs2alBVUVVUZ0Q3dTFONU8tWUVlLUYzdHRZZDNoX2pwaW51NFhISQ?oc=5",
-       "fuente": "El Horizonte · vía Google",
-       "peso": 1,
+       "id": "8c283a3ed261f43700af9994ddc5a8869f003cde",
+       "titulo": "¿Quién es Natalie Harp, la \"manta humana\" de Donald Trump que acapara el debate político en EU? | PERFIL",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVAyektjNHlWeThhUE1LcEE3bWhHRUtoSTlic3E2LTYxUnVWQ3E5c1dpVlIzcS1RYmcyV1NnWFBUNzMwbm9SWk9GZF93NkxRQ1J3N1lLRC1tV3RDYXJkTTdHNkJidFIzOFRranh2TXc3YWtTUzVpV294S1VaTVZnQ3JmQXNESmEwSjF2Zk5TREc3Q0tqS3ZHMlhVYW43Z9IBngFBVV95cUxPR3NoS1lTdndRcWhGTm5Pa1UtM2I4OVdlM3JzcE9DeXlPSWVSU1F3MXlITkl5M09jRFdsX2RlajU2Y1FDd0dPenBaYXZIdVZvMThROWFOeDgxLTltT2JNVmtEOGFOZ1NrNTdkY3dfT3JBYzZLZkRqamNBU2pILVpXX1pNTmo5WF9SSlJNWFBlVlh5YkxKdWs4T0xic3JaQQ?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-08-21T19:10:38+00:00",
-       "historia": "terremoto-indonesia-77",
-       "prioridad": 4,
-       "resumen_generado": true,
+       "fecha": "2026-08-21T19:12:00+00:00",
        "desplazada": false
       },
       {
@@ -2269,8 +1916,17 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:04:19+00:00",
-       "historia": "desapariciones-carceles-el-salvador",
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "405b850933e724028d6d792bebb20c61479bb43c",
+       "titulo": "Filmar, existir: ‘Con Hasan en Gaza’",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByaDFXLWpTZDZGMEU0bkhjZlFqcWJpU0JNR1lKSnExQW9HdUlpZjFHOW9JVEl2bktBNXlobDFocVNfVXlyblZrOG9qZ0FUVmY0V285N0FnWHdaM1UzejdQczBIOGdyZDgtTmk0ZE5oWU1QdnZScHpyZ3pQV0ppQUXSAX9BVV95cUxOcV9HalROSEJHWHhxYng1SWd5R0FtVjRROVVlOEJoOXNRSEpmVDU3elhUTmphYUdIblBGLThGem1XOHlQMzRNNjI5NzUzU0pVQVRtSDBrbURSN09fenF2V01uWDUxbEpJZEk2UEhkZGZTYzg2cFpRbUhPa1dhdFo0?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:52:52+00:00",
        "desplazada": false
       },
       {
@@ -2282,8 +1938,17 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:42:25+00:00",
-       "historia": "tribunal-supremo-trump-ballroom-casa-blanca",
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "181c42d9b4dd28589f0a2a39a15bf2f87e74974d",
+       "titulo": "Anotaciones zombies - MILENIO",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZERKdWJhalM0QkRZTF94cmVBZXgxNzAyWTJtVmRVS0RqOXBObmZuYTJ3RGYzSFgtWWhZQUI3YXI2SXlNZ1ZYdnRXMUx3TjdOZEtSV3UyUi1ibTlOcFczN3Z2amw4TURxNXVobWhBbjhfNHVzVC1uWnB4ZS1JblhRcndjUUowME5rZzdDbGtDR1VmOXBDaWtxZ0c5OTF1bTBSclkySWVnQmEtZ1hReEJnMXZZNlMtcExheU9VYUhUcklBZGlPX0FSeTVENULSAcwBQVVfeXFMTkZzVUdFb1M0cnRSMmlMcFlzSzdsb2pfM3B0a2o1NTZOSmhWbnZ6MVFlTmtQU0tVZEU4LUd5Zl9HMm1RS1RXb3hZbGI1UmpNLVc4Mk1MQWpMT3BPVWJoY19BQjk4ZFdMdUtSMkkzT0VKNl9FWUNKc2hBekZlMjZWekRZNG5xc3U3V3V4YmdwQnVLZDZCWkZwdnIwMHozTllNeTFnbDB4NmQ2QWFlV29sdVYwQmZpa0djWVZtZWUtc0xxaWJvWEtZTmdQMmVa?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:42:08+00:00",
        "desplazada": false
       },
       {
@@ -2295,21 +1960,39 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:35:00+00:00",
-       "historia": "detencion-nikolai-bondarenko-rusia",
-       "prioridad": 3,
        "desplazada": false
       },
       {
-       "id": "1fef00c3024e1ef82a936eec3b55b57108fcf459",
-       "titulo": "Papa León XIV pide regulación de la IA y apela a una tecnología \"orientada por la caridad\"",
+       "id": "3eb3de0655cdeaf49da9050d6ec788e8934d9d52",
+       "titulo": "EU reporta 750 militares heridos en la guerra con Irán; legisladores y medios señalan falta de claridad en cifras de muertos",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONDR3TEZTcDJESzNvOUp5LTZJa3d2ckZSY0w5b2pnM3NMd3V6TGwwdmtOTGRUVXl0S1RVbV95X0pDQlRNRXFGbWxGM1kyUkRJWVNPM3VpYjhNTDBXUzM3WVQ0eUs4VEQyeUV6Vi1iczdMOE01enY3ZEswbjZUVk1QOGdkSDdwMWxXZDVJaVRnOTRraExVa1FaeUMtVlRvZnd6WXNtb01zMlVVTDB6dlJ2RnRhQThQU1I3c2d5RTVpcmhMVWNSSUJybTVmTENUWXRfYjhXWGtjdkk3YVFQbXZv?oc=5",
-       "fuente": "EL UNIVERSAL · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSXhoR21HR3NFektiV2phdUswUExxcnRoWEZ4SVFzSTRvMjE5V3dGVUtEcWp0QmtXaTJBaUNHcFNwVFdOYnU0d2c5dEJjaXNicUJSejg1OWFJczBCaklVZW8wU3cwVUxmRmRsa0twcU44ZmFPUHdYYjNwOHF2ZWM4dVZFNy1US3U1LVdEaFRDcXlhREQ2U1BjYm1DRktTcnNmVG00bGJXcFdQZk9JWkRwM2plRU5tTUM2R2xaV3YyVS1CNm80bGpEeTlpQV90M253X0NRM2VtTHZqdGtLeExqZzFCVEVtZVBQVm04dWFWV1JwdWfSAYcCQVVfeXFMUGh1X2Fia3lOQ3BlVmptMzdtSFZOWi0tMzB6dFltSU1qbnk2OHE4aDNTWi0zOHI2cjNpVWtrUVMzS3R0Sy1ld05zblVMMkVrVW5CMGtCa1R2RkVTYXZHTGNVYzF1cHpNN2VtWmE3enlqYlpJMElpc3lhY3hpMWtCUW1xVnNZWUR0RGI2OGNwUkhXYUNFcXh1dzRRTFgwRFllQ3pHUFVlRGhfWkZIVE1ERjN5YVdqbzhqZU5sY0k3WlQ4V0JDRUlsczAtY2RuTmdEa0JMLVFCM2s2bGZ0c1NxVWlNRkVIWTJIX0xoSi1zdTBEcFlyNXlvRVVRbjRVaTlJamFMaFBPN00?oc=5",
+       "fuente": "El Universal · vía Google",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-08-21T16:48:09+00:00",
-       "historia": "papa-regulacion-ia-caridad",
-       "prioridad": 3,
+       "fecha": "2026-08-21T18:16:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "3ba71d68597217d71980f05086ecdd0521c5c39d",
+       "titulo": "Precio del euro hoy en República Dominicana: cotización de cierre del 21 de agosto",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUEdBUlhCMHVhc01nai0ydXJ0dDVqZ29XQ2JPSWJDazRFSWhqOGtyNVoxb29hT1M2ZWpJT2w5QzEyemZBMlhSNk4tN0IwZVRvRGRzaFc0MnV6WGJ2RUs1T3Vlb05ud2ZpZnJQZ3N2RVNYZWlWNkNLdFdyUnZNb1A3eF8yVlJxRXYwdDVQbDJUTU5iYXBXdjN2X0dJRHpoOHRLWVExeWNVVldkRndUWl9Ia2d5UlhaaENIZ1VwM1NnbC16YlNw0gHfAUFVX3lxTE1UN3ZNT0pvSGk5OG1yMUxpZml4Q3RWbWx5LXpicXhuRDkxS2ZndmxVbGpXa1ZOTllEMjA3c0V4dFRwMnhZa0FLME5xTXNTYUwxbW5CWVhXWVFvbjhmYmVCekR1UGJSLUh4aXhHX2s3bkxWWXBLN3FXODdMa2UtaUNvMEJzS0JKazNGdjRrbW5CYWxvRTYtWTNhTE5lOEQwQ0VxQldra01nQ1ZzRURsNUIwU1VDTldtY0l6aGpEdlg1dmN2MHFJejZ6SVRjWWg3bmFqRjFfajRibE1Hbkc5X1k?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T19:25:03+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "59e856ef9fca30a3e64da0dd991b6046c177ad75",
+       "titulo": "Un Muerto y Una Mujer Herida es el Saldo de un Ataque Armado en la Colonia Las Heras en Irapuato",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOejdhWVIyQkplR0UxeFkyaTIyYkdhVFl5OURqNFlZR0lnaDdhdlJPLXpsVi00dHFlQWRGNzFENnRDa2FTTnJxNWFFMGVvQVhiUzZLdlhCaFBUOHducGxQTG5fR0JfN09CUGEzY0xCVzdNNm1xanNwd2lZemU3c2lUUk1pSTRTQ1dNMWVrVnEwSDFTQXZxZ3kyVk5xX01UR2VOeWhEeXF5WWZ5OVZtb1h2UExSd25LdllfNEtKc1liTG1GN2gycl9TYnN6ODZLSmtzdDFKeUY0NWxzaFJoUmxsNWVTcGpYcXc?oc=5",
+       "fuente": "N+ · vía Google",
+       "peso": 2,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:43:43+00:00",
        "desplazada": false
       },
       {
@@ -2326,108 +2009,36 @@
        "desplazada": false
       },
       {
-       "id": "a4230c5dabd214e049005ad595d62cdcce7ccf1b",
-       "titulo": "Dos trillizas y sus papás fueron despedidas en funeral tras morir en terremoto",
-       "resumen": "Dos trillizas y sus padres murieron en un terremoto y fueron despedidos en su funeral. No se especifica el lugar ni la fecha exacta del siniestro.",
-       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWc2M0JiREJUSHM4NEZZSzhIeF9PcWsyQVYxTWF0MkpSOGpMRlJSTEFDQWlSZ1daaWxubGJZUGVlWFQyaXRCNnlxeHJtc1BhSmRpeHR2RWdiTzczYWhPSy00U01qMk0xODBVMVRNZDVpcTA5UTFDd0ltTmdEUENPVGNQNzdzenNqTnJaNURBOVNLRkZrX3ZTSzM3TnZkT1Y0cEM3OVpHQ2dGRDZCUWpfMTZxZVVlSjBpUnZEQUxmYnVJVUM3c1E?oc=5",
-       "fuente": "Univision · vía Google",
+       "id": "f5d4e3100b867da899c1d0b56424a2044198e8a9",
+       "titulo": "¿Cuántos militares estadounidenses heridos ha dejado la guerra con Irán? - EFE",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMTI5eVdBMGhLV2V0c09saHlDLWg4MU1oNFFOY1FUcTFLZU1BeWF1dUN0ZFVmLVRYWjZIdzhyeGVBdndXRTRQUUthSElPbGhDeldqdmw2WE4zV2FrcVlQWFZ3X1hTRjd5V2d6M1N4YWNGV1NvcnBDSnRsYnpKR1UyTmVFRktOZFpIS2VuRA?oc=5",
+       "fuente": "EFE - Agencia de noticias · vía Google",
        "peso": 1,
        "seccion": "internacional",
-       "fecha": "2026-08-21T18:27:32+00:00",
-       "historia": "terremoto-fallecidos",
-       "prioridad": 3,
-       "resumen_generado": true,
+       "fecha": "2026-08-21T19:20:47+00:00",
        "desplazada": false
       },
       {
-       "id": "8c283a3ed261f43700af9994ddc5a8869f003cde",
-       "titulo": "¿Quién es Natalie Harp, la \"manta humana\" de Donald Trump que acapara el debate político en EU? | PERFIL",
+       "id": "afb9bf693edc5b547781b5e650b14a97ca0c5607",
+       "titulo": "Trabajo después del terremoto: ¿qué debo tener en cuenta?",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdVAyektjNHlWeThhUE1LcEE3bWhHRUtoSTlic3E2LTYxUnVWQ3E5c1dpVlIzcS1RYmcyV1NnWFBUNzMwbm9SWk9GZF93NkxRQ1J3N1lLRC1tV3RDYXJkTTdHNkJidFIzOFRranh2TXc3YWtTUzVpV294S1VaTVZnQ3JmQXNESmEwSjF2Zk5TREc3Q0tqS3ZHMlhVYW43Z9IBngFBVV95cUxPR3NoS1lTdndRcWhGTm5Pa1UtM2I4OVdlM3JzcE9DeXlPSWVSU1F3MXlITkl5M09jRFdsX2RlajU2Y1FDd0dPenBaYXZIdVZvMThROWFOeDgxLTltT2JNVmtEOGFOZ1NrNTdkY3dfT3JBYzZLZkRqamNBU2pILVpXX1pNTmo5WF9SSlJNWFBlVlh5YkxKdWs4T0xic3JaQQ?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
+       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iT3RySUdjOEdIZkRYSDJfTXVONHBJdV82Y2s3U3N4S2FjZE1aQm9nNlpfTFgwb2dRZG42NkYtdzRGdW9hV0RzaUVCZDBzQnpTcDAwLVJRU2t2amppVDZmZUoxY2l4T3Y4T2dURXBpUkRPS1BRYlJoTDMyRkI?oc=5",
+       "fuente": "Portal Pontificia Universidad Javeriana · vía Google",
+       "peso": 1,
        "seccion": "internacional",
-       "fecha": "2026-08-21T19:12:00+00:00",
-       "historia": "natalie-harp-trump-debate",
-       "prioridad": 2,
+       "fecha": "2026-08-21T19:13:03+00:00",
        "desplazada": false
       },
       {
-       "id": "3eb3de0655cdeaf49da9050d6ec788e8934d9d52",
-       "titulo": "EU reporta 750 militares heridos en la guerra con Irán; legisladores y medios señalan falta de claridad en cifras de muertos",
+       "id": "a813663bcb230a081d772e688c7a7600f6a4e5fc",
+       "titulo": "Sube a 83 personas sin vida por terremoto de 7.7 en Indonesia",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSXhoR21HR3NFektiV2phdUswUExxcnRoWEZ4SVFzSTRvMjE5V3dGVUtEcWp0QmtXaTJBaUNHcFNwVFdOYnU0d2c5dEJjaXNicUJSejg1OWFJczBCaklVZW8wU3cwVUxmRmRsa0twcU44ZmFPUHdYYjNwOHF2ZWM4dVZFNy1US3U1LVdEaFRDcXlhREQ2U1BjYm1DRktTcnNmVG00bGJXcFdQZk9JWkRwM2plRU5tTUM2R2xaV3YyVS1CNm80bGpEeTlpQV90M253X0NRM2VtTHZqdGtLeExqZzFCVEVtZVBQVm04dWFWV1JwdWfSAYcCQVVfeXFMUGh1X2Fia3lOQ3BlVmptMzdtSFZOWi0tMzB6dFltSU1qbnk2OHE4aDNTWi0zOHI2cjNpVWtrUVMzS3R0Sy1ld05zblVMMkVrVW5CMGtCa1R2RkVTYXZHTGNVYzF1cHpNN2VtWmE3enlqYlpJMElpc3lhY3hpMWtCUW1xVnNZWUR0RGI2OGNwUkhXYUNFcXh1dzRRTFgwRFllQ3pHUFVlRGhfWkZIVE1ERjN5YVdqbzhqZU5sY0k3WlQ4V0JDRUlsczAtY2RuTmdEa0JMLVFCM2s2bGZ0c1NxVWlNRkVIWTJIX0xoSi1zdTBEcFlyNXlvRVVRbjRVaTlJamFMaFBPN00?oc=5",
-       "fuente": "El Universal · vía Google",
-       "peso": 3,
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDhxS0Q0MENpZngzLVg4dGl1aUxaUUkzVVQ2SF84bm5OWEI5Rk9NNVU4YTVxa2E5Q3VFWTVNOGtwc1Q5YjBRd0lUdU9PY0FYaHlSVUdkVHBScEhONVlaV0g3a1ExQVFLRk1ZSUVWQkQxdVhCTEc0MHNmc0RaaWI0dkY5ZmxGWWUweFIyYUs2alBVUVVUZ0Q3dTFONU8tWUVlLUYzdHRZZDNoX2pwaW51NFhISQ?oc=5",
+       "fuente": "El Horizonte · vía Google",
+       "peso": 1,
        "seccion": "internacional",
-       "fecha": "2026-08-21T18:16:24+00:00",
-       "historia": "eu-militares-heridos-iran",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "31188fe039a9e9c8dcafa3acafd95ef1dde5f02b",
-       "titulo": "El estadio Maracaná será sede del partido inaugural y la final de la Copa Mundial femenil de 2027",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ2Voa0FKUzVsUVZGRWc1N3lIQWtRQVRiMktUd1M2bzBUT3NZWVhYX0FoWHVVaG1pcXFGYm1qQ3A5eUtldG9hTl9tdVpyVWhHejNzVTluVklmdEIzMVltb3U4RXZSVEcwWU41cGFsaXFGdzI3U2FjZWs1SnV6bU9KY2twZGpsQUM5anJsN2s3R1U4ejRwRFBDeWlKdmtKMmFsb1FDa24wYUMxdTJCOUx1T2Vyb3hEMkRvbnNucXU1OUM4NzIzcXQ0Zzk5Nng5WFZLbmlIMHdxVFBvcTB1RVdUUTNlT0RzUFF0c3Bj?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T17:21:00+00:00",
-       "historia": "copa-mundial-femenil-2027-brasil",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "b1a6ef1e4373fcfd7262b16fea9ec8331df29231",
-       "titulo": "Detienen a dos mexicanos tras redada contra laboratorio de droga en Sudáfrica",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdXFlRUh3dERlUy1lQkZGSDFSOHc1Q0R6RjhSbHFUN3l6MWJVdTBmVUdaQXVFTm84cGRZV2RkSDl2OEktVTdCQUZldlhEbE1feUQydmdObkxXdkFZcHJKZVBGS0V3bDFwc3U5UXhxTTVHVG53QUVTUFpjUFR6U3pfQ2xNSk12Vnd2UWxTRDlRZy1CSUE3X0hYRl90Rmd2SHVjS0VmLU1B0gGmAUFVX3lxTE11cWVFSHd0RGVTLWVCRkZIMVI4dzVDRHpGOFJscVQ3eXoxYlV1MGZVR1pBdUVObzhwZFlXZGRIOXY4SS1VN0JBRmV2WERsTV95RDJ2Z05uTFd2QVlwckplUEZLRXdsMXBzdTlReHFNNUdUbndBRVNQWmNQVHpTel9DbE1KTXZWd3ZRbFNEOVFnLUJJQTdfSFhGX3RGZ3ZIdWNLRWYtTUE?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T16:54:00+00:00",
-       "historia": "mexicanos-detenidos-laboratorio-sudáfrica",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "957fde6ea47c1b33be49ed8d42077aafc2a18448",
-       "titulo": "Aplazan juicio en EU contra piloto vinculado a Raúl Castro; es señalado de conspiración",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXJWUmtkRUVVVC1EdHRvYlMwXzlDTFo0emVHQ2gtZkJ2aElLYWpMS0p5R3BMUm1sd3JlZzVITlNWS0Yyb3dESVFUQmE2dnJRdkJUekRSbnUtdzlqTU0tdnNNMTg3Zzhwc3VXRTQ4ZXVRaHpqY0RYM01jNHJKeG1YZzBfREJRUUpqOXVSM01IRUpwWHBkZ1BUS2ZDQnMzcTdseHlRWmp0QjBxWlBvekJkWE9JMmdGZWo2VnBVWlB3SmZGdEHSAcMBQVVfeXFMUG1yVlJrZEVFVVQtRHR0b2JTMF85Q0xaNHplR0NoLWZCdmhJS2FqTEtKeUdwTFJtbHdyZWc1SE5TVktGMm93RElRVEJhNnZyUXZCVHpEUm51LXc5ak1NLXZzTTE4N2c4cHN1V0U0OGV1UWh6amNEWDNNYzRySnhtWGcwX0RCUVFKajl1UjNNSEVKcFhwZGdQVEtmQ0JzM3E3bHh5UVpqdEIwcVpQb3pCZFhPSTJnRmVqNlZwVVpQd0pmRnRB?oc=5",
-       "fuente": "Excélsior · vía Google",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T16:45:56+00:00",
-       "historia": "juicio-piloto-raul-castro-conspiracion",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "a88f4d880a041d1155136f159e8c1134a7954377",
-       "titulo": "Apple pagó a Irlanda cerca del 40 % de todos sus impuestos globales el año pasado",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdUlPbTlyWmhZX2Q2MFloRWFHbWROZEJ3TzZOdmR6SUgzYXE0YURGZTN4V2FqTlRPc3BsbmlMUVcycnpMQlpBOGVVLTE2aDI4bGUtcXMwMUtBWDFCU2xSLVZxUlVodUNJcEFOem45b3FTN29rRTA2a2xnRTRQYW1KRk1wVDI0M3dDNUlaWGRHeXNNMG1fa01kWGFYMXdVbWRELUVoemtTZnNjWHZLUG5JSURWV0w1RXdHODVqRUEtY3RDR0Qwc3Z3Qkk2cTfSAecBQVVfeXFMTUo0UlRMNnpDanc2SGtUdFVsWUdoMjlJemZBNHl3OENWY3ZmRVo4UmRqUERXeUZZWkE0bHFRUmVoQ2tLZUpTc1NtRjVGdmpXTEU5UmdtWlJEc3VndHQ4cmFPMFJzcjVXb3dvbUkwZXZiZFdUQWQ1NnkwcEh4R21jT25GVV9MZW1lOVVuOGNYSjhaVG9Ja3JxYm1VV29TR3BhVGJON18zcmlZYktpX0o1Q0Q1UzRPUjJwa0RDS01JdFRuWkc1SVktYWZ5QnhxUHFPd1R2Qk9TQnRTQlR2ODdtX0tBNzM0WThZ?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:16:31+00:00",
-       "historia": "apple-impuestos-irlanda",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "31280f1caf9d11d085c4cec7a42a4974bb29a680",
-       "titulo": "Sánchez Berzaín gana acción de libertad y anula persecución judicial por golpe de 2003",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSy1ZNmNzdGFZR09MN1V6clgyRWJISDBPZV9PWHlCRUdpOVprUWVNVUVRcHJlX2NiUVgteTJBZkh0QXlJMUJPcEFBN2RpMGtWLVpXQzhpN0pPS2tScXNhdjZTREFzV0pTaDRNaXRmSS1DM0dUdVlmSldrWjdxcW9uS0d1eHNmQk9McE1Dclg5N25USFRsS3FPLXE0a09YS2JSbFFIRE5NdUd3NTgxN0hydUN1UUtoM3k1ajN3dkFBLUhsbHVxUTFTVF9JakNRT3E1QnRURl9uTFpjYWNud3fSAfgBQVVfeXFMTVMxNjY2dDV2ejMybllWY1hZR0cxLU00eUYxYUxRdVNxZTBaajZHaDI0WGRQZXZ4dXF0WXBaSC1VeXJkOUlHVThoT2plRnk2M0NpRzhGZWRlZjlNdzJJSlRuZ25TVXRNeXhTTWJDMzFzRTJWZDczSnBMTjdlMVZzVlIwSENUZnJzVDV6dXRlV3o5eUtydmxmWUJYUGxwVXZJWXJDaU5VZ3JoNTFsSVRKNzNDTGphUkRIeUcxWXliX0xqbFhjNi1UMV9OT24wUnZuT211NFRDRDdxaUdIZnFaUFpBUVE3UURGVUt3SGhJU284cmhnOERDbEk?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:08:00+00:00",
-       "historia": "sanchez-berzain-bolivia-golpe-2003",
-       "prioridad": 2,
+       "fecha": "2026-08-21T19:10:38+00:00",
        "desplazada": false
       },
       {
@@ -2439,8 +2050,6 @@
        "peso": 1,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:04:00+00:00",
-       "historia": "iran-responde-politica-economica-trump",
-       "prioridad": 2,
        "desplazada": false
       },
       {
@@ -2452,8 +2061,6 @@
        "peso": 1,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:01:21+00:00",
-       "historia": "ucrania-prohibe-masha-y-el-oso",
-       "prioridad": 2,
        "desplazada": false
       },
       {
@@ -2465,63 +2072,9 @@
        "peso": 1,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:00:03+00:00",
-       "historia": "terremoto-peru-agosto-2024",
        "tambien_en": [
-        "El Comentario · vía Google"
+        "NOTIVER · vía Google"
        ],
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "081394011fd17b9fd2a2f231f6edae8ccfa36101",
-       "titulo": "Exclusiva: CNN habla con la víctima del atentado de Mónaco",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkVNa1RlVTFEVGJqb0wzSWg5THJQSk4xRnc1TGZvZWpRM0VldE4xejVmdDFnM0E0S2xsQ283RFNvOHh4MF9WRUgzNUxPRHNrQk5IOFRFUUFnSVhaMFlqMmxkaWlQc2VvMF93SWZRZ2dueWRPMkFidFIwWXVRU1ZxVVZGM3FSb0Y4UFdobE1MOUNrRVdJMTRB?oc=5",
-       "fuente": "CNN en Español · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:51:54+00:00",
-       "historia": "atentado-monaco",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "93bc135b327e2a2011fe5d320128204bc325df4a",
-       "titulo": "Seguro Social en Estados Unidos: ¿Podría quebrar en cinco años?",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXZYUS1lTE4wMFcxR016UlVVbWphbk54enFtNGVDdzdMNEh0bWFCaTJGWU9wQTJxVHRsZl9sZFFxT0F6N05fbFdzZlNlcVVnLWYxejRjV19EUjhjSTc5VDFPVGkxUGFsLTBON29UZHROZ2Rrejh0YmkyZEdBYlE4U3ZB?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:51:12+00:00",
-       "historia": "seguro-social-estados-unidos-insolvencia",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "dce5e7138ba8189549ec13ee4c6250f877619f69",
-       "titulo": "Tornado “salvaje” golpea Atlantic Beach: esto se sabe de la tormenta en Nueva York",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXkzdW5aTUtidTFYTlFnZHJ5ekJBY1dOX3VYS25ta3RpeklWcTg4cm90QzJpZFdQaGNMWm5yczA1NkNHUk1Xek9Sb2ZZNmZGYTZYVW9RQ0tCQld1Ty1MazhMMG01ekdScVVRbVh3SFBtUlBhOXdUbk5IT0t5Q0c2Z2pDOGxTRmc?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T17:00:43+00:00",
-       "historia": "tornado-atlantic-beach-nueva-york",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "7220d95a3d9b074d68a0f33caf5d93bf0a1867e9",
-       "titulo": "El caso Lockerbie revela la corrupción judicial de Occidente a niveles dignos de Hollywood",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYXdjVVhKZVJfenlMNDdHYXQwRkhjRW1RQlZISndPanB4Y2RsQk9rb1ZMaDZYZllZQXFmY2dWYUc3NHk5a2sxc1ViWlRtZ0E5SGNuRUprZktOYkQ3c0xqQzRSYUJpQXNQUFRQTDItZnMtMjR1WURTT0VLT0NGS054MjJ3ellVSGRyLXdPbHBwYTc0aVlqQmx4alJMTVZWYTNyZEJ1a1MtbFBYMmpRTEY1RUplR28xb1p4UC1ZVi1halk?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T19:00:00+00:00",
-       "historia": "caso-lockerbie-corrupcion-judicial",
-       "prioridad": 1,
        "desplazada": false
       },
       {
@@ -2533,8 +2086,28 @@
        "peso": 1,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:59:09+00:00",
-       "historia": "sobrevivientes-judios-terremoto-venezuela",
-       "prioridad": 1,
+       "desplazada": false
+      },
+      {
+       "id": "081394011fd17b9fd2a2f231f6edae8ccfa36101",
+       "titulo": "Exclusiva: CNN habla con la víctima del atentado de Mónaco",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORkVNa1RlVTFEVGJqb0wzSWg5THJQSk4xRnc1TGZvZWpRM0VldE4xejVmdDFnM0E0S2xsQ283RFNvOHh4MF9WRUgzNUxPRHNrQk5IOFRFUUFnSVhaMFlqMmxkaWlQc2VvMF93SWZRZ2dueWRPMkFidFIwWXVRU1ZxVVZGM3FSb0Y4UFdobE1MOUNrRVdJMTRB?oc=5",
+       "fuente": "CNN en Español · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:51:54+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "93bc135b327e2a2011fe5d320128204bc325df4a",
+       "titulo": "Seguro Social en Estados Unidos: ¿Podría quebrar en cinco años?",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWXZYUS1lTE4wMFcxR016UlVVbWphbk54enFtNGVDdzdMNEh0bWFCaTJGWU9wQTJxVHRsZl9sZFFxT0F6N05fbFdzZlNlcVVnLWYxejRjV19EUjhjSTc5VDFPVGkxUGFsLTBON29UZHROZ2Rrejh0YmkyZEdBYlE4U3ZB?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:51:12+00:00",
        "desplazada": false
       },
       {
@@ -2546,34 +2119,61 @@
        "peso": 1,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:50:00+00:00",
-       "historia": "dolar-debilidad-monedas-agosto-2024",
-       "prioridad": 1,
        "desplazada": false
       },
       {
-       "id": "7ccee831cd725ea251474b41e2d0cf695b8d011e",
-       "titulo": "En momentos en que las familias iraníes sufren para pagar lo básico, EU intensifica la guerra económica",
+       "id": "93cf397a7d44fdaf2cc3c829016128fe1172927e",
+       "titulo": "Terremoto en Colombia: desgarrador balance con más de 300 fallecidos y miles de familias afectadas",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSWtuemgzcXVnQlJhQUY2aldnOWNsRTFIOWdtWDBHRVlVdjRWMFRNQjhBQzVIM0dzZWxoUWQyYUtid2d6cTA3SlUydnRMSnJoSmZmMjBpRi1oaTQwdWJuemU5dkhmWU9VY0FpdlBhMHl4WXNZU2c0a3FBdVRfUFdDUEdwOVQzQ2pRUjFRcFBueUY5dm01X1duVE9rVWlYODJfcXFZWnh5QWVqamFCcGszTjctNjlNQjZuQzk2NFpEYmxfYjhySWZHZ3o0UzlxY2RLNHFKQUxkVUppMTIyeUpTWHozZGpTUkhXYmRsNnNWTzdGbW9q?oc=5",
-       "fuente": "vanguardia.com.mx · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbGdiYXhuZzIxYmJ1bmpOU0IwQ2xyVkkyZXBIYUp3a3pTb1pkdk5XUXpMRmNBUG1zaUtCTHhnaHRVb292MXBVZ1Nyc1JVWHMzZFBYTlMwdmJtaVdPcHgybkQ3R0FzRmY5TDNMaExSTGtLOU9VOGdCNlRNZGQtT2RwcXBBZkM3TUZtQjJ5UDRWdWl6LWdCV3M2Z2dxNzRZWXBmaWNzS1NnMk91bDItTHFxOW9OV0hHUHRlSWFB0gG7AUFVX3lxTE9SeHNVVWNfYkdkamdsYWFKZ1JWOTQ5WG5TbHRPaFMzb1l4b2RSdDhINm9pZTc5NFZhbXZNSmVyMWRsbmJFOFlRcmhuekJOd3Q5ZTVURFc1dktuV2dCVHh4OUszOUxGNkg1d184N2pJcmRadHlPYnlYWmhaanIxQ0ZkdUdZWmxjNUpyaVcyd1VuNFJBVDNGdWdfaFNaSjNOakY5V0VFd2l2eTJCVUh2dFoxY2hVV2lqb0hmSnc?oc=5",
+       "fuente": "MARCA · vía Google",
        "peso": 1,
        "seccion": "internacional",
-       "fecha": "2026-08-21T18:13:29+00:00",
-       "historia": "familias-iran-guerra-economica",
-       "prioridad": 1,
+       "fecha": "2026-08-21T18:49:32+00:00",
        "desplazada": false
       },
       {
-       "id": "a775ea18ee0ff406b703d15733196b04c4869611",
-       "titulo": "Esta chocolatería de dos hermanas venezolanas en Florida fue elegida entre las mejores de EE. UU.",
+       "id": "949c3cfe24e20b0738cbacb197aa1c7196782101",
+       "titulo": "Santiago Cruz presentó ‘4 Vasos y 1 Florero’ junto a Cardellino: anunció gira solidaria para apoyar a damnificados por el terremoto en Colombia",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0doZFNlVWgzR3c2dlo1XzZLUEVwb1Z5MUxQa00yQ1NDYkNqVVgwbUplX2tHM1RLWlZnMkJvRE4wY1RiR1BFeFlyOERhd0p1dy1JUXhJdHZEdjkxM1lrRFFraXAyZ01SaV9BVDV4ajhnNDJzZ3FjdHhvcTdQTDdzU1MxNWVHdw?oc=5",
-       "fuente": "UnoTV · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQS3BWdDgzNE9zNHJ0QUFzb18yS1U2WTJOaFpPdDFINXBudjdRb2RNZnh4LVZjME9yOU5DQ2dMRFhqc1NWaXBjMHdRRVdhcFVWM0RLRGJDbk1CRkprcFM2VFBlWElUbWl4MzJmRHNrVDNnYXdVVTlLQ2hoM2JpX1plamxwYkJkN3pqQ1dQRXZEZi1iMzVyanVLY3BTVTQtYVpsd0c0SFVjblo5ekd0RW9HTW5TSUs4aktiOTZ3dzdLdFhLQ1ZScGVVSWdWR0JjRXVvUDdIT2lTc282d1FDeWMzQXVwWl9iMFJWUDByY3BRNXhIMm9PR3pncjVhQXBvWnExb1VrM1piZ2NRbTNBQlVjTXlId9IBrgJBVV95cUxPSWdiUHJfUXhIdmtvaFRLLVczZi1KRnBHRHBDVFgxY3FUUTdtUVZWZ1FHbUVYcVRjdElYTjNPc19sdWJUdzYtaG9qNzZxNDlOdGQ2dEstZG5XT2lvQnJ1UkIzMVZYOWI1YllxNXdHZ0c1TlM4UU1sLU5PWTN3dUUwbnZPZWh4aEJ4SmJJeENVUGc2bDE1UXBxRkQ5bXhyWlpLeHM2Z1NTOW9GVjNYYXlxVFd1NFJmSmtudDBpQlNZTnJzbVNkQ1VsU3J2dEQ2dkxjQk9RcUdYTXl6OWxPN21GdGNrWXZfM2JHYVpPNHJ3TjB6Y1ZIcTYyUlFkdXFrY0JJdzRDUzk5NlZzdTctNnh6QmlFOElrSGg3ZkV2QVdWZHF6R2dELURKTTA1aVpVQQ?oc=5",
+       "fuente": "Infobae · vía Google",
        "peso": 1,
        "seccion": "internacional",
-       "fecha": "2026-08-21T16:51:05+00:00",
-       "historia": "chocolateria-venezolanas-florida",
-       "prioridad": 1,
+       "fecha": "2026-08-21T18:47:12+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "8f95909120569d393d35d03f9a2f2d764758866a",
+       "titulo": "Terremoto en Colombia llega a 321 fallecidos y deja casi 4 mil 600 heridos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaklLZm16N01tQzBMY1RQS2pxa3FxSDJPekZSZ1hWRFUwa0U0WFlsOTBYanVaXzBWaVhSTHlCQnRFYlFGMFpiWDR3VHlFOUt6akxxRU5VdUdBbGx3VGtBcHEyWG1MelZVbkNmLXN3SUFKbEd3c1RNVngtS2hQcUYwZnpQUXZJV2g5RU05eUstRzEtWU91UFJsOUlBSkd1V3pqTzJjdg?oc=5",
+       "fuente": "Tabasco HOY · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:37:41+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "3b339ede6a565e4934afe2a05e3284ba033d117c",
+       "titulo": "Le quitan la corona a Miss Grand USA 2026: enfrenta cargos por atropello y fuga",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObTV5SGFaYzA2Z3UyQzZHMVI0cnJrZUhPQU5wcWMzWXpDQVVFc3JYcjdSNGZhS1pZN1VHMlBJUHpHTHk2NUlDQVE4ajhJYUVNUUIydzlfeGVhWXV6N2pXYmpSYlFOVDBnVjJaa3I5NndYeDhsN3FPRE1PTC1OMjdsWHVqZVdrVlN3cWVFdWVJVDlfdm5oc0lZVzdPckJoWkxHZ0NsdFgzOUxXQ0JWTDREdjZpOTdSNll3alE?oc=5",
+       "fuente": "Univision · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:37:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "4310baec1dd50a511f48cbdac4a99c55d5091bd3",
+       "titulo": "El terremoto en Colombia golpea los territorios ancestrales",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZXRmMHBIUUFHeEJRbmJnVk5zSXpnYThHaUdZTkI3eUx3UGJGZUE5SXp3VzNtUkZySWhlcnd1RzZNN0hlLWRMMXJoTGhXOGFjVE5vdDlQTWhrZGNQbWtOOExfNnVWeEZrWmFBSENieUZYandxNWRyajlDV005WEcxZ2otNHUxMTdnZnF1OExfNzJNWnpCNWdqQ1ItYnZaeDVMVmx3b1RsLWZHNkRsQkwzODJsZkNwX0M4SEZWY0YwSjFaTDE0UnFUbUhGZ9IBywFBVV95cUxPQVNKTElzX1l6NTluZXRnSXRWaWlFd3FmUC1yQjNzSnI4a3V6UDJoaTNtNGJBTmNYaVVVSFRFUWpXaUVWZkk0NFRzdFFmTmVQN0dwNjVabHRaZWlaamZrdkUybm5seVE4bGZ6Z3RpYURIWEpoOVFNRkZhejBZdkNLYXFTWHpyS1MteXBwRi0xUF91NFJjOVVTeUJQXzdIbFpuXzJHX2lOMVJocFB2QUhReThRODdmTkIzYm9uQVVtWS1RYXhwSkhIbkpoOA?oc=5",
+       "fuente": "dw.com · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:35:29+00:00",
        "desplazada": false
       }
      ]
@@ -2584,80 +2184,12 @@
       {
        "id": "f3efd951e1b249cf8778f906be9d86b6b2f719ba",
        "titulo": "'Shameful:' UK, Canada and Australia condemn Israel's refusal to investigate aid worker attack",
-       "resumen": "Reino Unido, Canadá y Australia condenaron la negativa de Israel a investigar un ataque contra trabajador humanitario, exigiendo rendición de cuentas.",
+       "resumen": "",
        "url": "https://www.middleeasteye.net/live-blog/live-blog-update/shameful-uk-canada-and-australia-condemn-israels-refusal-investigate-aid",
        "fuente": "Middle East Eye",
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:22:15+00:00",
-       "historia": "israel-investigacion-trabajador-humanitario",
-       "prioridad": 4,
-       "resumen_generado": true,
-       "desplazada": false
-      },
-      {
-       "id": "48a9ad313d5ff40ec70c97afe8d12c79359019d1",
-       "titulo": "Turkiye accuses Israel’s Netanyahu of ‘genocide’, seeks Interpol warrant",
-       "resumen": "Netanyahu and Erdogan trade insults as Ankara seeks warrant for Israel's attacks on Global Sumud Flotilla activists.",
-       "url": "https://www.aljazeera.com/news/2026/8/21/turkiye-accuses-israels-netanyahu-of-genocide-seeks-interpol-warrant?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T19:08:30+00:00",
-       "historia": "turquia-acusa-netanyahu-interpol",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "7cb6853f53d6ba7cda0d6bb0d1818f5d32d3d342",
-       "titulo": "¿Puede Turquía lograr la detención de Netanyahu con una notificación roja de Interpol?",
-       "resumen": "Turquía solicitó este viernes 21 de agosto a Interpol una notificación roja contra el primer ministro de Israel, Benjamin Netanyahu, después de que un tribunal de Estambul emitiera en julio una orden de arresto en un proceso por…",
-       "url": "https://www.france24.com/es/medio-oriente/20260821-puede-turqu%C3%ADa-lograr-la-detenci%C3%B3n-de-netanyahu-con-una-notificaci%C3%B3n-roja-de-interpol",
-       "fuente": "France 24 en español",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:51:49+00:00",
-       "historia": "turquia-interpol-netanyahu",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "fbd0fd38db00d0adecb82ebe4900b76420c56fbb",
-       "titulo": "Drone strike on Ukraine shopping centre kills 14, over 100 injured",
-       "resumen": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing 14 people and injuring over 100",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:40:11+00:00",
-       "historia": "ataque-dron-kryvyi-rih-ucrania",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "8649da82bf54ad73f27c214742ba71e83b21e7bf",
-       "titulo": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
-       "resumen": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:25:40+00:00",
-       "historia": "imran-khan-prision-pakistan",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "913ffad77132c0813b2d4698e75f4a859e30c226",
-       "titulo": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
-       "resumen": "Ukraine's Volodymyr Zelenskyy slams 'cynical and despicable' attack on his hometown Kryvyi Rih that injured over 120.",
-       "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:17:40+00:00",
-       "historia": "ataque-drone-rusia-ukraine-kryvyi-rih",
-       "prioridad": 4,
        "desplazada": false
       },
       {
@@ -2669,8 +2201,6 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:15:46+00:00",
-       "historia": "trump-ballroom-corte-suprema",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -2682,8 +2212,17 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:14:07+00:00",
-       "historia": "trump-transferencia-725m-onu",
-       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "c6887b39e66c20f6ad74a2544c8e6c931ba2e0fb",
+       "titulo": "Anne-Sophe Mutter, estrella del violín: 50 años sobre los escenarios",
+       "resumen": "Anne-Sophie Mutter se reinventa constantemente. Para celebrar medio siglo de trayectoria internacional, la famosa violinista sorprende con sonidos de tierras lejanas y obras encargadas, que nunca fueron grabadas.",
+       "url": "https://www.dw.com/es/anne-sophe-mutter-estrella-del-violín-50-años-sobre-los-escenarios/a-78464884?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T19:12:00+00:00",
        "desplazada": false
       },
       {
@@ -2695,60 +2234,6 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:11:43+00:00",
-       "historia": "trump-comentario-publico-vacunas",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "80778781a3ad757e718031c5382e419fce7446e0",
-       "titulo": "Israeli forces kill Palestinian man in Gaza",
-       "resumen": "",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza",
-       "fuente": "Middle East Eye",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:45:17+00:00",
-       "historia": "muerte-palestino-gaza",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "f024da6836d9023c4f5f69618dcda54c1cf3c18f",
-       "titulo": "Iran president says time to end war while Tehran is in position of strength",
-       "resumen": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on…",
-       "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength",
-       "fuente": "South China Morning Post",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:29:22+00:00",
-       "historia": "iran-posicion-negociacion-oriente-medio",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "9dec32db1c74b449704c4a45b029caca34d88cce",
-       "titulo": "Iran president says time to end war while in position of strength",
-       "resumen": "",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-president-says-time-end-war-while-position-strength",
-       "fuente": "Middle East Eye",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:10:21+00:00",
-       "historia": "iran-presidente-fin-guerra",
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "1ec2b61d8c28640636c8b3497466b0416433e20a",
-       "titulo": "Elecciones en plena guerra: ¿más democracia para Ucrania o una defensa más débil frente a Rusia?",
-       "resumen": "La guerra en Ucrania abre un nuevo frente en la política interna: el exministro de Defensa Mykhailo Fedorov ha exigido la celebración de elecciones presidenciales, acusando al gobierno de Volodímir Zelenski de usar la ley marcial…",
-       "url": "https://www.france24.com/es/programas/ventana-a-europa/20260821-elecciones-en-plena-guerra-m%C3%A1s-democracia-para-ucrania-o-una-defensa-m%C3%A1s-d%C3%A9bil-frente-a-rusia",
-       "fuente": "France 24 en español",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-08-21T18:09:20+00:00",
-       "historia": "elecciones-ucrania-guerra-democracia",
-       "prioridad": 3,
        "desplazada": false
       },
       {
@@ -2760,8 +2245,17 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:08:29+00:00",
-       "historia": "portaaviones-doris-miller-trump-navy",
-       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "b3d8fb2e443ca985779efce3853992ae07c32b60",
+       "titulo": "Incendios en Colombia: 13 municipios, 24 conflagraciones y más de 20.000 hectáreas arrasadas",
+       "resumen": "Más de 20.000 hectáreas de vegetación han sido devoradas en el departamento del Tolima, en el centro-occidente de Colombia, donde este viernes 21 de agosto se registran 24 focos activos en 13 municipios, según las autoridades…",
+       "url": "https://www.france24.com/es/am%C3%A9rica-latina/20260821-incendios-en-colombia-13-municipios-24-conflagraciones-y-m%C3%A1s-de-20-000-hect%C3%A1reas-arrasadas",
+       "fuente": "France 24 en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T19:01:53+00:00",
        "desplazada": false
       },
       {
@@ -2773,21 +2267,65 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T19:00:42+00:00",
-       "historia": "victoria-australia-dental-publico",
-       "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "b68c06e63e80c7adf5a3b8f6c79beb16627858bc",
-       "titulo": "Secret tunnel becomes museum for Syria chemical attack and siege of Ghouta",
-       "resumen": "A Ghouta tunnel used during Assad’s siege is now a museum, 13 years after government forces’ deadly sarin gas attack.",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/08-21-26-ghouta-chemical-attack-anniversary-sv?traffic_source=rss",
+       "id": "7cb6853f53d6ba7cda0d6bb0d1818f5d32d3d342",
+       "titulo": "¿Puede Turquía lograr la detención de Netanyahu con una notificación roja de Interpol?",
+       "resumen": "Turquía solicitó este viernes 21 de agosto a Interpol una notificación roja contra el primer ministro de Israel, Benjamin Netanyahu, después de que un tribunal de Estambul emitiera en julio una orden de arresto en un proceso por…",
+       "url": "https://www.france24.com/es/medio-oriente/20260821-puede-turqu%C3%ADa-lograr-la-detenci%C3%B3n-de-netanyahu-con-una-notificaci%C3%B3n-roja-de-interpol",
+       "fuente": "France 24 en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:51:49+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "80778781a3ad757e718031c5382e419fce7446e0",
+       "titulo": "Israeli forces kill Palestinian man in Gaza",
+       "resumen": "",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-kill-palestinian-man-gaza",
+       "fuente": "Middle East Eye",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:45:17+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c1feffa33161c5a6271e15a72b0d312a176bac1f",
+       "titulo": "Espanyol vs Real Madrid: La Liga – prediction, lineups, teams",
+       "resumen": "Real Madrid kickoff their campaign at Espanyol in Barcelona as Jose Mourinho's targets winning La Liga return.",
+       "url": "https://www.aljazeera.com/sports/2026/8/21/espanyol-vs-real-madrid-la-liga-prediction-lineups-teams?traffic_source=rss",
        "fuente": "Al Jazeera",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-08-21T18:55:22+00:00",
-       "historia": "museo-tunel-ghouta-siria",
-       "prioridad": 2,
+       "fecha": "2026-08-21T18:40:21+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "39e923e539041bf605223e66e6ba3686e3ebc33f",
+       "titulo": "Drone strike on Ukraine shopping centre kills six, injures 103",
+       "resumen": "A Russian drone strike hit a major shopping centre in Kryvyi Rih, Ukraine, killing six people and injuring 103",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/drone-strike-on-ukraine-shopping-centre-kills-six-injures-103?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:40:11+00:00",
+       "tambien_en": [],
+       "desplazada": false
+      },
+      {
+       "id": "f024da6836d9023c4f5f69618dcda54c1cf3c18f",
+       "titulo": "Iran president says time to end war while Tehran is in position of strength",
+       "resumen": "Iranian President Masoud Pezeshkian said on Friday it was time to end the months-long Middle East war with the US because Tehran appeared to be in a stronger position than Washington. Talks between the long-time foes remain on…",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3364893/iran-president-says-time-end-war-while-tehran-position-strength",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:29:22+00:00",
+       "tambien_en": [
+        "Middle East Eye"
+       ],
        "desplazada": false
       },
       {
@@ -2799,8 +2337,17 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:29:00+00:00",
-       "historia": "manifiesto-bauhaus-sajonia-anhalt",
-       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "8649da82bf54ad73f27c214742ba71e83b21e7bf",
+       "titulo": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+       "resumen": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:25:40+00:00",
        "desplazada": false
       },
       {
@@ -2812,8 +2359,28 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:22:30+00:00",
-       "historia": "nevada-votantes-no-ciudadanos",
-       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "4599d3b5da838126181d0daa99706f2db22d61a9",
+       "titulo": "El príncipe Harry y Elton John deberán pagar 11 millones de euros al ‘Daily Mail’ tras fallida demanda",
+       "resumen": "El príncipe Harry, Elton John y otras cinco personalidades británicas deberán pagar inicialmente 9,54 millones de libras (unos 11 millones de euros) a Associated Newspapers, editora del ‘Daily Mail’, después de que el Tribunal…",
+       "url": "https://www.france24.com/es/europa/20260821-el-pr%C3%ADncipe-harry-y-elton-john-deber%C3%A1n-pagar-11-millones-de-euros-al-daily-mail-tras-fallida-demanda",
+       "fuente": "France 24 en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:19:04+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1ec2b61d8c28640636c8b3497466b0416433e20a",
+       "titulo": "Elecciones en plena guerra: ¿más democracia para Ucrania o una defensa más débil frente a Rusia?",
+       "resumen": "La guerra en Ucrania abre un nuevo frente en la política interna: el exministro de Defensa Mykhailo Fedorov ha exigido la celebración de elecciones presidenciales, acusando al gobierno de Volodímir Zelenski de usar la ley marcial…",
+       "url": "https://www.france24.com/es/programas/ventana-a-europa/20260821-elecciones-en-plena-guerra-m%C3%A1s-democracia-para-ucrania-o-una-defensa-m%C3%A1s-d%C3%A9bil-frente-a-rusia",
+       "fuente": "France 24 en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:09:20+00:00",
        "desplazada": false
       },
       {
@@ -2825,8 +2392,39 @@
        "peso": 3,
        "seccion": "internacional",
        "fecha": "2026-08-21T18:07:51+00:00",
-       "historia": "clima-ferrocarril-britanico-el-nino",
-       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5974ff5a1ebe671dec6eda16432e79613a5c0445",
+       "titulo": "Ataque con espada deja varios heridos en escuela sueca",
+       "resumen": "Según varios medios suecos el agresor sería un ex alumno de la secundaria Brinell de Fagersta.",
+       "url": "https://www.dw.com/es/ataque-con-espada-deja-varios-heridos-en-escuela-sueca/a-78464651?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T18:00:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5be7dbdd194f34aa43a00b0d3f2d814e9b7da14c",
+       "titulo": "FM Araghchi says US economic pressure campaign is doomed to fail",
+       "resumen": "",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/fm-araghchi-says-us-economic-pressure-campaign-doomed-fail",
+       "fuente": "Middle East Eye",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T17:58:29+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a88436d6be0a9c121b31a66306af538847a4968d",
+       "titulo": "Turkey issues ‘genocide’ warrant for Israel’s Netanyahu over Gaza flotilla",
+       "resumen": "Turkey has sought an international arrest warrant for Israel’s Prime Minister Benjamin Netanyahu, accusing him of “genocide” linked to Israel’s interception of a Gaza-bound aid flotilla, the justice minister announced Friday…",
+       "url": "https://www.scmp.com/news/world/middle-east/article/3364892/turkey-issues-genocide-warrant-israels-netanyahu-over-gaza-flotilla",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-08-21T17:58:27+00:00",
        "desplazada": false
       }
      ]
@@ -2840,32 +2438,6 @@
     "dia": {
      "titulo": "Chismes y farándula",
      "articulos": [
-      {
-       "id": "4599d3b5da838126181d0daa99706f2db22d61a9",
-       "titulo": "El príncipe Harry y Elton John deberán pagar 11 millones de euros al ‘Daily Mail’ tras fallida demanda",
-       "resumen": "El príncipe Harry, Elton John y otras cinco personalidades británicas deberán pagar inicialmente 9,54 millones de libras (unos 11 millones de euros) a Associated Newspapers, editora del ‘Daily Mail’, después de que el Tribunal…",
-       "url": "https://www.france24.com/es/europa/20260821-el-pr%C3%ADncipe-harry-y-elton-john-deber%C3%A1n-pagar-11-millones-de-euros-al-daily-mail-tras-fallida-demanda",
-       "fuente": "France 24 en español",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T18:19:04+00:00",
-       "historia": "harry-elton-john-daily-mail-sentencia",
-       "prioridad": 4,
-       "desplazada": false
-      },
-      {
-       "id": "7dd48214863985c2905389e909cd39f1565d27dd",
-       "titulo": "Polémica por la presentación de Miranda! en un evento en Mónaco: el video y las repercusiones",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdURYTUdzWXNlLTNLZFEwZHZOd0RDVlZkR1JxdkZlT3p5blRwU0ZBSXhVVEc1eEF0cF9Td18tWXZsTWlBdW9nUm5TN0tpUTVXT2p1STljUU56bW13LS1wUFJUT2FSVWJPS0xtSmpoRzUxWWE1OG05NG1wUXNlS2lnNlhuTk15RXVaNFlobmVCYkI3QVVlWk5pOXE5OG1meFZZZWk2NWVNRGJLM3VvNGtibGZSYmFYSmVzbldYczlmeFBQd096eGY3NTh1SXdoWHdvRUHSAewBQVVfeXFMTTBMVzliYW5ZT1A0Sy1SWEwtNkNXZ2Q2cElYNW82MkNuTEI5Rkk3bURoMkZzcFJLUE1VZ25NZXZtQzZiampwNFY0el9KVkRYcjA0RF8yTmNRWGZZMEtBSW51dDZvbXRHZ3FnZW9xZHNtRU9weGoza2JMNTlzdDFxMEVhaDZ5cW5hdGZyYUlOX05vUjM2X3J3ZHZnUUF0WjJiaC1Kc1ZRdGZ5bm54dkwxNlFMdXVkamdBNkdrSld6dUxNcF9tOTFMZ0VGdVRmYmdyOVpld1JVR01vVlVISk9IVzA1dXhmZnRRYzA5a0w?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T17:43:53+00:00",
-       "historia": "miranda-presentacion-monaco-polémica",
-       "prioridad": 3,
-       "desplazada": false
-      },
       {
        "id": "f700d1130c19a2875806a8a1a9749d3f61a94663",
        "titulo": "Emmerdale's Daisy Campbell splits from boyfriend who helped support her through heartbreaking soap axe",
@@ -2975,19 +2547,6 @@
        "desplazada": false
       },
       {
-       "id": "c6887b39e66c20f6ad74a2544c8e6c931ba2e0fb",
-       "titulo": "Anne-Sophe Mutter, estrella del violín: 50 años sobre los escenarios",
-       "resumen": "Anne-Sophie Mutter se reinventa constantemente. Para celebrar medio siglo de trayectoria internacional, la famosa violinista sorprende con sonidos de tierras lejanas y obras encargadas, que nunca fueron grabadas.",
-       "url": "https://www.dw.com/es/anne-sophe-mutter-estrella-del-violín-50-años-sobre-los-escenarios/a-78464884?maca=spa-rss-sp-all-1122-xml-mrss",
-       "fuente": "DW en español",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T19:12:00+00:00",
-       "historia": "anne-sophie-mutter-50-anos",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
        "id": "86cef957b2d12de19634fee0029f58699d994fbc",
        "titulo": "Princess Diana's Driver Henri Paul May Not Have Been Drunk at Time of Crash",
        "resumen": "Princess Diana died because a drunk driver careened into a pillar -- so the official story goes, but a new show casts doubt on that ... and even raises the specter of foul play. \"Celebrity Crime Scene: Princess Diana\" takes a…",
@@ -3020,32 +2579,6 @@
        "peso": 3,
        "seccion": "espectaculos",
        "fecha": "2026-08-21T18:57:25+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "66f6ef4a8f3ac649269cdb74b19a40adb1a30abd",
-       "titulo": "Santa Fe Klan GRATIS. Anuncian concierto en Naucalpan por el Grito de Independencia: a qué hora ver EN VIVO",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdWZiNWFUbnYwUDNKUWcwWmVXY2RnMzhWLVRWb3d3dnNOMUVab2tzdUsweTcyQUpkZm5TZGhWSm84eXN6RWRJNU1tYmp1aHlIdXlIakd0bzhUbm9Wemc0cFUtMXNubWlOOGVVeS1lb1U4YUNDdG0wM2JfNGtLRDRQM3UwemY1aXlfZ1lFWUoyZlZUbjFlVG1nVklLZjJ0bFRSdjJr0gGjAUFVX3lxTE90U0haR3pMb0VMVnJvbEVLT0xCVnkxNkxUNU1fNlJyaUp3SkNZa054VURRTDRpakhGMmkzNG9veEVvLVJKV09JUTlmcEp1SnhsLUZGbE5rLV9nOXNsNmMxeXNUaFJVMjE0RWN3SGdSX1dNdEVfc2FncHVhdVRXcjVkMVl0MlFaTVZPV1QzVk9RNUdwVHlZMFk2czdrd2xSSkJXSnc?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T18:49:00+00:00",
-       "historia": "santa-fe-klan-concierto-naucalpan",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "19c957bd994d003fa50e35009125af931ed7d1b3",
-       "titulo": "Muere Romina Rivera Cruz, niña violinista que tocó ante el papa León XIV; tenía 9 años: esto sabemos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaTltQVU0cDkzQ2YtVnFXTUZSTTdKZ3FKM3F0b3U3cXQxMXJ1UGpVMFBiSzZPelVkTEdkb2ZPbFFuOGk4NFpMY0ZPbDhxTDhFWHlVaFVqTGtnLTVVS01MWTV1dEJRbUVoVEY3NmwwT0VTdHFPdjdfUHczUUE1bWoyTGtyaExNaXJTZDhXTWh0dG9WNHpNVGNZYjRMcjNNMGhk0gGgAUFVX3lxTE9TS0JVSVFrNmFtLXVqY1RvSl82S2hzNlFHNzdRME9XVzFFSEtranVwcTdTLVZ2aE5HQ1ROdklUQWw0bFZKQk1zcFZMRnZmdWp6TnBJcEhCc2FfNk9SZG5nSzQyMVNGa3p5MFhwdTFCTXhlc1VDZjY1Zmw4dVdFb0JNWTlEQzYxaDM1Z0F6Y1VmODAzdEp5UWUyZlhRTDA0aTc?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T18:43:57+00:00",
-       "historia": "romina-rivera-cruz-muerte",
        "prioridad": 2,
        "desplazada": false
       },
@@ -3086,32 +2619,6 @@
        "desplazada": false
       },
       {
-       "id": "f4571bd3137f90ccf228b14a0860430172831864",
-       "titulo": "¿Cuál es el mejor cine del mundo? Hollywood busca a los 50 mejores",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX0g3aWRSc0RHTXd5YkVHSzBYYmNzeTRxSEdNamphWnNsUjR3bVY4ZHpCSEkyclZSNHZSM2lKUHYzYUI3OUxBZTNOUmF1N05qdEZ6WkpmdElxUnhDTGVNZUlCRnlidl9fNmJjdnZXb1hsLVpKbmc0ZkZCMTAxSzBWUmZFdDRwX0hmU2tOR2V6NDBBOUxiWm1Dd1Z3UUpwblhGMWJDa0FiTVNQYjQ?oc=5",
-       "fuente": "Aristegui Noticias · vía Google",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T18:27:00+00:00",
-       "historia": "hollywood-mejores-cines",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "02f42439ed7ba682b5cfd80ae85255ba4a6d6ecf",
-       "titulo": "Ex presentadora de Televisa busca trabajo tras padecer leucemia y revela que estuvo en coma 10 días: \"No daban",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWUh4dWl0YkIwUkd6Nk1RN0EyaFNvVnFzZnJaMVgyRnNFSnMzOTdLZmJ1ZzBzQnUwcGE5QnBMQkpBM21saXJMSlpZM3lmUlZ2UXowWXRPRkl1VWRVVGg5TjFYdEs1c0wtWjZTRUhYYkw4ck1ndU1sY0FZY3k0T2VHMUVJdERRUGJIWVJfYUo5OE1IS0N1bVYtSmQzRVYwZjBYcFUtVDNjcFnSAagBQVVfeXFMUGk4RWd3a2lsT2szQndEd1VrWmJnYmY2cVBvTGRoWUpBaHhJc29nemtpaGdzZWo0a3RHRGp5dEtfR2t3RGtvaXladmdJNWRUNmNwUDZuQngtX0JjbTFXWDlKbGh2WnFDWWFXU201UUJEWWJ6U25hM3FDTlhtNXNyVXl4UWJheHdUXy1EbDhLYmV3VkRyZWlqVWl5Z3MyOXo4YWU4Z0FfNEls?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-08-21T18:21:00+00:00",
-       "historia": "exresentadora-televisa-leucemia",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
        "id": "bc11bba8bef9e769fa3226ad8ed0f7b36f5e4f0f",
        "titulo": "Bunnie Xo Shares Update on Baby Plans After Jelly Roll Divorce",
        "resumen": "Bunnie Xo is still rolling on with her plans to grow her family. One month after finalizing her divorce from her husband of nearly 10 years Jelly Roll, the Dumb Blonde podcast host shared an...",
@@ -3136,17 +2643,100 @@
        "desplazada": false
       },
       {
-       "id": "3014642d66a56bbc4ee4e7eb3b84fc74984246f8",
-       "titulo": "\"Es una mujer muy valiente\": Gustavo Adolfo Infante dice que Yolanda Andrade está 'tirando la toalla'; envía m",
+       "id": "06f006761ebfb1cbf94ba552f0f514ae5707d68e",
+       "titulo": "La mansión VIP vs. La casa de los famosos México 2026: HotSpanish se pronuncia y, ¡lanza dardo a la competenc",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOd2pSekRjc2ozLTRjQkdQR1dCYmlLZ1hQanpNWm9ZQU1Hako0NklHYXQwUHhQYlBieEhXMDhLMFp5cXpRaWRLcFpnZXA5ck5SVGJoNHBrZ01VdDZuUjNCYk5vWnVHazcxTi0zREV3UUEtUHZlenJwb3pvUUNxYU1IWVItZlhJbElyaHFjSGNfTUpCNkh2cWlDMXMtWnkyQmZneS1taVV2Z1B1d03SAasBQVVfeXFMUE14QU15LVJaUE9FSF9mc1RUUG0waXhWZXl0NGpYYzJpeVNFMEhnMHUzeHIwRGdZNWlxV19oU3VvMHRYZ0h4WDNua2x3a3E3Y3Z3SlN6RkZDMkszSnFXaHF5Nm1xX3JQUURUUGVfcGNfeXlVNWNnWTA5VXVSUnllZU0tRnNESmVtcGxXVmpzU2ZlcXhTQjh4enZVSWNTTmVJbTNvMmxzX2N5QUZv?oc=5",
-       "fuente": "MILENIO · vía Google",
-       "peso": 3,
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQcDdfVWc2aXZzR1huWWUxTnVscTYyYmhNNFdjSlFpdUVzTEd6UGNfVDBhZnBFYVFvTXE3VUVsUGZoZTZURm5ReThtNTZONUZzN1N3T0xmWTZPQjFpZktEbzBUWThTX3FxYk5QbnUwVHRFR1NRSnFCbDR3VU5zY2J6TVgwSTd4am03UThaalFwY3lxWlJadmRKcER5a2NHWFNKRkd1aUV3N1dXX004R0RwQzJJRG9vcThSdXJPalRpQmxyWjdNTmxEZHZBX0hYNWFHTlBBMDhfeTFkNmtid2w0MUhnQlZYSFNJdXfSAfcBQVVfeXFMTVpPSi15eW9hNnlBUHBDNnlyb2NpU1ZmZGhVTlR5bXgyd29FNUtnaE1Ccm80MlgxRlhZWjlUaUkyYWQ2MXZCZzRneENWNlhCTlFXTkFnQ1daSWE2a0ZyWTBjUlI4dmFhb2x0Q21vM1hZcHpwdjZaeWduV0hYck44ZE9FaEVRaGJjemRNWnUtTFJLZnRELWE4SzBDXzlCNmFFVmxlT0pMdHY1WU4tTzBzQzJUM2dvdE1rdmdfMlc0MkJNU3dwWnIyV3F1ZFpVZlpDc0J4Rm5fZW1IUUN2RGRtZ0dPRHczLW1Hd2REVC1XXzh3WG9VanczUQ?oc=5",
+       "fuente": "TVNotas · vía Google",
+       "peso": 1,
        "seccion": "espectaculos",
-       "fecha": "2026-08-21T17:33:00+00:00",
-       "historia": "yolanda-andrade-infante",
+       "fecha": "2026-08-21T19:10:21+00:00",
        "prioridad": 2,
        "desplazada": false
+      },
+      {
+       "id": "ac7f779eaa202ce86be18f5594f26ab64678e3f0",
+       "titulo": "Gustavo Adolfo Infante da nuevos detalles de la salud de Yolanda Andrade, asegura que \"está tirando la toalla",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU3JiUnd6Wi1VYVc3SWpkYmVEZGhhQ011WnREY1BLTVBFSW1Ocm1VWjJFcGV6anUtYUVMMUc4ZndlWmNxcFZFSWNnVVFpUzh2T0w1aU9naTFCTmM2LVZyTnBDNDlMV3I1T1h1ODFZS0ZoWUk3bDZwNG15aVhmd3lfcGtBb3B4bE5oQ093R25vYzREaUlWeE9PMDNGbzk5bHlhUW8zOXpQRklpdnFpTW1LVzFRaGFiM0F4VVpyMkZwTHp0eWpOR1M0S2R2b0F1TEdzcnkxYXZtTjNFeFFvVkxmRUNZOTRoSk1vLVHSAfcBQVVfeXFMUFhmcEJBeVotNEEwNUI5ekdzTlM2ZVB4YUtLczFxbXA3U1JYVFdHRW10T1lid3d2dmxZbGxUeWJsNW5SeHpTakN2emRXOXlNSnRGZFZXeUlTNjBOcWtMcXNUMnQ5N1ItZ2ZzYUFBaENJOWs3RGVfSFBfaGRpT0lrT1A3Q0xrUk96aDNsTDJldXpqTm5WcUZQck1iWnI3ejJQRUtQbjRLWlB0endTQWlkSS1fQ1ZKc0R2NWZhRk9MRExINmpGUUZZUlVEYzFDeVVQT3VKV1RQMlA1cmR0SmZLTzN6LVM0MXA2ME5vQ1p5Tm1tWWRSVU1XVQ?oc=5",
+       "fuente": "TVNotas · vía Google",
+       "peso": 1,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T19:03:51+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "d1d2eb85acbc38d034781e800d93d4525412ae19",
+       "titulo": "Caso Paco Stanley da un giro: testigo de la DEA señala a quien habría ejecutado el asesinato",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXBVWGgycU9iOF9aUHJ5bGY0NXlKenc2QjU3QzlwZkx1RkJWRjBZdkJBRTJCdUxyZGQxZDVIYU9WaWRDV2Jic2ZTajNpNGJiNl9EN2w5OXNsZkMySXZpSlVScm5ob1VnaXIzVWxWaDJ0WmNwMkEzSk5JdWl1eGswR3BKZlc5OVB5NmwwVlVVQ3RUUWQwOVdJdHRmV0NZaEpjZTJCM2JyaWU2Ym9KNlVGekpZNGJGOV9UcUFrY21vNF9yMFI5Mzc0SnBFRm5qNEpIZ2o40gHgAUFVX3lxTE5nOGhPOEFlcHdmTTlVVkVQRU9QbWZMb2N1Qk5TaERwTFdxSTFqdkxsbG1sUy1LU2JkTGNrRHhBenhsTldCUkJYVDRubGxEWTJXQ041T0t5Tm1HSkxnTkREXzdPU1pSS3pkRGkzTkdTcHpoUFM2M1Jxb1VtWlMyVTJtRUhueTI4RlN4b2lQRHAtdmRkalEtRV9id3dBU2tEWXNsd3RjekFkYktSQ0lzSXMwQWZhLWVBdmNRY3I0cGRIYTNQQ1dGNk44WTBLZnhuR1FtZnEydGQ1ZlhzblVtMUtZ?oc=5",
+       "fuente": "Quién · vía Google",
+       "peso": 1,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T18:56:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "88d98f5f25f068b15d075a1e47533ef0db38245e",
+       "titulo": "Caso Vanessa Huppenkothen: Autoridades detienen a conductor y aseguran camioneta",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeXJFMkZuT05sZmdUaTFHbVFPeWhxRjljVUVlYmhPVGMwbWpoRHF0OEE2eTlFRnVqbE9QZ3pTMWxFRXBRZVRmOTFKaFNCWkp5NDB4a2VKSG5xM1JjOUVSQ2sxY0tJdm43V1lEV081UDNNMVdxNlZKS3ZxMlZhTXVWbjZDcnIzLVhjVzZCR3hoNDlvTVpOV2dKX05BRXdHRWFsQlJhbnhLbEhEakhtTWpwWFRWRExwUFg5R1ZOaTlPUzhfRG_SAdABQVVfeXFMUFFQbkwtal9BUHNyc25uWEFUR2JZclUzaUtOeFpKRlRCZmY3bFdWalNBeUlqYV9sOGNfd0I5MlNLLWNabEJXeVhRdzFSUDVEOEZHUEFlMDVJcUNKdjl1a1hDZ3dhNm1lQnQzUFVsWEM0dHZraE90THN0RmNhVzJrSlczNGlsUmRnMDBYVlQtMWpxY3l5NWc4dmt2V2dGcFcyQjhrUlQwM3pGZFp1bDlzNzJ0TWVUaEJxdEY3UFJ2aTRGb0gwZ1F5Y3RYeHdicHR4Sw?oc=5",
+       "fuente": "Quién · vía Google",
+       "peso": 1,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T18:54:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5773779d5a47b41561af8eb11ace3bc0b4185412",
+       "titulo": "Brad Pitt's estranged daughter Vivienne, 18, takes out newspaper ad announcing she is dropping his surname... amid ongoing family drama",
+       "resumen": "Brad Pitt's estranged daughter Vivienne, 18, is moving ahead with her petition to legally drop the actor's surname - taking out a newspaper ad in The Los Angeles Daily Journal.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16070513/Brad-Pitt-daughter-Vivienne-newspaper-ad-surname-angelina-jolie.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T19:11:34+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "f60cf8a46021b94af27cf496a13fe0f83c923c7e",
+       "titulo": "VH1 star Daisy De La Hoya who ended up homeless and applying for jobs at McDonald's opens up about 'losing everything'",
+       "resumen": "A former reality star who once partied with the biggest names in music is now broke, homeless, and unable to find work.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16062491/daisy-la-hoya-vh1-homeless-now.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T19:09:20+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "989c553db7733c3607b5df034b5ef0d5151e98f4",
+       "titulo": "Hoda Kotb, 62, reveals shock romance with 'very handsome' new man... four years after ending engagement to Joel Schiffman",
+       "resumen": "Hoda Kotb shocked her former Today show co-hosts on Friday after revealing that she may have finally found a romantic connection with a new man.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16070691/Hoda-Kotb-dating-new-man.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T18:46:46+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "a832d1951f6e679fda1edc516f3754af35e63599",
+       "titulo": "Kendall Jenner and Jacob Elordi look more loved-up than ever as they hold hands on romantic London dinner date",
+       "resumen": "Kendall Jenner and Jacob Elordi were the image of romantic bliss when they were spotted emerging from a London dinner date this week.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16070417/kendall-jenner-jacob-elordi-hold-hands-london-dinner-date-loved-ever.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-08-21T18:46:22+00:00",
+       "prioridad": 2,
+       "desplazada": true
       }
      ]
     }
@@ -3188,7 +2778,7 @@
    "nombre": "Aristegui Noticias",
    "url": "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "40 titulares"
+   "detalle": "39 titulares"
   },
   {
    "nombre": "BBC Mundo",
@@ -3410,7 +3000,7 @@
    "nombre": "La Silla Vacía",
    "url": "https://news.google.com/rss/search?q=site:lasillavacia.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
    "estado": "ok",
-   "detalle": "26 titulares"
+   "detalle": "25 titulares"
   },
   {
    "nombre": "La Voz del Interior",
@@ -3446,7 +3036,7 @@
    "nombre": "Portada México vía Google Noticias",
    "url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "34 titulares"
+   "detalle": "33 titulares"
   },
   {
    "nombre": "Portada mundial vía Google Noticias",
@@ -3458,7 +3048,7 @@
    "nombre": "Proceso",
    "url": "https://news.google.com/rss/search?q=site:proceso.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "82 titulares"
+   "detalle": "83 titulares"
   },
   {
    "nombre": "Página/12",
