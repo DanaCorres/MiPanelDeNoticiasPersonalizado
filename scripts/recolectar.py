@@ -34,6 +34,7 @@ from criterios import colapsar_repetidas  # noqa: E402
 RAIZ = Path(__file__).resolve().parents[1]
 CONFIG = RAIZ / "fuentes.yaml"
 SALIDA = RAIZ / "docs" / "datos" / "noticias.json"
+CACHE_VEREDICTOS = RAIZ / "docs" / "datos" / "veredictos.json"
 CDMX = ZoneInfo("America/Mexico_City")
 
 NAVEGADOR = {
@@ -185,6 +186,41 @@ def preparar(entrada, fuente: dict, ahora: datetime, horas_max: int,
 # --------------------------------------------------------------------------
 
 
+def toca_curar(ajustes: dict, ahora: datetime) -> bool:
+    """¿A esta corrida le toca llamar al modelo?
+
+    El panel recoge titulares seis veces al día, pero no hace falta curar en
+    todas: una nota que aparece a las 8:00 y se cae del cupo antes de las 10:00
+    se habría pagado sin que nadie la leyera. Curando en menos momentos se paga
+    por lo que sobrevive. Las horas van en `horas_curaduria` (fuentes.yaml);
+    si la lista no está, se cura siempre, como antes.
+    """
+    horas = ajustes.get("horas_curaduria")
+    if not horas:
+        return True
+
+    minutos_ahora = ahora.astimezone(CDMX).hour * 60 + ahora.astimezone(CDMX).minute
+    for hora in horas:
+        h, _, m = str(hora).partition(":")
+        objetivo = int(h) * 60 + int(m or 0)
+        # Media hora de tolerancia: GitHub casi nunca arranca en el minuto exacto.
+        if abs(minutos_ahora - objetivo) <= 35:
+            return True
+    return False
+
+
+def veredictos_en_cache(notas: list[dict]) -> dict:
+    """Lo que ya se curó hoy, sin llamar a la API."""
+    try:
+        guardado = json.loads(CACHE_VEREDICTOS.read_text(encoding="utf-8"))
+    except (OSError, ValueError):
+        return {}
+    if guardado.get("fecha") != datetime.now(CDMX).strftime("%Y-%m-%d"):
+        return {}
+    cache = guardado.get("veredictos", {})
+    return {n["id"]: cache[n["id"]] for n in notas if n["id"] in cache}
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Arma el panel de noticias.")
     parser.add_argument("--seccion", help="Procesa solo una sección")
@@ -319,8 +355,16 @@ def main() -> int:
     if sin_curaduria:
         print(f"  sin curaduría: {len(candidatas) - len(para_curar)} notas de "
               f"{', '.join(sorted(sin_curaduria))}", file=sys.stderr)
-    veredictos = enriquecer(
-        para_curar, list(panel), sorted(subsecciones_validas), ajustes)
+
+    if toca_curar(ajustes, ahora):
+        veredictos = enriquecer(
+            para_curar, list(panel), sorted(subsecciones_validas), ajustes)
+    else:
+        # Corrida sin curaduría: se recogen titulares igual y se aprovechan los
+        # veredictos que ya están en caché de las corridas anteriores del día.
+        veredictos = veredictos_en_cache(para_curar)
+        print(f"  curaduría: no toca a esta hora; {len(veredictos)} notas salen "
+              f"del caché del día", file=sys.stderr)
 
     # 2c-bis. Una historia, una nota. Se hace después de la curaduría para
     #         poder usar el campo `historia` que escribe el modelo.
