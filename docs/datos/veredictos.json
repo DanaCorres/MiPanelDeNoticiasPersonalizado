@@ -4689,6 +4689,78 @@
    "ruido": true,
    "resumen": null,
    "historia": "sorteo-zeta"
+  },
+  "87eb74a2f7d8f3a7826955c544e2589706ba06a8": {
+   "id": "87eb74a2f7d8f3a7826955c544e2589706ba06a8",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La FGR confirmó que Farías Laguna será trasladado al penal de Altiplano a su llegada a México. La decisión afecta el caso de uno de los principales imputados.",
+   "historia": "farias-laguna-extradicion"
+  },
+  "03e326185cbbf3487fa260bedbcf4fc68b94eb8b": {
+   "id": "03e326185cbbf3487fa260bedbcf4fc68b94eb8b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "colectivos-busqueda-desaparecidos-nextlalpan"
+  },
+  "9de9c80b18baaaca2a40601c62aa58e34cf06d32": {
+   "id": "9de9c80b18baaaca2a40601c62aa58e34cf06d32",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": "retiro-granola-salmonela"
+  },
+  "dc48ba2f7b35447d3feeb8bc2d03ba481c4ccd54": {
+   "id": "dc48ba2f7b35447d3feeb8bc2d03ba481c4ccd54",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rafa-marquez-debut-seleccion"
+  },
+  "ea5579edd7997dc5d22ce812d22f04566f374752": {
+   "id": "ea5579edd7997dc5d22ce812d22f04566f374752",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La CEE de Morena en Hidalgo resolvió que Adán Augusto López y Adrián Ruvalcaba no tienen injerencia en candidaturas. La sentencia afecta disputas internas del partido.",
+   "historia": "cee-morena-hidalgo-candidaturas"
+  },
+  "8ef7259211de5205a847c360d8b548c0ae758aec": {
+   "id": "8ef7259211de5205a847c360d8b548c0ae758aec",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "ssa-modelo-diabetes-hipertension"
+  },
+  "e5275ac53b61d96e25906d7f7e469ed82510f5a5": {
+   "id": "e5275ac53b61d96e25906d7f7e469ed82510f5a5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trump-salon-baile-casa-blanca"
+  },
+  "78a83f5c0ffabfffdc8e0f7556fc605de2ae59a0": {
+   "id": "78a83f5c0ffabfffdc8e0f7556fc605de2ae59a0",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "meta-ia-pequenas-empresas"
   }
  }
 }
