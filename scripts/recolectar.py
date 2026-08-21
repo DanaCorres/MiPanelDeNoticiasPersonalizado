@@ -300,11 +300,13 @@ def main() -> int:
 
     candidatas = []
     for seccion, notas in por_seccion.items():
-        # Se conservan las más recientes con holgura sobre el cupo real, para
-        # que la curaduría tenga de dónde escoger al jerarquizar.
+        # Se conservan las más recientes con algo de holgura sobre el cupo real,
+        # para que la curaduría tenga de dónde escoger al jerarquizar. Cada
+        # décima de holgura son notas que se pagan y que quizá nunca se publican.
         cupo = ajustes["max_por_grupo"] * len(panel[seccion]["grupos"])
+        margen = float(ajustes.get("margen_poda", 1.15))
         notas.sort(key=lambda n: n["orden"], reverse=True)
-        candidatas.extend(notas[:int(cupo * 1.5)])
+        candidatas.extend(notas[:int(cupo * margen)])
 
     print(f"  poda: {antes} → {len(candidatas)} notas antes de la curaduría",
           file=sys.stderr)
