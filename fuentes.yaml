@@ -58,6 +58,11 @@ ajustes:
   # historia cuando la curaduría no opinó. 0.35 es prudente; súbelo si sientes
   # que junta notas distintas, bájalo si se te siguen colando repetidas.
   umbral_similitud: 0.35
+  # Holgura de la poda: cuántas notas se mandan a curar por cada una que cabe
+  # en el panel. 1.15 = 15% de más para que el modelo tenga de dónde escoger.
+  # Subirlo mejora un poco la selección y cuesta proporcionalmente más.
+  margen_poda: 1.15
+
   # Secciones que NO pasan por el modelo. En ellas la importancia se mide sola:
   # una nota que cubren varios medios sube, y las repetidas se colapsan igual.
   # Sale gratis y para chismes o para "lo importante del país" es suficiente.
