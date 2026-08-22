@@ -2277,6 +2277,2103 @@
    "ruido": false,
    "resumen": null,
    "historia": "canada-eeuu-guerra-arancelaria"
+  },
+  "546b629a5423cecb4941376bd3b7d286e8c94589": {
+   "id": "546b629a5423cecb4941376bd3b7d286e8c94589",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6d2dd08439719201e671c5d15603184749b04a90": {
+   "id": "6d2dd08439719201e671c5d15603184749b04a90",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "9f9827923a5260c763ae9fe4c92362d8d8df02a5": {
+   "id": "9f9827923a5260c763ae9fe4c92362d8d8df02a5",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "1a9adebd9fd716b69d4f14a8368a02024b84243b": {
+   "id": "1a9adebd9fd716b69d4f14a8368a02024b84243b",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "1509073b6a0dbb77d10aadf60ee055a3603723bb": {
+   "id": "1509073b6a0dbb77d10aadf60ee055a3603723bb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "baac39a4c95a01850323799c68fd075f4271494b": {
+   "id": "baac39a4c95a01850323799c68fd075f4271494b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "estafa-redes-suplantacion"
+  },
+  "1c57e592c55cea87da325599c0fbc68517d1a7b9": {
+   "id": "1c57e592c55cea87da325599c0fbc68517d1a7b9",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "1b242cdaa889eeaa361894b1c63db4a5daaf9842": {
+   "id": "1b242cdaa889eeaa361894b1c63db4a5daaf9842",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-miguel-comando"
+  },
+  "c3219d6e56ff3923010763585202162dc6d1e819": {
+   "id": "c3219d6e56ff3923010763585202162dc6d1e819",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "27122696abc2ed66e6627c0ad7ddbda8fe8909ba": {
+   "id": "27122696abc2ed66e6627c0ad7ddbda8fe8909ba",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "9863023e342b15728bf5fc98b5c5c09cab02a386": {
+   "id": "9863023e342b15728bf5fc98b5c5c09cab02a386",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "enrique-inzunza-regreso-senado"
+  },
+  "2afb79de6d4e61897cb5eb7f2bb28c24d73db775": {
+   "id": "2afb79de6d4e61897cb5eb7f2bb28c24d73db775",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tren-impacta-trailer-altamira"
+  },
+  "d8abfdd299ec8f244462651e42467825fe08151b": {
+   "id": "d8abfdd299ec8f244462651e42467825fe08151b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "falsos-trabajadores-cfe-extorsion-monterrey"
+  },
+  "663f344bb21cc5620c8d5c0c4fddb5f54ac296e9": {
+   "id": "663f344bb21cc5620c8d5c0c4fddb5f54ac296e9",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "nearshoring-manufactura-pacifico"
+  },
+  "e56f8d3998260936175ab210a266ef0d639fd52d": {
+   "id": "e56f8d3998260936175ab210a266ef0d639fd52d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-abulon-mezcales-oaxaca"
+  },
+  "ee449fbc758d058e0c950cf0e4a026e4b495fe56": {
+   "id": "ee449fbc758d058e0c950cf0e4a026e4b495fe56",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "250b3f7c64fc11ff540927e0c3a1e8547b872e3d": {
+   "id": "250b3f7c64fc11ff540927e0c3a1e8547b872e3d",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "cbe4c6994b437c9022329d0db16f936d306de99b": {
+   "id": "cbe4c6994b437c9022329d0db16f936d306de99b",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "e4bf2a9750bd901070ffca7e6781b35e57aaa68b": {
+   "id": "e4bf2a9750bd901070ffca7e6781b35e57aaa68b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "localizan-pimentel-moncada-secuestro"
+  },
+  "2c0793d47c62976872d8622e22fbcb7c29dcd112": {
+   "id": "2c0793d47c62976872d8622e22fbcb7c29dcd112",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-quevin-castro"
+  },
+  "74cb8e10bf2a80a807d955400a44d1652d3e3398": {
+   "id": "74cb8e10bf2a80a807d955400a44d1652d3e3398",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hormiga-gonzalez-chivas"
+  },
+  "0dff9c5ef72582725dbd13de9b53e77c9792719a": {
+   "id": "0dff9c5ef72582725dbd13de9b53e77c9792719a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-ceyda-yakova"
+  },
+  "c4e261a91f39e378749388009f12d9e1b4e26b6a": {
+   "id": "c4e261a91f39e378749388009f12d9e1b4e26b6a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "armando-gonzalez-olympiacos"
+  },
+  "bf66dfc4ecb07da4df148bcdad7514c47f498c30": {
+   "id": "bf66dfc4ecb07da4df148bcdad7514c47f498c30",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4eaec3100b47d37e73e37501d86869cf88156a77": {
+   "id": "4eaec3100b47d37e73e37501d86869cf88156a77",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "d59a2546a2ce2a4fc298318bacae53993dee99dc": {
+   "id": "d59a2546a2ce2a4fc298318bacae53993dee99dc",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-abulon-mezcales-oaxaca"
+  },
+  "e2c22be0db69ca899e43b003f0a13a60dfc7880d": {
+   "id": "e2c22be0db69ca899e43b003f0a13a60dfc7880d",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "94ee10b62d426bfe25b3b250a5f937ee1e6d0948": {
+   "id": "94ee10b62d426bfe25b3b250a5f937ee1e6d0948",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "armando-gonzalez-olympiacos"
+  },
+  "c4ebd7a5f68306fbc878e266101668a61b56cbf9": {
+   "id": "c4ebd7a5f68306fbc878e266101668a61b56cbf9",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4471663cf2c559cd51f898a8c81b8f8fb57cd329": {
+   "id": "4471663cf2c559cd51f898a8c81b8f8fb57cd329",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "de344c68b5cf1fb0deb6989943a40954e0a62007": {
+   "id": "de344c68b5cf1fb0deb6989943a40954e0a62007",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "762eb7fa313f242aff67a093402e36346f58ca73": {
+   "id": "762eb7fa313f242aff67a093402e36346f58ca73",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cfe-recibos-altos-cancun"
+  },
+  "a8cf552b848f517c9377a63920d2537977eb398c": {
+   "id": "a8cf552b848f517c9377a63920d2537977eb398c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mujer-arrollada-metro-cdmx"
+  },
+  "1beef59d000154cd271d3a9f41f9d6838b8faa35": {
+   "id": "1beef59d000154cd271d3a9f41f9d6838b8faa35",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "apoyo-damnificados-vaguada-hidalgo"
+  },
+  "10affa0e3b2fe768993ce68da1a6958f358fafd8": {
+   "id": "10affa0e3b2fe768993ce68da1a6958f358fafd8",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alcalde-torreon-cancela-armamento-vialidad"
+  },
+  "a0394be748f3f4bf5eb838f0761f1a6c93e5d5d2": {
+   "id": "a0394be748f3f4bf5eb838f0761f1a6c93e5d5d2",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hayden-panettiere-novio-drogas"
+  },
+  "8114a6ab3d464b5ac1b133fc5cf40b4b3173b5a8": {
+   "id": "8114a6ab3d464b5ac1b133fc5cf40b4b3173b5a8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "0f8ef505da7b5ec5aa46d14883639e150768584d": {
+   "id": "0f8ef505da7b5ec5aa46d14883639e150768584d",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hormiga-gonzalez-olympiacos"
+  },
+  "1ab53d4f81d0ded196bc21630491521542ff929f": {
+   "id": "1ab53d4f81d0ded196bc21630491521542ff929f",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c7e3541ad906dc9ecdcbae55a7247ee8863f79e9": {
+   "id": "c7e3541ad906dc9ecdcbae55a7247ee8863f79e9",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "1720b9c3dd6527f13df9cb207feae92559f836fd": {
+   "id": "1720b9c3dd6527f13df9cb207feae92559f836fd",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hormiga-gonzalez-olympiacos"
+  },
+  "3c33a564fc27ecdbb380a7fbdf17de4679af89f0": {
+   "id": "3c33a564fc27ecdbb380a7fbdf17de4679af89f0",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "77a9b0e9c8248daa0339df0bad648f2a411d9fab": {
+   "id": "77a9b0e9c8248daa0339df0bad648f2a411d9fab",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "liz-vilchis-tuits-discriminatorios"
+  },
+  "a957271cc96f0f5a109b2760998e87c9394ba5b5": {
+   "id": "a957271cc96f0f5a109b2760998e87c9394ba5b5",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mujer-asesinada-carretera-salamanca-celaya"
+  },
+  "3db8088ad15b6dc9f5fe66a0e8fcaaca0375f6ed": {
+   "id": "3db8088ad15b6dc9f5fe66a0e8fcaaca0375f6ed",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "951d7593264311cea2b26f3176d6927400396871": {
+   "id": "951d7593264311cea2b26f3176d6927400396871",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regresa-sinaloa"
+  },
+  "53d2551851548c9a021183e695920ec9ac75fecd": {
+   "id": "53d2551851548c9a021183e695920ec9ac75fecd",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "conductor-accidente-monterrey"
+  },
+  "6a6c3310296b29569abb952630fd2f6a38870301": {
+   "id": "6a6c3310296b29569abb952630fd2f6a38870301",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum criticó el retorno de Rocha Moya a la gubernatura de Sinaloa, advirtiendo que el poder sin principios deviene en arrogancia y abuso.",
+   "historia": "rocha-moya-regresa-sinaloa"
+  },
+  "9221a9359b15c3db57d35cf05a8c00d252bd4ce2": {
+   "id": "9221a9359b15c3db57d35cf05a8c00d252bd4ce2",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regresa-sinaloa"
+  },
+  "be769fd084c184151330368f4cacc6ffe89f2eae": {
+   "id": "be769fd084c184151330368f4cacc6ffe89f2eae",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "zapopan-predios-iglesia-catolica"
+  },
+  "99a9f3db2a261f587d397a3298e85a4ea1fbd222": {
+   "id": "99a9f3db2a261f587d397a3298e85a4ea1fbd222",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "retension-alcalde-funcionarios-el-salvador"
+  },
+  "ce30ff9b43e518560703bdeace9cfddedd9222fc": {
+   "id": "ce30ff9b43e518560703bdeace9cfddedd9222fc",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "e9a8d09bab6f8c2fb6eb3e407ffa3f7e4c235920": {
+   "id": "e9a8d09bab6f8c2fb6eb3e407ffa3f7e4c235920",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "dinamarca-exige-salida-infantino-fifa"
+  },
+  "2e19d058932075987375b878134186880d3089ed": {
+   "id": "2e19d058932075987375b878134186880d3089ed",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "10b8e04cb59e219a78a5d80bc4a83cd0d9a6ee94": {
+   "id": "10b8e04cb59e219a78a5d80bc4a83cd0d9a6ee94",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regresa-sinaloa"
+  },
+  "9e3be391dc250e911e6a372d8a525497228d1248": {
+   "id": "9e3be391dc250e911e6a372d8a525497228d1248",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hormiga-gonzalez-chivas"
+  },
+  "810bf7234c38cc093b1978b4908eb4b37e6632e0": {
+   "id": "810bf7234c38cc093b1978b4908eb4b37e6632e0",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hormiga-gonzalez-chivas"
+  },
+  "a42e2e8ef0463f29df214418eea5f84d37544944": {
+   "id": "a42e2e8ef0463f29df214418eea5f84d37544944",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regresa-sinaloa"
+  },
+  "9a4df09f98b3e42b8c287d5c675e82128a04c8e8": {
+   "id": "9a4df09f98b3e42b8c287d5c675e82128a04c8e8",
+   "seccion": "argentina",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "aea41af1d33348761b0403824825965a838392f7": {
+   "id": "aea41af1d33348761b0403824825965a838392f7",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-extradita-argentina-ex-espia-narcotrafico"
+  },
+  "fdd1769209037312116c62742ff7be04c36612e7": {
+   "id": "fdd1769209037312116c62742ff7be04c36612e7",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "legarreta-bisogno-gesto"
+  },
+  "797e1f0e9e9c1981488b2415a15c5d49c18559d0": {
+   "id": "797e1f0e9e9c1981488b2415a15c5d49c18559d0",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amenaza-tiroteo-uabc-ensenada"
+  },
+  "78a95a807dc9a07fd71875db9164b3a10ea82d9a": {
+   "id": "78a95a807dc9a07fd71875db9164b3a10ea82d9a",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c67a0d65be6060e2a9a056c1b970270b081b19d3": {
+   "id": "c67a0d65be6060e2a9a056c1b970270b081b19d3",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "a3a375bef5276076a57135d41b985f5e72918e16": {
+   "id": "a3a375bef5276076a57135d41b985f5e72918e16",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum cuestionó el regreso de Rocha Moya como gobernador de Sinaloa y advirtió que ningún interés personal debe estar por encima del bienestar de la población.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "8cc32c1e751be4e601afcb4f0736e6b0f0f163dd": {
+   "id": "8cc32c1e751be4e601afcb4f0736e6b0f0f163dd",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "joven-muerta-hotel-apodaca"
+  },
+  "bd8fbfa3ba8f1de941e360eab0eb0a00c28089e3": {
+   "id": "bd8fbfa3ba8f1de941e360eab0eb0a00c28089e3",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muertes-sinaloa-municipios"
+  },
+  "df867ef028860dfaac0d624c382ff1fad8fbe068": {
+   "id": "df867ef028860dfaac0d624c382ff1fad8fbe068",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "ec1df821c8b231e75149795581bb6de1d508d123": {
+   "id": "ec1df821c8b231e75149795581bb6de1d508d123",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum cuestionó el regreso de Rocha Moya como gobernador de Sinaloa y advirtió que ningún interés personal debe estar por encima del bienestar de la población.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "d9bc73ae6599872848d93e965c6641da00913a20": {
+   "id": "d9bc73ae6599872848d93e965c6641da00913a20",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "inspecciones-anexos-zapopan"
+  },
+  "9c206ca06fc305e7ea630da384c1754a976b4986": {
+   "id": "9c206ca06fc305e7ea630da384c1754a976b4986",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "188c84e0a1b22fd4b7052702487e93893be36030": {
+   "id": "188c84e0a1b22fd4b7052702487e93893be36030",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum cuestionó el regreso de Rocha Moya como gobernador de Sinaloa y advirtió que ningún interés personal debe estar por encima del bienestar de la población.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "fd2ce9a2798ac7ba8fd20a3b20ae84e5bcec70d4": {
+   "id": "fd2ce9a2798ac7ba8fd20a3b20ae84e5bcec70d4",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum cuestionó el regreso de Rocha Moya como gobernador de Sinaloa y advirtió que ningún interés personal debe estar por encima del bienestar de la población.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "6c917f24aa31b023804b26840e4fc78d271a779f": {
+   "id": "6c917f24aa31b023804b26840e4fc78d271a779f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "octavio-haro-empresario-zapopan"
+  },
+  "30fac70b8e7d4bce102031e49bd3a7a086e08c51": {
+   "id": "30fac70b8e7d4bce102031e49bd3a7a086e08c51",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ashenda-etiopia-conflicto"
+  },
+  "7d853caaf61e79d5cf32c2b98c2a1bfd2c75a08d": {
+   "id": "7d853caaf61e79d5cf32c2b98c2a1bfd2c75a08d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6db004c857d4340371d19175b692ca4113b17698": {
+   "id": "6db004c857d4340371d19175b692ca4113b17698",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremotos-pacifico-mexico"
+  },
+  "9155f004937d4abce37bd1214ab7c8508e631dcf": {
+   "id": "9155f004937d4abce37bd1214ab7c8508e631dcf",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Rocha Moya regresó al cargo de gobernador de Sinaloa sin avisar previamente a Sheinbaum, generando fricción entre ambos.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "ff266716fbf275291ab8422855757a8ba1c45546": {
+   "id": "ff266716fbf275291ab8422855757a8ba1c45546",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bitcoin-semana-suba"
+  },
+  "013982742be37ee009cc06c1619248f566764f9a": {
+   "id": "013982742be37ee009cc06c1619248f566764f9a",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "a9c9fed9f30e3a9ad1f1ff787d840c2bb391cf12": {
+   "id": "a9c9fed9f30e3a9ad1f1ff787d840c2bb391cf12",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "383a97a35073bc4299561897e2529dc8ee37a4f8": {
+   "id": "383a97a35073bc4299561897e2529dc8ee37a4f8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "e1a8cb22b6f83788e936571b3b0ff3899b8e23db": {
+   "id": "e1a8cb22b6f83788e936571b3b0ff3899b8e23db",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum rechazó que intereses personales prevalezcan sobre el bien común, en alusión al regreso de Rocha Moya al gobierno de Sinaloa.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "c014103e7412c8678269df1cb86f15518bdeb237": {
+   "id": "c014103e7412c8678269df1cb86f15518bdeb237",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Sheinbaum confrontó públicamente a Rocha Moya, gobernador de su propio partido, tras su regreso al cargo entre acusaciones estadounidenses de vínculos con el crimen organizado.",
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "1636edad059de2f74757ab931316f96602433e73": {
+   "id": "1636edad059de2f74757ab931316f96602433e73",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "b45707e2237b62099ded508462964933a6b6cafe": {
+   "id": "b45707e2237b62099ded508462964933a6b6cafe",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "8f2a3adcc204dc28034115e090be4e4c9ceea242": {
+   "id": "8f2a3adcc204dc28034115e090be4e4c9ceea242",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "455da2596df961bdd1c3c0acf2a0412d1bef6fec": {
+   "id": "455da2596df961bdd1c3c0acf2a0412d1bef6fec",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "incendio-autobus-tepic-guadalajara"
+  },
+  "d1483a4bda409d1fe7da8368d3be47de5c535cef": {
+   "id": "d1483a4bda409d1fe7da8368d3be47de5c535cef",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tabe-grupo-presidente-miguel-hidalgo"
+  },
+  "a4a4588531ab6f5ac1338d1ce7ccbd908abf4ca4": {
+   "id": "a4a4588531ab6f5ac1338d1ce7ccbd908abf4ca4",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c868bd7b64bb57af43807f81f20493892c44bb3d": {
+   "id": "c868bd7b64bb57af43807f81f20493892c44bb3d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "incendio-terminal-pajaritos-veracruz"
+  },
+  "2fb5f1c43f35970e9efe13055fbc7e75205e11f3": {
+   "id": "2fb5f1c43f35970e9efe13055fbc7e75205e11f3",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fernando-n-huachicol-fiscal"
+  },
+  "22503cc41221382176e94a66c6c71e032708bccc": {
+   "id": "22503cc41221382176e94a66c6c71e032708bccc",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Terremoto de magnitud 7.7 en Indonesia dejó 87 muertos y más de 150 mil desplazados una semana después. El movimiento generó olas de cerca de un metro y causó daños materiales significativos en el sudeste del archipiélago.",
+   "historia": "terremoto-indonesia-7-7"
+  },
+  "755210dbc95c821c96f37911080f3be1f7481a7e": {
+   "id": "755210dbc95c821c96f37911080f3be1f7481a7e",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "78339e9cab8f7d74b8313cc5497926d6885b1f77": {
+   "id": "78339e9cab8f7d74b8313cc5497926d6885b1f77",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "538d32af3b3166a2b1095aff60232cf6ef450adc": {
+   "id": "538d32af3b3166a2b1095aff60232cf6ef450adc",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "homicidio-san-juan-abajo"
+  },
+  "b357dc86bdf49a27a3aaa618de9ea53e2b600b8b": {
+   "id": "b357dc86bdf49a27a3aaa618de9ea53e2b600b8b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Hay más de 3 mil menores de edad huérfanos por feminicidios en México. El dato refleja el impacto de la violencia de género sobre la niñez mexicana y sus consecuencias de largo plazo.",
+   "historia": "huerfanos-feminicidios-mexico"
+  },
+  "d88a6cbcab281ed9b4ca0ec5cac692251cedad39": {
+   "id": "d88a6cbcab281ed9b4ca0ec5cac692251cedad39",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "choques-pipas-hidalgo"
+  },
+  "647d728456a6584e827006ac940e7b6ed504dd44": {
+   "id": "647d728456a6584e827006ac940e7b6ed504dd44",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "regulacion-celulares-educacion-jalisco"
+  },
+  "00433b103d35da226b47f3e6107f0fd03a4426ad": {
+   "id": "00433b103d35da226b47f3e6107f0fd03a4426ad",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-abulon-mezcales"
+  },
+  "79c0f910007ab5a3772ce3e781e732e1a86320a8": {
+   "id": "79c0f910007ab5a3772ce3e781e732e1a86320a8",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "e8c656d48e232c374cb2faa31484690303cdee06": {
+   "id": "e8c656d48e232c374cb2faa31484690303cdee06",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "paul-urkijo-festival-macabro"
+  },
+  "bfdbea834ed030da0de64ebf860cf6399c6ea578": {
+   "id": "bfdbea834ed030da0de64ebf860cf6399c6ea578",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "incendio-basurero-tamazula"
+  },
+  "536105b649b886c370dc765657a00a368041e9d9": {
+   "id": "536105b649b886c370dc765657a00a368041e9d9",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "petro-visita-mexico"
+  },
+  "2c76632a13cdc62df98845b459e51da0bbf295be": {
+   "id": "2c76632a13cdc62df98845b459e51da0bbf295be",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "dbf1eaa57eb73f5401081d2923b0b0f1c6e7fa63": {
+   "id": "dbf1eaa57eb73f5401081d2923b0b0f1c6e7fa63",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "karla-panini-reaparicion"
+  },
+  "70740925cabfb5542405eff8d1dd5e97598ea2b2": {
+   "id": "70740925cabfb5542405eff8d1dd5e97598ea2b2",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "7e1e2eb57b57c4e758943e7d0bda508fbed0a023": {
+   "id": "7e1e2eb57b57c4e758943e7d0bda508fbed0a023",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "motociclista-accidente-mexico-texcoco"
+  },
+  "d48dfa9cb686a4a8d6c95a5707553ac45d90edd3": {
+   "id": "d48dfa9cb686a4a8d6c95a5707553ac45d90edd3",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "18da3256f1caf4e70ffb3a6765273163a82b1fc1": {
+   "id": "18da3256f1caf4e70ffb3a6765273163a82b1fc1",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mujer-defensa-legitima-gustavo-madero"
+  },
+  "c5d4727c5d4c8359bfefc919b2668fe15f21dfcd": {
+   "id": "c5d4727c5d4c8359bfefc919b2668fe15f21dfcd",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exportacion-ganado-mexico-eu-gusano-barrenador"
+  },
+  "7e7cfb94f575418b52fdde97c2f0a3ce4967f263": {
+   "id": "7e7cfb94f575418b52fdde97c2f0a3ce4967f263",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "38e43831845f85233dc228b7e33a4e5765308b5f": {
+   "id": "38e43831845f85233dc228b7e33a4e5765308b5f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "aseguramiento-avioneta-huachicol-campeche"
+  },
+  "e4222bc7cb246cfde2b0f44fac03f7310591707c": {
+   "id": "e4222bc7cb246cfde2b0f44fac03f7310591707c",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "regreso-rocha-moya-senado"
+  },
+  "58c1c8da95710956a30eca3cc59a1c5612237d0c": {
+   "id": "58c1c8da95710956a30eca3cc59a1c5612237d0c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "16805f8fbdf63f27549f51626b875860a8028b8b": {
+   "id": "16805f8fbdf63f27549f51626b875860a8028b8b",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "777caffcf300c32481838ce5a261cac29634ec3f": {
+   "id": "777caffcf300c32481838ce5a261cac29634ec3f",
+   "seccion": "nacional",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "columna-la-nube"
+  },
+  "86fecfc891e36f5a8b405e828851dc76a2f2384a": {
+   "id": "86fecfc891e36f5a8b405e828851dc76a2f2384a",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "b2822dc67ea41c4a5a463f9fcbf3fcf57fbe8e98": {
+   "id": "b2822dc67ea41c4a5a463f9fcbf3fcf57fbe8e98",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "087989ad06c6fff9dfc2567f99861058b7957e8d": {
+   "id": "087989ad06c6fff9dfc2567f99861058b7957e8d",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Una falla menor de conectividad en la infraestructura digital del Gobierno de México expuso vulnerabilidades significativas de ciberseguridad. El incidente reveló debilidades críticas en los sistemas de protección de datos gubernamentales.",
+   "historia": "vulnerabilidades-ciberseguridad-gobierno-mexico"
+  },
+  "8170c77596f17d11ecd24e9a3db9ad6718a3d943": {
+   "id": "8170c77596f17d11ecd24e9a3db9ad6718a3d943",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "97a34e282600aaa4e1d8ecc752b3283dcdb3efc2": {
+   "id": "97a34e282600aaa4e1d8ecc752b3283dcdb3efc2",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "migrantes-ceuta-acogida"
+  },
+  "c2dc28263edf47365ea15a9213bd615306b28529": {
+   "id": "c2dc28263edf47365ea15a9213bd615306b28529",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "robo-monsenor-ackerman"
+  },
+  "ba1f1a1140c27599baf19565443393a8882edd79": {
+   "id": "ba1f1a1140c27599baf19565443393a8882edd79",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-abulon-mezcales-colima"
+  },
+  "fee24707c8bc3da96862f8a6e6c21e70863807f1": {
+   "id": "fee24707c8bc3da96862f8a6e6c21e70863807f1",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "migrantes-mujeres-enfermedades-regreso"
+  },
+  "210639b70ded876d35a702c3a5f6a9374633199a": {
+   "id": "210639b70ded876d35a702c3a5f6a9374633199a",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "9ac50ee80545770c5732f78248a7128764d0902c": {
+   "id": "9ac50ee80545770c5732f78248a7128764d0902c",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "b2303b38cb28c47186999cdb5fc507da4103981d": {
+   "id": "b2303b38cb28c47186999cdb5fc507da4103981d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bomberos-tampico-cocodrilos"
+  },
+  "e994b5d60ea6e0ca375f223d626edbf2ab7e0dfb": {
+   "id": "e994b5d60ea6e0ca375f223d626edbf2ab7e0dfb",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "017c146a8f6546533c972301efbf194026a62a03": {
+   "id": "017c146a8f6546533c972301efbf194026a62a03",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "ae92097ddc75ad99af5a771cee378694935cc159": {
+   "id": "ae92097ddc75ad99af5a771cee378694935cc159",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "4936743b2ef74f080aab5c39d55b25898b9908b3": {
+   "id": "4936743b2ef74f080aab5c39d55b25898b9908b3",
+   "seccion": "argentina",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "81f86f10bafa47131b9ffb8d30371c3fb04e4984": {
+   "id": "81f86f10bafa47131b9ffb8d30371c3fb04e4984",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huachicol-coahuila-pemex"
+  },
+  "2a932fba142d916785e412cd6457eb39796d1b8c": {
+   "id": "2a932fba142d916785e412cd6457eb39796d1b8c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "conmemoracion-bomberos-guadalajara"
+  },
+  "769c76fee2b38e7f1be35194bcaf1dfd4a61fbe0": {
+   "id": "769c76fee2b38e7f1be35194bcaf1dfd4a61fbe0",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "4776f07a523876ed8df2c625fa6bef046a743391": {
+   "id": "4776f07a523876ed8df2c625fa6bef046a743391",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "restos-carlos-beltran-bcs"
+  },
+  "0a46c29796b6d1f184a0c8977da7087972a45ed7": {
+   "id": "0a46c29796b6d1f184a0c8977da7087972a45ed7",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "incidente-beisbol-veracruz"
+  },
+  "2b9952b9065dce98ddd273e53490a46bd220807c": {
+   "id": "2b9952b9065dce98ddd273e53490a46bd220807c",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "1b1684b965051b484832f69379426f3dad0d057e": {
+   "id": "1b1684b965051b484832f69379426f3dad0d057e",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "65d416442c97f8e439b7923f80832d32cdbcf1f1": {
+   "id": "65d416442c97f8e439b7923f80832d32cdbcf1f1",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c43a056cf42a046305f2d94397388e2857bceeaa": {
+   "id": "c43a056cf42a046305f2d94397388e2857bceeaa",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "f23520f9cfa2814044319cb2e27c070b67b8f677": {
+   "id": "f23520f9cfa2814044319cb2e27c070b67b8f677",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "229117dcb71a10c443a893fc4adbd8e8d5966b08": {
+   "id": "229117dcb71a10c443a893fc4adbd8e8d5966b08",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "detencion-miguel-comando-villa-fontana"
+  },
+  "f588953a708a30ea970fccc5848a1b2552ab33d8": {
+   "id": "f588953a708a30ea970fccc5848a1b2552ab33d8",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "adultos-mayores-atencion-municipios"
+  },
+  "b891d3da955f68df5d43036da0bfb8e24da7fca4": {
+   "id": "b891d3da955f68df5d43036da0bfb8e24da7fca4",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "4503d353b4266c2ed7e9c2f627e2cb3ab7c1582e": {
+   "id": "4503d353b4266c2ed7e9c2f627e2cb3ab7c1582e",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "la-captura-netflix-paola-fernandez"
+  },
+  "693c4966c9e48146daea6a30a22be003a1608c62": {
+   "id": "693c4966c9e48146daea6a30a22be003a1608c62",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "conflicto-concacaf-fifa-infantino"
+  },
+  "6d217ec9cccfd787734e264003aa37a30b401741": {
+   "id": "6d217ec9cccfd787734e264003aa37a30b401741",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "a0b3df39b58bc3fc1214137770cdf6f0d54d23fa": {
+   "id": "a0b3df39b58bc3fc1214137770cdf6f0d54d23fa",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rocha-moya-regreso-sinaloa"
+  },
+  "88129db218ad5ac799c62ef6c5811f4aa4ef89eb": {
+   "id": "88129db218ad5ac799c62ef6c5811f4aa4ef89eb",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "extraccion-agua-ilegal-amozoc-puebla"
+  },
+  "6873aea8de07731ff10b7c5f3135d24d89c4563c": {
+   "id": "6873aea8de07731ff10b7c5f3135d24d89c4563c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-sanciones-enemigos"
+  },
+  "7a18daf252aa26fea75bb58c67aa4d704c1c26e6": {
+   "id": "7a18daf252aa26fea75bb58c67aa4d704c1c26e6",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "chile-embajada-iran"
+  },
+  "8ade16dbb0493d13cc6fca77f0223c6e68f4d049": {
+   "id": "8ade16dbb0493d13cc6fca77f0223c6e68f4d049",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "terremoto-colombia-ayuda"
+  },
+  "b89b6aefc79ef882fea47712be2893074538acfc": {
+   "id": "b89b6aefc79ef882fea47712be2893074538acfc",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Terremoto de 7.4 en Indonesia causa 87 muertes y más de 1200 heridos. El saldo de víctimas continúa confirmándose en cobertura de desastres naturales.",
+   "historia": "terremoto-indonesia"
+  },
+  "3e0364a72b66ec421fd7947cfbd89d702367598d": {
+   "id": "3e0364a72b66ec421fd7947cfbd89d702367598d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Putin declara apertura al diálogo para terminar la guerra pero rechaza propuestas de paz que califica de \"exóticas e inaceptables\". Rusia mantiene su postura conflictiva.",
+   "historia": "putin-diálogo-guerra-ucrania"
+  },
+  "8b7ddbadc9afe3f8930b77f265e34e7c54d1ee62": {
+   "id": "8b7ddbadc9afe3f8930b77f265e34e7c54d1ee62",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-irak-hormuz-petroleo"
+  },
+  "257997db8e4ef8893b0f4f80f57c539dcace5d8d": {
+   "id": "257997db8e4ef8893b0f4f80f57c539dcace5d8d",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Terremoto de 7.4 en Colombia ocasiona 329 muertes y miles de heridos. Continúa el balance de víctimas en el desastre.",
+   "historia": "terremoto-colombia"
+  },
+  "4e91d58b236043ba5bc1a103b63d22146a8785ef": {
+   "id": "4e91d58b236043ba5bc1a103b63d22146a8785ef",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exreina-honduras-asesinato"
+  },
+  "c4b566624b77ed48b9432519eda089ae302f8118": {
+   "id": "c4b566624b77ed48b9432519eda089ae302f8118",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Israel continúa operaciones militares en el sur del Líbano. Los ataques forman parte de la escalada de conflicto en la región.",
+   "historia": "israel-libano-ataques"
+  },
+  "107ec529d0a97d14e2e7c326db8837524ef58470": {
+   "id": "107ec529d0a97d14e2e7c326db8837524ef58470",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "guerra-mvp-deporte"
+  },
+  "41e2534b89ebef967c9b2fcae9aeb6f76b81a188": {
+   "id": "41e2534b89ebef967c9b2fcae9aeb6f76b81a188",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Trump intensifica aranceles contra Canadá. El conflicto comercial entre Estados Unidos y su vecino del norte escala con nuevas medidas.",
+   "historia": "trump-aranceles-canada"
+  },
+  "a00a2e10f3a42d362b3a8e7b5b223d362dec5b00": {
+   "id": "a00a2e10f3a42d362b3a8e7b5b223d362dec5b00",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caso-beller-ataque-colombia"
+  },
+  "31300605bf2db684349e9b6ff85ab7c967cb1475": {
+   "id": "31300605bf2db684349e9b6ff85ab7c967cb1475",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Israel abre licitación para nuevas viviendas ilegales en Cisjordania ocupada. La construcción de asentamientos continúa en territorio disputado.",
+   "historia": "israel-asentamientos-cisjordania"
+  },
+  "0a46691bf4bc9f1e7d31247ca3470a544f2048ce": {
+   "id": "0a46691bf4bc9f1e7d31247ca3470a544f2048ce",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "botas-verdes-escalador-everest"
+  },
+  "529f49adf3466d1627f7e76ab825ab6f58a46bd5": {
+   "id": "529f49adf3466d1627f7e76ab825ab6f58a46bd5",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Terremoto en Colombia ocasiona 329 muertes y más de 4600 heridos. Continúa en aumento el reporte de víctimas del desastre.",
+   "historia": "terremoto-colombia"
+  },
+  "4788ef5499f8011542f71e83e59931967a18d9cb": {
+   "id": "4788ef5499f8011542f71e83e59931967a18d9cb",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "ataque-valle-santiago"
+  },
+  "2627630a6ebd896c894880b2c96f848cec0d1e69": {
+   "id": "2627630a6ebd896c894880b2c96f848cec0d1e69",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-siria-ataque-dron"
+  },
+  "b630232dbb46ae1634c848139bdf5f96da75ba7e": {
+   "id": "b630232dbb46ae1634c848139bdf5f96da75ba7e",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "terremoto-colombia-ayuda"
+  },
+  "5554edd1f2ae00e4236a57967067939aab493f2a": {
+   "id": "5554edd1f2ae00e4236a57967067939aab493f2a",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Conflicto en Sudán desplaza más de 200,000 personas en región de Kordofan desde finales del año anterior. Crisis humanitaria se intensifica.",
+   "historia": "sudan-desplazados-kordofan"
+  },
+  "658c173fa03b92f1083ab2ec323afa60fe18ac8a": {
+   "id": "658c173fa03b92f1083ab2ec323afa60fe18ac8a",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Ataque aéreo israelí en Deir el-Balah mata al menos una persona e hiere a otras. Continúan operaciones en Gaza.",
+   "historia": "israel-gaza-ataques"
+  },
+  "61c37497b68ebe253f2a130c1fdf13b18a96efe9": {
+   "id": "61c37497b68ebe253f2a130c1fdf13b18a96efe9",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Putin amenaza a Ucrania con ataques a sectores económicos \"más vulnerables\" mientras rechaza propuestas de paz. Rusia mantiene escalada bélica.",
+   "historia": "putin-ucrania-amenazas"
+  },
+  "f82a68db90b6b8428f4fcfd3430470eaa07fda2b": {
+   "id": "f82a68db90b6b8428f4fcfd3430470eaa07fda2b",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Terremoto en Indonesia deja 87 muertes y desplaza a más de 150,000 personas una semana después del sismo. Continúa crisis humanitaria.",
+   "historia": "terremoto-indonesia"
+  },
+  "04126d7f79ebc55c3668b5180f23a9799496bd58": {
+   "id": "04126d7f79ebc55c3668b5180f23a9799496bd58",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-siria-aviso-usa"
+  },
+  "3c0ed14b6bd9d0b142f0d8ddf148eb07f2781df7": {
+   "id": "3c0ed14b6bd9d0b142f0d8ddf148eb07f2781df7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sanciones estadounidenses contra Irán afectan economía iraní con desempleo y encarecimiento de alimentos y medicinas. Crisis económica golpea a civiles.",
+   "historia": "iran-sanciones-economia"
+  },
+  "0377488348c6a656b9a8a3227577c86b5322b968": {
+   "id": "0377488348c6a656b9a8a3227577c86b5322b968",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Canadá bajo mando de Carney contraatacará aranceles estadounidenses \"dólar por dólar\". Represalia comercial ante medidas de Trump.",
+   "historia": "canada-carney-aranceles-represalia"
+  },
+  "0f09d74c224f1080f1d2fe210115a647c21e7009": {
+   "id": "0f09d74c224f1080f1d2fe210115a647c21e7009",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "terremoto-colombia-analisis"
+  },
+  "376bea4d3c30e1f7045c09af88fad729f4da2eb8": {
+   "id": "376bea4d3c30e1f7045c09af88fad729f4da2eb8",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alfredo-olivas-ataque-primo"
+  },
+  "116a9d763f28eb029a212f0858040a78f4856312": {
+   "id": "116a9d763f28eb029a212f0858040a78f4856312",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Carney anuncia represalias comerciales canadienses contra aranceles del 50% de Trump. Canadá responde con medidas propias al conflicto arancelario.",
+   "historia": "canada-carney-aranceles-represalia"
+  },
+  "7babacf796ab9ea38fa1b0187fc248b6521db98b": {
+   "id": "7babacf796ab9ea38fa1b0187fc248b6521db98b",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marruecos-ceuta-migrantes-cadaveres"
+  },
+  "68f82d7207f71f85c2e617cee168a5476aedf59f": {
+   "id": "68f82d7207f71f85c2e617cee168a5476aedf59f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Indonesia reporta 87 muertes y 150,000 desplazados una semana después del terremoto. Crisis humanitaria continúa en la región.",
+   "historia": "terremoto-indonesia"
+  },
+  "530fd8436b48a6461e44d40cb7fad6c93a6274ea": {
+   "id": "530fd8436b48a6461e44d40cb7fad6c93a6274ea",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-ormuz-petroleo-irak"
+  },
+  "68f9a319fbc8f4d99d7d1d5c0a7b442e26c0ebf9": {
+   "id": "68f9a319fbc8f4d99d7d1d5c0a7b442e26c0ebf9",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Canadá aplicará aranceles de represalia contra EE.UU. a partir del 8 de septiembre, en respuesta a los aranceles del 50% impuestos por Washington a bienes canadienses por valor de casi $20 mil millones.",
+   "historia": "guerra-comercial-eeuu-canada"
+  },
+  "424937c4bb4141e0a837393c00cd0109b11b519c": {
+   "id": "424937c4bb4141e0a837393c00cd0109b11b519c",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Colombia enfrenta incendios forestales en Tolima mientras responde a la emergencia por terremoto, complicando las operaciones de rescate y atención de damnificados.",
+   "historia": "emergencia-incendios-colombia-tolima"
+  },
+  "8c3b25d1541307e654e65f22fab71ea7c9f3c34c": {
+   "id": "8c3b25d1541307e654e65f22fab71ea7c9f3c34c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Escalada de guerra comercial entre EE.UU. y Canadá con nuevas rondas de aranceles. Ambos países se culpan mutuamente del colapso de negociaciones.",
+   "historia": "guerra-comercial-eeuu-canada"
+  },
+  "ebdbcaa89dd58dd484f0c5c00af03e93a77a631f": {
+   "id": "ebdbcaa89dd58dd484f0c5c00af03e93a77a631f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ataque-armado-nigeria"
+  },
+  "6bc770f86b2f86b2c8f9f8d70522809991ece8f4": {
+   "id": "6bc770f86b2f86b2c8f9f8d70522809991ece8f4",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "recibimiento-gonzalez-futbolista"
+  },
+  "57ccf7a9c6f25baae15c63adb22c1edbdccc3fe8": {
+   "id": "57ccf7a9c6f25baae15c63adb22c1edbdccc3fe8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "guerra-comercial-eeuu-canada"
+  },
+  "84ab3ebd157cc2043b0babe82d2e059e74eaf8b5": {
+   "id": "84ab3ebd157cc2043b0babe82d2e059e74eaf8b5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "accidente-vehicular-uk-policia"
+  },
+  "540d84c5fbf3c5ea8aa7af1e1565fab47a73ba53": {
+   "id": "540d84c5fbf3c5ea8aa7af1e1565fab47a73ba53",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nvidia notifica a clientes sobre aumentos de precios superiores al 15% en sistemas de IA a partir de inicios de 2027, afectando productos como Vera Rubin y Grace Blackwell.",
+   "historia": "nvidia-aumentos-precios-ia"
+  },
+  "d4347c8a03193994b3be1a6330248b495e4f44bb": {
+   "id": "d4347c8a03193994b3be1a6330248b495e4f44bb",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Inherent, laboratorio británico fundado por exalumnos de DeepMind con $50 millones en financiamiento semilla, anuncia que su agente Faraday supera a GPT-5.5 en reproducción de hallazgos de papers científicos.",
+   "historia": "inherent-faraday-ia-investigacion"
+  },
+  "07b02f3df7dc29b5262f82048fc7b59f0cb149f9": {
+   "id": "07b02f3df7dc29b5262f82048fc7b59f0cb149f9",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "da72ea69d961b8b5994b97047b7ad2012a701c0e": {
+   "id": "da72ea69d961b8b5994b97047b7ad2012a701c0e",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "papa-alerta-inteligencia-artificial"
+  },
+  "6146a8f9e5210b24c44b9210627b6eaf8c31550a": {
+   "id": "6146a8f9e5210b24c44b9210627b6eaf8c31550a",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Grandes clientes de Nvidia fueron informados de aumentos de precios superiores al 15% en sistemas como Vera Rubin y Grace Blackwell a partir de inicios de 2027.",
+   "historia": "nvidia-aumentos-precios-ia"
+  },
+  "6b5fb3ad2a07ab6225bc0f89742dab39d74d2b56": {
+   "id": "6b5fb3ad2a07ab6225bc0f89742dab39d74d2b56",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Inherent, fundada por exalumnos de DeepMind, lanza Faraday, un agente de IA que supera a modelos de Anthropic y OpenAI en capacidad de replicar papers científicos.",
+   "historia": "inherent-faraday-ia-investigacion"
+  },
+  "8a70f549b2f79797f9b3a11732ade09d0794bc6b": {
+   "id": "8a70f549b2f79797f9b3a11732ade09d0794bc6b",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "retail-ia-probadores-virtuales"
+  },
+  "d57570ca2eb024760a79b13fe86dd844fe375305": {
+   "id": "d57570ca2eb024760a79b13fe86dd844fe375305",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-piel-humana-viva"
+  },
+  "b82073bf94a2d4b56295e995ff71ca93e2ea39a5": {
+   "id": "b82073bf94a2d4b56295e995ff71ca93e2ea39a5",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "DeepSeek presenta una IA capaz de interpretar imágenes con capacidades similares a Claude, mostrando avances en modelos de visión multimodal de empresas chinas.",
+   "historia": "deepseek-ia-vision-multimodal"
+  },
+  "5f26893505d83a534ea80210763ac07cb4444834": {
+   "id": "5f26893505d83a534ea80210763ac07cb4444834",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La brecha en IA entre EE.UU. y China se estrecha: liberaciones de modelos chinos de bajo costo están atrayendo creciente interés empresarial a nivel global.",
+   "historia": "ia-brecha-eeuu-china"
+  },
+  "7d9885243bd51f8739697b66b38e5b7de32bbcf9": {
+   "id": "7d9885243bd51f8739697b66b38e5b7de32bbcf9",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "openai-regulacion-ia-california"
+  },
+  "8ad1e8a1416b40b2560e27ffe1afd2404568470c": {
+   "id": "8ad1e8a1416b40b2560e27ffe1afd2404568470c",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6f1df3d226c6a2c4d45c64b26ad24c00f0753556": {
+   "id": "6f1df3d226c6a2c4d45c64b26ad24c00f0753556",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Trabajadores con conocimientos en IA ganan hasta 62% más que sus pares, según estudio que documenta transformación acelerada del mercado laboral tecnológico.",
+   "historia": "ia-impacto-mercado-laboral-salarios"
+  },
+  "67531b57ba040b9d071f2307ab07f86b8d700486": {
+   "id": "67531b57ba040b9d071f2307ab07f86b8d700486",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mercado-empleo-ia-argentina"
+  },
+  "19a33dc7fd930fe2d8ccfb3b8e664fe74647aaa0": {
+   "id": "19a33dc7fd930fe2d8ccfb3b8e664fe74647aaa0",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "be8a049d48a8440ea1c8b0777f6500acf242e374": {
+   "id": "be8a049d48a8440ea1c8b0777f6500acf242e374",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exposicion-luis-ituarte-galeria-mariposa"
+  },
+  "94c4cdaaa09ed52e0713decb8c440c6cedd4078e": {
+   "id": "94c4cdaaa09ed52e0713decb8c440c6cedd4078e",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "homologacion-tramites-canaco-burocracia"
+  },
+  "cdf730b9e3ae89cbe9656d90953366e9597157da": {
+   "id": "cdf730b9e3ae89cbe9656d90953366e9597157da",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "erik-lira-cruz-azul"
+  },
+  "9eaa8c6ac33f2652ef2b861af23e338cb36c16f6": {
+   "id": "9eaa8c6ac33f2652ef2b861af23e338cb36c16f6",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum se pronunció tras el regreso de Rocha Moya reafirmando que ningún interés personal debe estar por encima del pueblo, en referencia al funcionario que retomó su cargo.",
+   "historia": "regreso-rocha-moya-sheinbaum"
+  },
+  "1fa3d82c4555800c1927d0e696acc393ab34021f": {
+   "id": "1fa3d82c4555800c1927d0e696acc393ab34021f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mayo-detencion-guacho-vuelo-eu"
+  },
+  "724f27277c4936b0f6f21ba001528d85164a1449": {
+   "id": "724f27277c4936b0f6f21ba001528d85164a1449",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c37a2b8d931ab3b3dea1d90887ada2f3ac04cfaa": {
+   "id": "c37a2b8d931ab3b3dea1d90887ada2f3ac04cfaa",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "gusano-barrenador-angostura-cerco-sanitario"
+  },
+  "ac64b1cb18d77b0854cc65e64b3c3cac0aeff168": {
+   "id": "ac64b1cb18d77b0854cc65e64b3c3cac0aeff168",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "octavio-haro-desaparecido-encontrado-zapopan"
+  },
+  "aa42a8889b701c68bb97043a1212a751d121da1a": {
+   "id": "aa42a8889b701c68bb97043a1212a751d121da1a",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "658d4b22131d00f06d6b2e5effb1870b0d50bd3f": {
+   "id": "658d4b22131d00f06d6b2e5effb1870b0d50bd3f",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "23d64208891704b3ddeaa2714ef845bb12772cea": {
+   "id": "23d64208891704b3ddeaa2714ef845bb12772cea",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "3da5d36ff06dae95a7bc1ebf1316b8f3948736c9": {
+   "id": "3da5d36ff06dae95a7bc1ebf1316b8f3948736c9",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "checo-perez-gp-paises-bajos"
+  },
+  "5616ff3b609f299c1951acec4a76c77c67aac320": {
+   "id": "5616ff3b609f299c1951acec4a76c77c67aac320",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "robo-cajero-monterrey-detenido"
+  },
+  "4d766884a74de9ed94c3dab9bd49f1cf08b4b3ba": {
+   "id": "4d766884a74de9ed94c3dab9bd49f1cf08b4b3ba",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "enfrentamiento-ladrones-policia-matanza"
+  },
+  "fbcdf95a8900120c3fe1b151f9280482b1397e38": {
+   "id": "fbcdf95a8900120c3fe1b151f9280482b1397e38",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Un terremoto en Colombia ha dejado 329 muertes y 247 personas desaparecidas, según reportes de organizaciones de rescate y autoridades.",
+   "historia": "terremoto-colombia-2024"
+  },
+  "86a21b3adbdd236d096de23f991619c1d01d503d": {
+   "id": "86a21b3adbdd236d096de23f991619c1d01d503d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "palestinos-ataques-cisjordania-colonos"
+  },
+  "bcd8ad07c3baa63ffc12ee0ec18750f617cfd8d3": {
+   "id": "bcd8ad07c3baa63ffc12ee0ec18750f617cfd8d3",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "ab418490cc91133f8f787ca80b667f2e2c85509b": {
+   "id": "ab418490cc91133f8f787ca80b667f2e2c85509b",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-colombia-ayuda-eeuu"
+  },
+  "06ceee6794880e32906cf06e02e99b69692079da": {
+   "id": "06ceee6794880e32906cf06e02e99b69692079da",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "iran-bloqueo-hormuz-sanciones"
+  },
+  "399e6c61933516a3b7263272a4989b5bfcd76100": {
+   "id": "399e6c61933516a3b7263272a4989b5bfcd76100",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "eeuu-canada-negociaciones-comerciales-aranceles"
+  },
+  "3bbe0c9d54092cf24d472ce29d187b173d7e7f11": {
+   "id": "3bbe0c9d54092cf24d472ce29d187b173d7e7f11",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ataque-policia-niger"
+  },
+  "050112b1628b24534651980ba37af4cb010fc941": {
+   "id": "050112b1628b24534651980ba37af4cb010fc941",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "usps-voto-correo-restricciones-trump"
+  },
+  "00770d162b65053fed382e804f1754cfb6f7c4a7": {
+   "id": "00770d162b65053fed382e804f1754cfb6f7c4a7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "china-flota-comercial-guerra"
+  },
+  "2e9b16dc5481c8b6bbb7f5208e19c7dfa6054bdf": {
+   "id": "2e9b16dc5481c8b6bbb7f5208e19c7dfa6054bdf",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "guerra-comercial-canada-eeuu"
+  },
+  "612e3a943ec41a9f3199fc65011d8d7a9cdcd31c": {
+   "id": "612e3a943ec41a9f3199fc65011d8d7a9cdcd31c",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hybe-bts-donacion-colombia-terremoto"
+  },
+  "938dd76aef9517f5ddefa114a41280fe71d009da": {
+   "id": "938dd76aef9517f5ddefa114a41280fe71d009da",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cali-reconstruccion-terremoto"
+  },
+  "98b2d3140a2886545d40cf0c829d970884e59015": {
+   "id": "98b2d3140a2886545d40cf0c829d970884e59015",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "harry-meghan-regreso-reino-unido"
+  },
+  "b4ff7fa5f4ebe98ffb5e9703442fc8075e3cc7a1": {
+   "id": "b4ff7fa5f4ebe98ffb5e9703442fc8075e3cc7a1",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "nancy-kassebaum-baker-fallecimiento"
+  },
+  "f8f8537e93115abc27ff953f23db9c2b63bb14d6": {
+   "id": "f8f8537e93115abc27ff953f23db9c2b63bb14d6",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "siria-atentado-seguridad-interna-respuesta"
+  },
+  "7fec70b60a07b201038daae454e511b7c2872b65": {
+   "id": "7fec70b60a07b201038daae454e511b7c2872b65",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "John Ternus asume como CEO de Apple enfrentando desafíos en IA, aranceles comerciales, cadena de suministro y disputas legales con OpenAI heredadas de Tim Cook.",
+   "historia": "john-ternus-ceo-apple-tim-cook"
   }
  }
 }
