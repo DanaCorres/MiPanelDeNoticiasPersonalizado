@@ -1,7 +1,7 @@
 {
- "generado": "2026-09-02T00:57:03.679400-06:00",
+ "generado": "2026-09-02T04:24:37.166208-06:00",
  "desde": "2026-09-02T00:00:00-06:00",
- "total": 68,
+ "total": 110,
  "secciones": {
   "nacional": {
    "titulo": "Nacional",
@@ -9,94 +9,49 @@
    "grupos": {
     "politica": {
      "titulo": "Política",
-     "articulos": [
-      {
-       "id": "6f69f6f21612878f7a1c2a385f01895b565b259d",
-       "titulo": "Una contradicción constitucional pone en vilo la presidencia de la ministra Lenia Batres",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV1RiSXpqMU85YWJsbGQyVnZydV9RbkdpU3BIcEtIWUhFV3ZIVDk3VkY2cVR5VXE4enFpLVhzcGZyN1BJLXpFanpScXFpWkxzdGw1Rk8wTm5vWWdiMEhBeVpqVmRwLTJJQ1BVM2ZycnJ2WkFDeWlKVTFnY243Ym42RkQteXVuRmphSS1nUjNrcUx3amNNd0NSWXNBY28wTENZa2dvbEVpME9KOWpqNVEzOHZwMk54ampVQmR1cHF2cHRXdE11OE5BaDdVZDZuQlBuYWtwZUJNSVJ2VDZxRWZXeA?oc=5",
-       "fuente": "Proceso · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:00:00+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "9e479c2578c69ef332cebabbe7530df3efe9fa55",
-       "titulo": "¿Qué pasó afuera de Palacio Nacional? Todo por el Informe de Sheinbaum",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOal9MVjhXMlhMamxtc1JzZm5OMU4xMFlfQ2lFX2wzTGNfdUpEcU13Uk5QMGpKWW92VDJvcEFMRC0yZGtaYmlsblM4ZlNNM1JIR2I4Mzc5QVUyal84aHFGT241QTd5Y0ZjR3ZCYk8xV2lRMjJvRFJNZzh4MjE2eTBDNW9iMC1pdFM5amFTSV8ySEpyTTEybWF3MHcyWC1XbXRVQUE?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:47:24+00:00",
-       "desplazada": false
-      }
-     ]
+     "articulos": []
     },
     "seguridad": {
      "titulo": "Seguridad",
-     "articulos": [
-      {
-       "id": "d02332d306b94efd5da331ecb6bcb2a7a3224086",
-       "titulo": "CJNG coloca narcomensajes y hieleras; advierte a policías de Tecate",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX1VoVmswUGVVdU5jeXBsZlVhT293V2pGWU14blhCQl9iX0dwRmJ0RDl3aEM4NzNpQXhXU2dzR3RsNHpobDNZVnhLMHpuMGJsT1F5VVVqZXFvM0xaOWlsaTVhUHprMkpFUVB5TTE5VlE3SUxNYlU3RzMtZFF0QnRYY2xtall3VHdBRWV4aEZYbkxSN0dKb2FOaUdPR3dCQmZ4?oc=5",
-       "fuente": "Semanario ZETA · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:34:16+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "04c15e99007bf4e9b08374019157f39327beb1b1",
-       "titulo": "Detención arbitraria en Colima: familia lucha por liberar",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFoyVWoyZWROaFdpVGZ4aFBZMjJFVWZBWDFmRHE1U29vamV0QUN1bGlNclJaNjNmcHUtU19xdTBiaERHZFdfSFJVTmN1OGF6R2VvRGc4NkxQV2hPWFhQMzVCWHJXRWh4elFBQlZFbG1rTDVrNHFFYnJVU3dsX2cyLXVtQW9WSDRuWXF0Y1BjWUN6ZjhLajMxTUg3eFhXbFVZcm1GOVpUdkQ2dmvSAasBQVVfeXFMUFdNWEk4UEZaV3J4RnowM3FkYW0wdHB5MDl6Q19PSi1Icko4cUtNV2JzanVPdDgxM0NpLXdXRGo2YWZwNXZObWFub19QaDZSTVYzeHZoWHhRcnFDQU5ocC10LTFqV3hET080a19sVGNEMjI5TnBya2hKVXJkamtVVHhYXzc4cFJLaUpMWG1TaGFHNms2TlBPeF9hOXVHdEg5aXN5V2MtNnA1Njdr?oc=5",
-       "fuente": "milenio.com · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:33:51+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "03cd61390915f28ef01947dab005d82b1929a2cf",
-       "titulo": "Golpean a periodista Alberto Madero frente a policía en Rosarito",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcjJPcHVKY1lHTjcxblFhTzRpSmVRSGd5LXE4Ulk4X3d0RndxVXVvNUp2Q3hXanBldndnVUVDaVUtQnhsNGk3R0dfdi1PMXBMU3VCejN6TFVqSmN3Zkxhd1dHQjRBYjZnV1BId3g2V3ZxMkN3aGZfWnYwejVEZkNFaGxBMHU4ODBGQWNqa3pudVFmUWZQczhFV1pDd3VVWkZkb0t3RnRWbDhZU2FqR01MbTVKXy1jTl9WWERSTXh5WdIBvwFBVV95cUxPZm80WFRSRW1FaGp2N0dGY0prQ2hRYmtKZEEzY3F5MEV1VTZWX0dvWExzWlVYX19WQnNrT3ROTTlGdjdyZk4wcHpIcGlYamcwaXZvTTAwSEZtZ3lrRFpJZ3RhemZUWWQza18zY3VSMURLZ09mVzduSEVybmtfZEs3cWx1Z3FhaW81RllUWkNoTTVQRDVDXzYwWHB0WHZhWnZkeWxrRXMxMEV0VGM1YkpibG5qNm4yS29MbVFXYWctQQ?oc=5",
-       "fuente": "milenio.com · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:21:44+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "1babbb42256c0bbfae1bafff65a99e53cc754787",
-       "titulo": "Ciudadano estadunidense permanece preso en México acusado de “huachicoleo”; familia denuncia detención arbitra",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQVjR4MTFJbFA5N0dHOWNwVHBLdFBnalRNMEdDLUdsQlctbm9FaURHcGlhWk5udmg0a3p0ZjFicFlnYlc1QmxXU3hhQmw0UXhjem12Y2VWQ0Rhc0NRbnVtMmNsSmFsclN4SE9PRWxhV1lubFRBVFZCb0J3aTlBSVV3NGlCbFdHaVlId0FhWUlGUXM3N2ZMeEpydlVlakY2MGc4SUpn0gGjAUFVX3lxTE5uc3Q4RHFfOU40a09iamdoVWUxeE9UTEpvdU45RkF4VDM4NFE0Ym9FLV9YWDltV1dzd3E5bmV6U2hJUWFaZHNtQUJ0YXU4YUZOT0VlZ0tMbk9waEpMOTQyMEJwY0F0bVl3ZkNGcFBTQlAwbHNaSXJ1aDlSLURiRFlyTkpIMXZOSHRYbGhyYnpYWFZJdW5zemZOS1hMRnBOZG5Yb1E?oc=5",
-       "fuente": "milenio.com · vía Google",
-       "peso": 3,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:14:00+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "33036d9d75caa4e64b3dd0208b2c0000f4ef943c",
-       "titulo": "La Policía israelí detiene a tres colonos por \"violencia extremista\" contra palestinos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmxZZWtQdzBIYk5UZ0xBRVJNeWZqOXhsYXZldXJrVm92ZFdNTTdITzNEQjBGUllXNW1kUWtCNGhfOXczczNCc2p0RFVnTGJuS25ycW5yWDhQd184WnFYeFAyNGhpNjA5MTFGQ3B2SnlXWEVHbm1fZWhEQWtwUVFSYmNGd19FZ3ZxS1lYSlBsaW1Ja280RG14V2VQdXlnM3RybVhsLUEweS03LTJfUEk0Y0djOTVDXzBBd21ZYWZ3cWdUa0pua3NBVndWRWlJQ2RSOGQw0gHuAUFVX3lxTE1KT29CbU5GV0NpTlB3ckU1YTRjT25jcTNjZmdJc2lJejl0RExWYlhjaUZ0TERNN09XQ2JnRnpTYjVONVFfbURUc0o0ODdPcnZET3pvZnlUTjZlQjRTMFVHR3F2a1ViakE2ZVF5VGkxelU2cVphQU5CZkZZbDlvZS1ZWUY1aUpEUzNhZzlYUkJPOG9xUUxjQ0NsN3VhYzZNM2hqUEV1VklhbUpyTTdVenlILUN2ZFMxZ2xRdUFjYlFSdUs5R3hpb3ZMVUxYRDJ5dEx0VU56WHp3WFpta1pxWVdOQUJsZU9RUmtoSy1wYmc?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "nacional",
-       "fecha": "2026-09-02T06:23:25+00:00",
-       "desplazada": false
-      }
-     ]
+     "articulos": []
     },
     "economia": {
      "titulo": "Economía",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "2939ddd67437adec2c594a504a97266c1d0c92f7",
+       "titulo": "Claudia Sheinbaum promete Paquete Económico 2027 ‘responsable’ y menor déficit",
+       "resumen": "En su Segundo Informe de Gobierno, Sheinbaum señaló que no se frenará la inversión ni el gasto social.",
+       "url": "https://www.elfinanciero.com.mx/economia/2026/09/02/claudia-sheinbaum-promete-paquete-economico-2027-responsable-y-menor-deficit/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T08:07:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "6e201aa47a741922ec7f1343cb9edf89ef118f06",
+       "titulo": "IA dispara precios de consolas de videojuegos y agudiza escasez de chips para la industria",
+       "resumen": "En los últimos 12 meses, el costo promedio de los videojuegos y otros equipos aumentó 11 por ciento.",
+       "url": "https://www.elfinanciero.com.mx/empresas/2026/09/02/ia-dispara-precios-de-consolas-de-videojuegos-y-agudiza-escasez-de-chips-para-la-industria/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T08:06:58+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "6ca2adec237d7476dacb79e80ebe8d7cd71139d6",
+       "titulo": "La regularización atenúa la pérdida de empleos en agosto con 162.800 puestos menos, pero acelera el paro",
+       "resumen": "La destrucción de trabajo del octavo mes es la menor de los últimos años mientras el desempleo crece en 44.400 personas, el doble que en 2025",
+       "url": "https://elpais.com/economia/2026-09-02/la-regularizacion-atenua-la-perdida-de-empleos-en-agosto-con-162000-puestos-menos-pero-acelera-el-paro.html",
+       "fuente": "El País — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T07:00:06+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "cdmx": {
      "titulo": "CDMX",
@@ -109,14 +64,81 @@
        "fuente": "El Financiero",
        "peso": 3,
        "seccion": "nacional",
-       "fecha": "2026-09-02T06:51:43+00:00",
+       "fecha": "2026-09-02T07:02:35+00:00",
        "desplazada": false
       }
      ]
     },
     "opinion": {
      "titulo": "Opinión",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "6b181677f1f64d625c4445c5f3bd49d0ceeffb08",
+       "titulo": "Cómo crecer, pero también distribuir",
+       "resumen": "En los primeros veinte meses del gobierno de Claudia Sheinbaum, con una economía que creció 0.8 por ciento en 2025, el salario real avanzó 9.3 por ciento: más del doble que en los arranques equivalentes de Calderón o Peña, y más…",
+       "url": "https://www.elfinanciero.com.mx/opinion/enrique-quintana/2026/09/02/como-crecer-pero-tambien-distribuir/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T10:14:55+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a938a6abb3e3408358248a5588deaf08f9bb5866",
+       "titulo": "México necesita una nueva reforma fiscal territorial",
+       "resumen": "Una reforma fiscal territorial permitiría fortalecer las finanzas de estados y municipios y financiar infraestructura para impulsar el desarrollo regional.",
+       "url": "https://www.elfinanciero.com.mx/opinion/clemente-ruiz-duran1/2026/09/02/mexico-necesita-una-nueva-reforma-fiscal-territorial/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T10:00:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c149461cac89a78850fc9362bdba1b1572b77b52",
+       "titulo": "El ‘estrés crónico’ en las finanzas públicas",
+       "resumen": "Entre enero y julio pasados, los ingresos presupuestarios del sector público ascendieron a cuatro billones 996 mil millones de pesos, pero fueron inferiores en 170 mil millones de pesos a lo previsto en la Ley de Ingresos de la…",
+       "url": "https://www.elfinanciero.com.mx/opinion/victor-piz/2026/09/02/el-estres-cronico-en-las-finanzas-publicas/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T09:59:13+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e34bafa3e8c3498c020f151f23f7507f8ccbdee2",
+       "titulo": "México está salvando su pasado a costa de su futuro",
+       "resumen": "México podría impulsar su economía con IA aplicada a la manufactura, mientras el gasto en Pemex presiona las finanzas públicas.",
+       "url": "https://www.elfinanciero.com.mx/opinion/leon-palafox1/2026/09/02/mexico-esta-salvando-su-pasado-a-costa-de-su-futuro/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "69e1cc82a8309a65a290b46a161fb32009e92f9d",
+       "titulo": "La moda en 2026: inteligencia artificial, lujo circular y el regreso de lo único",
+       "resumen": "La moda en 2026 apuesta por IA, lujo circular, bienestar, artesanía y experiencias para conectar con consumidores que buscan autenticidad.",
+       "url": "https://www.elfinanciero.com.mx/opinion/andrea-lobato/2026/09/02/la-moda-en-2026-inteligencia-artificial-lujo-circular-y-el-regreso-de-lo-unico/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T09:00:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5e1137b1be26e95e9825ba867aebf709bc324a08",
+       "titulo": "Denuncia y advertencia",
+       "resumen": "La reforma judicial constitucional estableció un nuevo diseño para el Poder Judicial y fijó las bases conforme a las cuales deben ejercerse y renovarse sus órganos de dirección.",
+       "url": "https://www.elfinanciero.com.mx/opinion/lourdes-mendoza/2026/09/02/denuncia-y-advertencia/",
+       "fuente": "El Financiero",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-09-02T07:36:00+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "tecnologia": {
      "titulo": "Tecnología",
@@ -135,6 +157,50 @@
     "otros": {
      "titulo": "Otros medios",
      "articulos": [
+      {
+       "id": "231b371b090b90e0ac0eec7ea4fb772715b0f983",
+       "titulo": "Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M (Samantha Kelly/Bloomberg)",
+       "resumen": "Samantha Kelly / Bloomberg : Robotics and AI startup Lyte, founded by ex-Face ID engineers, raised $165M led by Maverick Silicon at a $1.6B valuation, taking its total funding to $272M — Lyte, a fast-growing robotics and…",
+       "url": "https://www.techmeme.com/260902/p10",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-09-02T10:15:15+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "16d5314dd934c217c2ef24be68cf0dc99e361cc4",
+       "titulo": "Pangram Has Emerged as the Gold Standard of AI Detection. Should You Trust It?",
+       "resumen": "Meet the AI police who can make or break careers—in publishing and beyond.",
+       "url": "https://www.wired.com/story/pangram-has-emerged-as-the-gold-standard-of-ai-detection/",
+       "fuente": "Wired — IA",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-09-02T10:00:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "675e0959d4385a09a814410c0cc3e2e7167cc6db",
+       "titulo": "A look at Kioxia's expansion in Japan's Kitakami, which helped stall the city's demographic decline and is a test of Japan's $640B AI and chips investment plan (Bloomberg)",
+       "resumen": "Bloomberg : A look at Kioxia's expansion in Japan's Kitakami, which helped stall the city's demographic decline and is a test of Japan's $640B AI and chips investment plan — Japan is betting $640 billion on AI and chips. But this…",
+       "url": "https://www.techmeme.com/260902/p7",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-09-02T08:10:02+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "f7744f0eb40cb23c8502cee870d452e376e9e970",
+       "titulo": "OpenAI launches a ChatGPT Health integration with Epic's EHR system and a new Healthcare Public Data plug-in that can fetch info from sources including PubMed (Ivan Mehta/TechCrunch)",
+       "resumen": "Ivan Mehta / TechCrunch : OpenAI launches a ChatGPT Health integration with Epic's EHR system and a new Healthcare Public Data plug-in that can fetch info from sources including PubMed — OpenAI said today that it is integrating…",
+       "url": "https://www.techmeme.com/260902/p6",
+       "fuente": "Techmeme",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-09-02T07:55:00+00:00",
+       "desplazada": false
+      },
       {
        "id": "66dab534354a1d5d12af0a5d45326a6a58cbbce0",
        "titulo": "Q&A with METR researcher Ajeya Cotra on investigating the OpenAI-Hugging Face incident, AI agents involved in the hack deciding not to notify humans, and more (Dwarkesh Patel/Dwarkesh Podcast)",
@@ -189,17 +255,6 @@
        "seccion": "ia",
        "fecha": "2026-09-02T06:00:00+00:00",
        "desplazada": false
-      },
-      {
-       "id": "48957d86bbaf47168a67d76b6b9c507317d1709c",
-       "titulo": "OpenAI frena su nueva IA: Astra es capaz de encontrar vulnerabilidades y explotarlas sin ayuda humana",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNMUdoczFIM2NCRktFRzNyUzItT080bXV3ZG1oaC1IWDVOSkZaS1lyUGxMaVVVaTZzdE5MWUVxVm9XMlhrZk9pNHZzckJPdFVGS0FKSUFLRGppOFZad0tJZHoyeXBDdlI2Nko0b2lUanBVMmlmLXRxNzVsV0VKeUtkb0JvM0FkbHdsY1d0dmwyWEc0ODRCUjI1SjZzN2E3WmMycTJFZTBaSUdhS3NFeEo3YXBBRVNWVXhXcjduM28xR0pEeVdjd1JmaDlvX0VKOTNGOGdPclZSb2dVZVptenl0WS1ZRXg1ek5PSGZzNTltbDlfWUlCU2V0VTVaWQ?oc=5",
-       "fuente": "20Minutos · vía Google",
-       "peso": 2,
-       "seccion": "ia",
-       "fecha": "2026-09-02T06:27:32+00:00",
-       "desplazada": false
       }
      ]
     }
@@ -213,38 +268,26 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
-       "id": "2f0b50ea164b8834586bcc33d5df80e8db88ad4c",
-       "titulo": "Estos son los departamentos en los que ha habido más mordeduras de serpientes en 2026",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNay1XbFhTdUxLakpHRDgzQzR1VXZJclgtczhRX2ZrZGZLbVlxU01HWldUS1BaRDcxbWZjLVl2UWZtS0FMVDBpMU4ySXN5dmVwZFpzRjdqN3JSVm13NHRpbWQ3MFlVc2VXdmZfSjM0bVZCRWJld3hCMjk3TFk2Qmd6a0lkYTdZYndQeEVEdHBCQkRhTjZqS0d5b0VmaHczZUVGRFJWVnpiNTVnN3MtMzgwLWhRRWlQLW5NR2VvN3Vn0gHSAUFVX3lxTE9Fak5lWXlMdkNYWENTLWcxWGhUbHduTkVzT2tsakhyN1JPNGh1Slo5dWlOY2F3RUcwRHlKLU56NHM4MFV3YzdaZlI3UTRqdmxBZUZxQzNVMUlsa09Sc3hZSHkyekViblR4RXhwck5ZTnkwREk0TUN1eGhCOGJSQ24zMzJIRjlYRTVvc042dEJFNTJkZjE2ZDhfNmdPbGpmeTlGLUc1MFdUdVlhYVRjaDJTUHg0OXlIamhmNTJOYVcwRWpNaHVaQW1NZHBTY0N4ZGhRUQ?oc=5",
-       "fuente": "El Espectador · vía Google",
+       "id": "74eb806114fe2c9d62dd1eb9eb3e5f40ac88534c",
+       "titulo": "Golpe al Clan del Golfo en Antioquia: el Ejército capturó a alias 80, incautó armas y explosivos y desmanteló una central de comunicaciones",
+       "resumen": "Durante la operación en Zaragoza se decomisaron granadas para drones, explosivos y 70 supuestos uniformes de la Policía.",
+       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/golpe-al-clan-del-golfo-en-antioquia-el-ejercito-capturo-a-alias-80-incauto-armas-y-explosivos-y-desmantelo-una-central-de-comunicaciones-3582864",
+       "fuente": "El Tiempo — Política",
        "peso": 3,
        "seccion": "colombia",
-       "fecha": "2026-09-02T06:12:39+00:00",
+       "fecha": "2026-09-02T09:35:18+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "77aee9ff829c05317afff6072f22fb89ce967483",
-       "titulo": "Caracol TV saca a Camila Zuluaga justo cuando el gobierno bloquea voces incómodas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUGYyaFk0QW1Ba21LWUVSSzQ4SEtxWjdKTjFHYlpYN19VczRKTlhrdTFyalRET2NLaGxPOHg4NUV1RlB3Z3EzemE1c0M2NW0tN1Rjd2tQSEpvMkhpQy11bi1QOVZHa3lRd2VfWjkyNTNtMmx1QmhCV2hmV2xzSXlSUGUzS2Q3c3FmRC0tNTBwd0JsVGZKY2QtNkIyU3pZTEZDX1EzVi1NREgwWWlmZi14WFo1SHFOOWxDcGp1X05PV2JnRFdR?oc=5",
-       "fuente": "La Silla Vacía · vía Google",
+       "id": "e4899cfc797bd242e90fde09cac802717aa476af",
+       "titulo": "Presidente Abelardo De La Espriella afirmó que el Ejército Nacional frustró un posible atentado del Eln en Cúcuta: 'Los vamos a perseguir y combatir'",
+       "resumen": "Las autoridades neutralizaron un vehículo cargado con explosivos abandonado en Agua Clara.",
+       "url": "https://www.eltiempo.com/politica/abelardo-de-la-espriella/presidente-abelardo-de-la-espriella-afirmo-que-el-ejercito-nacional-frustro-un-posible-atentado-del-eln-en-cucuta-los-vamos-a-perseguir-y-combatir-3582862",
+       "fuente": "El Tiempo — Política",
        "peso": 3,
        "seccion": "colombia",
-       "fecha": "2026-09-02T06:00:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "33036d9d75caa4e64b3dd0208b2c0000f4ef943c",
-       "titulo": "La Policía israelí detiene a tres colonos por \"violencia extremista\" contra palestinos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZmxZZWtQdzBIYk5UZ0xBRVJNeWZqOXhsYXZldXJrVm92ZFdNTTdITzNEQjBGUllXNW1kUWtCNGhfOXczczNCc2p0RFVnTGJuS25ycW5yWDhQd184WnFYeFAyNGhpNjA5MTFGQ3B2SnlXWEVHbm1fZWhEQWtwUVFSYmNGd19FZ3ZxS1lYSlBsaW1Ja280RG14V2VQdXlnM3RybVhsLUEweS03LTJfUEk0Y0djOTVDXzBBd21ZYWZ3cWdUa0pua3NBVndWRWlJQ2RSOGQw0gHuAUFVX3lxTE1KT29CbU5GV0NpTlB3ckU1YTRjT25jcTNjZmdJc2lJejl0RExWYlhjaUZ0TERNN09XQ2JnRnpTYjVONVFfbURUc0o0ODdPcnZET3pvZnlUTjZlQjRTMFVHR3F2a1ViakE2ZVF5VGkxelU2cVphQU5CZkZZbDlvZS1ZWUY1aUpEUzNhZzlYUkJPOG9xUUxjQ0NsN3VhYzZNM2hqUEV1VklhbUpyTTdVenlILUN2ZFMxZ2xRdUFjYlFSdUs5R3hpb3ZMVUxYRDJ5dEx0VU56WHp3WFpta1pxWVdOQUJsZU9RUmtoSy1wYmc?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "colombia",
-       "fecha": "2026-09-02T06:23:25+00:00",
+       "fecha": "2026-09-02T07:12:33+00:00",
        "prioridad": 2,
        "desplazada": false
       }
@@ -260,88 +303,160 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
-       "id": "37b6cbd87abc597eb38d5c8516cbb481c4db66c3",
-       "titulo": "Sismo de 4.3 de magnitud se registra en Chiapas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcnZKRjB3RVVqUmhXXzhadjZpVFdBZmtMTlVTSDNLakRyaEJnbjBLXzRpUkVNb2dMRnF5LVdBMks2bHI4RUhGZTRVYTJCWUVTMVF5bVJhUC1NbHFLUzVuLUpDeEVVZjJyUXlWQ0FnWTJ5QVoySXJmM0llVmNvNy1JOEFGN0luY1RVeGV0b2lwZ1dkazjSAa4BQVVfeXFMT2dzcVh3TFc0ZUlrOXlCRW9na0dJaE13SGhDT0VOU2dzbEdGSzRPQXZKNkhiNWZtbF90VUFYV29IS0hXQ1ZjdFNzcTk2d3RhUlFUa3dVT0dpVU5EZ1haWWZiTTI3TU1rZkhLUTBQcnVZVVJmTU5IeHF0ak1KWktqUDJPUFlrQzJfV2xHTzE1OTRuelF6UU10dDJLdUhZeXRTQ0dwaXQ5QVNNTW1wWkd3?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "0de5d6751ff8ede7b8bf1ede55647fc7bd729a84",
+       "titulo": "Aprendió el nombre de más de 1.000 juguetes y su dueño le escribió un libro: la historia de Chaser, \"la perra más inteligente del mundo\"",
+       "resumen": "Chaser fue una border collie que se destacó por su extraordinaria capacidad aprendizaje y memoria. Su dueño, el psicólogo John W. Pilley, estudió sus habilidades cognitivas y publicó en 2013 un libro sobre ella que fue best…",
+       "url": "https://www.clarin.com/internacional/aprendio-nombre-1000-juguetes-dueno-escribio-libro-historia-chaser-perra-inteligente-mundo_0_uCG2BoM2dX.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:52:08+00:00",
+       "fecha": "2026-09-02T09:31:33+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "d4dae49dddb1c171548e7ca348dada9b89990d4e",
-       "titulo": "Raúl de Tomás, inscrito por sorpresa por el Rayo",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRTA0V2Z0X3UyNWlERzI5WktCaU1INDNEcHktSk9Gbnc4Nm5TT0M0emdVcjZHOTlEVVpjNElqdkh2YTZBR25lS1hVWDVibkVKMEtkc3NPUDcyZndLQ2htY2l0OVN4Q2dLcE9EQTZ4NjNyaXp5U1loa0gzNTViTjlzM0NYclQ3NkRuQW8wQkkyYjM4bzRuNXo5N1RyVXV3cXJt0gG7AUFVX3lxTFB5bzJwZWxHQ2ltTmZZeVBuT1ZYUnFDSDRPZWpTWEp3V0Q5Qm8xVjhnUVhrOWpJSHVoTzlHMUU1Tnkxb0phU29wTWg1UHNqQ1d1a09PNmpsaTRfel91NzJ6NnJqSmE1bTNSVzZ2SkxqeXFxMWkwUkxqRzZZMmZESHB1d0M1dGNjNlVVdWN0dVhqenJYNW9oaHM1MElDQ2NSbGRUUWV4WXptWG1JcFVvRjdGQjJUT29vYmFLY2M?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "97ecd58bbea7ec1cc3782ed7d660139af27f171c",
+       "titulo": "Polémica por la privatización de Transener: los Neuss y Brito cobraron el primer día las ganancias que les cedió el Estado",
+       "resumen": "Los nuevos accionistas de la transportista eléctrica asumieron la semana pasada y cobraron el 49% de los dividendos reservados. Edison Energía y Genneia se quedaron cada uno con US$ 22,3 millones. El Estado había votado repartir…",
+       "url": "https://www.clarin.com/economia/polemica-privatizacion-transener-neuss-brito-cobraron-primer-dia-ganancias-cedio-estado_0_yyztehde7m.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:37:43+00:00",
+       "fecha": "2026-09-02T09:27:32+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "68bcc6ffc92baa37d9f2f9dd3e7a96eb26b166b3",
-       "titulo": "¿Qué le preocupa al mercado de cara a 2027?",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMHJuODJicWhSVXlidVoyRUVPdUVLLWRxZVFPMV9EQXlBc3hiTDFiV1J3bHRWY2FLSE5xaXFpYXo1d3JhekpZQ1VheHp3Y20wWVpMWVM1SHNyTy1HeHE0Yzd5cWx2MVVXZmkwODhSVWdPbjZaUlRhSmJLZ3BwWDY2RGZZU0hvVndBNG4wVEVtNGhQRERyeHZWMXJ1czU0cDhnOXNNY3hxTnpCUWFD?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "9e1386c0e7b363cf336b7b089b86c5c66c6a3d3d",
+       "titulo": "Khabib Nurmagomedov 'The Eagle' revela cómo llegó a la UFC: “No podía creer que me hubieran fichado”",
+       "resumen": "El daguestaní llegó a la empresa norteamericana con 16 victorias y ninguna derrota. Su primer combate en Estados Unidos terminó abriendo una puerta para otros peleadores de su región.",
+       "url": "https://www.clarin.com/internacional/khabib-nurmagomedov-the-eagle-revela-llego-ufc-podia-creer-fichado_0_5U8nD6kknv.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:36:22+00:00",
+       "fecha": "2026-09-02T09:27:32+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "ec9e0b10aa5f91c39e59e842cb7e19c9f98a15a4",
-       "titulo": "Un exjefe militar, procesado en Honduras por ataques a periodistas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORlUxblNvNGhjVERIQmRZMm9CU1ZFSENaVmtvOXdwYlBjOW5IUEhpZkEzZEhvbEstaE1VQ0lKRnBQa01JWS1pZ0ZBTmJpbkdETktiM2I5TXFXcjhOR3MxNFNJR29jX2xpQ18tZEpfbWU3dzNCUUctY3oxbG5LVmpMbXRCcHYxLUdReVgzUko0TFZGakdZLVVNVF9mc0lxcFNsWE0wczRCNm5aOXYzRzM2SmdNRkxiR1pScUHSAdQBQVVfeXFMTmYyNFZtZXE2MlRBWU5mNXlhY05fY012czQxdGQ5SG12UGt0NHFBQVdsRE5ob01IYzN5WngybG9TTkRMd01hRFdkSHVmWmtGUTFISGU1WnFQdWNSeFlHTHVTWnZtMl9IRlVFSU9TT3F6NDlKa21sMUhGZVdDcUo5UjRSLXZmVkFQTzFSRE5veWU2S0Vzd3haamNvWk1uSXJ1TzdPN0JYcHVZYW10ZmNQY28zTWZaT2Q4bmFkZjlsQUM5MDNwRElXWHBuWWR5T05Vang4c2g?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "749be3ebb1a468a8e772843dc2e1ee96dda43053",
+       "titulo": "Ataques de EEUU contra supuestas narcolanchas cumplen un año y dejan unos 220 muertos",
+       "resumen": "El operativo Lanza del Sur, liderado por EE.UU., ha destruido 68 embarcaciones vinculadas al narcotráfico en el Caribe y Pacífico, dejando 227 muertos. Trump defiende la campaña como legal y efectiva, pese a críticas de posibles…",
+       "url": "https://www.clarin.com/estados-unidos/ataques-de-eeuu-contra-supuestas-narcolanchas-cumplen-un-ano-y-dejan-unos-220-muertos_0_v2OtUNTLzY.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:24:41+00:00",
+       "fecha": "2026-09-02T09:20:08+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "d8b0ca4807ad9c11c8a93ede4a69581e701e7517",
-       "titulo": "Imputaron a 11 personas por narcotráfico en Neuquén y quedaron detenidas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPY19rRXpScVo1bDRzd1A1bWxqaXB3TS1iTlJHZlpPcUFFenplNUpJLTNCSHRpck95R3k4X3BIOXpUWjBvc0hJa2hyb1B6R2JfT2NrcW51NkpYUG1yQ19mYWtWanNrRHdhdld3YnZxTE5SODByU3Rvam1WMEVodDhWbnFsVjJjVkNnMmgwXzdXREI1YlM2bnRveTdLMGZTQUhUSnh5Y0M2TlpQOFhUT1k2b3JHMEhvMTZwYVNZZ1dFZUVwQ2h2UmJr0gHiAUFVX3lxTE5RakZ4ejBFTE5EZkJRRFhqUTNjQTVVSGRTUzN3cDE3OW1tRjdobV9qdG95VXZUaDlLYmhzaVhWUzB3M0EtajIwbFViZmZrZ01JNkpyM3FIY3J6Um5BSGh4Z3Y4b29KcEZMdllOZGVCLUd2MzNJN0EwOVhQMjdHRS1YN2phMDRDeWdvRkFtOEdhSU9xYTB6djZaSjR3eXJpcl9mc0ZHR1pxa1RFVUxsZkpTdU53NVBONUVLX0o2LUZIV215ck5vdHUydURjZjRVc0VNQXRxUWpJaWExNFdPVkZ0Y2c?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "441bc93fee8ec146c77dd9933bcfecdebe010f5b",
+       "titulo": "La historia de \"Brindis\", la canción de La Sole que Messi eligió para comunicar su retiro de la Selección Argentina",
+       "resumen": "El mejor futbolista del mundo musicalizó su anuncio con la canción de la cantante de Arequito, que tiene un significado especial para él. La historia del tema que nació en 2005, fue compuesta por Afo Verde y saltó a la fama…",
+       "url": "https://www.clarin.com/fama/historia-brindis-cancion-sole-messi-eligio-comunicar-retiro-seleccion-argentina_0_tZGLb45xZU.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:23:28+00:00",
+       "fecha": "2026-09-02T09:03:32+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "f49834eb133eca6363e155f3b08b79bd6436459e",
-       "titulo": "El desfase entre el horario de inicio de la secundaria en argentina y la biología adolescente",
+       "id": "8a3ac340d3743abcf04c8b9938b7978fa8a71923",
+       "titulo": "Venus, siempre Venus",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaFVXc0ExTEJhOHlOMWE1S0lVb3pobVk2M3dHU2Z2eUFhbUk1OXhncnZzMVRRZE5LTG9SMDZWR3poRFhMdVdvN0tmRHBhcXU1TzE1QW9zWm56dXRtTXN4OHVZTTdfMk1GSDFTZGwtTVE3bl9tVDFiV0NHQm4zbXpyTlJYc3h0NWNoSlg3NF8tNXhubHo3dmFxaThoU2xzcXFMVE9HVlJwV2tmemNzY3pIS1lVZGF4SkJVN2U4YkJ2NFhOc1hRTHVLY3JCNml4aW1MMUFXN181ZVFWMUxsbmtVZHI0aUVCbE1UcEt3MmpiV3poSlE?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "url": "https://www.clarin.com/opinion/venus-siempre-venus_0_JwQEQFQtla.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:06:05+00:00",
+       "fecha": "2026-09-02T09:03:32+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "d03d7ba25f5b21866b251a54dcc7351949c9901b",
-       "titulo": "Alejandro Moreno compara caso de Enrique Inzunza con Pablo Escobar",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUFDTmJMY2ZKenhjX2xCNFlyb1VQdlNScHhaMnNVUkF2TGlnTVRWZ3lsRWxKZjJVRHRHX1kwUVFJc1hqMXRaYk5ZR3dKMnJiQ3BDTVRrN0hOb1hEd2ExQ3NPNW13d2h3U2RHYmxaTHBEWGJqX29oSmxvRUljT1ZxWFVZMWoxNnotQ1g3UlFtcDc5RkhEdGFoU2x0T0FzTjlOOGw5eWRpekd3VGtKWWQ3ZXRGcw?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
+       "id": "b69d2fe6b0f15f2b7f691717fb26aa5375f7f080",
+       "titulo": "El arranque de Leonardo Ponzio en River: sus primeras decisiones trajeron algunas horas de paz y renovaron la ilusión",
+       "resumen": "El triufno 3-2, con angustia, como visitante frente a Banfield lo hizo salir de la mala racha que desembocó en la partida de Coudet. Después de un agosto fatal, el inicio de septiembre puede hacer florecer otra oportunidad.",
+       "url": "https://www.clarin.com/deportes/arranque-leonardo-ponzio-river-primeras-decisiones-trajeron-horas-paz-renovaron-ilusion_0_6N8LzgpR1K.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-09-02T06:03:52+00:00",
+       "fecha": "2026-09-02T09:01:35+00:00",
        "prioridad": 2,
        "desplazada": false
+      },
+      {
+       "id": "48bf0a766e01fc962e7e9fb09c2bdb809c4306a3",
+       "titulo": "La Scaloneta vale una fortuna: el increíble número que suman las transferencias de los subcampeones del mundo",
+       "resumen": "Si bien Julián Alvarez se quedó en el Atlético de Madrid, Enzo Fernández hizo saltar la banca. Un repaso por el mercado de la Selección Argentina.",
+       "url": "https://www.clarin.com/deportes/scaloneta-vale-fortuna-increible-numero-suman-transferencias-subcampeones-mundo_0_J2TQ1r6pim.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:35+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "4ca160b854ee60bd0d9d16c69d3279e7ca479860",
+       "titulo": "Nueva encuesta y dato clave: quiénes son los votantes que más rechazan a Javier Milei",
+       "resumen": "Lo muestra el último estudio nacional de la consultora Synopsis. Evaluó la imagen del Presidente entre mujeres y hombres de diferentes edades. Fuertes diferencias.",
+       "url": "https://www.clarin.com/politica/nueva-encuesta-dato-clave-votantes-rechazan-javier-milei_0_YwwR07cM9r.html",
+       "fuente": "Clarín — Política",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:33+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "ea623089c661eddbb6c160a880a4f5e0b0854602",
+       "titulo": "El Gobierno busca en el Senado sacar dictamen del Súper RIGI con dos cambios clave",
+       "resumen": "Patricia Bullrich confirmó modificaciones en lo vinculado con las data center y Compre Argentino. La propuesta será tratada en el recinto en una sesión que será convocada para el 10 de septiembre.",
+       "url": "https://www.clarin.com/politica/gobierno-busca-senado-sacar-dictamen-super-rigi-cambios-clave_0_2HHRQKK06D.html",
+       "fuente": "Clarín — Política",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:33+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "d9bab8568d0682fef62c7aef43d57c104ee4a3ce",
+       "titulo": "Obligado por la oposición, el oficialismo arranca el debate en Diputados por morosidad y la emergencia en discapacidad",
+       "resumen": "La comisión de Finanzas se reúne a las 13.30 y puso 34 de los 50 proyectos sobre la mesa de debate. En discapacidad, a las 16, irán funcionarios a defender la gestión.",
+       "url": "https://www.clarin.com/politica/obligado-oposicion-oficialismo-arranca-debate-diputados-morosidad-emergencia-discapacidad_0_E3DQquaT74.html",
+       "fuente": "Clarín — Política",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:33+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "f89ca6ca520752d874538c8b9ef879d11b5bd004",
+       "titulo": "La contradicción de Los Pumas: por qué el equipo de Contepomi fue competitivo pero ganó solo uno de cinco partidos",
+       "resumen": "Le quedan otros cinco por jugar de los previstos para 2026. Los últimos tres fueron derrotas consecutivas y el sábado tienen revancha con Australia, el último verdugo. Tres protagonistas analizan los motivos del fenómeno.",
+       "url": "https://www.clarin.com/deportes/contradiccion-pumas-equipo-contepomi-competitivo-gano-solo-partidos_0_7nkSdbgi8H.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:34+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "d7b328329e25a01ee49124287384aa43b423c309",
+       "titulo": "Los libertarios se suben a la pelea Rovira-Passalacqua en Misiones: cuestionan gastos por $ 4 billones y más de 65.000 empleados públicos",
+       "resumen": "El diputado local Adrián Núñez lanzó una plataforma para consultar, partida por partida, cómo se distribuyen los recursos de la provincia. La iniciativa se da en plena ruptura entre el gobernador y el principal referente del ex…",
+       "url": "https://www.clarin.com/politica/libertarios-suben-pelea-rovira-passalacqua-misiones-cuestionan-gastos-4-billones-65000-empleados-publicos_0_hcnLrTENqM.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-09-02T09:01:34+00:00",
+       "prioridad": 2,
+       "desplazada": true
       }
      ]
     }
@@ -355,178 +470,304 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
-       "id": "8cf1fe17ccb0402329234b42489f4b629f6baa81",
-       "titulo": "Dos mujeres mueren al caer un coche al mar en el puerto de Algeciras (Cádiz)",
-       "resumen": "Los cuatro ocupantes del coche iban a tomar un barco con destino a Tánger esta pasada medianoche, sobre las 00.30",
-       "url": "https://elpais.com/espana/2026-09-02/dos-mujeres-mueren-al-caer-un-coche-al-mar-en-el-puerto-de-algeciras-cadiz.html",
+       "id": "839ae9d641bc2dfef9f376125e5caa606efb0dc7",
+       "titulo": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El director de la Policía se reúne con el jefe de los agentes que elaboraron el informe sobre Marruecos",
+       "resumen": "La Moncloa dice que “sorprende” que la Policía no haya compartido con el Gobierno la información | El PP exige la dimisión de Marlaska “por sinvergüenza y mentiroso” y Jupol añade al director general de la Policía y al delegado…",
+       "url": "https://elpais.com/espana/2026-09-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html",
        "fuente": "El País — Portada",
        "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:41:09+00:00",
-       "tambien_en": [
-        "El Mundo — Portada"
-       ],
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "15d5c37ab105c0ca327a93c62c174ee0ec378eea",
-       "titulo": "Ana Peleteiro, sobre la iniciativa de congelar los óvulos de las futbolistas: “Que no te vendan que es feminista”",
-       "resumen": "La atleta española, madre de dos hijos, critica el plan de la federación de apoyar la vitrificación para las jugadoras: “La pregunta debería ser cómo conseguimos que ser madre no penalice la carrera”",
-       "url": "https://elpais.com/sociedad/2026-09-02/ana-peleteiro-sobre-la-iniciativa-de-congelar-los-ovulos-de-las-futbolistas-que-no-te-vendan-que-es-feminista.html",
-       "fuente": "El País — Portada",
-       "peso": 3,
-       "seccion": "espana",
-       "fecha": "2026-09-02T06:09:37+00:00",
-       "tambien_en": [
-        "El Español"
-       ],
-       "prioridad": 3,
-       "desplazada": false
-      },
-      {
-       "id": "eb0e90f3eba31605779107f3adc57053637aa56c",
-       "titulo": "La esperanza de hallar supervivientes disminuye una semana después de la riada del Himalaya: “La recuperación será un largo maratón”",
-       "resumen": "Con más de 1.100 muertos y casi 5.000 desaparecidos, Nepal orienta la respuesta hacia la reconstrucción. China lleva desde el domingo sin actualizar la cifra de 16 fallecidos y 546 personas en paradero desconocido",
-       "url": "https://elpais.com/internacional/2026-09-02/la-esperanza-de-hallar-supervivientes-disminuye-una-semana-despues-de-la-riada-del-himalaya-la-recuperacion-sera-un-largo-maraton.html",
-       "fuente": "El País — Portada",
-       "peso": 3,
-       "seccion": "espana",
-       "fecha": "2026-09-02T06:45:51+00:00",
+       "fecha": "2026-09-02T10:18:50+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "9532f7d88fb0160a78cf7832d254fe0e4571b401",
-       "titulo": "El Festival de Cine de Venecia regresa con más política, menos Hollywood, una sola directora y la pareja Penélope Cruz-Javier Bardem",
-       "resumen": "La reciente decisión de la Mostra de, primero, anular y, luego, volver a programar la rueda de prensa del jurado protagoniza el arranque de un festival ignorado por los grandes estudios de Hollywood Leer",
-       "url": "https://www.elmundo.es/cultura/cine/2026/09/02/6a95bddffdddffb36a8b459d.html",
+       "id": "f52f678c6615c56c042f753bf7be95f54d06f5dc",
+       "titulo": "España apurará el plazo hasta finales de mes para pedir el último pago de los fondos europeos de recuperación",
+       "resumen": "Carlos Cuerpo señala que el Gobierno solicitará el desembolso final, de casi 26.000 millones, en los últimos días de septiembre. El 30 es la fecha límite de Bruselas",
+       "url": "https://elpais.com/economia/2026-09-02/espana-apurara-el-plazo-hasta-finales-de-mes-para-pedir-el-ultimo-pago-de-los-fondos-europeos-de-recuperacion.html",
+       "fuente": "El País — Economía",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T10:16:31+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a912c56fdbde3922b29788e060c8c3f4d507fd07",
+       "titulo": "Ariana Grande se despide entre lágrimas de sus fans antes de retirarse temporalmente: “Siempre atesoraré esta experiencia”",
+       "resumen": "La cantante estadounidense termina su gira ‘Eternal Sunshine’ en medio del escrutinio social por su salud física y tras aclarar que su alejamiento del ojo público no fue un “acto impulsivo” sino una decisión bien pensada que…",
+       "url": "https://elpais.com/gente/2026-09-02/ariana-grande-se-despide-entre-lagrimas-de-sus-fans-antes-de-retirarse-temporalmente-siempre-atesorare-esta-experiencia.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T10:04:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "930fd5c64e3c7bae1d3294aebd0f62735fce78e9",
+       "titulo": "Kallas califica el ataque fallido con drones en Leipzig de “terrorismo patrocinado por un Estado”",
+       "resumen": "La jefa de la diplomacia de la UE prevé nuevas sanciones contra Moscú. Alemania y otros países europeos convocan a los embajadores rusos",
+       "url": "https://elpais.com/internacional/2026-09-02/kallas-califica-el-ataque-fallido-con-drones-en-leipzig-de-terrorismo-patrocinado-por-un-estado.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:56:34+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a60c430401d1e1ae6145b59859cc9b2281f21da5",
+       "titulo": "La consejera de Interior no descarta denunciar a la extrema derecha por vincular el crimen de Manresa a los menores migrantes",
+       "resumen": "Parlon critica las “asociaciones xenófobas” de Vox y Aliança Catalana",
+       "url": "https://elpais.com/espana/catalunya/2026-09-02/la-consejera-de-interior-no-descarta-denunciar-a-la-extrema-derecha-por-vincular-el-crimen-de-manresa-a-los-menores-migrantes.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:46:51+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "bf1d8d5f2efbc4fe40c19e806ac0601784a1b73a",
+       "titulo": "García-Page, sobre el informe de la Policía que desmonta la versión del Gobierno en la crisis de Ceuta: \"Si se confirma, tiene que tener evidentes consecuencias en todos los órdenes\"",
+       "resumen": "\"Realmente me hago la pregunta de si ha tenido que ser una jueza la que pida un informe sobre lo que pasó\" y \"si nadie más había pedido o planteado a la Policía Nacional o a nuestros servicios de inteligencia que informaran\" Leer",
+       "url": "https://www.elmundo.es/espana/2026/09/02/6a97eceae85ece9d1b8b459b.html",
        "fuente": "El Mundo — Portada",
        "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:12:09+00:00",
+       "fecha": "2026-09-02T09:45:02+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "bca7443f860176c755fb7387be6d610abf40aa0d",
+       "titulo": "Arturo Pérez-Reverte, nuevo columnista de EL MUNDO: \"Este periódico me obliga a estar más despierto, me exige más lucidez\"",
+       "resumen": "El escritor y académico, uno de los narradores españoles de mayor relevancia internacional y con más de 27 millones de ejemplares vendidos, celebra su incorporación a este diario, donde el domingo publicará su primer artículo en…",
+       "url": "https://www.elmundo.es/papel/cultura/2026/09/01/6a971b9ae9cf4ae40c8b459d.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:43:03+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "9740276d9d996249c38c502e3963bdcca811e188",
+       "titulo": "Marlaska pide explicaciones al director de la Policía Nacional tras enterarse por la prensa del informe que acusa a Marruecos del asalto a Ceuta",
+       "resumen": "El informe realizado por el CENIF, que contiene imágenes de agentes marroquíes dirigiendo la acción, no pasó por Dirección General y ha dejado en fuera de juego al Gobierno, que invoca la Ley de Seguridad Nacional para conocer su…",
+       "url": "https://www.elmundo.es/espana/2026/09/02/6a97caa4e9cf4a201e8b456e.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:38:54+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "d9d354c017d54274e72d2e85cb05dd4fb5eb755e",
+       "titulo": "Dos guardias civiles fuera de servicio detienen al autor de una oleada de robos en Alcalá del Río (Sevilla)",
+       "resumen": "En dos de los robos se encontraban moradores en el interior de las viviendas, unos hechos, junto con otros similares, que habían generado una notable alarma social entre los vecinos Leer",
+       "url": "https://www.elmundo.es/andalucia/2026/09/02/6a97ebb021efa03c1d8b45c1.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:26:11+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5fdb9b7e4a11b973cdc29cfd1cbbb03e6e87a7c4",
+       "titulo": "La policía detiene a cuatro jóvenes de Tetuán por amenazar con un machete a viajeros de un autobús",
+       "resumen": "Los arrestados realizaban un viaje de Benidorm a Madrid cuando, en el marco de una discusión, sacaron las armas blancas",
+       "url": "https://elpais.com/espana/madrid/2026-09-02/la-policia-detiene-a-cuatro-jovenes-de-tetuan-por-amenazar-con-un-machete-a-viajeros-de-un-autobus.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:20:31+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
        "id": "258b9a6e4fecc67fa2e606f06ef5ee56b5b5c2d3",
        "titulo": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda mayor empresa mundial del juego",
-       "resumen": "La empresa catalana, a la que la oferta valora en casi 2.800 millones, y su nueva propietaria suman un negocio combinado de 34.000 millones",
+       "resumen": "La empresa italiana ofrece el equivalente a 2.800 millones, que pagará con acciones, a los que se sumará un dividendo extraordinario. El mercado potencial del nuevo gigante se sitúa en 34.000 millones",
        "url": "https://cincodias.elpais.com/companias/2026-09-02/la-italiana-lottomatica-absorbe-a-la-espanola-cirsa-para-crear-la-segunda-mayor-empresa-mundial-del-juego.html",
        "fuente": "El País — Portada",
        "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:10:17+00:00",
+       "fecha": "2026-09-02T09:19:32+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "65c089a2f38d0ad986d726f58ce2366ad5bc1c0a",
-       "titulo": "Detienen en Tarragona a 'Pirry', el líder de una banda que masacró a siete personas en Colombia",
-       "resumen": "El presidente colombiano informó de que el detenido es el \"segundo cabecilla del grupo terrorista 'La Mesa'\", una banda que opera en Antioquia, y que tiene antecedentes por \"homicidio, fabricación, tráfico y porte de armas de…",
-       "url": "https://www.elmundo.es/cataluna/2026/09/02/6a97bc9621efa033268b458d.html",
-       "fuente": "El Mundo — Portada",
+       "id": "a6053886888f524d7e4eb1be92975d9537c7bb74",
+       "titulo": "The Weeknd, el maestro de las sombras en las luces del pop",
+       "resumen": "El concierto en Barcelona despide la etapa española de la gira mundial del artista canadiense",
+       "url": "https://elpais.com/espana/catalunya/2026-09-02/the-weeknd-el-maestro-de-las-sombras-en-las-luces-del-pop.html",
+       "fuente": "El País — Portada",
        "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:09:24+00:00",
+       "fecha": "2026-09-02T09:17:17+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "c3b11c83d3177031e9cc82dd08bc39ad86b79930",
-       "titulo": "La niebla condiciona la operatividad del aeropuerto de Alvedro en las primeras horas del día",
-       "resumen": "Un vuelo de Vueling procedente de Barcelona fue desviado a Vigo y otros servicios acumulan retrasos Te puede interesar : La niebla en A Coruña provoca retrasos en Alvedro: dos aterrizajes desviados y una salida cancelada",
-       "url": "https://www.elespanol.com/quincemil/a-coruna/20260902/niebla-condiciona-operatividad-aeropuerto-alvedro-primeras-horas-dia/1003744369751_0.html",
-       "fuente": "El Español",
+       "id": "149cf3af70f48a0bfbffbc9cb9d6b49156a81e4d",
+       "titulo": "6.000 niñas están en riesgo de sufrir una mutilación genital en Cataluña",
+       "resumen": "Así lo han avisado las comadronas del Colegio Oficial de Enfermeras y Enfermeros de Tarragona.",
+       "url": "https://www.20minutos.es/salud/6-000-ninas-estan-riesgo-sufrir-una-mutilacion-genital-cataluna_7031921_0.html",
+       "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:28:03+00:00",
+       "fecha": "2026-09-02T10:02:45+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "33a3e3a0ffc5658d4211b358db909341ef353bd7",
-       "titulo": "Ocho CCAA bajo aviso por calor, lluvias y tormentas, con Andalucía en nivel naranja",
+       "id": "0fb5c1291a0cdaf3b9684b06428c7abda939063d",
+       "titulo": "El Gobierno se limita a decir que está analizando el informe policial sobre Ceuta y evita aclarar si pedirá explicaciones a Rabat",
+       "resumen": "El ministro pide \"cautela\" y niega que el Ejecutivo haya ocultado información sobre la posible intervención de Marruecos en la entrada masiva de migrantes en la ciudad autónoma.",
+       "url": "https://www.20minutos.es/nacional/gobierno-se-limita-decir-que-esta-analizando-informe-policial-sobre-ceuta-evita-aclarar-si-pedira-explicaciones-rabat_7031922_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T10:01:56+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "65492df02f56e4b3f05ef698c1fc56b3f1ceb911",
+       "titulo": "Explota en directo un foco de 'La hora de La 1': \"Ha sido un sustazo gordo\"",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSnpmOHhwZWZNbS1IVXJ0c3VUNmlDRTVOZTgxeDlqMEhnS3U2elRaUFNlYWVKX1Y2SWdBZm5lMDVMRGswYWxJX0poM1V0bUdENFN5ZXctdGZNZlMyYUcwY010Z2dpOVBPUjF2eTlFSnpGMnh1MDVNZEZZdWhMcmFEdkgtd1IzZS05d3Y0LXZZMVZGM1lEUU14N3Q0d2MzaXo1VGZ0Umw2QUpnVmJpU0ROalp5cXoxcVViNGJrYnAwSHpSMlp3QkprdldPbFRyUdIB6AFBVV95cUxNUWl6TVBjLTk1WXRRWURXYm5vS3RnTVh3VVpIdGFUYzh3eDEwVDU5dWctVDNDT09qZGI5Y2JEN3ZqVllnblh6MWVjanlzdkpLMTk5b21qUVdjM3BqT1FyaFVYZFNUNEthMXc2c2pDdkFtcWx1SUplT2dIUTk4Z1htanlCWURlLUpKNlUtMEhuSTFhQ3BwR2ZJaHlMT2FqbFAwRGUxRm9yNFExSDN4UTVjQ1NsOEFabGd3RXlUS0pIckh6Nm9ZVnpSLVlGNEQ5XzlFWHMxLW1reUNHRkhldWdHU1BLejFOYzdp?oc=5",
-       "fuente": "Infobae · vía Google",
-       "peso": 2,
-       "seccion": "espana",
-       "fecha": "2026-09-02T06:23:25+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "72e937b7d62461c973be4bf5db16de7ae992142d",
-       "titulo": "Última hora de la crisis migratoria de Ceuta, en directo | Torres asegura que es \"fundamental saber si la Policía tenía ese informe\" sobre la crisis de Ceuta",
-       "resumen": "Un supuesto informe de la Policía Nacional habría trasladado a la Audiencia Nacional que gendarmes marroquíes, bajo las órdenes de agentes de paisano, guiaron la entrada con un objetivo distinto al migratorio.",
-       "url": "https://www.20minutos.es/nacional/ultima-hora-crisis-migratoria-ceuta-directo-marlaska-policia-marruecos-informe-manifestaciones-entrada-masiva_7031779_6.html",
+       "url": "https://www.20minutos.es/television/explota-directo-un-foco-hora-1-ha-sido-un-sustazo-gordo_7031906_0.html",
        "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:17:48+00:00",
+       "fecha": "2026-09-02T09:55:31+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "7d75342779b3840c8498b2fec7383a3ab84dcae2",
-       "titulo": "Un motorista resulta herido en A Coruña tras salirse de la vía y chocar contra un coche en Juan Flórez",
-       "resumen": "El accidente ocurrió alrededor de las 00:30 horas y el conductor dio positivo en la prueba de alcoholemia Te puede interesar : Una mujer de 54 años resulta herida leve en un accidente cerca de Marineda City, en A Coruña",
-       "url": "https://www.elespanol.com/quincemil/a-coruna/20260902/motorista-resulta-herido-coruna-salirse-via-chocar-coche-juan-florez/1003744369747_0.html",
-       "fuente": "El Español",
-       "peso": 2,
-       "seccion": "espana",
-       "fecha": "2026-09-02T06:16:30+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "3b084a1d38f5ca1122085a2b17205f2acb16b817",
-       "titulo": "Aplazado el partido de Paula Badosa cuando estaba a 2 puntos de la victoria",
-       "resumen": "La tenista española ganaba 6-1 y 5-4, 40-40 a la australiana cuando la lluvia interrumpió el encuentro.",
-       "url": "https://www.20minutos.es/deportes/tenis/aplazado-partido-paula-badosa-cuando-estaba-2-puntos-victoria-contra-kasatkina-us-open_7031775_0.html",
+       "id": "f46983c279b70dc04f31561b4f0e66908a8165cd",
+       "titulo": "Obras de Colón en Valencia: más de la mitad de las aceras ya están renovadas",
+       "resumen": "El Ayuntamiento ha incorporado un tercer equipo de trabajo durante agosto para mantener el calendario de una actuación que pretende estar terminada antes de la campaña de Navidad",
+       "url": "https://www.20minutos.es/comunidad-valenciana/valencia/asi-avanzan-las-obras-colon-valencia-mas-mitad-las-aceras-ya-estan-renovadas_7028957_0.html",
        "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:06:13+00:00",
+       "fecha": "2026-09-02T09:53:59+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "796fd73663c404bb4239142e5f965f7754675dc0",
-       "titulo": "Los Bomberos clausuran el edificio incendiado en la avenida de Hércules de A Coruña",
-       "resumen": "Tuvieron que demoler tres tabiques para permitir el acceso de la Policía Judicial y después tapiaron las ventanas y bloquearon la entrada Te puede interesar : Un conductor pierde el control y daña tres coches aparcados en la…",
-       "url": "https://www.elespanol.com/quincemil/a-coruna/20260902/bomberos-clausuran-edificio-incendiado-avenida-hercules-coruna/1003744369740_0.html",
-       "fuente": "El Español",
-       "peso": 2,
-       "seccion": "espana",
-       "fecha": "2026-09-02T06:04:49+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "e156702d39aa6c1ce267746b2f24307b2bde847d",
-       "titulo": "El calvario de Verónica Hidalgo, ex Miss España: su pareja y padre de su hija lleva 4 meses en la cárcel",
-       "resumen": "Juan Andrés González Santos, con el que la ex Miss tiene una hija de año y medio, está acusado de pertenencia a organización criminal y blanqueo de capitales, según 'Semana'.",
-       "url": "https://www.20minutos.es/gente/calvario-veronica-hidalgo-ex-miss-espana-su-pareja-padre-su-hija-lleva-cuatro-meses-carcel_7031770_0.html",
+       "id": "eb9ba22931be2e5c6ad410c8fbe4850b0d02a8d7",
+       "titulo": "Ucrania, violencia machista, LGTBI... El alegato de Juls Janeiro cuando le preguntan por Belén Esteban",
+       "resumen": "La hija de Jesulín de Ubrique hizo una proclama por las causas sociales frente a la prensa del corazón.",
+       "url": "https://www.20minutos.es/gente/ucrania-violencia-machista-agresiones-colectivo-lgtbi-alegato-juls-janeiro-cuando-le-preguntan-por-belen-esteban_7031904_0.html",
        "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:03:12+00:00",
+       "fecha": "2026-09-02T09:53:17+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "184ce36809b8b162211c9674ab77d62c44f1a985",
-       "titulo": "Pablo Franco y la conquista de Marruecos con su staff hispano: \"Aquí se confía en los españoles para hacer crecer su fútbol\"",
-       "resumen": "EL ESPAÑOL habla con Aitor Van den Brule, asistente de Pablo Franco, tras hacer historia en Marruecos y buscar su salto a Europa. Más información: Marruecos, el país que convirtió su fútbol de barrio en potencia Mundial: \"La…",
-       "url": "https://www.elespanol.com/deportes/futbol/20260902/pablo-franco-conquista-marruecos-staff-hispano-confia-espanoles-hacer-crecer-futbol/1003744369344_0.html",
+       "id": "b2bafafb26cd832d0213e2ef0f40e2d0520bfb99",
+       "titulo": "El Síndic de Barcelona pide encontrar alternativas residenciales \"adecuadas\" antes de desalojar el asentamiento de La Sagrera",
+       "resumen": "Reconoce las deficiencias de seguridad y salubridad, pero apunta que el caso trasciende al \"ámbito urbanístico\".",
+       "url": "https://www.20minutos.es/cataluna/barcelona/sindic-barcelona-pide-encontrar-alternativas-residenciales-adecuadas-antes-desalojar-asentamiento-sagrera_7031912_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:52:28+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "d50d5c8f8dc555ef6ba209faba6b418e0feaf8e7",
+       "titulo": "Carvajal, Benzema o Joselu: estrellas sin equipo tras el cierre del mercado",
+       "resumen": "Son muchos los futbolistas de primer nivel que se han quedado libres tras el cierre del mercado de este martes.",
+       "url": "https://www.20minutos.es/deportes/futbol/carvajal-benzema-joselu-las-estrellas-que-siguen-sin-equipo-tras-cierre-mercado_7031883_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:51:52+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "58a2b106c8d546b89afebde09133e4e5e8e62897",
+       "titulo": "El PP carga contra Marlaska tras el informe sobre Marruecos: \"Se hace el sorprendido. Debe dimitir por sinvergüenza y mentiroso\"",
+       "resumen": "Muñoz ve ahora más urgente manifestarse por Ceuta y acusa a Sánchez de \"mentir\" para \"proteger al país que guió la invasión\" a España.",
+       "url": "https://www.20minutos.es/nacional/pp-carga-contra-marlaska-tras-informe-sobre-marruecos-se-hace-sorprendido-debe-dimitir-por-sinvergueenza-mentiroso_7031905_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:42:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "ef6407e0a9e100e950cf2707e79868f777b63e6a",
+       "titulo": "Investigan a un hombre de 79 años por circular durante 11 kilómetros en sentido contrario por la A-11",
+       "resumen": "La persona ha sido investigada por un presunto delito contra la seguridad vial por conducir con “temeridad manifiesta”. Más información: Un fallecido y dos heridos tras la salida de vía de un turismo con vuelco en la LE-30",
+       "url": "https://www.elespanol.com/castilla-y-leon/region/soria/20260902/investigan-hombre-anos-circular-kilometros-sentido-contrario-a-11/1003744369954_0.html",
        "fuente": "El Español",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-09-02T06:00:00+00:00",
+       "fecha": "2026-09-02T09:13:16+00:00",
        "prioridad": 2,
        "desplazada": false
+      },
+      {
+       "id": "edce5bbe2474bdb052f05ecf9d3929bc9575f4fc",
+       "titulo": "El joven taxista asesinado a tiros en Azpeitia era un conocido DJ que había pinchado en Ibiza",
+       "resumen": "La víctima era muy conocida en la localidad guipuzcoana. El hombre fue tiroteado después de que otro vehículo embistiera su taxi en las inmediaciones del campo de fútbol de Garmendipe.",
+       "url": "https://www.20minutos.es/pais-vasco/guipuzcoa/joven-taxista-asesinado-tiros-azpeitia-era-un-conocido-dj-que-habia-pinchado-ibiza_7031899_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:32:03+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "c8586873a0d5d50208a05c4c324098a718fa80f8",
+       "titulo": "'La amiga estupenda' repite fecha y hora de emisión en RTVE tras arrasar con 640.000 espectadores",
+       "resumen": "RTVE mueve ficha volviendo a programar el éxito de Saverino Costanzo la noche de los sábados a partir de las 22:00h.",
+       "url": "https://www.20minutos.es/cinemania/series/amiga-estupenda-fecha-hora-emision-rtve-arrasar-640000-espectadores_7031836_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:22:33+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "1f4fc8c0e638ec541bf6363a3002a21a21b7db7c",
+       "titulo": "Netflix estrena el documental más íntimo de Matthew Perry en el aniversario de su muerte",
+       "resumen": "Esta miniserie documental narrada por su hermana repasa la vida del actor de 'Friends' atendiendo a su lado más personal.",
+       "url": "https://www.20minutos.es/cinemania/series/matthew-perry-netflix-documental-aniversario-muerte_7031665_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:21:43+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "e68ef39b43f2678577138d23ed1a831f51fc6c41",
+       "titulo": "Ordenan el internamiento en régimen cerrado para el menor detenido por una muerte en Balaguer",
+       "resumen": "El cuerpo de la víctima fue encontrado en el interior de un vehículo accidentado en el núcleo urbano con heridas de arma blanca.",
+       "url": "https://www.20minutos.es/cataluna/lleida/ordenan-internamiento-regimen-cerrado-para-menor-detenido-relacion-con-muerte-un-hombre-balaguer_7031890_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-09-02T09:18:56+00:00",
+       "prioridad": 2,
+       "desplazada": true
       }
      ]
     }
@@ -540,47 +781,14 @@
      "titulo": "Última hora",
      "articulos": [
       {
-       "id": "bf009a34abfc916cf13efaf3ad03d6253bab114b",
-       "titulo": "'Una huella en la nieve', el webtoon que revive las historias de los militares colombianos en la Guerra de Corea",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTE0wZ1VrRGl6QUhKbmRHTE5EWVlEWHdkcWYzWGZYclRFWWY5STJVU0dtTkJydkd5TVc0N2lMSUpOdFVWZGp5OFh2RC1VNmxiVTFCdV9aTDdoLXNIM2pCRXZFUmpuVXNqNU9GYTR3ZjJwTWFYb3VLbDE5SGhuQ2tKbGotZ1pWYTQwSUdEVXVoRmk?oc=5",
-       "fuente": "Korea.net · vía Google",
-       "peso": 1,
+       "id": "88a4c332c2869ddad014e9419bb5c7fa5b6abb3c",
+       "titulo": "La batalla de los mapas: Google y Apple cambian el lago Ontario por el lago América y se dispara la ‘app’ de su competidor",
+       "resumen": "Donald Trump decidió cambiarlo de nombre por la disputa comercial con sus vecinos canadienses",
+       "url": "https://elpais.com/tecnologia/2026-09-02/la-batalla-de-los-mapas-google-y-apple-cambian-el-lago-ontario-por-el-lago-america-y-se-disparan-las-apps-de-sus-competidores.html",
+       "fuente": "El País — Tecnología",
+       "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:42:33+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "cbb7bb9f3077c52c9226d663ba25197cb5a06ef1",
-       "titulo": "Trump, solo contra Canadá: la mayoría de los estadounidenses rechaza renombrar el lago Ontario y la guerra comercial",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOVERPYk9HSmZJMjBIZ3FOR29pNjkyelBxZzNDS2o2NlByblFobVN0VWR0N09iOTVtT1dpcnB0TUFqOWRmYTZpSzhyQ1RqLUVRSnJkYWRLVlpKSjB3UHlQaEZ3Z2gyZ25MR25TbHp0eXotUzg1V2hhcjRJM1gzR2NkOUlBVS1qdVFWdUVqbHFQS0xCenJOS0VxYTFLN18xdTgwbTc1YUU3NV94Uzd0dVhURG5uNXR0QW5oNW5LQ1lfMmp4OExmaFcwNXZqWS1hOGgzalg4QUtYdWlRNnAta3pMWUZ5cFLSAeoBQVVfeXFMUHVGTFFRVVUzWGRsOVcwNFc1SkVRV0FrVjFnTVFvMDVoLWstVVM0cnlFclpKT1RUOHY5NjZnOVg3Z1VpX3dOcFNsdTNCRzItYWo1Q2dIcHRjaG1DWVlkd3pVNUNwcDZRZC1sQ09jdU5CRkFCTWVRQmVxM2M4LXJsOXVnSkdtWmFUb0hxVXRiVXk2cVFyVnloa3otU3NOUnV1UkcxckxpNGFWTHZ5YUFJOWp6R3EtaUprZ0x1WlhIVGs5M3JPbzVmNEFGbDk5NUVUVG1jWktwQV9qelpGZ2tOTk1xdmczTkJyOHJR?oc=5",
-       "fuente": "La Vanguardia · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-09-02T06:35:25+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "076b7603d266dd0d8ee68e83326e10631afa0dfd",
-       "titulo": "Inician vuelos comerciales en aeropuerto de La Guaira, Venezuela, tras terremotos",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbEJzYy0xakE2OFZtQ3h0UUVWQ1RBUlZLTldYMzJCVnQtbXJNaE00Vjhld09YaGp6eFpFMXEzMHRiN3FOMDZISW9MSzlTRTNCVkhVbVZ0bkdjbmpmek9WZmF4WVdJUEZha1lXbzladGRBUUZJeWgwTm9QYS1ra2xxd0MxbURGaXF6Sk42R0VDcUc3UTlhblA1bU0yc1VZSnVaa1BrdnBpOWd0YUkxUVhEaDdKQkVJWE0?oc=5",
-       "fuente": "UnoTV · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-09-02T06:32:00+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "f7ffa2f6aa0c85f04dad9b106aeaa69aac5cdf59",
-       "titulo": "Ataque armado deja dos muertos durante festejo en Monterrey",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQ0x2VXBVU1dJd2FiMU9mSTJ2NENBazRvVlRJR0FaQXRDWFMxUWhvQk45WDBwTl9TZzQ4V29uOExXdUZUMXBkZHRzTlMyNm1USTlnZ05fYVV6akdzdVFDZ3EyekV5MjRjc19uaEhxbVdWYl9vZ0JickhvODM0cXFSQW9wRlBKTXI4VXZWOUdBTWs5aTFFRGUxckdnNV8zQQ?oc=5",
-       "fuente": "info7.mx · vía Google",
-       "peso": 1,
-       "seccion": "internacional",
-       "fecha": "2026-09-02T06:08:00+00:00",
+       "fecha": "2026-09-02T08:06:24+00:00",
        "desplazada": false
       }
      ]
@@ -589,146 +797,278 @@
      "titulo": "Miradas del mundo",
      "articulos": [
       {
-       "id": "1795a2dfaeda3f64cc736087031cfc576bccaf0b",
-       "titulo": "Israeli army says earlier interception likely 'false target'",
-       "resumen": "",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-says-earlier-interception-likely-false-target",
-       "fuente": "Middle East Eye",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-09-02T06:44:50+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "d72973dd784332155c802986495ca36aedd4d42b",
-       "titulo": "Australia news live: Police investigating allegation linked to Sydney Swans say update likely eight weeks away",
-       "resumen": "Follow the day’s news live Get our breaking news email , free app or daily news podcast Ride share driver charged on allegations of committing sexual acts during booking A ride share driver will face court in Sydney today over…",
-       "url": "https://www.theguardian.com/australia-news/live/2026/sep/02/anthony-albanese-palau-forum-one-nation-pauline-hanson-channel-contos-ntwnfb",
+       "id": "b66f510090d6c3f5fce6d7acfa75dce60edb3abd",
+       "titulo": "Four charged with murder after newborn baby stabbed to death in Sheffield",
+       "resumen": "The two men and two women are also accused of causing or allowing death of a child and perverting course of justice Four people have been charged with murder after a newborn baby girl was stabbed to death in Sheffield. Two men…",
+       "url": "https://www.theguardian.com/uk-news/2026/sep/02/charged-newborn-baby-stabbed-death-sheffield",
        "fuente": "The Guardian — Mundo",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:44:16+00:00",
+       "fecha": "2026-09-02T10:19:43+00:00",
        "desplazada": false
       },
       {
-       "id": "32f5dac8d1d959f88cda48c8e5af0a45fbb93430",
-       "titulo": "As US seeks Gaza donor’s extradition, wife warns of ‘terrifying precedent’",
-       "resumen": "Imprisoned in Spain, James 'Fergie' Chambers has supported charities but is accused of aiding Hamas.",
-       "url": "https://www.aljazeera.com/news/2026/9/2/as-us-seeks-gaza-donors-extradition-wife-warns-of-terrifying-precedent?traffic_source=rss",
-       "fuente": "Al Jazeera",
+       "id": "4110776580d670be0c460042295a94ee575b8528",
+       "titulo": "Germany’s move to blame Russia for Leipzig drone incident ‘a grave mistake,’ says Putin– Europe live",
+       "resumen": "Russian president’s comments come ahead of EU ministers meeting later today to consider their response to drone attack last month German police have opened a investigation into yesterday’s attempt to disrupt the operation of a…",
+       "url": "https://www.theguardian.com/world/live/2026/sep/02/europe-eu-germany-leipzig-drone-attack-russia-ukraine-macron-latest-news-updates",
+       "fuente": "The Guardian — Mundo",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:35:33+00:00",
+       "fecha": "2026-09-02T10:19:02+00:00",
        "desplazada": false
       },
       {
-       "id": "ff019bfdbf89cfe0aecfe7f470ea50ca5f4f876e",
-       "titulo": "Tyson Fury confirms Anthony Joshua fight at NYC’s Madison Square Garden",
-       "resumen": "No date has been set for the all-British heavyweight boxing showdown, but it is expected to be held in November.",
-       "url": "https://www.aljazeera.com/sports/2026/9/2/tyson-fury-confirms-anthony-joshua-fight-at-nycs-madison-square-garden?traffic_source=rss",
-       "fuente": "Al Jazeera",
+       "id": "7d98db040bc54ff3d4561ffe38c12acda402f2bb",
+       "titulo": "Russian airspace becoming unsafe for commercial airlines, Zelenskyy says",
+       "resumen": "Ukrainian president says aviation industry needs to take account of growing number of Ukrainian attack drones in Russia Europe live – latest updates Volodymyr Zelenskyy has said Russia’s airspace is becoming unsafe for commercial…",
+       "url": "https://www.theguardian.com/world/2026/sep/02/russian-airspace-unsafe-commercial-airlines-zelenskyy",
+       "fuente": "The Guardian — Mundo",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:26:25+00:00",
+       "fecha": "2026-09-02T10:18:10+00:00",
        "desplazada": false
       },
       {
-       "id": "748e20753676a9199c162e0c0d5d51ad29c131f1",
-       "titulo": "‘We had an ordinary life’: Iran fisherwoman navigates uncertainty of war",
-       "resumen": "An Iranian fisherwoman explains how her idyllic seaside life was shattered when the US and Israel began their bombing.",
-       "url": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
-       "fuente": "Al Jazeera",
+       "id": "70e74007fa32489bc415ec60ed0b1ccf2e98504e",
+       "titulo": "Andy Burnham to face first PMQs as borrowing costs rise – UK politics live",
+       "resumen": "PMQs comes as Resolution Foundation says it is not ‘realistic’ to think defence spending can increase without tax rises Analysis: new battle lines drawn as the leaders face off Alexandra Topping has written a good preview of the…",
+       "url": "https://www.theguardian.com/politics/live/2026/sep/02/pmqs-andy-burnham-kemi-badenoch-labour-uk-politics-latest-news",
+       "fuente": "The Guardian — Mundo",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:26:18+00:00",
+       "fecha": "2026-09-02T10:13:25+00:00",
        "desplazada": false
       },
       {
-       "id": "313ffa2d122624b2da93029cbc13fd88ea3ecf4e",
-       "titulo": "Chinese research team may have cracked secret to crossbreeding Asian and African rice",
-       "resumen": "Chinese scientists have identified a genetic barrier that makes it hard to crossbreed African and Asian rice varieties – a discovery that could lay the foundations for creating high-yielding hybrids. While both Asian and African…",
-       "url": "https://www.scmp.com/news/china/science/article/3366073/chinese-research-team-may-have-cracked-secret-crossbreeding-asian-and-african-rice",
+       "id": "7a00205a129b2bbb7ffc0c39c25348ae61b28d86",
+       "titulo": "EU trade enforcers descend on Beijing demanding China fix ‘untenable’ imbalances",
+       "resumen": "A delegation from the European Commission has been locked in talks with Chinese officials in Beijing, as the sides look to find a diplomatic off-ramp from a looming trade war before an October deadline set by Brussels. The EU…",
+       "url": "https://www.scmp.com/news/china/diplomacy/article/3366067/eu-trade-enforcers-descend-beijing-demanding-china-fix-untenable-imbalances",
        "fuente": "South China Morning Post",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:20:29+00:00",
+       "fecha": "2026-09-02T10:12:52+00:00",
        "desplazada": false
       },
       {
-       "id": "ad2fa067c834d5266c21de7303e76fdafb329f27",
-       "titulo": "Southeast Asia’s scam gangs regroup after Cambodia’s purge",
-       "resumen": "Cambodia says it has flushed out a scam industry estimated to have stolen tens of billions of US dollars last year alone, but a string of arrests in recent days suggests the gangs behind it may have simply changed address. Scam…",
-       "url": "https://www.scmp.com/week-asia/economics/article/3366072/southeast-asias-scam-gangs-regroup-after-cambodias-purge",
+       "id": "aca7f8c3310ca99c46094c18743676a2ce06306c",
+       "titulo": "Los adolescentes chinos que consumen fármacos para adormecer la mente y \"escapar de la realidad\"",
+       "resumen": "Adolescentes que han hablado con la BBC confiesan que muchos estudiantes buscan medicamentos con efectos sedantes o psicoactivos para lidiar con la ansiedad y el miedo al fracaso.",
+       "url": "https://www.bbc.com/mundo/articles/cy8zp49p5llo?at_medium=RSS&at_campaign=rss",
+       "fuente": "BBC Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T10:06:12+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "62932ce15d780e82c9ffec190c4165484849c571",
+       "titulo": "Barclays faces complaint over backing for power plant near world’s largest mangrove forest",
+       "resumen": "Bangladeshi complainants allege Rampal power station’s pollution and climate risks threaten the Sunderbans, a world heritage site Barclays Bank is facing a formal complaint over its financial links to a coal-fired power station…",
+       "url": "https://www.theguardian.com/global-development/2026/sep/02/bangladesh-india-barclays-bank-legal-complaint-backing-polluting-rampal-power-plant-sundarbans",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T10:00:21+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c96b381004ebe48a35cddc10679e052f37c473aa",
+       "titulo": "Family pays tribute to New Mexico man killed by bear: ‘He was a strong person’",
+       "resumen": "Relatives of Benjamin Halona remember his career as wildlife firefighter and his zeal for selling tamales Relatives of a New Mexico man who was fatally mauled by a bear inside his home recently say they are choosing to remember…",
+       "url": "https://www.theguardian.com/us-news/2026/sep/02/new-mexico-man-fatal-bear-attack",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T10:00:21+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5aa5f35fd16de99f90b829518b8a3417567d66ad",
+       "titulo": "Walmart’s Sam’s Club accelerates expansion in China as membership passes 10.7 million",
+       "resumen": "US membership-only retailer Sam’s Club has sped up its expansion in China this year, with the launch of its sixth Beijing location on Monday drawing long queues of eager shoppers. The Walmart-owned warehouse retailer has found a…",
+       "url": "https://www.scmp.com/business/companies/article/3366091/walmarts-sams-club-accelerates-expansion-china-membership-passes-107-million",
        "fuente": "South China Morning Post",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:19:05+00:00",
+       "fecha": "2026-09-02T10:00:14+00:00",
        "desplazada": false
       },
       {
-       "id": "5a6298a970e2a50e63d5b243d6c5bff544a8934f",
-       "titulo": "Morning update",
+       "id": "3a87c28361c9ba4b3dda09c018a7115b92f42fab",
+       "titulo": "Chinese couple’s surgery fundraising highlights how sudden fame ignites support, backlash",
+       "resumen": "A woman in China, suffering from severe scoliosis, has gone viral after accusations that she is “making money by doing nothing” surfaced. This scrutiny followed the revelation that her boyfriend, Yan Ruize, worked gruelling…",
+       "url": "https://www.scmp.com/news/people-culture/trending-china/article/3366004/chinese-couples-surgery-fundraising-highlights-how-sudden-fame-ignites-support-backlash",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T10:00:10+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "0551522ff1cba83428d753aa857fe9d282d96145",
+       "titulo": "Nepal search operations continue a week after catastrophic floods",
+       "resumen": "The UN says the disaster has left at least 2.2 million tonnes of debris, according to a preliminary estimate.",
+       "url": "https://www.aljazeera.com/news/2026/9/2/nepal-search-operations-continue-a-week-after-catastrophic-floods?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:45:52+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "ea91201eddfc612ebb54ce8fc0442c897f745604",
+       "titulo": "Nuevo ataque ruso a Odesa deja al menos ocho heridos y afecta suministro eléctrico",
+       "resumen": "Según fuentes ucranianas, Rusia ha atacado de nuevo la ciudad portuaria de Odesa, en el mar Negro, dejando al menos ocho heridos y afectando el suministro eléctrico de la población.",
+       "url": "https://www.dw.com/es/nuevo-ataque-ruso-a-odesa-deja-al-menos-ocho-heridos-y-afecta-suministro-eléctrico/a-78716023?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:44:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "18c0a8d8dea4e315c41e055644f0c4bcb299554e",
+       "titulo": "Las baterías cuánticas que desafían lo que sabemos sobre cómo se cargan estos dispositivos",
+       "resumen": "Científicos desarrollaron un prototipo que, contra toda lógica convencional, se carga más rápido cuanto mayor es su tamaño, aunque todavía existen dudas sobre sus posibles aplicaciones.",
+       "url": "https://www.bbc.com/mundo/articles/cx2zdz11l42o?at_medium=RSS&at_campaign=rss",
+       "fuente": "BBC Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:35:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1c3a3139dbe66fb3d1ace33ace43f3fc2c4e6418",
+       "titulo": "India defies Iran war oil shock to keep 8% growth on track",
+       "resumen": "India’s stronger-than-expected first quarter growth has bolstered analysts’ confidence that it can sustain its momentum through the rest of the financial year and remain the world’s fastest-growing major economy – even as it…",
+       "url": "https://www.scmp.com/week-asia/economics/article/3366115/india-defies-iran-war-oil-shock-keep-8-growth-track",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:34:27+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d5e841ec8221f7402f335ff9dbf676901c13534f",
+       "titulo": "China’s No 2 foundry Hua Hong invests US$2b in new fab to meet surging AI-driven demand",
+       "resumen": "Major Chinese foundry Hua Hong Grace Semiconductor is pouring US$2 billion into a massive capacity expansion in the Chinese chip production hub of Wuxi, racing to meet skyrocketing domestic demand for AI infrastructure and bypass…",
+       "url": "https://www.scmp.com/tech/big-tech/article/3366104/chinas-no-2-foundry-hua-hong-invests-us2b-new-fab-meet-surging-ai-driven-demand",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:30:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e3895ac54a929e0317eaf45d1b610128b448777b",
+       "titulo": "Israel is prepared to respond to Iranian attacks, says defence minister",
        "resumen": "",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-615",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-prepared-respond-iranian-attacks-says-defence-minister",
        "fuente": "Middle East Eye",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:05:49+00:00",
+       "fecha": "2026-09-02T09:28:31+00:00",
        "desplazada": false
       },
       {
-       "id": "62c7272032bb933b936515c6a1862b9f91e801a3",
-       "titulo": "Mark Ruffalo comments cause pushback against anti-Semitism ‘smear campaign’",
-       "resumen": "The actor criticised Paramount-Warner Bros merger, linking it to Oracle's ties with Israeli military amid Gaza genocide.",
-       "url": "https://www.aljazeera.com/news/2026/9/2/mark-ruffalo-comments-spark-pushback-against-antisemitism-smear-campaign?traffic_source=rss",
+       "id": "974b545eb7ee8e562a43e4b3e469e80b0c7de0ea",
+       "titulo": "Advocacy group urges Hong Kong to let residents tap pension savings for homes",
+       "resumen": "A Hong Kong advocacy group has urged the government to let residents use a portion of their mandatory pension savings for home purchases, one of several proposals submitted ahead of the policy address later this month. The…",
+       "url": "https://www.scmp.com/news/hong-kong/society/article/3366110/advocacy-group-urges-hong-kong-let-residents-tap-pension-savings-homes",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:28:12+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "0a88a0036d2182e7bda210967dc6944bc9f002de",
+       "titulo": "Kallas: ataque híbrido en Leipzig apunta a \"terrorismo patrocinado por el Estado\"",
+       "resumen": "La responsable de Política Exterior de la UE, Kaja Kallas, dijo que el ataque híbrido con drones en el aeropuerto de Leipzig \"tiene las características del terrorismo patrocinado por el Estado\".",
+       "url": "https://www.dw.com/es/kallas-ataque-híbrido-en-leipzig-apunta-a-terrorismo-patrocinado-por-el-estado/a-78712373?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:28:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "2b5f391bd6199fe92a571fad24e00871e681ed85",
+       "titulo": "Denmark sends conscripts to Greenland, signalling aim to boost Arctic ‌defences",
+       "resumen": "For the first time in recent history, Danish ⁠conscripts have been deployed to ⁠Greenland, as Denmark moves to ⁠bolster its presence in the Arctic after US demands to acquire the territory. US President Donald Trump has…",
+       "url": "https://www.scmp.com/news/world/europe/article/3366112/denmark-sends-conscripts-greenland-signalling-aim-boost-arctic-defences",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:24:47+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "bffbe90c1922db85b9fc5b28a38e18aa871daebc",
+       "titulo": "Xi makes world tour ahead of White House summit",
+       "resumen": "Chinese President Xi Jinping touched down in Egypt on Tuesday, the second stop in a potentially busy month of travel that will probably conclude with a White House meeting. “Once you drink from the Nile, you are destined to…",
+       "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3366111/xi-makes-world-tour-ahead-white-house-summit",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:24:21+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "b766da80077cea61aaab94e58841bdf3bcfb082f",
+       "titulo": "Guinea-Bissau voters approve new constitution expanding presidential powers",
+       "resumen": "Changes include fewer seats in parliament and new rules on presidential candidates ahead of December elections Guinea-Bissau voters have approved a new constitution significantly expanding presidential powers ahead of elections…",
+       "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-09-02T09:20:55+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a7a25959305f8608de7685970e55d07dfd2522c3",
+       "titulo": "What we know about jailed HK activist Joshua Wong’s latest charge",
+       "resumen": "",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/9/2/what-we-know-about-jailed-hk-activist-joshua-wongs-latest-charge?traffic_source=rss",
        "fuente": "Al Jazeera",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:04:51+00:00",
+       "fecha": "2026-09-02T09:17:49+00:00",
        "desplazada": false
       },
       {
-       "id": "4595717ca3db5b5a89d872f792c4c4f7811dddb9",
-       "titulo": "Faster homework, poor exam results: What AI is doing to students’ learning",
-       "resumen": "AI is spreading in classrooms, but its impact on learning depends less on the technology than on how students use it.",
-       "url": "https://www.aljazeera.com/news/2026/9/2/faster-homework-poor-exam-results-what-ai-is-doing-to-students-learning?traffic_source=rss",
-       "fuente": "Al Jazeera",
-       "peso": 3,
-       "seccion": "internacional",
-       "fecha": "2026-09-02T06:01:09+00:00",
-       "desplazada": false
-      },
-      {
-       "id": "8727722525f8388864d5ae5f7fcce076279db16b",
-       "titulo": "Almost half of world’s farmers poisoned by pesticides every year, experts find",
-       "resumen": "Study reveals that pesticide poisoning kills 11,000 people each year, with India accounting for nearly 60% of fatalities Almost half of the world’s farmers are poisoned by pesticides every single year, a study has found. Using…",
-       "url": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
+       "id": "2117430d75ce48bbdc0e7f2fb3d543e630168e3c",
+       "titulo": "Range Rover launches its first electric vehicle, with starting price of £154,070",
+       "resumen": "Fully electric SUV unveiled after year-long delay and will be built at Jaguar Land Rover’s plant in Solihull Range Rover has launched its first electric vehicle – a year later than planned – offering a greener option for fans of…",
+       "url": "https://www.theguardian.com/business/2026/sep/02/range-rover-launches-first-electric-vehicle",
        "fuente": "The Guardian — Mundo",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:00:25+00:00",
+       "fecha": "2026-09-02T09:08:23+00:00",
        "desplazada": false
       },
       {
-       "id": "381271a14ce00b22a77fcd6f9f247f1f56aee527",
-       "titulo": "Ukrainian film-maker criticises EU after it cuts Venice Biennale funding over Russia controversy",
-       "resumen": "Sergei Loznitsa likens removal of €2m grant to ‘a punishment in kindergarten’ on eve of Venice film festival One of Ukraine’s most acclaimed film-makers has criticised the European Commission’s decision to cut off funds to the…",
-       "url": "https://www.theguardian.com/film/2026/sep/02/ukrainian-film-maker-sergei-loznitsa-criticises-eu-cuts-venice-biennale-funding-russia-controversy",
-       "fuente": "The Guardian — Mundo",
+       "id": "afd21ca515ea58faf858328a89d3674925006a2d",
+       "titulo": "La RD Congo supera la barrera de los 3.000 muertos por el brote de ébola",
+       "resumen": "Han muerto más de 3.000 personas en la epidemia de ébola en la República Democrática del Congo, y los casos confirmados superan los 6.100.",
+       "url": "https://www.dw.com/es/la-rd-congo-supera-la-barrera-de-los-3-000-muertos-por-el-brote-de-ébola/a-78706661?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:00:25+00:00",
+       "fecha": "2026-09-02T09:07:00+00:00",
        "desplazada": false
       },
       {
-       "id": "7a50808a2ee1ac8538bee1dc82fe791bfd173a46",
-       "titulo": "UK must end all trade with Israel, says co-founder of BDS movement",
-       "resumen": "Exclusive: sanctions against ministers and settler groups are ‘smoke and mirrors cop-out’ says Omar Barghouti Britain’s legal and ethical obligation to stop a genocide in Gaza requires it to take bigger steps than halting trade…",
-       "url": "https://www.theguardian.com/world/2026/sep/02/uk-must-end-all-trade-with-israel-says-co-founder-of-bds-movement",
-       "fuente": "The Guardian — Mundo",
+       "id": "21eab6f4228d26447112eb83a42d88afe74fff06",
+       "titulo": "Two dead after Monday attack on Saudi oil tanker in Hormuz, says shipping firm",
+       "resumen": "",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/two-dead-after-monday-attack-saudi-oil-tanker-hormuz-says-shipping-firm",
+       "fuente": "Middle East Eye",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-09-02T06:00:24+00:00",
+       "fecha": "2026-09-02T09:04:20+00:00",
        "desplazada": false
       }
      ]
@@ -743,110 +1083,62 @@
      "titulo": "Chismes y farándula",
      "articulos": [
       {
-       "id": "d72cab4e8f9feea34d1892d5a0cd754dda69dd15",
-       "titulo": "Newlywed Tallulah Willis, 32, swaps bridal glam for low-key comfort as she's pictured for the first time since tying the knot with Justin Acee in lavish ceremony",
-       "resumen": "The 32-year-old actress - who wed Acee on August 10 - drew a sharp contrast to her wedding day glamour in an oversized red and white striped T-shirt.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16093869/Bruce-Willis-daughter-Tallulah-LA-wedding-Justin-Acee.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "1bbe934731b29ea75b6a61b4b2a924f659656078",
+       "titulo": "Mel C raked in £1million last year from solo projects and Spice Girls royalties but Sporty's bank balance boost pales in comparison to Victoria Beckham's VERY Posh earnings",
+       "resumen": "Mel C made £1million last year from her solo career and lucrative Spice Girls royalties.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098313/Mel-C-raked-1million-year-solo-projects-Spice-Girls-royalties-Sportys-bank-balance-boost-pales-comparison-Victoria-Beckhams-Posh-earnings.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:45:21+00:00",
+       "fecha": "2026-09-02T10:20:43+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "40105af6977cb0de13512d0b9efd7024b7d9b211",
-       "titulo": "Vogue Williams gives birth: Presenter, 40, welcomes her fourth child with Spencer Matthews, 38, as she says 'our house is bursting with love'",
-       "resumen": "The Irish TV presenter, 40, and the former Made In Chelsea star, 38, announced the birth of their baby boy via her Instagram page on Tuesday evening.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16086617/Vogue-Williams-gives-birth-Presenter-40-welcomes-fourth-child-Spencer-Matthews-38-says-house-bursting-love.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "c5bc1973dea2c7317d0100d5a981969d5e9e8521",
+       "titulo": "Harry Potter star Nick Frost, 54, secretly welcomes fourth child as he drops major hint he's quietly married long-term partner Hayley",
+       "resumen": "Harry Potter star Nick Frost has secretly welcomed a fourth child with his partner Hayley.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098297/Harry-Potter-Nick-Frost-secretly-fourth-child.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:40:40+00:00",
+       "fecha": "2026-09-02T10:19:36+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "06d053457d8aab7a6b56d784378558b6f202961f",
-       "titulo": "The View star Joy Behar dealt humiliating blow as Hamptons mansion sells for almost HALF her asking price",
-       "resumen": "Behar, who now stands as the longest-serving panelist on The View, first acquired the four-bedroom Sag Harbor spread in 2016 for $4.75 million.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097019/view-star-joy-behar-humiliating-blow-hamptons-mansion-sale-half-asking-price.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "090611aa4f70680b00ee8982c1c909ef30ffff3e",
+       "titulo": "Yasmin Le Bon, 61, looks incredible in a bikini as she joins Duran Duran husband of 40 years Simon, 67, on the coast of Sardinia",
+       "resumen": "Yasmin Le Bon looked incredible in a black bikini as she joined her husband Simon on a lavish family holiday in Sardinia.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098511/Yasmine-Le-Bon-61-looks-incredible-bikini-joins-Duran-Duran-husband-40-years-Simon-67-coast-Sardinia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:39:59+00:00",
+       "fecha": "2026-09-02T10:19:27+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "2e598cab47446d0a2c0dc22ed9411efbfb391ce0",
-       "titulo": "Katie Price 'dumps' husband Lee Andrews by text after discovering he isn't a multi-millionaire and has just £2.22 in his account",
-       "resumen": "Katie Price has called it quits with her husband Lee Andrews after discovering he had just £2.22 in his account despite claiming to be a millionaire, a new report claims.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097135/Katie-Price-dumps-husband-Lee-Andrews-text-discovering-isnt-multi-millionaire-just-2-22-account.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "bc666f4da3df6ae593bd0aa0cced63f61436c665",
+       "titulo": "Kate Lawler leads the back to school parents with refreshingly realistic video after being bombarded with idealistic Instagram content",
+       "resumen": "Kate Lawler has reassured parents that not everyone is giving their child a picture perfect return to school.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098189/Kate-Lawler-leads-school-parents-refreshingly-realistic-video-bombarded-idealistic-Instagram-content.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:39:27+00:00",
+       "fecha": "2026-09-02T10:10:15+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "19b9e36014e490018d8115e1ba83e1b39b6cf390",
-       "titulo": "Wheel of Fortune announcer Jim Thornton SUSPENDED amid investigation as show recasts role",
-       "resumen": "Jim Thornton, the announcer of Wheel of Fortune, was suspended on Tuesday by Sony Pictures Television Studios.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097307/Wheel-Fortune-announcer-Jim-Thornton-SUSPENDED-investigation-allegations.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "f5543e3c89f322a0ca0e6a85072356afe3072bd2",
+       "titulo": "Callum Turner, Jack Lowden and Jack Barton enter the Bond race as the top three favourites to take over from Daniel Craig according to the bookies",
+       "resumen": "The highly sought after role of James Bond is a three horse race according to a bookmaker, who predict it's between Callum Turner, Jack Lowden and Jack Barton.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098201/Callum-Turner-Jack-Lowden-Jack-Barton-enter-Bond-race-three-favourites-Daniel-Craig-according-bookies.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:36:03+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "f0692de995a14cb80695a6c68181c8f7c70389dd",
-       "titulo": "Ariana Grande sparks Ricky Alvarez MARRIAGE rumors with surprise lyric change during last tour concert",
-       "resumen": "The singer, 33, has rekindled her relationship with the former backup dancer, 35, whom she previously dated from 2015 to 2016, in June.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097983/Ariana-Grande-sparks-Ricky-Alvarez-marriage-rumors.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-       "fuente": "Daily Mail — Showbiz",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:26:45+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "c46b3b5836f702a062cf2bc19ccfe02339e7ff06",
-       "titulo": "Katie Holmes, 47, posts VERY cozy snap with boytoy Jason Bard Yarmosky, 39, as she celebrates his birthday with sweet tribute",
-       "resumen": "The actress, 47, cozied up to her younger beau, 39, in a sweet photo she shared to her Instagram on Tuesday.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097775/Katie-Holmes-cozy-boyfriend-Jason-Bard-Yarmosky-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-       "fuente": "Daily Mail — Showbiz",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:25:48+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "382a0d1280b5aacb6274178c144fef7acd8f82c3",
-       "titulo": "Bondi Rescue star Matt Dee dies suddenly aged 47: Suicide prevention advocate remembered for his 'infectious personality' and 'Aussie charm' had heartbreaking family history",
-       "resumen": "Bondi Rescue star Matt Dee has died aged 47. His family announced his death on Wednesday in a statement shared on social media.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097937/bondi-rescue-matt-dee-dead.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-       "fuente": "Daily Mail — Showbiz",
-       "peso": 3,
-       "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:24:47+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "b20c90accf98a3a1ef3528bea6ecef902ea90ba3",
-       "titulo": "Espectáculos - TVNotas",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91OFFJOVE4Tk43Q0Q5ZFg4TGJaUVBNTDlSYy1TMGQxaUtzQ01uUVpoRnFFVTI5MGdOVTNGaG93SjFxSFN0eEhRcXhkeGdseDkxbUstX2tZWTEtQ2JuMjVuV1lXVVVKOUVIT2kxZHNyOA?oc=5",
-       "fuente": "TVNotas · vía Google",
-       "peso": 1,
-       "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:47:18+00:00",
+       "fecha": "2026-09-02T10:06:01+00:00",
        "prioridad": 2,
        "desplazada": false
       },
@@ -858,43 +1150,236 @@
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:24:28+00:00",
+       "fecha": "2026-09-02T10:02:16+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "81c298a60d2b80e0fbf422199b88d36d11e01813",
+       "titulo": "The true cost of Katie Price's latest divorce: Lee Andrews marriage has already cost her £100k but she's plotting her revenge and comeback after dumping him by text",
+       "resumen": "Friends and family are all relieved at Katie Price's decision to finally call it a day and leave con man Lee Andrews.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098265/true-cost-Katie-Prices-latest-divorce-Lee-Andrews-marriage-cost-100k-revenge-dumping-text.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T09:44:03+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "119fe1c89b7db419c123cedd856d2f086629fca8",
+       "titulo": "Controversial American influencer Trisha Paytas - who legally called her kids Aquaman and Malibu Barbie - announces Australian tour",
+       "resumen": "",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098169/trisha-paytas-australia-tour-announcement-eras-trish.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T09:41:31+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "36b715a2dbd68ce2307199d03d9e779555aa44b8",
+       "titulo": "RHONY Star Carole Radziwill Calls Ex-Friend Ghislaine Maxwell a 'Horrible, Horrible Person'",
+       "resumen": "Carole Radziwill is speaking out about her name surfacing in the Epstein files — saying she was totally in the dark about the evil doings of her onetime friend and Epstein confidant, Ghislaine Maxwell, who she now calls a…",
+       "url": "https://www.tmz.com/2026/09/02/carole-radziwill-says-ghislaine-maxwell-is-a-horrible-person/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T09:09:13+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "430aa622f4f0d04c70c6f60ba65a0392af47a077",
+       "titulo": "Michael Bay Details Recent Conversation With Shia LaBeouf Amid His Ongoing Issues",
+       "resumen": "Michael Bay says he had a rare conversation with Shia LaBeouf just a few months ago that focused on family and the incredible franchise they built together. The legendary action movie director sat down with TMZ's Charlie Neff for…",
+       "url": "https://www.tmz.com/2026/09/02/michael-bay-comments-on-shia-labeouf/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T08:00:31+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "4b58252fecef2793a415089af01cace4c76d1b00",
+       "titulo": "Chix On Netflix ... Guess The 'Pop Star Academy' Winner!",
+       "resumen": "We’re throwin’ a pop star into the mix this week on Chix On Netflix -- Who could it be?! She was one of 6 who stole the show and won the 'Pop Star Academy' competition. This gal can sing, dance ... and she kicked off her career…",
+       "url": "https://www.tmz.com/2026/09/02/lara-raj-hot-pictures/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:45:20+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "b32bb2f2942c174152b0fff653ccad62b19cd84c",
+       "titulo": "Novak Djokovic Gives Health Update After Puking During U.S. Open Match",
+       "resumen": "Novak Djokovic puked on the Arthur Ashe Stadium court, cramped up, cried, and lost a grueling 5-set match just two days ago ... so, when we saw the tennis GOAT out in NYC, we asked the obvious question -- how are ya feeling?!…",
+       "url": "https://www.tmz.com/2026/09/02/novak-djokovic-gives-health-update-us-open-match/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:30:15+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "af55ecf0d337fdee751ffcd5f6ff34d08b0c22f7",
+       "titulo": "'Buffalo Stance' Singer Neneh Cherry 'Memba Her?!",
+       "resumen": "Swedish born Neneh Cherry (real name Neneh Mariann Karlsson) was in her mid-20s when she shot to stardom as a songwriter, rapper and singer with 80s dance bangers like \"Buffalo Stance,\" \"Kisses On The Wind,\" and \"Manchild\" on her…",
+       "url": "https://www.tmz.com/2026/09/02/neneh-cherry-buffalo-stance-singer-throwback-picture/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:01:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "183c26690cf5517d10acf63ffe33d58ce2655ce6",
+       "titulo": "Do or Do Not Check in With the Star Wars Cast, There Is No Try",
+       "resumen": "You say you love checking in with the cast of Star Wars? We know. Not always onboard with the sentiment, however, was Harrison Ford, who admittedly tried to put a lot of mileage between himself...",
+       "url": "https://www.eonline.com/news/1435625/star-wars-cast-then-now-harrison-ford-mark-hamill-more",
+       "fuente": "E! Online",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:00:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "c46b3b5836f702a062cf2bc19ccfe02339e7ff06",
+       "titulo": "Katie Holmes, 47, posts VERY cozy snap with boytoy Jason Bard Yarmosky, 39, as she celebrates his birthday with sweet tribute",
+       "resumen": "The actress, 47, cozied up to her younger beau, 39, in a sweet photo she shared to her Instagram on Tuesday.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16097775/Katie-Holmes-cozy-boyfriend-Jason-Bard-Yarmosky-birthday.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T09:27:31+00:00",
        "prioridad": 2,
        "desplazada": true
       },
       {
-       "id": "907c3d49c66b01f7d354f48d040ffbed45b8a5e1",
-       "titulo": "Jennifer Lopez flashes the flesh in skimpy workout gear before reuniting with child Oskar, 18",
-       "resumen": "The superstar, 57, put her toned midriff on display in a low-cut burgundy sports bra and matching leggings before grabbing lunch with her child Oskar.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097637/Jennifer-Lopez-sportswear-reuniting-child-Oskar.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "dd1b6ff771cc1e272bc209e8d054fe67b67b96af",
+       "titulo": "John Lennon's son Sean, 50, confirms he has become a father for the first time as he welcomes baby boy with girlfriend Charlotte Kemp Muhl, 39.... after his brother Julian first revealed the news in a now-deleted post",
+       "resumen": "Sean Ono Lennon and girlfriend Charlotte Kemp Muhl have announced the birth of their baby boy.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098151/John-Lennons-son-Sean-51-confirms-father-time-welcomes-baby-boy-girlfriend-Charlotte-Kemp-Muhl-39-brother-Julian-revealed-news-deleted-post.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:23:25+00:00",
+       "fecha": "2026-09-02T09:16:41+00:00",
        "prioridad": 2,
        "desplazada": true
       },
       {
-       "id": "56bb4eff1f3a959d56d11e988f9f52d88b5d53c1",
-       "titulo": "Mob Wives star Marissa Jade, 41, risks a wardrobe malfunction as she shows off her jaw-dropping figure in daring swimwear",
-       "resumen": "Former Mob Wives star Marissa Jade has resurfaced exactly 10 years after the controversial VH1 show aired its final season.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097077/Mob-Wives-Marissa-Jade-bikini-farrah-abraham.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "845287cebbf151e382bbc3b0385c392d0492a017",
+       "titulo": "Florence Pugh has banked a huge £10million as she is tipped to play Miss Moneypenny in Bond spin-off after hinting at career break",
+       "resumen": "Florence Pugh has banked a huge £10million ahead of rumours she is tipped to play Miss Moneypenny in Bond spin-off.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098245/Florence-Pugh-banked-huge-10million-tipped-play-Miss-Moneypenny-Bond-spin-hinting-career-break.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:17:17+00:00",
+       "fecha": "2026-09-02T09:13:03+00:00",
        "prioridad": 2,
        "desplazada": true
       },
       {
-       "id": "8f59cc74097797201810bb16a773041d4867c073",
-       "titulo": "McLeod's Daughters star Simmone Jade Mackinnon's niece shares heartbreaking tribute to her mother Kym following her tragic death",
-       "resumen": "The niece of McLeod's Daughters star Simmone Jade Mackinnon has shared a heartbreaking tribute to her mother Kym after she was found dead at Tamborine Mountain.",
-       "url": "https://www.dailymail.com/tvshowbiz/article-16097435/simmone-jade-mackinnon-sister-kym-tribute-dance-daughters.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "id": "f14a1834605883017f378d10de9f37be6e0c6be3",
+       "titulo": "Blake Lively layers up in a cozy fall ensemble as she steps out in NY after being trolled by Candace Owens",
+       "resumen": "The Gossip Girl star, 39, cut a chic figure while delivering a cup of coffee to her husband Ryan Reynolds , 49, who waited inside his car.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16097423/Blake-Lively-fall-fashion-NY-Candace-Owens-jab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
        "fuente": "Daily Mail — Showbiz",
        "peso": 3,
        "seccion": "espectaculos",
-       "fecha": "2026-09-02T06:14:50+00:00",
+       "fecha": "2026-09-02T08:40:52+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "d14165928df62e1495fa80e089e04ce678835eb6",
+       "titulo": "Damian Lewis shows off his quirky sense of style as he joins a slimmed-down Brendan Fraser and Andrew Scott at the Pressure London premiere",
+       "resumen": "Damian Lewis showed off his quirky sense of style as he joined a slimmed-down Brendan Fraser and Andrew Scott at the Pressure premiere in London on Tuesday night.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098237/Damian-Lewis-shows-quirky-sense-style-Pressure.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T08:26:18+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "8e1377b7a7834ec3d5d1a44e53ab7830a05cdfc3",
+       "titulo": "James Packer's new wife Kylie Lim shows off her figure in surprisingly affordable $400 lace frock as the honeymooners cruise to lunch with the billionaire's son Jackson in Ibiza",
+       "resumen": "James Packer and his new wife Kylie Lim are enjoying their first days of newlywed bliss.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098111/james-packer-kylie-lim-wedding-superyacht-ibiza-sardinia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T08:07:10+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "1638dfe67eaebad06cf925a6b73b923e388b244a",
+       "titulo": "Celine Dion looks giddy as she returns to her hotel ahead of her Paris residency after dancing in the street",
+       "resumen": "Celine Dion looked giddy and in great spirits as she returned to her hotel on Tuesday night ahead of her stage comeback in the city.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16098157/Celine-Dion-giddy-returns-hotel-prepares-kick-Paris-residency-dancing-street.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:48:08+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "2e598cab47446d0a2c0dc22ed9411efbfb391ce0",
+       "titulo": "Katie Price 'dumps' husband Lee Andrews by text after 'discovering he isn't a multi-millionaire and has just £2.22 in his account'",
+       "resumen": "Katie Price has called it quits with her husband Lee Andrews after discovering he had just £2.22 in his account despite claiming to be a millionaire, a new report claims.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16097135/Katie-Price-dumps-husband-Lee-Andrews-text-discovering-isnt-multi-millionaire-just-2-22-account.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:47:07+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "048fe43a44b026326d60b6928a3cfbff8a5a78ea",
+       "titulo": "Lionel Richie, 77, being tested for 'cardiac-related issues' as he remains hospitalized... after newly surfaced concert footage shows him appearing out of breath",
+       "resumen": "Lionel Richie remains hospitalized and is being tested for 'cardiac-related issues' after checking himself in on Saturday, shortly after appearing to struggle during a concert.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16097021/Lionel-Richie-appears-breath-sit-trip-hospital-newly-surfaced-concert-clip.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:35:22+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "a38e9b6a5cd4092e6d8ffd136edfd3d6eb4f4e8f",
+       "titulo": "Salma Hayek is 60! How she maintains her incredible bikini body - from snacking on bugs to restorative yoga - as she celebrates milestone birthday",
+       "resumen": "On Wednesday, the Oscar-nominated star celebrated her 60th birthday - with fans left in awe at her youthful looks.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16095133/Salma-Hayek-60-bikini-body-bugs-yoga.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:31:38+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "fc5d4f110287a06b03dd75cbbf64ae09e69e53c3",
+       "titulo": "This Morning viewers blast 'harsh' Craig Doyle and Christine Lampard for 'interrogating' Giovanni Pernice during 'uncomfortable' interview over Amanda Abbington Strictly scandal",
+       "resumen": "This Morning viewers have blasted 'harsh' Craig Doyle and Christine Lampard for 'interrogating' Giovanni Pernice on Tuesday's show.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16096853/This-Morning-Craig-Doyle-Christine-Lampard-Giovanni-Pernice-Amanda-Abbington-Strictly.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-09-02T07:25:01+00:00",
+       "tambien_en": [],
        "prioridad": 2,
        "desplazada": true
       }
@@ -905,22 +1390,214 @@
  },
  "fuentes": [
   {
+   "nombre": "ATDT y gobierno digital",
+   "url": "https://news.google.com/rss/search?q=%22Agencia+de+Transformaci%C3%B3n+Digital%22+OR+ATDT+OR+%22Llave+MX%22+OR+%22Pe%C3%B1a+Merino%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Animal Político",
+   "url": "https://news.google.com/rss/search?q=site:animalpolitico.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Aristegui Noticias",
+   "url": "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Blu Radio",
+   "url": "https://news.google.com/rss/search?q=site:bluradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "C5N",
+   "url": "https://news.google.com/rss/search?q=site:c5n.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Caracol Radio",
+   "url": "https://news.google.com/rss/search?q=site:caracol.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Debate",
+   "url": "https://news.google.com/rss/search?q=site:debate.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "El Colombiano",
+   "url": "https://news.google.com/rss/search?q=site:elcolombiano.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "El Destape",
+   "url": "https://news.google.com/rss/search?q=site:eldestapeweb.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "El Espectador",
+   "url": "https://news.google.com/rss/search?q=site:elespectador.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Excélsior",
+   "url": "https://news.google.com/rss/search?q=site:excelsior.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "IA en español vía Google Noticias",
+   "url": "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(OpenAI+OR+Anthropic+OR+Google+OR+Meta+OR+regulaci%C3%B3n+OR+modelo+OR+empleo)+-curso+-taller+-diplomado+-congreso+-universidad+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Infobae Argentina",
+   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Infobae Colombia",
+   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Infobae México",
+   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
    "nombre": "La Nación",
    "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
    "estado": "error",
    "detalle": "el feed respondió pero llegó vacío"
   },
   {
+   "nombre": "La Silla Vacía",
+   "url": "https://news.google.com/rss/search?q=site:lasillavacia.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "La Voz del Interior",
+   "url": "https://news.google.com/rss/search?q=site:lavoz.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Milenio",
+   "url": "https://news.google.com/rss/search?q=site:milenio.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Perfil",
+   "url": "https://news.google.com/rss/search?q=site:perfil.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Portada México vía Google Noticias",
+   "url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Portada mundial vía Google Noticias",
+   "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Proceso",
+   "url": "https://news.google.com/rss/search?q=site:proceso.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Página/12",
+   "url": "https://news.google.com/rss/search?q=site:pagina12.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Quién",
+   "url": "https://news.google.com/rss/search?q=site:quien.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Reuters vía Google Noticias",
+   "url": "https://news.google.com/rss/search?q=site:reuters.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Semana",
+   "url": "https://news.google.com/rss/search?q=site:semana.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Semanario ZETA",
+   "url": "https://news.google.com/rss/search?q=site:zetatijuana.com+when:2d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Sucesos graves vía Google Noticias",
+   "url": "https://news.google.com/rss/search?q=(guerra+OR+terremoto+OR+atentado+OR+%22ataque+armado%22+OR+%22accidente+a%C3%A9reo%22+OR+hurac%C3%A1n+OR+%22estado+de+emergencia%22)+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "TVNotas",
+   "url": "https://news.google.com/rss/search?q=site:tvnotas.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "The New York Times — Inteligencia artificial",
+   "url": "https://news.google.com/rss/search?q=site:nytimes.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Uno TV",
+   "url": "https://news.google.com/rss/search?q=site:unotv.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "W Radio",
+   "url": "https://news.google.com/rss/search?q=site:wradio.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
+   "nombre": "Ámbito",
+   "url": "https://news.google.com/rss/search?q=site:ambito.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
+   "estado": "error",
+   "detalle": "HTTP 503"
+  },
+  {
    "nombre": "20 minutos",
    "url": "https://www.20minutos.es/rss/",
    "estado": "ok",
-   "detalle": "193 titulares"
-  },
-  {
-   "nombre": "ATDT y gobierno digital",
-   "url": "https://news.google.com/rss/search?q=%22Agencia+de+Transformaci%C3%B3n+Digital%22+OR+ATDT+OR+%22Llave+MX%22+OR+%22Pe%C3%B1a+Merino%22+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "6 titulares"
+   "detalle": "189 titulares"
   },
   {
    "nombre": "Al Jazeera",
@@ -929,40 +1606,10 @@
    "detalle": "25 titulares"
   },
   {
-   "nombre": "Animal Político",
-   "url": "https://news.google.com/rss/search?q=site:animalpolitico.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "21 titulares"
-  },
-  {
-   "nombre": "Aristegui Noticias",
-   "url": "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "46 titulares"
-  },
-  {
    "nombre": "BBC Mundo",
    "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
    "estado": "ok",
    "detalle": "34 titulares"
-  },
-  {
-   "nombre": "Blu Radio",
-   "url": "https://news.google.com/rss/search?q=site:bluradio.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "C5N",
-   "url": "https://news.google.com/rss/search?q=site:c5n.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Caracol Radio",
-   "url": "https://news.google.com/rss/search?q=site:caracol.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
   },
   {
    "nombre": "Clarín — Lo último",
@@ -980,7 +1627,7 @@
    "nombre": "DW en español",
    "url": "https://rss.dw.com/xml/rss-sp-all",
    "estado": "ok",
-   "detalle": "25 titulares"
+   "detalle": "28 titulares"
   },
   {
    "nombre": "Daily Mail — Showbiz",
@@ -989,40 +1636,16 @@
    "detalle": "150 titulares"
   },
   {
-   "nombre": "Debate",
-   "url": "https://news.google.com/rss/search?q=site:debate.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "E! Online",
    "url": "https://www.eonline.com/syndication/feeds/rssfeeds/topstories.xml",
    "estado": "ok",
    "detalle": "30 titulares"
   },
   {
-   "nombre": "El Colombiano",
-   "url": "https://news.google.com/rss/search?q=site:elcolombiano.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "El Destape",
-   "url": "https://news.google.com/rss/search?q=site:eldestapeweb.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "El Español",
    "url": "https://www.elespanol.com/rss/",
    "estado": "ok",
    "detalle": "30 titulares"
-  },
-  {
-   "nombre": "El Espectador",
-   "url": "https://news.google.com/rss/search?q=site:elespectador.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
   },
   {
    "nombre": "El Financiero",
@@ -1034,7 +1657,7 @@
    "nombre": "El Mundo — Portada",
    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
    "estado": "ok",
-   "detalle": "28 titulares"
+   "detalle": "30 titulares"
   },
   {
    "nombre": "El País México",
@@ -1058,7 +1681,7 @@
    "nombre": "El País — Portada",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "estado": "ok",
-   "detalle": "145 titulares"
+   "detalle": "146 titulares"
   },
   {
    "nombre": "El País — Tecnología",
@@ -1091,40 +1714,10 @@
    "detalle": "4 titulares"
   },
   {
-   "nombre": "Excélsior",
-   "url": "https://news.google.com/rss/search?q=site:excelsior.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "France 24 en español",
    "url": "https://www.france24.com/es/rss",
    "estado": "ok",
    "detalle": "23 titulares"
-  },
-  {
-   "nombre": "IA en español vía Google Noticias",
-   "url": "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(OpenAI+OR+Anthropic+OR+Google+OR+Meta+OR+regulaci%C3%B3n+OR+modelo+OR+empleo)+-curso+-taller+-diplomado+-congreso+-universidad+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "64 titulares"
-  },
-  {
-   "nombre": "Infobae Argentina",
-   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Infobae Colombia",
-   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Infobae México",
-   "url": "https://news.google.com/rss/search?q=site:infobae.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
   },
   {
    "nombre": "La Jornada — Capital",
@@ -1151,18 +1744,6 @@
    "detalle": "36 titulares"
   },
   {
-   "nombre": "La Silla Vacía",
-   "url": "https://news.google.com/rss/search?q=site:lasillavacia.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "44 titulares"
-  },
-  {
-   "nombre": "La Voz del Interior",
-   "url": "https://news.google.com/rss/search?q=site:lavoz.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "MIT Technology Review — IA",
    "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
    "estado": "ok",
@@ -1173,66 +1754,6 @@
    "url": "https://www.middleeasteye.net/rss",
    "estado": "ok",
    "detalle": "20 titulares"
-  },
-  {
-   "nombre": "Milenio",
-   "url": "https://news.google.com/rss/search?q=site:milenio.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Perfil",
-   "url": "https://news.google.com/rss/search?q=site:perfil.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Portada México vía Google Noticias",
-   "url": "https://news.google.com/rss?hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "33 titulares"
-  },
-  {
-   "nombre": "Portada mundial vía Google Noticias",
-   "url": "https://news.google.com/rss/headlines/section/topic/WORLD?hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "65 titulares"
-  },
-  {
-   "nombre": "Proceso",
-   "url": "https://news.google.com/rss/search?q=site:proceso.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Página/12",
-   "url": "https://news.google.com/rss/search?q=site:pagina12.com.ar+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Quién",
-   "url": "https://news.google.com/rss/search?q=site:quien.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "19 titulares"
-  },
-  {
-   "nombre": "Reuters vía Google Noticias",
-   "url": "https://news.google.com/rss/search?q=site:reuters.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Semana",
-   "url": "https://news.google.com/rss/search?q=site:semana.com+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "Semanario ZETA",
-   "url": "https://news.google.com/rss/search?q=site:zetatijuana.com+when:2d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
   },
   {
    "nombre": "Sopitas",
@@ -1247,22 +1768,10 @@
    "detalle": "50 titulares"
   },
   {
-   "nombre": "Sucesos graves vía Google Noticias",
-   "url": "https://news.google.com/rss/search?q=(guerra+OR+terremoto+OR+atentado+OR+%22ataque+armado%22+OR+%22accidente+a%C3%A9reo%22+OR+hurac%C3%A1n+OR+%22estado+de+emergencia%22)+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "TMZ",
    "url": "https://www.tmz.com/rss.xml",
    "estado": "ok",
    "detalle": "20 titulares"
-  },
-  {
-   "nombre": "TVNotas",
-   "url": "https://news.google.com/rss/search?q=site:tvnotas.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "80 titulares"
   },
   {
    "nombre": "TechCrunch — IA",
@@ -1283,12 +1792,6 @@
    "detalle": "45 titulares"
   },
   {
-   "nombre": "The New York Times — Inteligencia artificial",
-   "url": "https://news.google.com/rss/search?q=site:nytimes.com+(AI+OR+%22artificial+intelligence%22)+when:1d&hl=en-US&gl=US&ceid=US:en",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
    "nombre": "The New York Times — Negocios",
    "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
    "estado": "ok",
@@ -1307,28 +1810,10 @@
    "detalle": "10 titulares"
   },
   {
-   "nombre": "Uno TV",
-   "url": "https://news.google.com/rss/search?q=site:unotv.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
-  },
-  {
-   "nombre": "W Radio",
-   "url": "https://news.google.com/rss/search?q=site:wradio.com.co+when:1d&hl=es-419&gl=CO&ceid=CO:es-419",
-   "estado": "ok",
-   "detalle": "5 titulares"
-  },
-  {
    "nombre": "Wired — IA",
    "url": "https://www.wired.com/feed/tag/ai/latest/rss",
    "estado": "ok",
    "detalle": "10 titulares"
-  },
-  {
-   "nombre": "Ámbito",
-   "url": "https://news.google.com/rss/search?q=site:ambito.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
-   "estado": "ok",
-   "detalle": "100 titulares"
   }
  ]
 }
