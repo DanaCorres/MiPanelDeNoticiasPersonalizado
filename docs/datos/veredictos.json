@@ -2565,6 +2565,771 @@
    "ruido": false,
    "resumen": null,
    "historia": "energia-inteligencia-artificial-batalla-tecnologica"
+  },
+  "014ccc22bb957ab91dd183b614b1637088da321f": {
+   "id": "014ccc22bb957ab91dd183b614b1637088da321f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "frontera-zona-guerra"
+  },
+  "a722eda811b14654ad7acb830124c13f991e2296": {
+   "id": "a722eda811b14654ad7acb830124c13f991e2296",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trump-rusia-peste-neuonica"
+  },
+  "108405332b1f15628b4b965b5834b3310f8c33ed": {
+   "id": "108405332b1f15628b4b965b5834b3310f8c33ed",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "tepic-lima-2027"
+  },
+  "d0d80ca53ba5e9c8af9fe4da530f4b5703ad1b1f": {
+   "id": "d0d80ca53ba5e9c8af9fe4da530f4b5703ad1b1f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "houthis-mocha-control"
+  },
+  "c74217392339705db7778ff591fd8d6d9abce4a8": {
+   "id": "c74217392339705db7778ff591fd8d6d9abce4a8",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "britannia-shield-defensa-britanica"
+  },
+  "88f1f5acc061e37eceaacf106e44dc9356a98def": {
+   "id": "88f1f5acc061e37eceaacf106e44dc9356a98def",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "xi-washington-visita-estado"
+  },
+  "ab32634afccae24c747c61143f281073397da573": {
+   "id": "ab32634afccae24c747c61143f281073397da573",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trump-machado-venezuela"
+  },
+  "046ef972d203ab05b88382e6f8f9c6cf1d464040": {
+   "id": "046ef972d203ab05b88382e6f8f9c6cf1d464040",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "indigenas-financiamiento-clima-peru"
+  },
+  "245ef19448cc13ef36af6a50274bf915f6fa682d": {
+   "id": "245ef19448cc13ef36af6a50274bf915f6fa682d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "yemen-territorio-houthis"
+  },
+  "8a026fb434891fbf9ad6b88750029b09fca9e846": {
+   "id": "8a026fb434891fbf9ad6b88750029b09fca9e846",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "caleb-flynn-american-idol-asesinato"
+  },
+  "c4ca1e1cbe5ee35b0a2c35d672dad52003015149": {
+   "id": "c4ca1e1cbe5ee35b0a2c35d672dad52003015149",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-fuerzas-west-bank-violencia"
+  },
+  "e4313b6636319c1b83b77813b8b7999b1e1a9fdc": {
+   "id": "e4313b6636319c1b83b77813b8b7999b1e1a9fdc",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nueva York declaró emergencia por brote de sarampión. La ciudad activó medidas de salud pública ante propagación del virus en población sin vacunas.",
+   "historia": "nueva-york-emergencia-sarampion"
+  },
+  "182ec689cab731d865a03156ec35d2a17446747e": {
+   "id": "182ec689cab731d865a03156ec35d2a17446747e",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "arabia-saudita-turquia-pakistan-mecca-pact"
+  },
+  "ecdd0881ef2dee3b03eea5765d405a2eb6f4e9bc": {
+   "id": "ecdd0881ef2dee3b03eea5765d405a2eb6f4e9bc",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "jeffrey-archer-fallecimiento"
+  },
+  "6f1b6429e1e634879932e2ffd3737cb6d1b106eb": {
+   "id": "6f1b6429e1e634879932e2ffd3737cb6d1b106eb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "dow-jones-bolsa"
+  },
+  "74f6006041308006972e1de011811a189387dd86": {
+   "id": "74f6006041308006972e1de011811a189387dd86",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Médicos Sin Fronteras advierte sobre posible colapso en centros de tratamiento del ébola en Kivu del Norte. La República Democrática del Congo enfrenta propagación acelerada de casos.",
+   "historia": "ebola-kivu-norte-congo-colapso"
+  },
+  "1324e4910961fcc5f32b5501cad30517d33934e9": {
+   "id": "1324e4910961fcc5f32b5501cad30517d33934e9",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "british-airways-descenso-emergencia"
+  },
+  "a7eea426c3a378d9dc798169df4ff2f7c67cc2e7": {
+   "id": "a7eea426c3a378d9dc798169df4ff2f7c67cc2e7",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nueva York declaró estado de emergencia por brote de sarampión. La autoridades activaron protocolos de salud pública ante aumento de contagios.",
+   "historia": "nueva-york-emergencia-sarampion"
+  },
+  "59ab41b6a7526e5dce36ff065461f5edc1d4a266": {
+   "id": "59ab41b6a7526e5dce36ff065461f5edc1d4a266",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "obama-abdul-el-sayed-michigan-senado"
+  },
+  "65d06696e33d4315b0e9c58bbdaa6194c4ddda67": {
+   "id": "65d06696e33d4315b0e9c58bbdaa6194c4ddda67",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nueva York declaró estado de emergencia por brote de sarampión. La ciudad adoptó medidas urgentes de salud pública.",
+   "historia": "nueva-york-emergencia-sarampion"
+  },
+  "f42b9e94fb6fee140dc82cffc3817c84034e3688": {
+   "id": "f42b9e94fb6fee140dc82cffc3817c84034e3688",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "dia-atentado-clip"
+  },
+  "b3628db07cb3c552540585e4f4754f586752e8b3": {
+   "id": "b3628db07cb3c552540585e4f4754f586752e8b3",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": true,
+   "resumen": null,
+   "historia": "openai-seguridad-agentes-ia"
+  },
+  "b1dba21f9143d6dddc3cd5d51ebd4501139767fd": {
+   "id": "b1dba21f9143d6dddc3cd5d51ebd4501139767fd",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "exinvestigador-openai-control-ia"
+  },
+  "1f8270ead6aa24428342b02ed5b1ec8b8e5a8144": {
+   "id": "1f8270ead6aa24428342b02ed5b1ec8b8e5a8144",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Reflection AI lanzó Beam, modelo de código abierto que iguala capacidades de razonamiento de GLM 5.2 usando 3-4 veces menos recursos computacionales.",
+   "historia": "reflection-beam-modelo-ia"
+  },
+  "ed87ac68de551e42bdf4a02e6fb8902c5ed077a0": {
+   "id": "ed87ac68de551e42bdf4a02e6fb8902c5ed077a0",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "inteligencia-artificial-riesgos"
+  },
+  "0af70312e547d85d6def7c342da2b5c3a913a239": {
+   "id": "0af70312e547d85d6def7c342da2b5c3a913a239",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sefiplan-aclaracion-gasto-veracruz"
+  },
+  "d93108a8ba24778b63216753c981d9403466f045": {
+   "id": "d93108a8ba24778b63216753c981d9403466f045",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "andrea-chavez-corcholata-morena-juarez"
+  },
+  "689e34e2b8a494e2d2b2581678dabc7064de669a": {
+   "id": "689e34e2b8a494e2d2b2581678dabc7064de669a",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "cordoba-futbol-resultado"
+  },
+  "10a4ca11c6c23cb59d2775cc323deb1529e38381": {
+   "id": "10a4ca11c6c23cb59d2775cc323deb1529e38381",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "lluvias-ausentismo-educativo"
+  },
+  "a31fa1cac5a7d1ce97f4808a1fa55a903066bf16": {
+   "id": "a31fa1cac5a7d1ce97f4808a1fa55a903066bf16",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "lluvias-ausentismo-guasave-sinaloa"
+  },
+  "1f194d4cc89d29c5e2643d4a2c89c9774b6250c9": {
+   "id": "1f194d4cc89d29c5e2643d4a2c89c9774b6250c9",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "contenido-corrupto"
+  },
+  "6d071f19d80d781fc7fd670d7cc54301e24488bb": {
+   "id": "6d071f19d80d781fc7fd670d7cc54301e24488bb",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alejandra-leon-corcholata-morena-mexicali"
+  },
+  "3996edb54e9912d1eec39f366c59f30ec75539cf": {
+   "id": "3996edb54e9912d1eec39f366c59f30ec75539cf",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "marival-resorts-publicidad"
+  },
+  "2bae82b4405039a911718ca93ef9edd2ff5d2992": {
+   "id": "2bae82b4405039a911718ca93ef9edd2ff5d2992",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "robo-dali-museo-frances"
+  },
+  "de86afe91243b15b1458d0563ae44685f7154819": {
+   "id": "de86afe91243b15b1458d0563ae44685f7154819",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mary-street-jenkins-donacion-puebla-cablebus"
+  },
+  "a90fd6ae346770ceca727240796b24db55de788c": {
+   "id": "a90fd6ae346770ceca727240796b24db55de788c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Madres buscadoras mantienen plantón en la FGR por vigésimo sexto día exigiendo respuestas sobre desapariciones.",
+   "historia": "madres-buscadoras-planaton-fgr"
+  },
+  "6123fca468cd8c04f50821a79c07dd91dfbf0106": {
+   "id": "6123fca468cd8c04f50821a79c07dd91dfbf0106",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "presupuesto-formacion-docentes-mexico"
+  },
+  "4fb7de0f97aa89638efbe4e1252967c5052777f5": {
+   "id": "4fb7de0f97aa89638efbe4e1252967c5052777f5",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vivienda-presupuesto-familias-mexico"
+  },
+  "dff75f68f140070e5665c5a43d86b5865ed5b777": {
+   "id": "dff75f68f140070e5665c5a43d86b5865ed5b777",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "dorados-futbol-resultado"
+  },
+  "6334ac5c18c69f18f394b9b1f0bc731d138b71ed": {
+   "id": "6334ac5c18c69f18f394b9b1f0bc731d138b71ed",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "gael-garcia-bernal-seminci-valladolid"
+  },
+  "18b3ed895042dd61d1c0be65a44d21ad2846f8f0": {
+   "id": "18b3ed895042dd61d1c0be65a44d21ad2846f8f0",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "panamericano-trabajadores-huelga-salario"
+  },
+  "6a03c469476a6aaa6073ba018daed22ae1677509": {
+   "id": "6a03c469476a6aaa6073ba018daed22ae1677509",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "beca-rita-cetina-tramite"
+  },
+  "ef15157af4930b4385aa19177d96c1722752f2b7": {
+   "id": "ef15157af4930b4385aa19177d96c1722752f2b7",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "veronica-medel-alcaldia-ahome"
+  },
+  "5c41294b6fa10348aa8453d002055838c49afc8c": {
+   "id": "5c41294b6fa10348aa8453d002055838c49afc8c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "municipios-slp-tramites-digitalizacion"
+  },
+  "e43a80d3d3107164dcc237d7c803ebc0a84c9073": {
+   "id": "e43a80d3d3107164dcc237d7c803ebc0a84c9073",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "choque-vivienda-torreon-detencion"
+  },
+  "59154524818312873980bc6574d3f3c54eaf6b95": {
+   "id": "59154524818312873980bc6574d3f3c54eaf6b95",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amparos-identificacion-telefonos-moviles"
+  },
+  "d1b7654631dfc58b92603faf439e6390817b0a5c": {
+   "id": "d1b7654631dfc58b92603faf439e6390817b0a5c",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "camerata-coahuila-sinfonia"
+  },
+  "18b6bc498a41aad679ef47d8c4cc8586df69631b": {
+   "id": "18b6bc498a41aad679ef47d8c4cc8586df69631b",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "original-banda-limon-pachuca"
+  },
+  "a7d200c378c6031e715585cd7c0d6689a179cca8": {
+   "id": "a7d200c378c6031e715585cd7c0d6689a179cca8",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pt-rechaza-tatiana-clouthier-nuevo-leon"
+  },
+  "e435fd7d67c50480bd30b5caf96da9e1796ed585": {
+   "id": "e435fd7d67c50480bd30b5caf96da9e1796ed585",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "estudiantes-udlap-maria-fernanda-puebla"
+  },
+  "07d801f763abb751a4d67a1416a2a2097288a60b": {
+   "id": "07d801f763abb751a4d67a1416a2a2097288a60b",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mujer-atropellada-apodaca-chiapas"
+  },
+  "6d3455b20f99ae32db8e7faacd400a8864539406": {
+   "id": "6d3455b20f99ae32db8e7faacd400a8864539406",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "veneno-arana-tratamiento-ictus"
+  },
+  "2e517420e8af841fabbabaf16939808df97e28ab": {
+   "id": "2e517420e8af841fabbabaf16939808df97e28ab",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vivienda-gasto-mexicanos"
+  },
+  "57e9446c49cbbe5a97c5b42a75ec430cace63cb4": {
+   "id": "57e9446c49cbbe5a97c5b42a75ec430cace63cb4",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ataque-balazos-la-brisa"
+  },
+  "a7b7c44c81faa9dbffe27a8b9a873b750ad45904": {
+   "id": "a7b7c44c81faa9dbffe27a8b9a873b750ad45904",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cofepris-alerta-medicamentos-falsificados"
+  },
+  "057483b2d635ce62701fe571d129828283c4824c": {
+   "id": "057483b2d635ce62701fe571d129828283c4824c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "doctor-sueros-entrega-prófugo"
+  },
+  "486f2d7548accfaf4054f8c6dfdcd9490b0daec7": {
+   "id": "486f2d7548accfaf4054f8c6dfdcd9490b0daec7",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "guia-comunicacion-diversidad-sexual-jalisco"
+  },
+  "f7673f1aba905c11a6c9a08adcab31640b025873": {
+   "id": "f7673f1aba905c11a6c9a08adcab31640b025873",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "donovan-carrillo-cdmx"
+  },
+  "7779a4eeea268047c692e3dfb2ab073fa726def9": {
+   "id": "7779a4eeea268047c692e3dfb2ab073fa726def9",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "t-mec-ronda-cuatro-aplazamiento"
+  },
+  "a46dce9d12d7f1f98964eff2b4a32baa31db154d": {
+   "id": "a46dce9d12d7f1f98964eff2b4a32baa31db154d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bachilleres-5-tlalnepantla-manifestacion-porros"
+  },
+  "3f233450cc9924938d132476637b6627a4a6d295": {
+   "id": "3f233450cc9924938d132476637b6627a4a6d295",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La Suprema Corte validó que el INE puede revisar el riesgo de los candidatos en las elecciones. La decisión resuelve una controversia sobre las atribuciones del instituto.",
+   "historia": "suprema-corte-revision-riesgo-candidatos-ine"
+  },
+  "84bad19aabf761809b855a8c9db4c44890e8a66b": {
+   "id": "84bad19aabf761809b855a8c9db4c44890e8a66b",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "57c48f88bc7da1a602ad9c97f8ba92c06249681b": {
+   "id": "57c48f88bc7da1a602ad9c97f8ba92c06249681b",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "lourdes-paz-gabinete-verificacion-empresarial"
+  },
+  "dffe7d7d290fe6a8957761cb35eb7ca9806ff019": {
+   "id": "dffe7d7d290fe6a8957761cb35eb7ca9806ff019",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "peso-apreciacion-mercados"
+  },
+  "7fcfef22ccfee64b9dc270a536ae4c979e505fa0": {
+   "id": "7fcfef22ccfee64b9dc270a536ae4c979e505fa0",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "economia-sinaloa-sur-mazatlan"
+  },
+  "18ca08805f538ba627b037290e835a95f6fefada": {
+   "id": "18ca08805f538ba627b037290e835a95f6fefada",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ley-olimpia"
+  },
+  "af141b2b769e91d8f568f5b1c68b28d39c9cdafc": {
+   "id": "af141b2b769e91d8f568f5b1c68b28d39c9cdafc",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cofepris-alerta-medicinas-falsas"
+  },
+  "2ca681bfb328d30dc2f9543e8e1f4010d8483c61": {
+   "id": "2ca681bfb328d30dc2f9543e8e1f4010d8483c61",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "andrea-chavez-candidatura-ciudad-juarez"
+  },
+  "a0b0746366fba2b9edb4d942c9fab340811f23c8": {
+   "id": "a0b0746366fba2b9edb4d942c9fab340811f23c8",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "lluvias-inundaciones-tamaulipas"
+  },
+  "70b5cbd5e05c01981725dccfeefb69c66c0d2cae": {
+   "id": "70b5cbd5e05c01981725dccfeefb69c66c0d2cae",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "468cb0234725c107bc6098859bbe91d17a18109c": {
+   "id": "468cb0234725c107bc6098859bbe91d17a18109c",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "andre-goncalves-pachuca"
+  },
+  "a78ce9288ed8f6ae16cb4405a095ac535f553997": {
+   "id": "a78ce9288ed8f6ae16cb4405a095ac535f553997",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "da9f9a2d5bdf32a3045065c655392a52e69e83c5": {
+   "id": "da9f9a2d5bdf32a3045065c655392a52e69e83c5",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "733e3b5bbdbd9b6fcc39957a58aa641c60219320": {
+   "id": "733e3b5bbdbd9b6fcc39957a58aa641c60219320",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amazonia-capital-analisis"
+  },
+  "c330bfb191309fe515718b2a56ae84845adac40d": {
+   "id": "c330bfb191309fe515718b2a56ae84845adac40d",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "afb94e716a091108d4b5b8cd1cb2de520b6bb493": {
+   "id": "afb94e716a091108d4b5b8cd1cb2de520b6bb493",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "216c6e3b6c243661fd3ac16bb537b5ce5b3b2dfa": {
+   "id": "216c6e3b6c243661fd3ac16bb537b5ce5b3b2dfa",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "621199d4a1a37274bdd829db0a56127996db4350": {
+   "id": "621199d4a1a37274bdd829db0a56127996db4350",
+   "seccion": "colombia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "unesco-colombia-patrimonio-terremoto"
+  },
+  "d0952d091458a001fc70c0980c7383b5e8e15164": {
+   "id": "d0952d091458a001fc70c0980c7383b5e8e15164",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Los Houthis anunciaron que Riad es objetivo militar y declararon abierto el espacio aéreo saudí excepto sobre los sitios sagrados. El grupo mantiene ataques contra la coalición regional.",
+   "historia": "houthis-ataque-riyadh-espacio-aereo"
+  },
+  "5f45a610778d4cd7c6f88147059480afad7d9d8f": {
+   "id": "5f45a610778d4cd7c6f88147059480afad7d9d8f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un reporte de la CIA advierte sobre riesgo de conflicto civil y colapso en Israel. El documento refuerza preocupaciones sobre la estabilidad política interna del país.",
+   "historia": "cia-alerta-conflicto-civil-israel"
+  },
+  "db2e26f9b67eb80badd8c748ca7f589d0585ac19": {
+   "id": "db2e26f9b67eb80badd8c748ca7f589d0585ac19",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "china-reunificacion-taiwan-diplomacia"
+  },
+  "8b264d8c206785447dada89a3708b0df3780acf2": {
+   "id": "8b264d8c206785447dada89a3708b0df3780acf2",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "miguel-angel-navarro-avioneta-nayarit"
+  },
+  "fb85a4f78f45d9fa12e042adfb1ef30ef18f2cb5": {
+   "id": "fb85a4f78f45d9fa12e042adfb1ef30ef18f2cb5",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "jeffrey-archer-fallecimiento"
+  },
+  "ccb354a42ac6a4183bb9a734895bbe929a18ad91": {
+   "id": "ccb354a42ac6a4183bb9a734895bbe929a18ad91",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Pensilvania registra más de 1.000 casos de sarampión, el brote más grande en décadas. Estados vecinos también reportan cientos de casos, totalizando más de 3.800 en el país.",
+   "historia": "pennsylvania-brote-sarampion-1000-casos"
+  },
+  "b14a0e07a1568c7a3d82a266ad29d8ee635a0613": {
+   "id": "b14a0e07a1568c7a3d82a266ad29d8ee635a0613",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "isaiah-washington-esposa-fallecimiento"
   }
  }
 }
