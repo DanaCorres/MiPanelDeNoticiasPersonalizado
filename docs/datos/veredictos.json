@@ -1,89 +1,53 @@
 {
- "fecha": "2026-10-11",
+ "fecha": "2026-10-12",
  "veredictos": {
-  "bf54bfccf43cb0ed9565dd0233333f7f14acba7d": {
-   "id": "bf54bfccf43cb0ed9565dd0233333f7f14acba7d",
+  "87c08acb84890c8e033e4cb70ff13d8755b4571d": {
+   "id": "87c08acb84890c8e033e4cb70ff13d8755b4571d",
    "seccion": "nacional",
-   "subseccion": null,
+   "subseccion": "economia",
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
    "historia": null
   },
-  "81cfa8ac0ecda45397ead58d601218df083ec567": {
-   "id": "81cfa8ac0ecda45397ead58d601218df083ec567",
-   "seccion": "nacional",
+  "32259ee7f5df08df1c0cb427807aaaa41e8ee199": {
+   "id": "32259ee7f5df08df1c0cb427807aaaa41e8ee199",
+   "seccion": "espectaculos",
    "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "9c2c8dc2eddaca22b47a52aa0bd8fd339205d11e": {
-   "id": "9c2c8dc2eddaca22b47a52aa0bd8fd339205d11e",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "b947208fad596b7ac5bd6681dc25f6fc40e7d23a": {
-   "id": "b947208fad596b7ac5bd6681dc25f6fc40e7d23a",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "1fe73be8c49dc373b52ef1ff924245b26726b7d0": {
-   "id": "1fe73be8c49dc373b52ef1ff924245b26726b7d0",
-   "seccion": "nacional",
-   "subseccion": "politica",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "respuesta-sheinbaum-lluvia-acapulco"
+   "historia": "mansion-luis-miguel-acapulco"
   },
-  "7ff3375228aba822efb61a979cdf76c926c82719": {
-   "id": "7ff3375228aba822efb61a979cdf76c926c82719",
-   "seccion": "nacional",
+  "243ca14a5542fb8cdfa043b2e20731cdafe2a94e": {
+   "id": "243ca14a5542fb8cdfa043b2e20731cdafe2a94e",
+   "seccion": "espectaculos",
    "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
+   "prioridad": 2,
+   "ruido": false,
    "resumen": null,
-   "historia": null
+   "historia": "muerte-exparticipante-masterchef"
   },
-  "dc84a7abdb98f1d343bd8046b52f4d2f1810b6a4": {
-   "id": "dc84a7abdb98f1d343bd8046b52f4d2f1810b6a4",
+  "d2483b5a5fecdde01467e5c5a953efc4d5f6ca65": {
+   "id": "d2483b5a5fecdde01467e5c5a953efc4d5f6ca65",
    "seccion": "nacional",
    "subseccion": "politica",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "desbandada-varela-coalicion"
+   "historia": "salomon-jara-nueva-constitucion"
   },
-  "13064526c1d35f277f78eaa2d7ce0a2667e0df0a": {
-   "id": "13064526c1d35f277f78eaa2d7ce0a2667e0df0a",
+  "a04381ca3529c4c5d35db07d10d9bd8d28dcbfed": {
+   "id": "a04381ca3529c4c5d35db07d10d9bd8d28dcbfed",
    "seccion": "nacional",
-   "subseccion": null,
+   "subseccion": "seguridad",
    "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "af29685ee50f3858d4244b38901f8730aa801757": {
-   "id": "af29685ee50f3858d4244b38901f8730aa801757",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "verde-colima-delgado"
+   "historia": "falsa-alarma-ataque-torren"
   },
-  "b1e26a7b6f8551d546a25e520daf08c61b8db807": {
-   "id": "b1e26a7b6f8551d546a25e520daf08c61b8db807",
+  "3d1132b7c80d239517316f159d6807b310b68ed6": {
+   "id": "3d1132b7c80d239517316f159d6807b310b68ed6",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -91,251 +55,215 @@
    "resumen": null,
    "historia": null
   },
-  "fc8ae8ea11e8519b2a4e70ecb149354c0e48669d": {
-   "id": "fc8ae8ea11e8519b2a4e70ecb149354c0e48669d",
+  "dedf3debbe07fcdf1eada3613e582ee48ed9cdef": {
+   "id": "dedf3debbe07fcdf1eada3613e582ee48ed9cdef",
    "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
    "resumen": null,
-   "historia": null
+   "historia": "denuncias-ilicitos-pachuca"
   },
-  "da572fe77869bb045fd431736a9c1fea03ac4325": {
-   "id": "da572fe77869bb045fd431736a9c1fea03ac4325",
+  "f696dcb3420e834a060bf51f7ac8016dcc4b742d": {
+   "id": "f696dcb3420e834a060bf51f7ac8016dcc4b742d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marco-bonilla-seguridad-chihuahua"
+  },
+  "32607b3bc1b49982e0d92d0271d3181c80649db3": {
+   "id": "32607b3bc1b49982e0d92d0271d3181c80649db3",
    "seccion": "nacional",
    "subseccion": "seguridad",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "detencion-javiercillo-edomex"
+   "historia": "asesinato-jorge-guerrero-otatitlan"
   },
-  "00fdf8fc6a62ad9dba114599321e2aaa8f7be404": {
-   "id": "00fdf8fc6a62ad9dba114599321e2aaa8f7be404",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "ciclon-rachel-baja-california"
-  },
-  "b3575edc5b131a3b2d3d3b0fa1ac54bb47a4755e": {
-   "id": "b3575edc5b131a3b2d3d3b0fa1ac54bb47a4755e",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "bef315bef69aa7542dc354d2709c8d901ca3d38a": {
-   "id": "bef315bef69aa7542dc354d2709c8d901ca3d38a",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "ice-disparo-nueva-york"
-  },
-  "54634f6e6b6ce2fd18d9596380ddfba5cad264e9": {
-   "id": "54634f6e6b6ce2fd18d9596380ddfba5cad264e9",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "35f0252bbd3d3d561739dd9b8e4a870730ddbbfe": {
-   "id": "35f0252bbd3d3d561739dd9b8e4a870730ddbbfe",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "viral-cubano-influencer"
-  },
-  "1cb8ba33272bb791b04c7e8b2ce1ef7acc4a332f": {
-   "id": "1cb8ba33272bb791b04c7e8b2ce1ef7acc4a332f",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "52939a241461ac505544b13266346c43b4854024": {
-   "id": "52939a241461ac505544b13266346c43b4854024",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "gentrificacion-napoles"
-  },
-  "6ebf26a8f5ea7a4d09d0e5894f621bcc7053fe4b": {
-   "id": "6ebf26a8f5ea7a4d09d0e5894f621bcc7053fe4b",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "rancho-antigobierno-jalisco"
-  },
-  "a79a2998187e6698cb503160c1d0e0eaf481919d": {
-   "id": "a79a2998187e6698cb503160c1d0e0eaf481919d",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "zetas-irani-atentado"
-  },
-  "ea01fddefd7d2c6c4e30405f33d82683efbd6832": {
-   "id": "ea01fddefd7d2c6c4e30405f33d82683efbd6832",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "grupos-cincel-retos-violentos"
-  },
-  "2ccdd6ce00d74221e60f6e9667cbb436898682a6": {
-   "id": "2ccdd6ce00d74221e60f6e9667cbb436898682a6",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "suicidio-infantil-mexico"
-  },
-  "7a46a0225c9568b8f1b6de3a3d38b33fd7a2da4f": {
-   "id": "7a46a0225c9568b8f1b6de3a3d38b33fd7a2da4f",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "morena-tamaulipas"
-  },
-  "826c83d04c59c52371c4854397544ad64f4adb2a": {
-   "id": "826c83d04c59c52371c4854397544ad64f4adb2a",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "154cbddfdb7880fc53231bfaa8ba7391cf699eee": {
-   "id": "154cbddfdb7880fc53231bfaa8ba7391cf699eee",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "aa4b86bdfaa62f0256e98ef2cfb9335662aac533": {
-   "id": "aa4b86bdfaa62f0256e98ef2cfb9335662aac533",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "protestas-imss"
-  },
-  "1945eaafc8f7654c6491320b639e3e006d1b5e16": {
-   "id": "1945eaafc8f7654c6491320b639e3e006d1b5e16",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "5702ccae7f629b5e30ccda72b3c607b5bdaf71c9": {
-   "id": "5702ccae7f629b5e30ccda72b3c607b5bdaf71c9",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "5df590001fba1d0610a0059debd2062f511f10c7": {
-   "id": "5df590001fba1d0610a0059debd2062f511f10c7",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "b0075ced28b37e4a19c88d7cbef264743ae8bd38": {
-   "id": "b0075ced28b37e4a19c88d7cbef264743ae8bd38",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "velada-panteon-viejo-xoxocotlan"
-  },
-  "60067be43e68f12a73fa9329645da73d14713041": {
-   "id": "60067be43e68f12a73fa9329645da73d14713041",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "ce27294c7aae64d5aac6789a0eecefe180a2629b": {
-   "id": "ce27294c7aae64d5aac6789a0eecefe180a2629b",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "e09618e8a5b400df557197d7f932c73327d0d52c": {
-   "id": "e09618e8a5b400df557197d7f932c73327d0d52c",
+  "f3abb965c2dd9cb781009bfe4d24a5bd471decde": {
+   "id": "f3abb965c2dd9cb781009bfe4d24a5bd471decde",
    "seccion": "nacional",
    "subseccion": "seguridad",
    "prioridad": 4,
    "ruido": false,
-   "resumen": "Dos trabajadores de Pemex fueron heridos en un ataque armado contra la refinería de Minatitlán. El incidente refleja la persistencia de violencia en instalaciones estratégicas del país.",
-   "historia": "ataque-refineria-minatitlan-pemex"
+   "resumen": "Autoridades detienen a 7 personas y aseguran 1.2 toneladas de cocaína en operativo frente a costas de Oaxaca.",
+   "historia": "decomiso-cocaina-oaxaca"
   },
-  "6b5277dd24ce10d742aca5c0877c8b4da5764f86": {
-   "id": "6b5277dd24ce10d742aca5c0877c8b4da5764f86",
+  "a80285af17b749044b81e90ce2198bc1bb07fc55": {
+   "id": "a80285af17b749044b81e90ce2198bc1bb07fc55",
    "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "8a74388a6bfc9fc12fd1a98360fbbd0527eafef1": {
+   "id": "8a74388a6bfc9fc12fd1a98360fbbd0527eafef1",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "represion-jalisco-profesores"
+  },
+  "faba2fdd3edc55e163d557f2798d2dfc7672e98c": {
+   "id": "faba2fdd3edc55e163d557f2798d2dfc7672e98c",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-protesta-agua-jalisco"
+  },
+  "bab9bff88936e935cfad3adb50606d0c0c9620cf": {
+   "id": "bab9bff88936e935cfad3adb50606d0c0c9620cf",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "7d8c76f5ee6991b32eb4a7557f72b0898230c2f2": {
+   "id": "7d8c76f5ee6991b32eb4a7557f72b0898230c2f2",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "balacera-isla-piedra-mazatlan"
+  },
+  "6d0015520127d6abe1e52f8c63e65f3b62be0a75": {
+   "id": "6d0015520127d6abe1e52f8c63e65f3b62be0a75",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "megamarcha-imss-13-octubre"
+  },
+  "955efb915f568bc08c0df766fc6f9259e5d43774": {
+   "id": "955efb915f568bc08c0df766fc6f9259e5d43774",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "7e044375a0175338fac964d510ceb5a64a1f67c8": {
+   "id": "7e044375a0175338fac964d510ceb5a64a1f67c8",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "empresarios-salario-minimo-2027"
+  },
+  "e8a07426199d218f3333114489661f696f2edf28": {
+   "id": "e8a07426199d218f3333114489661f696f2edf28",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vinculacion-proceso-maximiano-homicidio"
+  },
+  "d7aa3e425f9160cb1c1b98c28a05ec568de3af16": {
+   "id": "d7aa3e425f9160cb1c1b98c28a05ec568de3af16",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "García Harfuch informa el decomiso de 1.2 toneladas de cocaína en operativo contra el narcotráfico en Oaxaca.",
+   "historia": "decomiso-cocaina-oaxaca"
+  },
+  "c3bad3b05d9ab82ae763e56ec50c388142b0a747": {
+   "id": "c3bad3b05d9ab82ae763e56ec50c388142b0a747",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "protesta-imss-naucalpan"
+  },
+  "5e68935f3726f383c04f67d746c9e6cc6abf9990": {
+   "id": "5e68935f3726f383c04f67d746c9e6cc6abf9990",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cefereso-sinaloa"
+  },
+  "8fb3e3bcb71fdcfc8f68c9c4109995b235be0707": {
+   "id": "8fb3e3bcb71fdcfc8f68c9c4109995b235be0707",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "38d91a2990d56e8def9d23d71312d7cc953aa49d": {
+   "id": "38d91a2990d56e8def9d23d71312d7cc953aa49d",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-embajadora-peru"
+  },
+  "51631c894b5e7515acc3fda9f0c9b6f22b84e036": {
+   "id": "51631c894b5e7515acc3fda9f0c9b6f22b84e036",
+   "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "contaminacion-habitat-ajolote"
+   "historia": "premios-ariel-en-el-camino"
   },
-  "8beb8039ade0897604cd20329638cf7ba6049345": {
-   "id": "8beb8039ade0897604cd20329638cf7ba6049345",
+  "872d3f99605ad52f0d2629012dd2a5e499ad44c3": {
+   "id": "872d3f99605ad52f0d2629012dd2a5e499ad44c3",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "234c824c1cb85d21033988aafaf7faedb57f6b30": {
+   "id": "234c824c1cb85d21033988aafaf7faedb57f6b30",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ley-economia-digital-efectivo"
+  },
+  "dff446041c624106fb2512be24e1bdaad34c7b30": {
+   "id": "dff446041c624106fb2512be24e1bdaad34c7b30",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-protesta-agua-jalisco"
+  },
+  "db211f51c2aebbc5008d564340f236737d8f9286": {
+   "id": "db211f51c2aebbc5008d564340f236737d8f9286",
    "seccion": "nacional",
    "subseccion": "opinion",
-   "prioridad": 2,
+   "prioridad": 1,
    "ruido": false,
    "resumen": null,
-   "historia": "luisa-maria-alcalde-analisis"
+   "historia": "articulo-david-ordaz"
   },
-  "2da76950a84d6e3a2b16d97a9a6393e57f0012e5": {
-   "id": "2da76950a84d6e3a2b16d97a9a6393e57f0012e5",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "marco-bonilla-ciudad-juarez"
-  },
-  "0773b660c2c0c8b353991b373270711731566cb3": {
-   "id": "0773b660c2c0c8b353991b373270711731566cb3",
+  "abc2532d665002bc30f9d52838fa9e918ff350c4": {
+   "id": "abc2532d665002bc30f9d52838fa9e918ff350c4",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -343,17 +271,26 @@
    "resumen": null,
    "historia": null
   },
-  "b83e470f76309427b15d2bdbc008e41762853b48": {
-   "id": "b83e470f76309427b15d2bdbc008e41762853b48",
-   "seccion": "argentina",
+  "f6bf50d80695d53a04f454b8a145890725db7873": {
+   "id": "f6bf50d80695d53a04f454b8a145890725db7873",
+   "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "desaparicion-pareja-jubilados-chubut"
+   "historia": "muerte-rj-mitte"
   },
-  "5769acfdd256b3c249bb6c2da4aa9db3b827a919": {
-   "id": "5769acfdd256b3c249bb6c2da4aa9db3b827a919",
+  "9feb7085dd735c6aec9d9a91946378f18c4420c7": {
+   "id": "9feb7085dd735c6aec9d9a91946378f18c4420c7",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte"
+  },
+  "239119754ad0c5802b894dc2bec9320a8e6c6200": {
+   "id": "239119754ad0c5802b894dc2bec9320a8e6c6200",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -361,188 +298,692 @@
    "resumen": null,
    "historia": null
   },
-  "7bacf8a048f9533a49ce5c72ddd0bd27f921a469": {
-   "id": "7bacf8a048f9533a49ce5c72ddd0bd27f921a469",
+  "d847449ff804aabd0f253393f17e928b18bfee4e": {
+   "id": "d847449ff804aabd0f253393f17e928b18bfee4e",
    "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Sheinbaum designó a Lydia Antonio de la Garza como embajadora en Perú tras restablecer relaciones diplomáticas entre México y el país andino.",
+   "historia": "embajadora-peru-sheinbaum"
   },
-  "221c262cc69bcd830dba227093152bc57ae29a19": {
-   "id": "221c262cc69bcd830dba227093152bc57ae29a19",
+  "c3d1f623ca049aa4843dcd15279b7186528a7920": {
+   "id": "c3d1f623ca049aa4843dcd15279b7186528a7920",
    "seccion": "nacional",
    "subseccion": "seguridad",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "true-crime-atacantes-escolares"
+   "historia": "balacera-chalchicomula-sesma"
   },
-  "6d662f1a49387d17b212b35399c92152bc57ae29a19": {
-   "id": "6d662f1a49387d17b212b35399c92152bc57ae29a19",
+  "ba5f38b96ed558bc5e20fd941327eaa9bf0c7019": {
+   "id": "ba5f38b96ed558bc5e20fd941327eaa9bf0c7019",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta lanzó un nuevo modelo de inteligencia artificial que afirma estar al nivel de los desarrollados por OpenAI y Anthropic.",
+   "historia": "meta-modelo-ia"
+  },
+  "5a133b16a39b4bc281c6fb2a3d6f6c5d9100f601": {
+   "id": "5a133b16a39b4bc281c6fb2a3d6f6c5d9100f601",
    "seccion": "nacional",
-   "subseccion": "cdmx",
+   "subseccion": "politica",
    "prioridad": 3,
    "ruido": false,
+   "resumen": "El gobernador de Jalisco acusó a un grupo de choque en una marcha por el agua y ordenó investigar a policías involucrados.",
+   "historia": "marcha-agua-jalisco"
+  },
+  "281aca69bf70b4211413d492e8afbc8f15483326": {
+   "id": "281aca69bf70b4211413d492e8afbc8f15483326",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
    "resumen": null,
-   "historia": "abuso-sexual-uaem-activismo"
+   "historia": null
   },
-  "2e563e8b8e47e9989191a45a5000b9fd335780f3": {
-   "id": "2e563e8b8e47e9989191a45a5000b9fd335780f3",
+  "8459768ee49412194cb86c2825b9d7ec570acc3e": {
+   "id": "8459768ee49412194cb86c2825b9d7ec570acc3e",
    "seccion": "nacional",
    "subseccion": "politica",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Morena aprobó alianzas con PT y Partido Verde para la contienda electoral, aunque los pactos podrían ser parciales según reportes. La decisión marca posicionamientos de coalición de cara a los comicios.",
-   "historia": "morena-alianzas-pt-partido-verde"
-  },
-  "1131584822cc9bd39cefe9f3eee2ad78ec7bfb42": {
-   "id": "1131584822cc9bd39cefe9f3eee2ad78ec7bfb42",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Opositores alertan sobre un potencial incremento predial bajo la nueva ley catastral en discusión legislativa. Advierten sobre posibles afectaciones al patrimonio inmobiliario de contribuyentes.",
-   "historia": "ley-catastral-predial-oposicion"
-  },
-  "d3c0a698d9e644b646d07714295fadec75c1822a": {
-   "id": "d3c0a698d9e644b646d07714295fadec75c1822a",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "ano-jubilar-basilica-guadalupe"
+   "historia": "consulta-ley-pueblos-indigenas"
   },
-  "acff33c1d322a63cc457e83fc8f71b6cadf348fc": {
-   "id": "acff33c1d322a63cc457e83fc8f71b6cadf348fc",
+  "e4080f53fbea5d0dd1db237c777221589c019311": {
+   "id": "e4080f53fbea5d0dd1db237c777221589c019311",
    "seccion": "nacional",
-   "subseccion": "seguridad",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "volkswagen-entregas-bajas"
+  },
+  "4ac3002248688039a1cfeaf7f835cd45a0e08543": {
+   "id": "4ac3002248688039a1cfeaf7f835cd45a0e08543",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte"
+  },
+  "9b64025a259e585acf4067c6c717506318f67e60": {
+   "id": "9b64025a259e585acf4067c6c717506318f67e60",
+   "seccion": "espectaculos",
+   "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "violencia-abuso-estudiantes"
+   "historia": "muerte-rj-mitte"
   },
-  "ecfd6b71e72c6cf5bffb36fc307f85c744d86b53": {
-   "id": "ecfd6b71e72c6cf5bffb36fc307f85c744d86b53",
+  "c5d8d0c83dc05940217f5881178d56933dec4c75": {
+   "id": "c5d8d0c83dc05940217f5881178d56933dec4c75",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte"
+  },
+  "8a16d584706c1707e7050992e531e6ec0a8dee25": {
+   "id": "8a16d584706c1707e7050992e531e6ec0a8dee25",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Trump cuestionó el T-MEC; Estados Unidos negocia por separado con México y Canadá, informó Sheinbaum.",
+   "historia": "tmec-negociaciones-separadas"
+  },
+  "90dc60496102527b4c139579d7afa042667db1e1": {
+   "id": "90dc60496102527b4c139579d7afa042667db1e1",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte"
+  },
+  "24a70bfc56918e9d605fe2d7189d21390c724695": {
+   "id": "24a70bfc56918e9d605fe2d7189d21390c724695",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-digital-summit-2026"
+  },
+  "ea79ac637684a6a42095a556daf53962f10cd05e": {
+   "id": "ea79ac637684a6a42095a556daf53962f10cd05e",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rabia-zorra-cancun"
+  },
+  "659c14c2e04ef3c8eae0ad522e06f1d11f2961ae": {
+   "id": "659c14c2e04ef3c8eae0ad522e06f1d11f2961ae",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "dependencia-gas-natural-eeuu"
+  },
+  "c753545ff2f01790f2b4980a629c985d4c549d75": {
+   "id": "c753545ff2f01790f2b4980a629c985d4c549d75",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "municipios-nl-facultades-agua"
+  },
+  "70321f3b82efb77b3db3765fc906e776380db975": {
+   "id": "70321f3b82efb77b3db3765fc906e776380db975",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "contaminacion-rio-pilon-pemex"
+  },
+  "dc2c7c19f0a38ea9230743c9edc1526aacbbf730": {
+   "id": "dc2c7c19f0a38ea9230743c9edc1526aacbbf730",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "404f4c39053e865ce74a3321a403e084926a7d4a": {
+   "id": "404f4c39053e865ce74a3321a403e084926a7d4a",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "scjn-desplazamiento-forzado"
+  },
+  "2d3b000323641fe80c1871eae6223bedbfde2e48": {
+   "id": "2d3b000323641fe80c1871eae6223bedbfde2e48",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marcha-agua-guadalajara"
+  },
+  "ed60d62440905b6cdd78cd10c981e6169c61edca": {
+   "id": "ed60d62440905b6cdd78cd10c981e6169c61edca",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amis-seguros-medicos"
+  },
+  "07e4d64ae0d797a6d6796e070c2582f3082b6573": {
+   "id": "07e4d64ae0d797a6d6796e070c2582f3082b6573",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "6f20fcbbcfa0f42bf93658e948fa2afe27596893": {
+   "id": "6f20fcbbcfa0f42bf93658e948fa2afe27596893",
    "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "tormenta-rachel-vegas"
+  },
+  "b9410e57cc725e0637cc79ea898797296e169e2d": {
+   "id": "b9410e57cc725e0637cc79ea898797296e169e2d",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rap-indigena-lenguas"
+  },
+  "1300ed30dedc029570fab837a73aa53f8ea71674": {
+   "id": "1300ed30dedc029570fab837a73aa53f8ea71674",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Brugada reportó que la Ciudad de México registra su nivel más bajo de homicidios en dos décadas.",
+   "historia": "homicidios-cdmx-minimo-20años"
+  },
+  "d46c0e9278748131851b51ca9b7d5add3cb34ba1": {
+   "id": "d46c0e9278748131851b51ca9b7d5add3cb34ba1",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "diputado-pan-denuncia-marina"
+  },
+  "350dc40d676eea75a9bd9f56a31de6cf3a1a2cda": {
+   "id": "350dc40d676eea75a9bd9f56a31de6cf3a1a2cda",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "intimidacion-reportero-tecate"
+  },
+  "a72932f7b16730c956afc1973df03667b73da62e": {
+   "id": "a72932f7b16730c956afc1973df03667b73da62e",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "trata-personas-baja-california"
+  },
+  "ca37d34b5adede92302b60fb18748a7ed57951df": {
+   "id": "ca37d34b5adede92302b60fb18748a7ed57951df",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "corrupcion-cespt-baja-california"
+  },
+  "751cfa3063367cb06c68592ddd2b42b0eeeb3c38": {
+   "id": "751cfa3063367cb06c68592ddd2b42b0eeeb3c38",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "empresarios-morenistas-cds"
+  },
+  "b9a5c4f56c67d21e22aecaf8d13ace0a64b5275c": {
+   "id": "b9a5c4f56c67d21e22aecaf8d13ace0a64b5275c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marcha-agua-contaminada-guadalajara"
+  },
+  "292f272e05a3cfcd5aafdbb71a0fe705a5b83d9a": {
+   "id": "292f272e05a3cfcd5aafdbb71a0fe705a5b83d9a",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ninez-tecate-fentanilo-crimen"
+  },
+  "c687f431ace25ae829b279d0ef8891e0004bec25": {
+   "id": "c687f431ace25ae829b279d0ef8891e0004bec25",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rey-huachicol-palenque-acosta-naranjo"
+  },
+  "1e1d92d6e499506f499c5ae22528070499c69ef5": {
+   "id": "1e1d92d6e499506f499c5ae22528070499c69ef5",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sicarios-cds-brutalidad"
+  },
+  "351a01acefe5ad179c443633ebabc189acb86d82": {
+   "id": "351a01acefe5ad179c443633ebabc189acb86d82",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "agentes-fgr-supuestos"
+  },
+  "bb47996be85d17d165cc6b178a4791936e941d4c": {
+   "id": "bb47996be85d17d165cc6b178a4791936e941d4c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fgr-extorsion-comerciantes-mexicali"
+  },
+  "8027e5cb00c859749aa09ffaac5b1c2ed82e419f": {
+   "id": "8027e5cb00c859749aa09ffaac5b1c2ed82e419f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alerta-preventiva-tormenta-rachel-bc"
+  },
+  "f16492a4777446e6c270fbeb14514ee1a9ca63e9": {
+   "id": "f16492a4777446e6c270fbeb14514ee1a9ca63e9",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "La actriz Selma Blair fue detenida tras golpear y morder a trabajadores de una aerolínea e intentar abrir la puerta de emergencia durante un vuelo.",
+   "historia": "selma-blair-detencion-avion"
+  },
+  "0b7a47db50f50e14ca12b8403bc27427c14c4367": {
+   "id": "0b7a47db50f50e14ca12b8403bc27427c14c4367",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "afectaciones-rachel-san-quintin"
+  },
+  "941f8e8fe74f802431eb9b03c0d479c8d11f0ac0": {
+   "id": "941f8e8fe74f802431eb9b03c0d479c8d11f0ac0",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "balacera-pantitlan-iztacalco"
+  },
+  "6c51962fae0292a0cb2c050ad15735a122bb4467": {
+   "id": "6c51962fae0292a0cb2c050ad15735a122bb4467",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "homicidio-llantera-mazatlan"
+  },
+  "978f0a0e6a46fd0cb4ad927652985385a1921ec4": {
+   "id": "978f0a0e6a46fd0cb4ad927652985385a1921ec4",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-prevenir-riesgos-simon"
+  },
+  "9be612e7b88aecc671c1df99eea0698f1147b4f5": {
+   "id": "9be612e7b88aecc671c1df99eea0698f1147b4f5",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "vitae-fest-2026-zocalo"
+  },
+  "7266beec45fe7ade805c632ed4f752f2fa76a400": {
+   "id": "7266beec45fe7ade805c632ed4f752f2fa76a400",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "colegio-cervantes-first-global-challenge"
+  },
+  "59b5c77c9d06e3536ae410179135fc54249000e9": {
+   "id": "59b5c77c9d06e3536ae410179135fc54249000e9",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "champions-city-psg"
+  },
+  "48540a0c01d8d5febd387a4acc1506d96199dfa2": {
+   "id": "48540a0c01d8d5febd387a4acc1506d96199dfa2",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "c853b07de99f0b3e878e469340eb5ceb7cc0b775": {
+   "id": "c853b07de99f0b3e878e469340eb5ceb7cc0b775",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "protestas-trabajadores-imss"
+  },
+  "5fe0b4892c70b929fe571d9255f3499a436a1bd7": {
+   "id": "5fe0b4892c70b929fe571d9255f3499a436a1bd7",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "9331d91e019f0f7d1b0617cb1ce7755272f8eb0c": {
+   "id": "9331d91e019f0f7d1b0617cb1ce7755272f8eb0c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fraude-agencia-viajes-juarez"
+  },
+  "9278726ac35ea9e936678659313ccee008278b18": {
+   "id": "9278726ac35ea9e936678659313ccee008278b18",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "accidentes-viales-guanajuato"
+  },
+  "5e437393b2bfac019e26253c83982a54b525449f": {
+   "id": "5e437393b2bfac019e26253c83982a54b525449f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "decomiso-cocaina-oaxaca-mexico-eu"
+  },
+  "cab703ab02fa69c076b0c5fdc96883292f161330": {
+   "id": "cab703ab02fa69c076b0c5fdc96883292f161330",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-cerimedo-planes-electorales"
+  },
+  "14fa190cc987c1055889944a10e182cd695cc4d7": {
+   "id": "14fa190cc987c1055889944a10e182cd695cc4d7",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f9e8224cf6d129d02b736e0cba7cc631f9d0bb21": {
+   "id": "f9e8224cf6d129d02b736e0cba7cc631f9d0bb21",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bloqueo-vialidades-imss-nuevo-leon"
+  },
+  "a9939ed902546a12c89915125880bd3ac9424cb1": {
+   "id": "a9939ed902546a12c89915125880bd3ac9424cb1",
+   "seccion": "ia",
    "subseccion": null,
    "prioridad": 5,
    "ruido": false,
-   "resumen": "Un ataque hutí dejó 12 muertos y más de 300 heridos en el aeropuerto de Riad, incluyendo cuatro saudíes y un estadounidense. Las autoridades suspendieron todas las operaciones aéreas. Es el bombardeo más letal contra el Golfo desde el inicio del conflicto.",
-   "historia": "ataque-huti-aeropuerto-riad"
+   "resumen": "Meta presenta Muse Wonder, un modelo de IA que realiza tareas complejas de forma autónoma. Compite directamente con Claude y ChatGPT en capacidades de frontera.",
+   "historia": "meta-muse-wonder-lanzamiento"
   },
-  "9e368614a5cdd8f614e37b8baa66e99fe3efa962": {
-   "id": "9e368614a5cdd8f614e37b8baa66e99fe3efa962",
+  "2d312214cc7b2fcabea3550cd3587be2404ef138": {
+   "id": "2d312214cc7b2fcabea3550cd3587be2404ef138",
    "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "bf3313d257b69bb263ce2c9554d7b272895c35f6": {
-   "id": "bf3313d257b69bb263ce2c9554d7b272895c35f6",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Cinco de los 13 reclusorios capitalinos están bajo control de internos, según diagnóstico de la CNDH. En ellos hay autogobierno, actividades criminales y extorsión por parte de los presos.",
-   "historia": "autogobierno-carceles-cdmx-cndh"
-  },
-  "01b465ece5dc189d63abbce2b0a3a308cb285d6b": {
-   "id": "01b465ece5dc189d63abbce2b0a3a308cb285d6b",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "5d775d622e86c721de2cdd380a3edd6062f0149d": {
-   "id": "5d775d622e86c721de2cdd380a3edd6062f0149d",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "887124fcb6c01bf42fcf455e00928a04ee1e0f1f": {
-   "id": "887124fcb6c01bf42fcf455e00928a04ee1e0f1f",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "paro-prepa-emiliano-zapata-iems"
-  },
-  "eaf028e0d16e064efce658977d925fc46b61904f": {
-   "id": "eaf028e0d16e064efce658977d925fc46b61904f",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "morena-pan-predialazo-vivienda"
-  },
-  "13b9d12d8e1e3990db44c06506284199131d05e4": {
-   "id": "13b9d12d8e1e3990db44c06506284199131d05e4",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
+   "subseccion": "seguridad",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "feria-nacional-mole-san-pedro-atocpan"
+   "historia": "fraude-vivienda-recuperacion-propiedad"
   },
-  "0ba502d35db618caa903094446b2ded1b15a8d44": {
-   "id": "0ba502d35db618caa903094446b2ded1b15a8d44",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "prision-preventiva-agresores-policias-transito"
-  },
-  "9fb8e04b7921bfaab8411f5f8ac028d13d38d006": {
-   "id": "9fb8e04b7921bfaab8411f5f8ac028d13d38d006",
+  "4136da2144355b20cddb57529540915ce69d6dfd": {
+   "id": "4136da2144355b20cddb57529540915ce69d6dfd",
    "seccion": "nacional",
    "subseccion": "seguridad",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "pensionazo-fraude-cibernetico"
+   "historia": "busqueda-desaparecidos-rachel-baja-california"
   },
-  "16ae2ca2231c44bdbe44a0d653e00aee18dd33f9": {
-   "id": "16ae2ca2231c44bdbe44a0d653e00aee18dd33f9",
+  "a985ecfcde5e4739272362f4e576360593772c98": {
+   "id": "a985ecfcde5e4739272362f4e576360593772c98",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "isla-munecas-pelicula-mexicana"
+  },
+  "db04707d72ac6083c58f9d310c442e4832e449d3": {
+   "id": "db04707d72ac6083c58f9d310c442e4832e449d3",
    "seccion": "nacional",
-   "subseccion": "economia",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "dengue-sinaloa"
+  },
+  "c5837265cc31e9e93859b5be50b0ab02c4705ec8": {
+   "id": "c5837265cc31e9e93859b5be50b0ab02c4705ec8",
+   "seccion": "nacional",
+   "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
    "historia": null
   },
-  "903dc441967b93f269621124b02866ab7f3907eb": {
-   "id": "903dc441967b93f269621124b02866ab7f3907eb",
+  "3055206e645790f55c63f6cf3bc4714e5d10316d": {
+   "id": "3055206e645790f55c63f6cf3bc4714e5d10316d",
    "seccion": "nacional",
    "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El fenómeno de El Niño afecta económicamente a un tercio de los estados mexicanos. El impacto se debe a sequías y variabilidad climática que afectan sectores productivos.",
+   "historia": "el-nino-impacto-economia-mexico"
+  },
+  "bd3d94935175150f5bdfdf88d8e8f63300c550df": {
+   "id": "bd3d94935175150f5bdfdf88d8e8f63300c550df",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El Senado amplía plazo para dictaminar ley contra feminicidio y continuar diálogo con víctimas. La decisión refleja búsqueda de consenso legislativo sobre tema de seguridad.",
+   "historia": "ley-feminicidio-senado"
+  },
+  "24f070fd5b7ed510a56e432deeaaabbaf1b8169c": {
+   "id": "24f070fd5b7ed510a56e432deeaaabbaf1b8169c",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rescate-ahmsa-gomez-urrutia"
+  },
+  "f1f92522c1701f678f7b352b0e8344c8edf6010c": {
+   "id": "f1f92522c1701f678f7b352b0e8344c8edf6010c",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "postura-comercial-eu-mexico"
+   "historia": "suicidios-coahuila-salud-mental"
   },
-  "37aafa15d7b7f90e4921120d91327f2d35852e0e": {
-   "id": "37aafa15d7b7f90e4921120d91327f2d35852e0e",
+  "8635e06235e8370e23abc643179ef998c6525cd7": {
+   "id": "8635e06235e8370e23abc643179ef998c6525cd7",
    "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": true,
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
    "resumen": null,
-   "historia": null
+   "historia": "zorra-rabia-quintana-roo"
   },
-  "cfe95e8a1ca6e46b962fd230107f6f737bccbe46": {
-   "id": "cfe95e8a1ca6e46b962fd230107f6f737bccbe46",
+  "5597fd4368302e2d4f9e914aab2999b8513230f2": {
+   "id": "5597fd4368302e2d4f9e914aab2999b8513230f2",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "sheinbaum-violencia-guadalajara-lemus"
+  },
+  "9460fe61d2e80cefab7c3882e797a0ac24257683": {
+   "id": "9460fe61d2e80cefab7c3882e797a0ac24257683",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "rex-perro-rescatista-jubilacion"
+  },
+  "90807916361c80ac2a6bd715eee0a9773d0d1c53": {
+   "id": "90807916361c80ac2a6bd715eee0a9773d0d1c53",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "doctor-maximiano-prisión-muertes"
+  },
+  "7f8138a637b7bf9f21c8c471718def59f825289f": {
+   "id": "7f8138a637b7bf9f21c8c471718def59f825289f",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "triple-feminicidio-hidalgo-sentencia"
+  },
+  "31d408d33463e48f697a2457f56975317aaaa7cc": {
+   "id": "31d408d33463e48f697a2457f56975317aaaa7cc",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "margarita-villaescusa-registro-civil-sinaloa"
+  },
+  "2fe1b0d2f213c801c0341b9cc725d29d314c6f34": {
+   "id": "2fe1b0d2f213c801c0341b9cc725d29d314c6f34",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "imss-protesta-insumos-ciudad-madero"
+  },
+  "2a5d87f1462d2782fd64883e0d21df6b37d85f51": {
+   "id": "2a5d87f1462d2782fd64883e0d21df6b37d85f51",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte-breaking-bad"
+  },
+  "2dad85721e807a714c560b62877d82d092d992ff": {
+   "id": "2dad85721e807a714c560b62877d82d092d992ff",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "natalidad-mexico-covid"
+  },
+  "278bec5c58609df0556a34719ccc76c0822eb1d8": {
+   "id": "278bec5c58609df0556a34719ccc76c0822eb1d8",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "salomon-jara-denuncia"
+  },
+  "97d277d278fb013aaf3259f3e2626d948688faaf": {
+   "id": "97d277d278fb013aaf3259f3e2626d948688faaf",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "imss-zacatecas-protesta-salarios"
+  },
+  "a14049bcdeb10036f3a6ebd8f83c9f819bc5ccb6": {
+   "id": "a14049bcdeb10036f3a6ebd8f83c9f819bc5ccb6",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "fernando-cerimedo-guerra-sucia-sheinbaum"
+  },
+  "0df16a3e1ec7185e8ceb1da0d5d76a5bbab6501c": {
+   "id": "0df16a3e1ec7185e8ceb1da0d5d76a5bbab6501c",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -550,8 +991,26 @@
    "resumen": null,
    "historia": null
   },
-  "fbd0d9b4ebfa1826e50570d45ee8e494678e94cc": {
-   "id": "fbd0d9b4ebfa1826e50570d45ee8e494678e94cc",
+  "f549ddb7d5644efff0075ac60ea07d0323503da2": {
+   "id": "f549ddb7d5644efff0075ac60ea07d0323503da2",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cocaina-oaxaca-semar"
+  },
+  "10930fc59b223513bade6c810e4934b84f023166": {
+   "id": "10930fc59b223513bade6c810e4934b84f023166",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "policia-cuernavaca-protesta-salarios"
+  },
+  "951c6f2f200cc05834081ffccf1547c227895ea2": {
+   "id": "951c6f2f200cc05834081ffccf1547c227895ea2",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -559,8 +1018,8 @@
    "resumen": null,
    "historia": null
   },
-  "412f5366e2757ab5f1b88de4c611102f1e43b8d9": {
-   "id": "412f5366e2757ab5f1b88de4c611102f1e43b8d9",
+  "d4a745bcbd15c8ac942d581be0c1afa54c6347c4": {
+   "id": "d4a745bcbd15c8ac942d581be0c1afa54c6347c4",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -568,17 +1027,233 @@
    "resumen": null,
    "historia": null
   },
-  "85f278af507365eb8c722a11255fcbd16910a6c7": {
-   "id": "85f278af507365eb8c722a11255fcbd16910a6c7",
+  "37a7e51c1df9e9d3122d66d0c6d8e005d50eed8a": {
+   "id": "37a7e51c1df9e9d3122d66d0c6d8e005d50eed8a",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "desinformacion-salud-mental-tiktok"
+  },
+  "6e364885a15d6a96f01987d427948b80389e0fe0": {
+   "id": "6e364885a15d6a96f01987d427948b80389e0fe0",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 1,
+   "ruido": false,
+   "resumen": null,
+   "historia": "whatsapp-programacion-mensajes"
+  },
+  "3497459508aaba49bf00e444bc3b1b217606a75d": {
+   "id": "3497459508aaba49bf00e444bc3b1b217606a75d",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bloqueo-choboro-tamaulipas"
+  },
+  "d0215757c2dfd8de25a21ac6e636abf3bf4bc4f0": {
+   "id": "d0215757c2dfd8de25a21ac6e636abf3bf4bc4f0",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "cris-morena-valentin-agresiones"
+  },
+  "66bca731dd4fe146bdfcc78ae52a77bf5c2ddbe7": {
+   "id": "66bca731dd4fe146bdfcc78ae52a77bf5c2ddbe7",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "selma-blair-avion-detenida"
+  },
+  "363bb1aad499e5b183b6b9dacb6118c261904bf4": {
+   "id": "363bb1aad499e5b183b6b9dacb6118c261904bf4",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "acceso-financiero-sobreendeudamiento"
+  },
+  "498d8028c5de6a1d8ac792115dfd52a2e0b2db1d": {
+   "id": "498d8028c5de6a1d8ac792115dfd52a2e0b2db1d",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-espana-fondo-mixto-cooperacion"
+  },
+  "191fb5d11ffec16e2f109230503501bf358d4335": {
+   "id": "191fb5d11ffec16e2f109230503501bf358d4335",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "597ce15b72c81c8a0ddc9f807b866ba990815f04": {
+   "id": "597ce15b72c81c8a0ddc9f807b866ba990815f04",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "73f76105d1f4a47457d46051cc181a933f164519": {
+   "id": "73f76105d1f4a47457d46051cc181a933f164519",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "mexico-espana-relacion-cultural"
+  },
+  "19fb824e05e8cac4f226b5011452487d7d38b128": {
+   "id": "19fb824e05e8cac4f226b5011452487d7d38b128",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "d7271288757a55613445f39928a39cca3cb24e7a": {
+   "id": "d7271288757a55613445f39928a39cca3cb24e7a",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "descarrilamiento-tren-acultzingo-veracruz"
+  },
+  "68fc5373d64cd0ad89a2eb5f610ba2a1e7814764": {
+   "id": "68fc5373d64cd0ad89a2eb5f610ba2a1e7814764",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "angelica-rivera-netflix-serie"
+  },
+  "3e3a430067328e9a6dd168478939c5e21fedd3a9": {
+   "id": "3e3a430067328e9a6dd168478939c5e21fedd3a9",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "danza-transatlantica-mexico-españa"
+  },
+  "86ac311d73fa39a37d1023d78cef2c61e3874aad": {
+   "id": "86ac311d73fa39a37d1023d78cef2c61e3874aad",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Morena propone reformas que críticos vinculan con la limitación de contenido de crítica política en redes sociales. La iniciativa enfrenta cuestionamientos sobre libertad de expresión.",
+   "historia": "reformas-anti-memes-morena"
+  },
+  "12660d6444969432a9da476e71df11dc565721fc": {
+   "id": "12660d6444969432a9da476e71df11dc565721fc",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "310ec65c039fd3e8a0a202db8b1f3066242316cf": {
+   "id": "310ec65c039fd3e8a0a202db8b1f3066242316cf",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "romeraia-2026-guadalajara-basura"
+  },
+  "d0f0344dc859997d3ce54d8658b6b258312cd9d5": {
+   "id": "d0f0344dc859997d3ce54d8658b6b258312cd9d5",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "8c607539eb87c43a73d33443ea5ad6aac0d69b1d": {
+   "id": "8c607539eb87c43a73d33443ea5ad6aac0d69b1d",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "papa-leon-xiv-operacion"
+   "historia": "florida-registro-auto-inmigrantes-asilo"
   },
-  "cff1aa2f9f0ad1b030e7319064b8e412b93d914f": {
-   "id": "cff1aa2f9f0ad1b030e7319064b8e412b93d914f",
+  "9c3a0a7605652600d202195c3d87d0fb91d24ad6": {
+   "id": "9c3a0a7605652600d202195c3d87d0fb91d24ad6",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "britney-spears-justin-timberlake-cancion"
+  },
+  "57f7d81fd7da3a2d2f98598b7f4b9d9c6b73079b": {
+   "id": "57f7d81fd7da3a2d2f98598b7f4b9d9c6b73079b",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Nuevas regulaciones ambientales impondrían multas de hasta 234 millones de pesos a empresas. El gobierno endurece las sanciones por incumplimiento ambiental.",
+   "historia": "ley-ambiental-multas-empresas"
+  },
+  "3d11403733254ce8ed208fbbe609b044c14841f8": {
+   "id": "3d11403733254ce8ed208fbbe609b044c14841f8",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Influencers relatan uso de gas lacrimógeno contra manifestantes en marcha por agua en Guadalajara. Protesta contra políticas hídricas del gobierno local derivó en represión.",
+   "historia": "marcha-agua-guadalajara-represion"
+  },
+  "d49ab218624dd420c4ada3e9fbebfd7dabd5973a": {
+   "id": "d49ab218624dd420c4ada3e9fbebfd7dabd5973a",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "operativo-armas-droga-edomex"
+  },
+  "ce83a4b5139b815d0290c893f9b632d391a0915f": {
+   "id": "ce83a4b5139b815d0290c893f9b632d391a0915f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "incendio-mercado-comida-paris"
+  },
+  "3f55a99420aec7b91d9b7209a01af03fd67766b5": {
+   "id": "3f55a99420aec7b91d9b7209a01af03fd67766b5",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "salud-prioridad-transformacion-villarreal"
+  },
+  "e24d8a6a088c1a26641ed3c1aa9c56894c691f8d": {
+   "id": "e24d8a6a088c1a26641ed3c1aa9c56894c691f8d",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
@@ -586,1274 +1261,1301 @@
    "resumen": null,
    "historia": null
   },
-  "d2c08f59ce3ebcfd4e4f70e20fe3b3a6a3048c0e": {
-   "id": "d2c08f59ce3ebcfd4e4f70e20fe3b3a6a3048c0e",
+  "bd5c1703044c89336e41cb39ab011aadcceed0fd": {
+   "id": "bd5c1703044c89336e41cb39ab011aadcceed0fd",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "f690ebef82954671462d0064a6b54c8e5caeee7f": {
+   "id": "f690ebef82954671462d0064a6b54c8e5caeee7f",
+   "seccion": "nacional",
+   "subseccion": "tecnologia",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Ciberataque masivo a supermercados eleva temperatura de refrigeradores, comprometiendo productos. Ataque coordinado a cadenas comerciales afecta operaciones logísticas.",
+   "historia": "ataque-hackers-supermercados-refrigeradores"
+  },
+  "1df1c1d743b94a246aced7eaacfca1756c2291dd": {
+   "id": "1df1c1d743b94a246aced7eaacfca1756c2291dd",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "españa-apuesta-mexico"
+  },
+  "f2ca52f0247fdb22da735f0cd08cb073ceb79dea": {
+   "id": "f2ca52f0247fdb22da735f0cd08cb073ceb79dea",
+   "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pacic-cumplimiento-autoservicios"
+  },
+  "bacd0f39a39adc5edae2eb2d20f5a25e0d542dba": {
+   "id": "bacd0f39a39adc5edae2eb2d20f5a25e0d542dba",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "apagon-playas-tijuana-comercio"
+  },
+  "2d25c3ab2985afa33c1f4c6af54a6ee47ed7621a": {
+   "id": "2d25c3ab2985afa33c1f4c6af54a6ee47ed7621a",
+   "seccion": "nacional",
+   "subseccion": "cdmx",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "festival-luces-cantoya-cancelacion-ambiental"
+  },
+  "904905929253b9655fed9f1b4f7bccf7d560c0ea": {
+   "id": "904905929253b9655fed9f1b4f7bccf7d560c0ea",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "95418d6eb02e3e079722bf0184831ec9c86d583f": {
+   "id": "95418d6eb02e3e079722bf0184831ec9c86d583f",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "legado-laura-camarillo-derechos-humanos"
+  },
+  "9bcbda5762dabfcb5eef4d7c5eb588364796b886": {
+   "id": "9bcbda5762dabfcb5eef4d7c5eb588364796b886",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "hospitales-tijuana-servicios-medicamentos"
+  },
+  "1c949a09ef1929e5ce9b4fcb1c5ba3baf91df9c4": {
+   "id": "1c949a09ef1929e5ce9b4fcb1c5ba3baf91df9c4",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "bonilla-alianza-morena-marina"
+  },
+  "3d6bd025efd17732ac84ddf65fb2eaf702de73ec": {
+   "id": "3d6bd025efd17732ac84ddf65fb2eaf702de73ec",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "honeyjar-herramienta-rp-ia"
+  },
+  "2bafe844525d9b89a14ef8344a72e2ab89e473a6": {
+   "id": "2bafe844525d9b89a14ef8344a72e2ab89e473a6",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "yandex-apagon-ucrania"
+  },
+  "061d3d47606fb5e9c7c71ca3c02eb823f01820ad": {
+   "id": "061d3d47606fb5e9c7c71ca3c02eb823f01820ad",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": "Bill Gates advierte sobre el incremento de ciberataques potenciados por inteligencia artificial, destacando los riesgos de seguridad que plantea la tecnología.",
+   "historia": "bill-gates-ciberataques-ia"
+  },
+  "3e9d1502625a2a0bc1c71274378706b8537d1e54": {
+   "id": "3e9d1502625a2a0bc1c71274378706b8537d1e54",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Brad Smith, presidente de Microsoft, pide regulación urgente de la IA, señalando que la leche y las lavadoras tienen más supervisión que las empresas de inteligencia artificial.",
+   "historia": "microsoft-regulacion-ia-uk"
+  },
+  "66bc7799b413e16c586131a6534da54f17668137": {
+   "id": "66bc7799b413e16c586131a6534da54f17668137",
    "seccion": "ia",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "ia-literatura-etiquetas-autoria"
+   "historia": "blueprints-ai-planos-construccion"
   },
-  "e77782259eb7f13e36111e04f1ec7d6eaae9042f": {
-   "id": "e77782259eb7f13e36111e04f1ec7d6eaae9042f",
-   "seccion": "nacional",
+  "f2effa49b07fc9799a64b9667dea7eda98fb0251": {
+   "id": "f2effa49b07fc9799a64b9667dea7eda98fb0251",
+   "seccion": "ia",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "asimov-ia-moral-filosofia"
   },
-  "10bdb8f113cd98953b00c80a87b5364864b62a5e": {
-   "id": "10bdb8f113cd98953b00c80a87b5364864b62a5e",
-   "seccion": "nacional",
+  "2f1febb682a42c807466345b7fe39e0e38b9286d": {
+   "id": "2f1febb682a42c807466345b7fe39e0e38b9286d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "google-fitbit-edge-salud-ia"
+  },
+  "fa6299aff0aa5d6450a06ac83d003abb238f62ac": {
+   "id": "fa6299aff0aa5d6450a06ac83d003abb238f62ac",
+   "seccion": "ia",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "source-meridian-anthropic"
   },
-  "447473783d8b54258cefd0438545ca34e9db5476": {
-   "id": "447473783d8b54258cefd0438545ca34e9db5476",
+  "08612b9aebc4431c3b8587a98a7ba20cd893a43e": {
+   "id": "08612b9aebc4431c3b8587a98a7ba20cd893a43e",
    "seccion": "internacional",
    "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "papa-leon-xiv-operacion"
-  },
-  "24cfeffd79158ddc44b2b34ef70f66c93cca2c59": {
-   "id": "24cfeffd79158ddc44b2b34ef70f66c93cca2c59",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "b63690f75b79e08532b2d324037c8a928530fe4e": {
-   "id": "b63690f75b79e08532b2d324037c8a928530fe4e",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "lluvias-mexico-simon-rachel"
+   "historia": "estafas-chinas-ia-expansion"
   },
-  "d5914cef71657937a7eb0cb6b4c7366188afecb6": {
-   "id": "d5914cef71657937a7eb0cb6b4c7366188afecb6",
-   "seccion": "nacional",
+  "5b32989ce14ca69737070936fd38730a30d6cbbf": {
+   "id": "5b32989ce14ca69737070936fd38730a30d6cbbf",
+   "seccion": "ia",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
    "historia": null
   },
-  "262dfd4a5faa1dc9c18a796b5d09b936bebb61ee": {
-   "id": "262dfd4a5faa1dc9c18a796b5d09b936bebb61ee",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "15ecaf844e988d7e1baee55bfa1fc97afd1a0213": {
-   "id": "15ecaf844e988d7e1baee55bfa1fc97afd1a0213",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Un ataque de hutíes contra un aeropuerto saudí dejó al menos 12 muertos y cientos de heridos. El grupo yemení reivindicó el ataque.",
-   "historia": "ataque-hutis-aeropuerto-saudi"
-  },
-  "f387b7295190f7bfc22d765d58d11739db5b3542": {
-   "id": "f387b7295190f7bfc22d765d58d11739db5b3542",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "80494d456f46fba911107e9439351369ae589292": {
-   "id": "80494d456f46fba911107e9439351369ae589292",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "5c75049e39ca2dd9e95209afa4b29fc4db56611c": {
-   "id": "5c75049e39ca2dd9e95209afa4b29fc4db56611c",
-   "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "lluvias-mexico-simon-rachel"
-  },
-  "e4983f66475c50e34a9fc082cdcc2d8fb373b7e6": {
-   "id": "e4983f66475c50e34a9fc082cdcc2d8fb373b7e6",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "c06d5c8c613e0637c0673cd1daac93dc9bba7d06": {
-   "id": "c06d5c8c613e0637c0673cd1daac93dc9bba7d06",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "f3cde4ba120cd79bc474305daa931ce0ebfdc1ea": {
-   "id": "f3cde4ba120cd79bc474305daa931ce0ebfdc1ea",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "8555ad8e1a9447ba96017f49b979fb7f9650ee33": {
-   "id": "8555ad8e1a9447ba96017f49b979fb7f9650ee33",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "ef2f89709bd71fc439eade812f178fc9c91a6e24": {
-   "id": "ef2f89709bd71fc439eade812f178fc9c91a6e24",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Jalisco y Colima se preparan para la embestida del Huracán Simón de categoría 4. Estados en alerta máxima por impacto inminente.",
-   "historia": "huracan-simon-jalisco-colima"
-  },
-  "557346d19d0a22104c1ab333de367cfb68912117": {
-   "id": "557346d19d0a22104c1ab333de367cfb68912117",
-   "seccion": "nacional",
-   "subseccion": "economia",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "recuperacion-pib-mexico-2026"
-  },
-  "133fc6672902cfa01e8be5127f037aabc618f005": {
-   "id": "133fc6672902cfa01e8be5127f037aabc618f005",
-   "seccion": "nacional",
-   "subseccion": "economia",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "inversion-privada-sheinbaum"
-  },
-  "c071865d5e4084512a191ffadaa23ab90ab25a54": {
-   "id": "c071865d5e4084512a191ffadaa23ab90ab25a54",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "sistema-fiscal-mexico"
-  },
-  "e625fab8c7c298a96eaff2dc1c86e9ba6cfeb41f": {
-   "id": "e625fab8c7c298a96eaff2dc1c86e9ba6cfeb41f",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "PRI y PAN pugnan por arrebatar Nuevo León a Movimiento Ciudadano en 2027, mientras Morena llega fragmentado a la contienda electoral.",
-   "historia": "elecciones-nuevo-leon-2027"
-  },
-  "da2f6d8a5ce045bb36c32b6e2204c3ccc962cc86": {
-   "id": "da2f6d8a5ce045bb36c32b6e2204c3ccc962cc86",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "omar-garcia-harfuch-politica"
-  },
-  "3bce30282c97840f084b1553928f228d4ef10c7e": {
-   "id": "3bce30282c97840f084b1553928f228d4ef10c7e",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "caso-cornell-violacion-vacio-legal"
-  },
-  "7091de25c27ede4be13925ffe84991f611c9a1ca": {
-   "id": "7091de25c27ede4be13925ffe84991f611c9a1ca",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "cervantino-2026-diversidad-cultural"
-  },
-  "d299f1a198356fd12757398f3e304eb80ff8a036": {
-   "id": "d299f1a198356fd12757398f3e304eb80ff8a036",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "ffe2eb1dea2444f4419767d7da717b9b69ff927d": {
-   "id": "ffe2eb1dea2444f4419767d7da717b9b69ff927d",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "clasico-tapatios-milito"
-  },
-  "848c4ae2691e0bc82ed39254685306c60373d6fb": {
-   "id": "848c4ae2691e0bc82ed39254685306c60373d6fb",
+  "2ed9cd8797c77f482f2c6b02d506189dfed9e679": {
+   "id": "2ed9cd8797c77f482f2c6b02d506189dfed9e679",
    "seccion": "ia",
    "subseccion": null,
    "prioridad": 4,
    "ruido": false,
-   "resumen": "La IA evolucionó de recomendar productos a decidir compras directamente. Empresas implementan sistemas que automatizan decisiones de consumo sin intervención humana.",
-   "historia": "comercio-agencia-ia"
+   "resumen": "El Fondo Monetario Internacional advierte sobre los riesgos laborales que plantea la adopción de inteligencia artificial en el mercado de trabajo global.",
+   "historia": "fmi-ia-empleo-riesgos"
   },
-  "2ee575269aa88ce305ea6c34adf746c82cac748d": {
-   "id": "2ee575269aa88ce305ea6c34adf746c82cac748d",
+  "79f9768a69c523ca38d73fe700e4522215b701cf": {
+   "id": "79f9768a69c523ca38d73fe700e4522215b701cf",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "El presidente de Microsoft afirma que la inteligencia artificial enfrenta menor regulación que productos de consumo cotidiano como la leche.",
+   "historia": "microsoft-regulacion-ia-uk"
+  },
+  "ebd593a4b13932b5ba50f994c19cc8fedb0fba05": {
+   "id": "ebd593a4b13932b5ba50f994c19cc8fedb0fba05",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "uk-pruebas-seguridad-ia"
+  },
+  "674245968d38467c56d3044e4635eda7d7e5939f": {
+   "id": "674245968d38467c56d3044e4635eda7d7e5939f",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "OpenAI anunció que su sistema resolvió más de 300 problemas matemáticos complejos que llevaban años sin solución, demostrando avances en capacidades de razonamiento.",
+   "historia": "openai-problemas-matematicos"
+  },
+  "c60edb866d7b8bc4d390ebc09d52c2780fb0006c": {
+   "id": "c60edb866d7b8bc4d390ebc09d52c2780fb0006c",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "madrid-foro-ia-tecnologicas"
+  },
+  "ee98e7f271bc112e54217c333b7a11d3ef5cffe3": {
+   "id": "ee98e7f271bc112e54217c333b7a11d3ef5cffe3",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "tecnologia-china-ia-eeuu"
+  },
+  "6567f510cec7a7eb12ad6e81af8762907bb33f5e": {
+   "id": "6567f510cec7a7eb12ad6e81af8762907bb33f5e",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "agua-contaminada-guadalajara"
+  },
+  "bcef23dab5ee4e02f533482b77ac834649b46df6": {
+   "id": "bcef23dab5ee4e02f533482b77ac834649b46df6",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marcha-guadalajara-detenciones"
+  },
+  "b20dae06e7d2b4c5275e52465a01fc38dceb30e5": {
+   "id": "b20dae06e7d2b4c5275e52465a01fc38dceb30e5",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marcha-guadalajara-detenciones"
+  },
+  "105ef783035dbdfc2ce8dcb82462652d56ff962b": {
+   "id": "105ef783035dbdfc2ce8dcb82462652d56ff962b",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "cine-criminologia-columna"
+  },
+  "547b1df069ae01203342b7ef308d8bffb27c35f5": {
+   "id": "547b1df069ae01203342b7ef308d8bffb27c35f5",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "quien-es-la-mascara-fifañera-marcela-mistral"
+  },
+  "2158c901e9e33885e8d1304558ab507f6b5d67a2": {
+   "id": "2158c901e9e33885e8d1304558ab507f6b5d67a2",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "riña-machetazos-el-jitzamuri"
+  },
+  "ae91643448e958cb9000fb7d1f9f504f6af8af8b": {
+   "id": "ae91643448e958cb9000fb7d1f9f504f6af8af8b",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Sheinbaum solicita a la población tomar previsiones por el impacto del huracán Simón. El gobierno federal activa protocolos de prevención ante la tormenta.",
+   "historia": "huracan-simon-previsiones"
+  },
+  "151e83ba4d0dd5953e445617e1dfc109d0575481": {
+   "id": "151e83ba4d0dd5953e445617e1dfc109d0575481",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "frases-manipulacion-listicle"
+  },
+  "8b6d77f48fa27d9505734ad185f6de24331a5967": {
+   "id": "8b6d77f48fa27d9505734ad185f6de24331a5967",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Normalistas bloquean carreteras, comuneros toman casetas y se aseguran espacios públicos en Michoacán. La situación genera caos en diferentes puntos del estado.",
+   "historia": "conflicto-michoacan-normalistas-comuneros"
+  },
+  "2152a019635390c1a5c65a73962c42bd5f54973b": {
+   "id": "2152a019635390c1a5c65a73962c42bd5f54973b",
+   "seccion": "nacional",
+   "subseccion": "politica",
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "zoé-robledo-imss-protestas-trabajadores"
+  },
+  "4437ad9e783d838036f21744dfed52b9215e4900": {
+   "id": "4437ad9e783d838036f21744dfed52b9215e4900",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "potro-gutierrez-disculpa-america"
+  },
+  "11bdfa327276b9d3125e352f62305118450fa17d": {
+   "id": "11bdfa327276b9d3125e352f62305118450fa17d",
    "seccion": "nacional",
    "subseccion": "politica",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "economia-elecciones-2027"
+   "historia": "campana-vacunacion-influenza-nuevo-leon"
   },
-  "e97f5cf02e26b61d7c06e7b49ecbcacb68015348": {
-   "id": "e97f5cf02e26b61d7c06e7b49ecbcacb68015348",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "america-110-aniversario"
-  },
-  "c98473e9cb6cddf78fbdcfab1426cecc202f87c7": {
-   "id": "c98473e9cb6cddf78fbdcfab1426cecc202f87c7",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Huracán Simón y mar de fondo generan lluvias intensas e inundaciones en Oaxaca. Autoridades implementan operativos de respuesta en la región afectada.",
-   "historia": "huracan-simon-oaxaca"
-  },
-  "f19c5d25c13227f56d1d857b65a7c00b46196ad2": {
-   "id": "f19c5d25c13227f56d1d857b65a7c00b46196ad2",
-   "seccion": "nacional",
-   "subseccion": "economia",
-   "prioridad": 2,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "5d402342da3102a4f80e2e218a3705c8d94829d4": {
-   "id": "5d402342da3102a4f80e2e218a3705c8d94829d4",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "monterrey-america-almeyda"
-  },
-  "820d0cb68ff7dbda8f4e44feb70c87443598f09f": {
-   "id": "820d0cb68ff7dbda8f4e44feb70c87443598f09f",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "luis-angel-pedraza-columna"
-  },
-  "1987b0fa07611ed1e8f7bbb5c953a183b6457572": {
-   "id": "1987b0fa07611ed1e8f7bbb5c953a183b6457572",
+  "1410b61fd7403acd69be6e1add53ca15a83c1e4b": {
+   "id": "1410b61fd7403acd69be6e1add53ca15a83c1e4b",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "boletín-diario-clima-tormentas"
   },
-  "a9a4237e807256996ce09105cc863e01ae01483a": {
-   "id": "a9a4237e807256996ce09105cc863e01ae01483a",
+  "5d6824bc3dff4a11a761cc1b0f74b775a878c8aa": {
+   "id": "5d6824bc3dff4a11a761cc1b0f74b775a878c8aa",
    "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Marina despliega más de 5 mil elementos en Manzanillo para operativos de respuesta ante la llegada del huracán.",
-   "historia": "huracan-simon-manzanillo"
-  },
-  "f2ef454cb3a66ca53aef2674cea229175d843f3b": {
-   "id": "f2ef454cb3a66ca53aef2674cea229175d843f3b",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
+   "subseccion": "politica",
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "huracan-rachel-transicion"
+   "historia": "zoé-robledo-imss-protestas-trabajadores"
   },
-  "df748d8b31656c4692250aa99323246d517ee292": {
-   "id": "df748d8b31656c4692250aa99323246d517ee292",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "655986ac6bfe530eb42bee4183a40dc618f84db5": {
-   "id": "655986ac6bfe530eb42bee4183a40dc618f84db5",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Huracán Simón alcanza categoría 4. Autoridades activan plan DN3E en Jalisco y Nayarit para operativos de emergencia.",
-   "historia": "huracan-simon-categoria-4"
-  },
-  "2e609b86c784aa9da3793f112512007d1adc4f3a": {
-   "id": "2e609b86c784aa9da3793f112512007d1adc4f3a",
-   "seccion": "nacional",
-   "subseccion": "economia",
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": null
-  },
-  "2a3aa1e94ae3adbb292616c506c9230b8649650e": {
-   "id": "2a3aa1e94ae3adbb292616c506c9230b8649650e",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "cruz-azul-america-aniversario"
-  },
-  "dbb179b03c69ee27b3f6082c07cbeea3ce342b95": {
-   "id": "dbb179b03c69ee27b3f6082c07cbeea3ce342b95",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "huracan-simon-michoacan"
-  },
-  "ca305f3877e3d651b4529f0b0413f63c3d67bcc1": {
-   "id": "ca305f3877e3d651b4529f0b0413f63c3d67bcc1",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "tormenta-rachel-operativos"
-  },
-  "e6f825a222b9b1300962f3e77a1b5172cbfc02b6": {
-   "id": "e6f825a222b9b1300962f3e77a1b5172cbfc02b6",
+  "625e2b4e2bb4152e5e12ec155f740ea5a53fff00": {
+   "id": "625e2b4e2bb4152e5e12ec155f740ea5a53fff00",
    "seccion": "nacional",
    "subseccion": "politica",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "trascendio-columna"
+   "historia": "designacion-embajadora-peru"
   },
-  "459d079620214b986406993ee2805d7765db6a79": {
-   "id": "459d079620214b986406993ee2805d7765db6a79",
+  "87ea0414476df0ea5d28d43091bcdb5fd370f311": {
+   "id": "87ea0414476df0ea5d28d43091bcdb5fd370f311",
    "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
+   "subseccion": "politica",
+   "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "juntos-revueltos-columna"
+   "historia": "mexico-peru-relaciones-diplomaticas"
   },
-  "7fd9480d76ebeba444c6a82a6fa230a0cdfcbc2c": {
-   "id": "7fd9480d76ebeba444c6a82a6fa230a0cdfcbc2c",
+  "512388149e187940f0dbaa27ba78ab2a16a0b6eb": {
+   "id": "512388149e187940f0dbaa27ba78ab2a16a0b6eb",
    "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "historia-viral-jardin"
-  },
-  "d4d70de592230a895e459c21ee6e7d25d9faeb30": {
-   "id": "d4d70de592230a895e459c21ee6e7d25d9faeb30",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "rafa-marquez-seleccion"
-  },
-  "0c248e1d100e1fff10e06403e813c790f731d369": {
-   "id": "0c248e1d100e1fff10e06403e813c790f731d369",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-confrontacion"
-  },
-  "17d9c7fff5a421d05c875639f51f761baabe1b44": {
-   "id": "17d9c7fff5a421d05c875639f51f761baabe1b44",
-   "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "desde-adentro-columna"
   },
-  "4e6bfd42d6af1c81f89df05b12765ca7637a7042": {
-   "id": "4e6bfd42d6af1c81f89df05b12765ca7637a7042",
+  "1cc968c65172f8c8e181e22b4d2f1b64c991d627": {
+   "id": "1cc968c65172f8c8e181e22b4d2f1b64c991d627",
    "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "tormenta-rachel-mexicali"
-  },
-  "b44d49a794bcee76a693d4ac7c5d6553e34e7f98": {
-   "id": "b44d49a794bcee76a693d4ac7c5d6553e34e7f98",
-   "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "doctor-tonatiuh-columna"
   },
-  "eec9f4ad97697201012a99cd9dc57543f93a87ca": {
-   "id": "eec9f4ad97697201012a99cd9dc57543f93a87ca",
+  "9d2bf287377b55fe7816e58a743c2f0b01162130": {
+   "id": "9d2bf287377b55fe7816e58a743c2f0b01162130",
    "seccion": "nacional",
-   "subseccion": "cdmx",
-   "prioridad": 3,
-   "ruido": false,
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
    "resumen": null,
-   "historia": "agua-guadalajara-presa-pintas"
+   "historia": "heart-of-beast-columna"
   },
-  "640cdca48c863f79d3b85a077c97bdf2e2f9ffd6": {
-   "id": "640cdca48c863f79d3b85a077c97bdf2e2f9ffd6",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Costa del Pacífico se prepara para huracán Simón. Pronósticos indican toque de tierra como huracán potente el domingo.",
-   "historia": "huracan-simon-pacifico"
-  },
-  "d2796b32e835e79c3fac4fd663a999f401438178": {
-   "id": "d2796b32e835e79c3fac4fd663a999f401438178",
-   "seccion": "internacional",
+  "4b51bd200dbcbecff28644b32279b588fb438637": {
+   "id": "4b51bd200dbcbecff28644b32279b588fb438637",
+   "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "papa-leon-xiv-operacion"
+   "historia": "kany-garcia-tour-puerta-abierta"
   },
-  "2f8f9821eeaf40e987de0a3004f5cfbef5c57f7d": {
-   "id": "2f8f9821eeaf40e987de0a3004f5cfbef5c57f7d",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "huracan-simon-escuelas"
-  },
-  "21310a4295dc041b5ae6caae03cee9a68f89ec3f": {
-   "id": "21310a4295dc041b5ae6caae03cee9a68f89ec3f",
-   "seccion": "internacional",
+  "48fe1626e62845f8447a9646bc2e494147fa18cd": {
+   "id": "48fe1626e62845f8447a9646bc2e494147fa18cd",
+   "seccion": "espectaculos",
    "subseccion": null,
-   "prioridad": 3,
+   "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "yemen-crisis-humanitaria-taiz"
+   "historia": "anne-carson-nobel-literatura"
   },
-  "0ed394976db7e1f2c34f026677023c9ed8474d9f": {
-   "id": "0ed394976db7e1f2c34f026677023c9ed8474d9f",
+  "419827715cf92ccd650e69375d595145b07c02f5": {
+   "id": "419827715cf92ccd650e69375d595145b07c02f5",
    "seccion": "nacional",
    "subseccion": "economia",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "industria-quimica-inversiones"
+   "historia": "cce-cfe-suministro-luz-baja-california"
   },
-  "8f5176db0410fd53b1bddac6bc563ae5098b96bd": {
-   "id": "8f5176db0410fd53b1bddac6bc563ae5098b96bd",
-   "seccion": "nacional",
-   "subseccion": "economia",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "pagos-tarjetas-incremento"
-  },
-  "ee69e9938b8e2f5516b3c23d4eb11de95468cc1e": {
-   "id": "ee69e9938b8e2f5516b3c23d4eb11de95468cc1e",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-neorreaccion-tecnologica"
-  },
-  "63401baa5ae60083aa55c70cc877e0cbf5a193bf": {
-   "id": "63401baa5ae60083aa55c70cc877e0cbf5a193bf",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-jalife-rahme"
-  },
-  "e213c45516bd83f757b0524679682733a91c0ea0": {
-   "id": "e213c45516bd83f757b0524679682733a91c0ea0",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-esther-chapa"
-  },
-  "f1defbc301c3a299697336e05a784346254023cf": {
-   "id": "f1defbc301c3a299697336e05a784346254023cf",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-ferias-libro"
-  },
-  "360f883d24fd02673a9ca320d73e2a486851370e": {
-   "id": "360f883d24fd02673a9ca320d73e2a486851370e",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-fascismo"
-  },
-  "3dce6c001e26ed961feb6999dadf7d03a58b5fe9": {
-   "id": "3dce6c001e26ed961feb6999dadf7d03a58b5fe9",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-globalizacion"
-  },
-  "5bf475836345a2a87c5396fe8be8dd64c72c913d": {
-   "id": "5bf475836345a2a87c5396fe8be8dd64c72c913d",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "cartas-lector"
-  },
-  "096f879fa1cdc33e52f74dcff02ee44566ceb771": {
-   "id": "096f879fa1cdc33e52f74dcff02ee44566ceb771",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-cine-mexicano"
-  },
-  "a25bd73af2f8300dd7f220cba4322ad838347434": {
-   "id": "a25bd73af2f8300dd7f220cba4322ad838347434",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "columna-democracia"
-  },
-  "8d1735bbce8c70bb5360a11cab22a3f776047220": {
-   "id": "8d1735bbce8c70bb5360a11cab22a3f776047220",
-   "seccion": "nacional",
-   "subseccion": "opinion",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "articulo-guterres-ninas"
-  },
-  "de2ad81e694938e386553afb013d30b02caf53bc": {
-   "id": "de2ad81e694938e386553afb013d30b02caf53bc",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "birmex-anomalias-auditoria"
-  },
-  "a46f3f484e9b29d81b97eed94dc74c8aeb1d5c76": {
-   "id": "a46f3f484e9b29d81b97eed94dc74c8aeb1d5c76",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Congreso Nacional Indígena advierte que comunidades originarias enfrentan asedio de intereses capitalistas. Organización denuncia amenazas a territorios en vísperas de cumplir 30 años.",
-   "historia": "cni-asedio-capitalista"
-  },
-  "6f607f238cec019fd6a3a7991dc99aeffa895632": {
-   "id": "6f607f238cec019fd6a3a7991dc99aeffa895632",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Director del IMSS admite que no todos los problemas de la institución están resueltos, en contexto de movilizaciones de trabajadores en capital y estados.",
-   "historia": "imss-problemas-robledo"
-  },
-  "caa0538d808a0e8dcefffae1b92d0b0ec8af95e6": {
-   "id": "caa0538d808a0e8dcefffae1b92d0b0ec8af95e6",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Presidenta Sheinbaum anuncia contratación de médicos e inversión en infraestructura para el IMSS como respuesta a movilizaciones de trabajadores.",
-   "historia": "imss-inversion-sheinbaum"
-  },
-  "bb1eb1e26df817bb48bc063af0c715ac1d190458": {
-   "id": "bb1eb1e26df817bb48bc063af0c715ac1d190458",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "cch-sur-paro-termina"
-  },
-  "bf44805754201a66c60876b8c9471d6f0292303e": {
-   "id": "bf44805754201a66c60876b8c9471d6f0292303e",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "irene-leon-grupo-herdez"
-  },
-  "dafc54ea9e97fc9ce4c68aa5223ac7f9fc249787": {
-   "id": "dafc54ea9e97fc9ce4c68aa5223ac7f9fc249787",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "marcha-gaza-mexico"
-  },
-  "7eff4b0518b91ba815a764def06311688b62d309": {
-   "id": "7eff4b0518b91ba815a764def06311688b62d309",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Prisiones mexicanas registran 792 muertes por causa natural o enfermedad, 298 agresiones contra internos y 55 suicidios en los primeros ocho meses de 2025.",
-   "historia": "violencia-carceles-2025"
-  },
-  "f801491aaf95c87df80d912097fa4540ec8486f6": {
-   "id": "f801491aaf95c87df80d912097fa4540ec8486f6",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "petro-progresismo-mexico"
-  },
-  "42561c9cf598bd5b2994d59645fb070c7974c4ee": {
-   "id": "42561c9cf598bd5b2994d59645fb070c7974c4ee",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "migrantes-desaparecidos-deportados"
-  },
-  "741331088952d1cc516c6b155b79bf15cbac3616": {
-   "id": "741331088952d1cc516c6b155b79bf15cbac3616",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "anaya-coalicion-2027"
-  },
-  "4f5c3e8447e0522e27b8e3adf4c33316c6c3043b": {
-   "id": "4f5c3e8447e0522e27b8e3adf4c33316c6c3043b",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Más de 75% de 592.3 millones observados por anticorrupción en becas Benito Juárez se entregaron a estudiantes que no cumplían requisitos de elegibilidad.",
-   "historia": "becas-benito-juarez-incumplimiento"
-  },
-  "a69642a74d36d6c3d084a36f35c7ea34949826f8": {
-   "id": "a69642a74d36d6c3d084a36f35c7ea34949826f8",
-   "seccion": "nacional",
-   "subseccion": "seguridad",
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Suicidios en cárceles se duplicaron en 2025 respecto a 2024: 101 casos contra 47, un aumento de 114 por ciento, según diagnóstico de CNDH.",
-   "historia": "suicidios-carceles-2025"
-  },
-  "de7c7ace425719237b8cb98e42cd31b4811a6a54": {
-   "id": "de7c7ace425719237b8cb98e42cd31b4811a6a54",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Trabajadores del IMSS convocan marcha nacional para el 13 de octubre, un día antes de consulta a bases sindicales sobre incremento salarial.",
-   "historia": "imss-marcha-trabajadores"
-  },
-  "0bb809372d4d5c4ab70d84730c63c35d743cf23c": {
-   "id": "0bb809372d4d5c4ab70d84730c63c35d743cf23c",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "durazo-advertencia-morena"
-  },
-  "60877b08d7510d12a54b040cfcc3578d3afec913": {
-   "id": "60877b08d7510d12a54b040cfcc3578d3afec913",
-   "seccion": "nacional",
-   "subseccion": "politica",
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "montiel-morena-coordinaciones"
-  },
-  "0e1d3872120fc1130902f00b8621076d6f45fcab": {
-   "id": "0e1d3872120fc1130902f00b8621076d6f45fcab",
+  "91ba4de413f7f3489dafa1ee0668f8f940a92989": {
+   "id": "91ba4de413f7f3489dafa1ee0668f8f940a92989",
    "seccion": "espectaculos",
    "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "muerte-rj-mitte-breaking-bad"
+  },
+  "8a16c996fd8ae23fc04e994f74529199293906cb": {
+   "id": "8a16c996fd8ae23fc04e994f74529199293906cb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ucrania-union-europea-adhesion"
+  },
+  "8a0484a0ff1857465a00d4ccf05eaece1146dfbf": {
+   "id": "8a0484a0ff1857465a00d4ccf05eaece1146dfbf",
+   "seccion": "nacional",
+   "subseccion": "politica",
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "mipcom-globo-series"
+   "historia": "huracan-simon-mitigacion"
   },
-  "042ea76b0ff647f89bc13533848fb5df11db4dcc": {
-   "id": "042ea76b0ff647f89bc13533848fb5df11db4dcc",
+  "3f181f3670367b050cc2bdf59e44048b6d9b98b3": {
+   "id": "3f181f3670367b050cc2bdf59e44048b6d9b98b3",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "estados-unidos-iran-ormuz"
+  },
+  "ea548272a49c184b8ad51b03b856aa429141c0c1": {
+   "id": "ea548272a49c184b8ad51b03b856aa429141c0c1",
    "seccion": "nacional",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": null
+   "historia": "estados-afectados-frente-frio-simon"
   },
-  "df94072e16006ceabf1f6b4bbeb9fa3b1a263797": {
-   "id": "df94072e16006ceabf1f6b4bbeb9fa3b1a263797",
-   "seccion": "espectaculos",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "top-fuel-mujeres-automovilismo"
-  },
-  "a2a97394f0400e0b38cf47cb9d0131641db5bb77": {
-   "id": "a2a97394f0400e0b38cf47cb9d0131641db5bb77",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "El Huracán Simón amenaza con inundaciones severas en su trayectoria. Se esperan impactos inmediatos en zonas costeras.",
-   "historia": "huracan-simon-inundaciones"
-  },
-  "c67e5dab8ee146b36e63f93295ab4b065d05415a": {
-   "id": "c67e5dab8ee146b36e63f93295ab4b065d05415a",
+  "71c17e9274c560e5e0813ee3a41811223af657f3": {
+   "id": "71c17e9274c560e5e0813ee3a41811223af657f3",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "ataque-escuela-minab-iran"
+   "historia": "australia-ucrania-ingeniero-iraqui"
   },
-  "5bb19937ddc7943887f7efa479bd8c7ad4de9b28": {
-   "id": "5bb19937ddc7943887f7efa479bd8c7ad4de9b28",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Reino Unido respalda a Zelenskyy tras llamada de Trump pidiendo cambio de liderazgo. Ministro de Defensa enfatiza unidad occidental sobre Rusia.",
-   "historia": "reino-unido-zelenskyy-trump"
-  },
-  "84e2e82894ee7da6555580feac09500bad45820b": {
-   "id": "84e2e82894ee7da6555580feac09500bad45820b",
+  "78ee32754baf6bb5b84b97c952c1531307240a0c": {
+   "id": "78ee32754baf6bb5b84b97c952c1531307240a0c",
    "seccion": "nacional",
+   "subseccion": "economia",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexicana-operaciones"
+  },
+  "6e85afa29b4515af472037f373ab227428de71b4": {
+   "id": "6e85afa29b4515af472037f373ab227428de71b4",
+   "seccion": "internacional",
    "subseccion": null,
    "prioridad": 4,
    "ruido": false,
-   "resumen": "El Huracán Simón se aproxima a México con vientos de 250 km/h. Autoridades advierten sobre amenaza de inundaciones severas.",
+   "resumen": "Casi mil niños han muerto en la guerra entre Rusia y Ucrania desde 2022, según reportes sobre el conflicto en curso que ha dejado miles de víctimas civiles.",
+   "historia": "guerra-rusia-ucrania-victimas"
+  },
+  "6ae04ac5f6dbf3a435c9d6322222d41b416fbf85": {
+   "id": "6ae04ac5f6dbf3a435c9d6322222d41b416fbf85",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
    "historia": "huracan-simon-mexico"
   },
-  "6267cbb88f83ce376a7d09e0e49dbed79dc463ef": {
-   "id": "6267cbb88f83ce376a7d09e0e49dbed79dc463ef",
+  "ebbb5cf947befd0675defe2565f7892f4f1b63ea": {
+   "id": "ebbb5cf947befd0675defe2565f7892f4f1b63ea",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "selma-blair-arresto-aeropuerto"
+  },
+  "bd1417a5478ca8f6c9f4de27c5716b6105ad32ba": {
+   "id": "bd1417a5478ca8f6c9f4de27c5716b6105ad32ba",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "doj-investigacion-cadenas-tv-trump"
+   "historia": "navi-pillay-gaza-trump"
   },
-  "2ad3e3efb593bd38e692bb8fc1d4a34a2a87ef0b": {
-   "id": "2ad3e3efb593bd38e692bb8fc1d4a34a2a87ef0b",
+  "0398d1de019278fe7237c6f293559fe5452dedd3": {
+   "id": "0398d1de019278fe7237c6f293559fe5452dedd3",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-documental-naza-netflix"
+  },
+  "e855842b8ba2ee2bd6a0505354533799e6eaf1d0": {
+   "id": "e855842b8ba2ee2bd6a0505354533799e6eaf1d0",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "49c6005d68e0b6130c4f227e4ff22e2442cca8fb": {
+   "id": "49c6005d68e0b6130c4f227e4ff22e2442cca8fb",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "5b6c79b85d56afb30cfd522037a232f1be271f3f": {
+   "id": "5b6c79b85d56afb30cfd522037a232f1be271f3f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "d8af6ac872eccc8cd51d46f8cf691171df3de138": {
+   "id": "d8af6ac872eccc8cd51d46f8cf691171df3de138",
    "seccion": "espectaculos",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "mujer-china-escalada-cinco-picos"
+   "historia": "bbc-archers-birmingham-produccion"
   },
-  "fedc234a56aa76d4560ab9aa531c7d6402c8aacf": {
-   "id": "fedc234a56aa76d4560ab9aa531c7d6402c8aacf",
+  "edd85f81691eda5659b607d3da46d45ce3ed2fe4": {
+   "id": "edd85f81691eda5659b607d3da46d45ce3ed2fe4",
+   "seccion": "espectaculos",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "selma-blair-arresto-aeropuerto"
+  },
+  "e4518073ab451a1993ada88c5bcbd96308a9b79d": {
+   "id": "e4518073ab451a1993ada88c5bcbd96308a9b79d",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "taiwan-escasez-personal-militar"
+   "historia": "terremoto-panama-ayuda-humanitaria"
   },
-  "49246f2921af082cf44d91014e40eeb0bff099bb": {
-   "id": "49246f2921af082cf44d91014e40eeb0bff099bb",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "huracan-simon-sinaloa"
-  },
-  "cffe72e1c3028294a970e998eff29f974988a6e9": {
-   "id": "cffe72e1c3028294a970e998eff29f974988a6e9",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "india-represion-protesta-juventud"
-  },
-  "2dc3c0c35fd110bce215501a0150d4e069866ad3": {
-   "id": "2dc3c0c35fd110bce215501a0150d4e069866ad3",
+  "bc286f6fc74f0bdbcf15bb9fdbd94d27b3d3f33d": {
+   "id": "bc286f6fc74f0bdbcf15bb9fdbd94d27b3d3f33d",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "iran-tecnologia-nuclear-segura"
-  },
-  "a0cf91b00f4d1f531fc0df30f330df0bef4119dd": {
-   "id": "a0cf91b00f4d1f531fc0df30f330df0bef4119dd",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "colonos-israelies-al-aqsa"
-  },
-  "2461e164b3606e845ae5a1810f3f7c473fac0a12": {
-   "id": "2461e164b3606e845ae5a1810f3f7c473fac0a12",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "george-gibney-sentencia"
-  },
-  "3db63670ad8f890c82c9d1e1178534efac622848": {
-   "id": "3db63670ad8f890c82c9d1e1178534efac622848",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "yandex-datacenter-ataque-dron"
-  },
-  "c8626ff2db56abe842cc3cfd93586e9705abd714": {
-   "id": "c8626ff2db56abe842cc3cfd93586e9705abd714",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": false,
-   "resumen": null,
-   "historia": "mascotas-drogas-Reino-Unido"
-  },
-  "f8588a88f210b4ac19208656126f2e7029a642ed": {
-   "id": "f8588a88f210b4ac19208656126f2e7029a642ed",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "putin-trump-cumpleaños"
-  },
-  "acea23ecef567871a932e6470610930133387d0c": {
-   "id": "acea23ecef567871a932e6470610930133387d0c",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": "huracan-simon-tracking"
-  },
-  "a0a2824cf700a8c1e973e36a4b7cb023d86e0ddb": {
-   "id": "a0a2824cf700a8c1e973e36a4b7cb023d86e0ddb",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "siria-deportacion-Reino-Unido"
-  },
-  "11f5b9a047774e729396a7cc5da0f5241affe328": {
-   "id": "11f5b9a047774e729396a7cc5da0f5241affe328",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "louisiana-candidato-policia-acusacion"
-  },
-  "6741fd98790cad4f13353bf2110e8a831b3f542d": {
-   "id": "6741fd98790cad4f13353bf2110e8a831b3f542d",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "iran-amenaza-reino-unido"
-  },
-  "78836d022843461c5040875360197c66c363a634": {
-   "id": "78836d022843461c5040875360197c66c363a634",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "abby-choi-crimenes-hong-kong"
-  },
-  "17c561a5f5321b5f741755f21cfe64589e5348c8": {
-   "id": "17c561a5f5321b5f741755f21cfe64589e5348c8",
-   "seccion": "ia",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": "google-ia-videojuegos"
-  },
-  "a327f9af0c747c24182dc9b5cc073930ff1ad9a3": {
-   "id": "a327f9af0c747c24182dc9b5cc073930ff1ad9a3",
-   "seccion": "ia",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "ia-local-privacidad"
-  },
-  "d7be09796f99371d6d2dd1c92adea31198fc4e5a": {
-   "id": "d7be09796f99371d6d2dd1c92adea31198fc4e5a",
-   "seccion": "ia",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": "Microsoft anunció capacidades de IA para gestionar y editar archivos. Amplía funcionalidades de automatización de tareas documentales.",
-   "historia": "microsoft-ia-gestion-archivos"
-  },
-  "a4a527cae32408469c800cd4762f51831b18afb9": {
-   "id": "a4a527cae32408469c800cd4762f51831b18afb9",
-   "seccion": "ia",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": "economia-ia-general"
-  },
-  "6c236ae54993c63b6f45130882b75894b8b735d2": {
-   "id": "6c236ae54993c63b6f45130882b75894b8b735d2",
-   "seccion": "ia",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": "inteligencia-artificial-opinion"
-  },
-  "270657cf8e79ccfbf2ed7bf171211abfd65b6db1": {
-   "id": "270657cf8e79ccfbf2ed7bf171211abfd65b6db1",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Más de 300 migrantes viajaban en una embarcación que se volcó cerca de Guhere. Al menos 109 murieron y más de 100 permanecen desaparecidos. Las operaciones de búsqueda y rescate están en curso.",
-   "historia": "naufragio-migrantes-djibouti"
-  },
-  "83d3efe6f0b05208b24d9c887efe3738424659fe": {
-   "id": "83d3efe6f0b05208b24d9c887efe3738424659fe",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Tras un ataque letal al aeropuerto de Riad, los hutíes advierten a pasajeros evitar viajar. Trump evalúa si EU se sumará a los ataques sauditas contra el grupo respaldado por Irán.",
-   "historia": "ataque-hutiles-riyadh-saudi"
-  },
-  "519707b28a92181c1eeb72639486f9b30753d5cf": {
-   "id": "519707b28a92181c1eeb72639486f9b30753d5cf",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "biden-gaza-revisionist"
-  },
-  "d7d068ebe726fda1976d133094978969394fcbe7": {
-   "id": "d7d068ebe726fda1976d133094978969394fcbe7",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 1,
-   "ruido": true,
-   "resumen": null,
-   "historia": "liverpool-man-city-futbol"
-  },
-  "d75c005630cd2d02a74ec960980ea3573ad012fc": {
-   "id": "d75c005630cd2d02a74ec960980ea3573ad012fc",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "papa-guerra-rusia-ucrania-hambre"
-  },
-  "ac33141a8d32c6fde329d80f3772fc7dd7b32f62": {
-   "id": "ac33141a8d32c6fde329d80f3772fc7dd7b32f62",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "burnham-photo-id-votacion-reino-unido"
-  },
-  "c3a41b8ad48279416439af9145eb178f9aaab024": {
-   "id": "c3a41b8ad48279416439af9145eb178f9aaab024",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "El huracán Simón avanza lentamente hacia las costas de México, presentando riesgo elevado por la duración del evento.",
    "historia": "huracan-simon-mexico"
   },
-  "73bf9224eb96acb71ad8833d34cd28ae02e3f402": {
-   "id": "73bf9224eb96acb71ad8833d34cd28ae02e3f402",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "nino-palestino-muerto-gaza"
-  },
-  "d970abf2298e2128356e5f2aac5650bb1c895cea": {
-   "id": "d970abf2298e2128356e5f2aac5650bb1c895cea",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "huracan-isaias-eeuu"
-  },
-  "7bb0793c0df2c91b6ec80f992ebd15245570e1e7": {
-   "id": "7bb0793c0df2c91b6ec80f992ebd15245570e1e7",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "huracan-simon-manzanillo-aeropuerto"
-  },
-  "0d2c995babf5a5592b8da896c36cec84c0b1d160": {
-   "id": "0d2c995babf5a5592b8da896c36cec84c0b1d160",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "papa-leo-cirugia-pulmon"
-  },
-  "801efcbd91f31242382fd646166aaa9c8b45cfdc": {
-   "id": "801efcbd91f31242382fd646166aaa9c8b45cfdc",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "Un ataque en un aeropuerto de Oriente Medio dejó 12 muertos.",
-   "historia": "ataque-aeropuerto-oriente-medio"
-  },
-  "ab598f69e50a0b0b35b7618e6d95c473e282bfb4": {
-   "id": "ab598f69e50a0b0b35b7618e6d95c473e282bfb4",
+  "cc7e62e7c1114d665e44775e4d4b7dd5bf07ac5c": {
+   "id": "cc7e62e7c1114d665e44775e4d4b7dd5bf07ac5c",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 2,
    "ruido": false,
    "resumen": null,
-   "historia": "ice-protesta-nueva-york"
-  },
-  "716b0bfb36863a034d840bbd80dc305f8bd5c59d": {
-   "id": "716b0bfb36863a034d840bbd80dc305f8bd5c59d",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 2,
-   "ruido": false,
-   "resumen": null,
-   "historia": "ue-china-dilemma"
-  },
-  "8a379d47a55f62471602c2d5c201cecf5e46e1dd": {
-   "id": "8a379d47a55f62471602c2d5c201cecf5e46e1dd",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "papa-leo-cirugia-pulmon"
-  },
-  "71f8e44bd77567289f077e12807d220d019710a0": {
-   "id": "71f8e44bd77567289f077e12807d220d019710a0",
-   "seccion": "nacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "El huracán Simón alcanzó categoría 4 y amenaza la costa occidental de México con intenso potencial destructivo.",
    "historia": "huracan-simon-mexico"
   },
-  "28a2220e27fc7836dbd0417000c8feb3b36cd8c7": {
-   "id": "28a2220e27fc7836dbd0417000c8feb3b36cd8c7",
+  "cdb3791dae4717a65d08f9ae7e6a8a0d97e2ce23": {
+   "id": "cdb3791dae4717a65d08f9ae7e6a8a0d97e2ce23",
    "seccion": "internacional",
    "subseccion": null,
-   "prioridad": 2,
+   "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "senderista-hong-kong-muere"
+   "historia": "elon-musk-gasto-electoral-republicanos"
   },
-  "fbdb3b713cfe506c6db3eb86a180d4e2a7439774": {
-   "id": "fbdb3b713cfe506c6db3eb86a180d4e2a7439774",
+  "4a81dd7942515a366d93f0448043e8652fcc0fa4": {
+   "id": "4a81dd7942515a366d93f0448043e8652fcc0fa4",
    "seccion": "nacional",
-   "subseccion": "economia",
+   "subseccion": "opinion",
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": null
+  },
+  "d7ad76e4d60acc6360699d79daf09a5cbadd2656": {
+   "id": "d7ad76e4d60acc6360699d79daf09a5cbadd2656",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Un adolescente de 14 años abrió fuego con un rifle de caza en una escuela secundaria en Aubagne, Francia, hiriendo a un director y un maestro.",
+   "historia": "tiroteo-escuela-aubagne-francia"
+  },
+  "cd7c97c5244dab5515d98c7cb65dc3e3cf6c02a5": {
+   "id": "cd7c97c5244dab5515d98c7cb65dc3e3cf6c02a5",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-detenciones-activistas-cisjordania"
+  },
+  "209a1d024a3676c7e36b3b197fb4740952747ebc": {
+   "id": "209a1d024a3676c7e36b3b197fb4740952747ebc",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "israel-detenciones-palestinos-west-bank"
+  },
+  "8ccd7808594b7e1d87e895a9e113f43f29dcbf9c": {
+   "id": "8ccd7808594b7e1d87e895a9e113f43f29dcbf9c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ilhan-omar-busqueda-agentes-migracion"
+  },
+  "4cdf8b8376c632d86bc63cf5d00a739d542dc685": {
+   "id": "4cdf8b8376c632d86bc63cf5d00a739d542dc685",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta lanzó Muse Wonder, un modelo de inteligencia artificial diseñado para crear agentes autónomos con capacidades de ejecución de tareas complejas.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "d78cf99502c39a2333376221558fca487bd010e2": {
+   "id": "d78cf99502c39a2333376221558fca487bd010e2",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta presentó nuevos modelos de inteligencia artificial para competir directamente con OpenAI y Anthropic en capacidades avanzadas.",
+   "historia": "meta-nuevos-modelos-ia-competencia"
+  },
+  "18b92a64120d8ed1f1e72f0c5c2a67aacbcc8fec": {
+   "id": "18b92a64120d8ed1f1e72f0c5c2a67aacbcc8fec",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta anunció el lanzamiento de dos nuevos modelos de inteligencia artificial con capacidades avanzadas de agencia y ejecución.",
+   "historia": "meta-nuevos-modelos-ia-competencia"
+  },
+  "6e0b6924bc29f9c9e88bfd00a70f32b9a795a5b4": {
+   "id": "6e0b6924bc29f9c9e88bfd00a70f32b9a795a5b4",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pjm-data-centers-energia-registro"
+  },
+  "6d4cee05d8e74d0fa2dd85ece81745b109349ebc": {
+   "id": "6d4cee05d8e74d0fa2dd85ece81745b109349ebc",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "epic-games-ai-first-production-delay"
+  },
+  "376cf0d4550ba7edb447d948adc21cf263724a1d": {
+   "id": "376cf0d4550ba7edb447d948adc21cf263724a1d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "microsoft-chips-ia-propios-deployment"
+  },
+  "02c2c1a5889cc663747b916b30910ece03982a84": {
+   "id": "02c2c1a5889cc663747b916b30910ece03982a84",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta presentó Muse Wonder, un modelo de IA que desafía a Anthropic y OpenAI con capacidades de comportamientos más sofisticados.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "f9c08694f0f85d2670464b10c60ca6f9839b0fe9": {
+   "id": "f9c08694f0f85d2670464b10c60ca6f9839b0fe9",
+   "seccion": "ia",
+   "subseccion": null,
    "prioridad": 2,
    "ruido": true,
    "resumen": null,
-   "historia": "guerra-sanciones-comercio-autopartes"
+   "historia": null
   },
-  "a1d706f7dcda95443e5f054541c95ef8e804f087": {
-   "id": "a1d706f7dcda95443e5f054541c95ef8e804f087",
+  "09236594ba717d4ba82913f2f91f750ee5fc7314": {
+   "id": "09236594ba717d4ba82913f2f91f750ee5fc7314",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta pone a prueba su inversión en inteligencia artificial con el lanzamiento de Muse Wonder, su nuevo modelo de agentes IA.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "61ace730ec1642610299bab6927cce2c97d618b6": {
+   "id": "61ace730ec1642610299bab6927cce2c97d618b6",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta anunció sus modelos de IA más avanzados con capacidades de programación, uso de aplicaciones y ejecución autónoma de tareas.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "6f13f384720116deb50f5d13e74d919129f08476": {
+   "id": "6f13f384720116deb50f5d13e74d919129f08476",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "suki-ai-series-e-funding"
+  },
+  "921d5e889d5638db9326c3975ab1bb44e54a31af": {
+   "id": "921d5e889d5638db9326c3975ab1bb44e54a31af",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "pentAgono-bajas-iran"
+  },
+  "e80cb62119a856ae10537eb04a7f97534ef3e644": {
+   "id": "e80cb62119a856ae10537eb04a7f97534ef3e644",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Autoridades israelíes demolieron 80 estructuras en la aldea de Al-Dahiya en el desierto del Néguev, desplazando a 400 palestinos de sus hogares.",
+   "historia": "demoliciones-israel-palestinos-negev"
+  },
+  "09e29e68ac64187a8e697400107ba51e4398c081": {
+   "id": "09e29e68ac64187a8e697400107ba51e4398c081",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": "salah-trabzonspor-futbol"
+   "historia": "gato-rescate-ucrania"
   },
-  "7d0670df3f97809e3215396bca23f005214d602c": {
-   "id": "7d0670df3f97809e3215396bca23f005214d602c",
+  "586fd97ed82b7184c7580887286071d151c76f17": {
+   "id": "586fd97ed82b7184c7580887286071d151c76f17",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 4,
    "ruido": false,
-   "resumen": "Panamá declaró estado de emergencia tras un terremoto de magnitud 7.7. Reportan al menos 30 heridos.",
-   "historia": "terremoto-panama"
+   "resumen": "Explosiones impactaron Riad mientras aumentan los ataques de misiles iraníes en el Estrecho de Ormuz, intensificando las tensiones en la región.",
+   "historia": "ataques-iran-arabia-saudita"
   },
-  "5f5b7f9c8d6809785a0548e813de9017d59fb18e": {
-   "id": "5f5b7f9c8d6809785a0548e813de9017d59fb18e",
+  "c570def8f598dc0a265e83edd5f2ac7d6f78d7ca": {
+   "id": "c570def8f598dc0a265e83edd5f2ac7d6f78d7ca",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "gaza-negociaciones-israel"
+   "historia": "renuncia-sibiya-policia-sudafrica"
   },
-  "8ac8f9899182695ad42d9e40f403ff188f7bc5ac": {
-   "id": "8ac8f9899182695ad42d9e40f403ff188f7bc5ac",
+  "f63ff1f2672e2a9516f6d87fc009e3e1fe279d05": {
+   "id": "f63ff1f2672e2a9516f6d87fc009e3e1fe279d05",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ejercito-eeuu-ejecucion-firing-squad"
+  },
+  "f42373b2ffd8a02d2410095b0cf3c5521c14c32f": {
+   "id": "f42373b2ffd8a02d2410095b0cf3c5521c14c32f",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 4,
    "ruido": false,
-   "resumen": "La coalición saudita responsabiliza a los hutíes por un ataque de misiles contra el principal aeropuerto internacional de Riad, ampliando los enfrentamientos en Yemen.",
-   "historia": "ataque-hutiles-riyadh-saudi"
+   "resumen": "Zelenski acusa a Rusia de atacar instalaciones energéticas tras el anuncio de Trump sobre un alto al fuego en ese sector, violando el acuerdo implícito.",
+   "historia": "rusia-ataques-energia-ucrania-trump"
   },
-  "7b402d8b34e628fc71946c5f2220524894c66fcb": {
-   "id": "7b402d8b34e628fc71946c5f2220524894c66fcb",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "iran-ataques-buques"
-  },
-  "10c442ce0134d86dfbb174ab0820021299b360d8": {
-   "id": "10c442ce0134d86dfbb174ab0820021299b360d8",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 4,
-   "ruido": false,
-   "resumen": "La capital de Yemen, Saná, enfrenta intensos bombardeos desde que el gobierno anunció una campaña militar para retomar la ciudad de manos de los hutíes.",
-   "historia": "yemen-sanaa-bombardeos"
-  },
-  "e40a4d5fc4b0eb6d1d52140185785edf063704d4": {
-   "id": "e40a4d5fc4b0eb6d1d52140185785edf063704d4",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "modi-india-democracia"
-  },
-  "428b223de77db02c42ce20d2dc71bee6455cad9e": {
-   "id": "428b223de77db02c42ce20d2dc71bee6455cad9e",
-   "seccion": "internacional",
-   "subseccion": null,
-   "prioridad": 3,
-   "ruido": false,
-   "resumen": null,
-   "historia": "terremoto-panama"
-  },
-  "298708315dc35f0fb4f598ebede7655e0d7d6be2": {
-   "id": "298708315dc35f0fb4f598ebede7655e0d7d6be2",
+  "28ca47c7f285cf2be2f343aae2aabcc4631af2bd": {
+   "id": "28ca47c7f285cf2be2f343aae2aabcc4631af2bd",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 1,
    "ruido": true,
    "resumen": null,
-   "historia": "bezzecchi-motogp-indonesia"
+   "historia": "mark-ruffalo-fracking-tierra"
   },
-  "f82f1a059a29d6dbcb85db2111cb0d0696e01993": {
-   "id": "f82f1a059a29d6dbcb85db2111cb0d0696e01993",
+  "eb92208ccdfbbfcc118538dee9daf99d66fee93c": {
+   "id": "eb92208ccdfbbfcc118538dee9daf99d66fee93c",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-sinaloa-refugios"
+  },
+  "7d14cafcb0b47eff765e42644fffc62a5ebd074b": {
+   "id": "7d14cafcb0b47eff765e42644fffc62a5ebd074b",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ejercito-eeuu-ejecucion-firing-squad"
+  },
+  "f49044834b1990e97f38f937e8ef52cdcb821021": {
+   "id": "f49044834b1990e97f38f937e8ef52cdcb821021",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "alerta-defensa-civil-arabia-saudita"
+  },
+  "c28b323952c3c309c4714a7363812c3043cdf856": {
+   "id": "c28b323952c3c309c4714a7363812c3043cdf856",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "78c6d5ba1d603f1292c732aebf53f6ec40ec629d": {
+   "id": "78c6d5ba1d603f1292c732aebf53f6ec40ec629d",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "terremoto-panama-7-7"
+  },
+  "b632c994bcae1c9544e69eff086ade9b34598d3a": {
+   "id": "b632c994bcae1c9544e69eff086ade9b34598d3a",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-vallarta"
+  },
+  "b7d2664e78827ec0459ff1055b2b2988d0bcc3b2": {
+   "id": "b7d2664e78827ec0459ff1055b2b2988d0bcc3b2",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "casa-blanca-colon-homenaje"
+  },
+  "c739501e9c2c25feda0204d10efd78da280f1e18": {
+   "id": "c739501e9c2c25feda0204d10efd78da280f1e18",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 4,
    "ruido": false,
-   "resumen": "Los hutíes advierten nuevos ataques al espacio aéreo saudita. Después de dos ataques contra el aeropuerto de Riad, Arabia Saudita suspendió operaciones aéreas.",
-   "historia": "ataque-hutiles-riyadh-saudi"
+   "resumen": "Ataques hutíes contra Riad erosionan la percepción de seguridad en la capital saudí, intensificando la presión sobre el régimen y su capacidad defensiva.",
+   "historia": "ataques-houthi-riad-seguridad"
   },
-  "bcce53a3eaa7b46e7c6150634c2cf15a68ba8902": {
-   "id": "bcce53a3eaa7b46e7c6150634c2cf15a68ba8902",
+  "6b1365487bfa135adb4cb98f058c32d04b17fb72": {
+   "id": "6b1365487bfa135adb4cb98f058c32d04b17fb72",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Dos desertores de alto rango describen un grupo secreto dentro del régimen iraní que coordinaba asesinatos de opositores y represión de protestas.",
+   "historia": "iran-aparato-represion-asesinatos"
+  },
+  "03d4e3dde96fb725f5fef350c75a2ab258d08d9f": {
+   "id": "03d4e3dde96fb725f5fef350c75a2ab258d08d9f",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Arabia Saudita enfrenta presión por ataques hutíes contra infraestructura crítica. Riad busca apoyo internacional, pero una nueva ofensiva contra los hutíes es incierta.",
+   "historia": "arabia-saudita-houthi-estrategia"
+  },
+  "2208c6f4766479bbb777d76c15ef6f02cdaf6294": {
+   "id": "2208c6f4766479bbb777d76c15ef6f02cdaf6294",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Juicio en Hamburgo contra ciudadano ucraniano acusado del sabotaje al gasoducto Nord Stream plantea interrogantes sobre Kiev y el apoyo alemán a Ucrania.",
+   "historia": "nord-stream-sabotaje-juicio"
+  },
+  "5f6dde4b1d3bd6eb6ccef35f9f261f58a69ccef4": {
+   "id": "5f6dde4b1d3bd6eb6ccef35f9f261f58a69ccef4",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "4bba2159614a36051525aa778916d7e58938b962": {
+   "id": "4bba2159614a36051525aa778916d7e58938b962",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-jalisco"
+  },
+  "2aa66a1d980c22e0f50adcb6b64d8466a8000d8a": {
+   "id": "2aa66a1d980c22e0f50adcb6b64d8466a8000d8a",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "netanyahu-documental-naza"
+  },
+  "51439bd90c0b358fdfd7fed10a8d762aed377fd9": {
+   "id": "51439bd90c0b358fdfd7fed10a8d762aed377fd9",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "plan-dn-iii-e-huracan-simon"
+  },
+  "520c1f99051f1513735ebbc62e130a379f86a029": {
+   "id": "520c1f99051f1513735ebbc62e130a379f86a029",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "ice-protesta-nueva-york"
+   "historia": "rusia-hidrocarburos-europa-sanciones"
   },
-  "b5d0fc7d24db8c06fc7e275fb658fd579826781c": {
-   "id": "b5d0fc7d24db8c06fc7e275fb658fd579826781c",
+  "71203551357a3b97b612cba7602dfc261ab0bc04": {
+   "id": "71203551357a3b97b612cba7602dfc261ab0bc04",
    "seccion": "internacional",
    "subseccion": null,
    "prioridad": 3,
    "ruido": false,
    "resumen": null,
-   "historia": "iraq-eu-hutiles-riyadh"
+   "historia": "chipre-schengen-adhesion"
+  },
+  "1e803cff830f04fd02ef1a473d575926cf496326": {
+   "id": "1e803cff830f04fd02ef1a473d575926cf496326",
+   "seccion": "nacional",
+   "subseccion": "seguridad",
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "marina-cocaina-eeuu"
+  },
+  "c2bc788405f3149aa03e7d8c6a73b08d0f28bffe": {
+   "id": "c2bc788405f3149aa03e7d8c6a73b08d0f28bffe",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-mexico"
+  },
+  "b41b78396e138f053b90f89ef51fc2d8b25b1914": {
+   "id": "b41b78396e138f053b90f89ef51fc2d8b25b1914",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-nayarit"
+  },
+  "1f90f7464b45c6fb53c7dab48fbe036eacc75cad": {
+   "id": "1f90f7464b45c6fb53c7dab48fbe036eacc75cad",
+   "seccion": "nacional",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "huracan-simon-buceriass"
+  },
+  "b4d1743787edd59d8f3d0da2c1ce0f520001842c": {
+   "id": "b4d1743787edd59d8f3d0da2c1ce0f520001842c",
+   "seccion": "internacional",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Ataque aéreo israelí contra una tienda en Jan Yunis, Gaza, mató a tres personas en el enfrentamiento continuo.",
+   "historia": "israel-ataque-gaza-khan-younis"
+  },
+  "879bbaba6ae0ca752ccafdc2bab5b715a16642bf": {
+   "id": "879bbaba6ae0ca752ccafdc2bab5b715a16642bf",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Google invertirá en energía nuclear para alimentar sus centros de datos de Gemini. La decisión amplía la infraestructura energética de la empresa para sostener el crecimiento de IA.",
+   "historia": "google-energia-nuclear-gemini"
+  },
+  "2fe20e8518d2450ff2cd0a35295a75becd20d944": {
+   "id": "2fe20e8518d2450ff2cd0a35295a75becd20d944",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "amazon-negociaciones-decart"
+  },
+  "197d33fdc4de3be435918569bb7107f66df3dd85": {
+   "id": "197d33fdc4de3be435918569bb7107f66df3dd85",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "google-fitbit-edge-ia-salud"
+  },
+  "37be601bda7b302fe99d61d442bf5f60aee6b069": {
+   "id": "37be601bda7b302fe99d61d442bf5f60aee6b069",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "bebed436b6d999587b3ff0843c4b569eda271168": {
+   "id": "bebed436b6d999587b3ff0843c4b569eda271168",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "7e72c879bfea66d66553ab1b9300ced854aa2aba": {
+   "id": "7e72c879bfea66d66553ab1b9300ced854aa2aba",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-comportamiento-inesperado"
+  },
+  "1a588b7dc46c059fe0b7a2b6f7e9f5783c1b5c55": {
+   "id": "1a588b7dc46c059fe0b7a2b6f7e9f5783c1b5c55",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "anthropic-claude-politica-abuso"
+  },
+  "d3284b25f1460bd4fbbfec1d14b8dc9e61a1cf16": {
+   "id": "d3284b25f1460bd4fbbfec1d14b8dc9e61a1cf16",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "OpenAI creó un equipo especializado en semiconductores después de pedir a la industria acelerar producción. Refleja la carrera por asegurar capacidad de chips para IA.",
+   "historia": "openai-equipo-semiconductores"
+  },
+  "44134ba165fe6019edad0ed53e5729963711b275": {
+   "id": "44134ba165fe6019edad0ed53e5729963711b275",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "anthropic-claude-politica-abuso"
+  },
+  "ae8ed4cfa86cab3bde338552edd9f7a3f27c0c5e": {
+   "id": "ae8ed4cfa86cab3bde338552edd9f7a3f27c0c5e",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Zuckerberg afirma que Meta alcanzó la frontera de la IA con Wonder y rechaza frenar el desarrollo. Respuesta directa a críticos que piden pausas regulatorias.",
+   "historia": "meta-muse-wonder-zuckerberg-frontera"
+  },
+  "f6bfd45fd60d8d9c244af2c1039e242f2a8d0b48": {
+   "id": "f6bfd45fd60d8d9c244af2c1039e242f2a8d0b48",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "635f2797fc70e6db2dd2587499b2a52a3cf01278": {
+   "id": "635f2797fc70e6db2dd2587499b2a52a3cf01278",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "c55672cfcdcaa229338128ffb2e4a045e57fd315": {
+   "id": "c55672cfcdcaa229338128ffb2e4a045e57fd315",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-zuckerberg-frontera"
+  },
+  "84258767cb0b982a9081e7110874c450e95052c5": {
+   "id": "84258767cb0b982a9081e7110874c450e95052c5",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-control-episodios-seguridad"
+  },
+  "86bf9aa972e612229ed9694d741f88ae72259c34": {
+   "id": "86bf9aa972e612229ed9694d741f88ae72259c34",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "ia-impacto-laboral-renta-basica"
+  },
+  "6fff8e8134082f8a7b5ccc92db6601fb375a0252": {
+   "id": "6fff8e8134082f8a7b5ccc92db6601fb375a0252",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta lanza Muse Wonder a través de Meta Model API y Muse Code. Versión completa disponible para suscriptores.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "aa6062b17f74fb600908a7446deac96d39665f21": {
+   "id": "aa6062b17f74fb600908a7446deac96d39665f21",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "3621d85af4c141e75dfeaad3e7335d67583a3471": {
+   "id": "3621d85af4c141e75dfeaad3e7335d67583a3471",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Muse Wonder incluye Active Memory y Active Focus para que sistemas IA realicen trabajo útil en períodos extendidos. Nuevas capacidades técnicas del modelo.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "916f926e944e8e39df793b23cfcadd88398cd91d": {
+   "id": "916f926e944e8e39df793b23cfcadd88398cd91d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 1,
+   "ruido": true,
+   "resumen": null,
+   "historia": "ia-usa-carrera-opinion"
+  },
+  "1dc300e997d87cc7ee207e3046631b68b2f3fcfa": {
+   "id": "1dc300e997d87cc7ee207e3046631b68b2f3fcfa",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta alimentará su agente Muse con Wonder, primero para suscriptores. Desarrollará modelos especializados para todo el ecosistema de Muse.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "30bb2401f465214a1d1e24b83c6d84825265e9e6": {
+   "id": "30bb2401f465214a1d1e24b83c6d84825265e9e6",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "windborne-contrato-fuerza-aerea-ia"
+  },
+  "4dc2288c7dff5d3b57674d0558a7264c5886bedf": {
+   "id": "4dc2288c7dff5d3b57674d0558a7264c5886bedf",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "dda103276cdb89e773ef0ce1127418e89f13130d": {
+   "id": "dda103276cdb89e773ef0ce1127418e89f13130d",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 3,
+   "ruido": false,
+   "resumen": null,
+   "historia": "microsoft-regulacion-ia-comparativa"
+  },
+  "7c5971ee96350e4e6031e9ecc1466ad17b27b670": {
+   "id": "7c5971ee96350e4e6031e9ecc1466ad17b27b670",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Zuckerberg en entrevista con FT: Meta alcanzó frontera de IA con Wonder y rechaza frenar desarrollo. Posicionamiento directo contra llamados a pausas.",
+   "historia": "meta-muse-wonder-zuckerberg-frontera"
+  },
+  "e07ebaaa8c30b2dcb1b9a18243d4d2c348c6d544": {
+   "id": "e07ebaaa8c30b2dcb1b9a18243d4d2c348c6d544",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 2,
+   "ruido": false,
+   "resumen": null,
+   "historia": "microsoft-regulacion-ia-reino-unido"
+  },
+  "fca113d4601ecea23e048e0ea99673666e9040b7": {
+   "id": "fca113d4601ecea23e048e0ea99673666e9040b7",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Muse Wonder iguala a mejores modelos de IA del mundo e incluye características para evitar desviaciones en agentes. Meta recupera posición en frontera.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "e5c054192b98d67ff091f2d4c28acd55212a08d6": {
+   "id": "e5c054192b98d67ff091f2d4c28acd55212a08d6",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 4,
+   "ruido": false,
+   "resumen": "Meta presenta Muse Wonder y Muse Wonder Full con desempeño de frontera en tareas de agentes personales y profesionales. Resultado de replanteamiento de Superintelligence Labs.",
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "4c224e9c7fe067039874c0669701fb88cdb23a76": {
+   "id": "4c224e9c7fe067039874c0669701fb88cdb23a76",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": null,
+   "historia": "meta-muse-wonder-lanzamiento"
+  },
+  "0df7e0e65eda647e243375aed9b14108e30b2194": {
+   "id": "0df7e0e65eda647e243375aed9b14108e30b2194",
+   "seccion": "ia",
+   "subseccion": null,
+   "prioridad": 5,
+   "ruido": false,
+   "resumen": "Meta lanza Muse Wonder tras Muse Spark, primer modelo de Superintelligence Labs. Busca competir a la par con OpenAI y Anthropic en IA de frontera.",
+   "historia": "meta-muse-wonder-lanzamiento"
   }
  }
 }
