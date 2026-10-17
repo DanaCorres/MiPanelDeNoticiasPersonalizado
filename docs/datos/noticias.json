@@ -1,7 +1,7 @@
 {
- "generado": "2026-10-17T00:44:36.498083-06:00",
+ "generado": "2026-10-17T04:00:22.542605-06:00",
  "desde": "2026-10-17T00:00:00-06:00",
- "total": 39,
+ "total": 212,
  "secciones": {
   "nacional": {
    "titulo": "Nacional",
@@ -10,6 +10,138 @@
     "politica": {
      "titulo": "Política",
      "articulos": [
+      {
+       "id": "36ffc76e1f3632e1622b1b15aa787853e747466a",
+       "titulo": "La enfermedad crónica del sistema de salud mexicano",
+       "resumen": "El Instituto Mexicano del Seguro Social, aunque recibe importantes fondos federales, vive una profunda crisis estructural con problemas de abastecimiento de medicamentos y falta de infraestructura",
+       "url": "https://elpais.com/mexico/2026-10-17/la-enfermedad-cronica-del-sistema-de-salud-mexicano.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c8afd039b798d39dadd893f1fd80610ebb7bdebf",
+       "titulo": "Pese a trabajo remoto, detectan a 10 diputados faltistas",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnNXRDBNUkR5UUZfbDB1UHoyeHRUc0hfT2NkRElzdm42SmRFUDJrTTBMLUgtRXBwX2hEX1VHanFsdXViMmhNczRkbTRIX25iaXoxTFRteFZvX3BtOGczYkRqaVlJYWpwbVhBTWJ2NWd3UXpfazJiekI1RUtwLWNLeGVCdnhfaWlWREltdUt2MjZwTnPSAZgBQVVfeXFMUGtlbzgxb0hjU21yc0s5c2N1MmZUNDhrMDkweDBacGk3WTRXZTlEdmFnUTBPbjZIS3JLbUFGZGlYRDliLVJNTnl1c2xucUl4cFVQbTJiektkVll0Vnd6MERHVGdiMHJJZmdkSnNUWEg2VHdBQ0FBN2xENDNrVEZZdGdqRDl2VHUzeFZIcjBPVS1CVlNDM1hVTUU?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e650ebabbb3f5da60cbc243aa90fb77f0a62d7b6",
+       "titulo": "Presidenta de Morena en el Edomex buscará defensoría de Ecatepec",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ2F5Q3lLTlRhTU9ZckM4dUFlcmsyaGdVOHBxVFZGc0Y1Tld6aFlKQ3NFck1WZ2ktR0JHaWg2emdUOTkzWUhRVzFVeFJJZmkydVlIMFJkTHZselNsb19Vd0V4VzJxOGQ0TURObW52SU51ZHVXbVN6Mk5xOUl6V0ZXeGVOQ21jWXJLX3dQQnBn0gGOAUFVX3lxTFBwOTJ4TkVMa3NYMEY3Mmt4eXp2N1VXM1dqNFJuM2JzeWRiUTBkaXFnSW9WVkhRclRFTjREbmd4dGwzcWIyazhwVVU5VUJfUklaTndhMXhKNlNyUUZSVmg5S3pUeTNJYjMzVndFMl9pN1hwTkhRUDV5X3ZQd2Q2azdTMzdaMHIyd3J6VGwyemc?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:25:38+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "89dd23e21f6f8f2d5c9d3225fb7064e8fce43179",
+       "titulo": "Evalúa el gobierno programa integral",
+       "resumen": "Tras la instalación de la mesa de trabajo entre el IMSS y el Sindicato Nacional de Trabajadores del Seguro Social, la presidenta Claudia Sheinbaum manifestó ayer que se evalúa un programa integral de mayor aumento salarial…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/005n2pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "81f54c38018943eb3fcef3d208dc3df99d5afcca",
+       "titulo": "México, a punto de salir del mapa del hambre: FAO",
+       "resumen": "En un contexto mundial con múltiples desafíos para la producción de alimentos, México “lo está haciendo bien”, afirmó Lina Pohl Alfaro, representante de la Organización de Naciones Unidas para la Alimentación y la Agricultura…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/008n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "60e08f860bc586159d473caa1d973cafbab48292",
+       "titulo": "Candidatas son blanco de violencia en elecciones: informe de ONU Mujeres",
+       "resumen": "En México, ser candidata a un cargo de elección popular significa ser blanco de distintos tipos de violencia, ataques originados incluso por las dirigencias de sus propios partidos políticos, se advierte en el más reciente…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/007n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "095311ed3cab3931b8087759a5a40ee20e3cbfef",
+       "titulo": "México, en ruta para reducir sus gases de invernadero: Semarnat",
+       "resumen": "México avanza en su plan nacional obligatorio para reducir sus emisiones de gases de efecto invernadero o Contribuciones Determinadas a Nivel Nacional (NCD), como parte del Acuerdo de París sobre cambio climático, incluyendo…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/010n2pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5f2691d29818c118a0cbfe8afdb4d164fc5f84f4",
+       "titulo": "Las preprecampañas están fuera de la ley, ratifica ex magistrada",
+       "resumen": "Los procesos internos de los partidos –para elegir “coordinadores” o “defensores” identificados como potenciales candidatos para la elección del año próximo– “siguen siendo paralegales, un fraude a la ley”, sin que ninguna…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/007n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "3849ffdbfdbe7fbb349a3c9380710838c824d729",
+       "titulo": "Cumple siete años Centro de Entrenamiento de la Armada",
+       "resumen": "Más de 3 mil 500 jóvenes de 18 a 25 años que decidieron formar parte de la Armada de México, han iniciado este 2026 su formación en el Centro de Entrenamien-to Avanzado (Cadavam), inaugurado hace siete años en el munici-pio de…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/009n2pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "461ebb2cd4892347423a2d2dae0901e5d2df07bd",
+       "titulo": "Creará la SSPC academia nacional de inteligencia",
+       "resumen": "La Secretaría de Seguridad y Protección Ciudadana (SSPC) creará la escuela del Centro Nacional de Inteligencia (CNI), que tendrá como propósito desarrollar e impartir estudios en materia de seguridad nacional y seguridad pública…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/009n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "4b31ea68ac38114984d3c59135a51a24931ba5cd",
+       "titulo": "Visitas piso por piso resaltan carencia de insumos médicos",
+       "resumen": "En las visitas que realizan funcionarios del Instituto Mexicano del Seguro Social (IMSS) a todos los hospitales del país, trabajadores han aprovechado para denunciar “múltiples carencias” que afectan sus labores cotidianas y que…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/005n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5a9a6609cf570491822130cca81a2147492fed3e",
+       "titulo": "Claudia Sheinbaum, junto a Mara Lezama, supervisa obras hospitalarias en Quintana Roo",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON1RJaXRpck1iTWhFWlBSU284SkFTRjhiU0pheTdmaHNsVTVfOGhxVnVaUkM3YWtBc3QzcXZZdWNDU0lWTVlDY3R4TDJFdl84Ylh1aTNtUEhXMm5FbmZXQ2FZUklTRXU5bVF3ZFYwdFhxMDYxV213NHNwcFFDMVBta1VOWGRuS09sNVNwV2tQZXRIbm5uR0dXel9FRdIBmwFBVV95cUxON1RJaXRpck1iTWhFWlBSU284SkFTRjhiU0pheTdmaHNsVTVfOGhxVnVaUkM3YWtBc3QzcXZZdWNDU0lWTVlDY3R4TDJFdl84Ylh1aTNtUEhXMm5FbmZXQ2FZUklTRXU5bVF3ZFYwdFhxMDYxV213NHNwcFFDMVBta1VOWGRuS09sNVNwV2tQZXRIbm5uR0dXel9FRQ?oc=5",
+       "fuente": "Milenio · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T07:18:00+00:00",
+       "desplazada": false
+      },
       {
        "id": "382539768447c1794b990639d3bb4ef34b5b7473",
        "titulo": "El IMSS no es un regalo del gobierno",
@@ -20,16 +152,314 @@
        "seccion": "nacional",
        "fecha": "2026-10-17T06:30:24+00:00",
        "desplazada": false
+      },
+      {
+       "id": "aadc07d8c9dd83cc95fd19d3b1ba49fa4a1e228b",
+       "titulo": "Etiqueta: Casa Morena",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wcEdZOTZPdktETXBwTjFkZUZ0Z011WkVhd1hmY09jTTh2bDFHeWF6QnFxbW1pWVdJaVR4S0E3WkgwcnR5UndoVXZueG1uaUltTmc?oc=5",
+       "fuente": "Semanario ZETA · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T06:24:19+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "be6768ddccbdd171385f3420646b9595f8f2988e",
+       "titulo": "Tandeos de agua en Jalisco; vecinos reportan desabasto",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTS1DUWlQUVNwTm5HZVN5UXdGXzNONXg3d2VkX0dCSnpOQTJ6TVhhUG41QnNjUVNfY0pyQUFqZEQweEVCVU11LWVyeHJxaEprNk9hNndJOS1kbWFpZlg4TWY4ODdNZ0h3TUZ6Q0g3UFpTMnpxYU9tRU53N3lKU2N6a0FQa1VpRkc2aWhhMXVJTnVvSEliT0x5QU0tbWE?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:48:02+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "175fb51220b3874058a7c1343da58b282282e98e",
+       "titulo": "“Campeón gacho” inaugura el Festival de Morelia con humor, esperanza y una mirada humana a la migración",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBKM0s2U1lzN1hiRjFicm9uS2FxVTlGV2lLUHpjWmxPbWRHRGt0aEYzU1dUVnlDUFIwdFhIbEc3cGE2OGJ4QzZFZmIzQ0Y5MWRnSGxSRHQ3UkJLZVVqeDNnYUZNU3dSVEliRVhUaDVOUXdfYW9yX0ZkU21R?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:41:08+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "638e91b7a85303181b2ce7f257d56581e6b50f3d",
+       "titulo": "El cerebro inicia su envejecimiento a partir de los 30 años, señala experto",
+       "resumen": "El envejecimiento no inicia con la tercera edad, como cree la mayoría de las personas, sino mucho antes. En el caso del cerebro, esto ocurre a partir de los 30 años de edad, y con ello, se comienza a procesar información a menor…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/010n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "6d76027c2a0b519237bae2551e31a5957bff48a8",
+       "titulo": "Sobrecarga de trabajo deja vacío el salón de sesiones",
+       "resumen": "En sólo dos días, martes y miércoles, el Senado concentra cada semana la mayor parte del trabajo legislativo, lo que provoca que esos días de sesión el pleno esté casi vacío, porque al mismo tiempo hay reuniones de comisiones de…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/006n2pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "c99a2529ca2a6fa25e20679c9fbf56999282da2c",
+       "titulo": "Durango: incautan 1.3 toneladas de droga en narcolaboratorio",
+       "resumen": "En un operativo encabezado por personal de la Secretaría de Marina-Armada de México (Semar), en Durango se desmanteló un narcolaboratorio de metanfetamina, y fueron aseguradas 1.3 toneladas droga, 4 mil 500 litros de precursores…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/004n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "8f1dc083d411879ad3d4e3d8bd315a5732ac6a1b",
+       "titulo": "Corbyn pide a México ruptura comercial con Israel y apoyar la detención de Netanyahu",
+       "resumen": "Tras reconocer el histórico respaldo de México a Palestina, el legislador británico Jeremy Corbyn pidió ayer al gobierno mexicano apoyar las órdenes de arresto de la Corte Penal Internacional (CPI) contra el primer ministro…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/011n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "5063c180eb33a21d5429f2303b4316f06cbf20e9",
+       "titulo": "Presentan en la ONU avances de Estrategia Nacional de Búsqueda",
+       "resumen": "El gobierno de México presentó en la sede de la Organización de Naciones Unidas (ONU) los avances de la Estrategia Nacional de Búsqueda ante organismos internacionales, delegaciones diplomáticas y organizaciones de la sociedad…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/003n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "21fb2ea491ea9ed3fc2113f82f3059284f8c8106",
+       "titulo": "Persisten protestas por incertidumbre sobre la negociación con eI IMSS",
+       "resumen": "Entre los trabajadores del Instituto Mexicano del Seguro Social (IMSS) prevalece la incertidumbre sobre si existen o no avances en la mesa de trabajo que fue instalada la tarde el jueves entre los directivos de la institución y…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/005n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "7309491b183a641d0f22f856d4acb16dea236b6a",
+       "titulo": "Arrestan a El Ingeniero; construía túneles hacia EU para el cártel Jalisco",
+       "resumen": "Elementos de la Defensa detuvieron en Zapopan, Jalisco, a Luis Manuel “N”, El Ingeniero, responsable del diseño y construcción de túneles transfronterizos utilizados por el cártel Jalisco Nueva Generación (CJNG) para el tráfico…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/004n1pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "7cd8b063fe868b3bc15b6c7285a598e2d9bfed6d",
+       "titulo": "Rescatan a 16 personas en el Pacífico, entre ellas dos paisanos",
+       "resumen": "Los Ángeles., Dieciséis personas, entre ellas dos mexicanos, fueron rescatadas ayer en el océano Pacífico frente a Baja California y otras 11 están desaparecidas, luego de que la Guardia Costera de Estados Unidos respondió a una…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/011n3pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
+      },
+      {
+       "id": "b1c7c2355a6a01265ab3a2d7b90d8a1085984ab4",
+       "titulo": "Velasco firma acuerdos con Guatemala sobre bienestar y seguridad",
+       "resumen": "México y Guatemala firmaron ayer acuerdos en seguridad fronteriza y bienestar social, y pactaron avanzar hacia una revisión aduanera única de las mercancías que cruzan la frontera y en la interconexión ferroviaria, como parte de…",
+       "url": "https://www.jornada.com.mx/2026/10/17/politica/011n2pol",
+       "fuente": "La Jornada — Política",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:23+00:00",
+       "desplazada": true
       }
      ]
     },
     "seguridad": {
      "titulo": "Seguridad",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "2d2acfd22e5159e6daa01dc6f61b285c263981b6",
+       "titulo": "Cae 'El Gallinero', presunto operador de La Familia Michoacana implicado en la muerte de 6 policías en Taxco",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb25YdS1uU3o4N2pEYno4NVRaQV9MaDFienl6S3hwNEZaRHdlMlpwYmhMV3JHTVoxSURVNUwwNFVqb0ZmQktVQ1l2QnFHUFF6RVMtblM5Vzl0aVlkbjdWQzUyamFrOHR1YjJOMHNUdWtMdzV0X09KbzlrYzBneTZHcjFNMkJmcXluX1FqdWttd25HamtNWl9xMNIBmAFBVV95cUxPSjg3VFpERkhLdzFFdnZGS2djTGJUejd0RU90X2xqRmQ5WldEM1ZWcVhVTlB5ZWw1Zjg0S2NKZmR4Ty1qSU91OGZ1WGtNSlRpei1fOV9HVGVWU2FuN0VxZV9kaERlOTlrVUtmelN5NGQ3QzBqNnV4aHVmekdmYU1MWHhUTXZxenk0SE84a0poX0JLUjRiZEl5cw?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:10:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d72b7ea4305645d105adb4bc82796d8c924d2015",
+       "titulo": "Condenan a 158 años de prisión a ‘El Kekas’ y sus cómplices por asesinato de surfistas en Ensenada",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTWlqZWF0NGpKZWJlN3YyMWxIVFcxZTJPQ19RWmNLU3h1bWtBajdqR0tuR1JndldZVFhmSnd5ZWZGZERJemREZVVJdWpNd1ZwOVlPT05zT2Jwc1NTSmlxbldFTzJNLTdCYkdscDNvZVV4Rk1iOEhFN1pZem1fMlFuaGIzTHR0NzVVeGZJVnhaTElhQ3JVSE5vb1hudmVSZVhaanV6QUJlSDBWcUU4VTZTM1VKVFdNU3drREFKZ1hmLU9raUplaHVGSmZkWGc4eHFaVEFueHV30gHwAUFVX3lxTE9wT0phamJYLTBER2FZVmJINEZDMm5zdlBfU0dPMkxoS1NSczl1XzFQQTFtU0UxNDh2T2xJMWEyeUU0U3B3MGw4blc4WkpFTDBlM29zQUpwS0ZZdDFuNW5OOVh2UXVGaDc4c0VjalNlV0lZdUc3UnJzV3d3WEFCRFNHZXJJS05JbkNxbTNEcVUzcWdfR3BhRlJUdGhlY0hrV0d4ZGQwN1hKdk1sYURLaTM2Y2NkTlZuRXk3bUo0cXRrTTNuRHc1T2czXzJtWHlTdGlOYTh2UUVIclBmVnVjYmJ2WmhBd3cyMTlxV2k3WWJmZQ?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 2,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T06:49:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "bb860b914c78c96ed46e85c031987a75f6fd17fc",
+       "titulo": "El 96% de las candidatas en México sufre violencia política, según ONU Mujeres",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5LWJyRXBKbURHRnprN1Yzd0luamlzUDV2M0ZjdktKdmNyMHJrMmhiMFo3Y3R5NXFuZUxZcVI1SkdJTHlIWXJGNWVZUzVsRzhnYTB6VVFCaXk1bENBaXBPNnNjYWRwNXhBR3RiRm8wdUJqZGJnY01zYg?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T07:16:10+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "economia": {
      "titulo": "Economía",
      "articulos": [
+      {
+       "id": "5b4c4fd00facb2c01c7a30a14863df1d997e8c40",
+       "titulo": "México respira con la suspensión de las restricciones aéreas por parte de Estados Unidos",
+       "resumen": "El Gobierno de Claudia Sheinbaum recupera los planes de abrir vuelos a ciudades estadounidenses desde el Aeropuerto Internacional Felipe Ángeles",
+       "url": "https://elpais.com/mexico/economia/2026-10-17/mexico-respira-con-la-suspension-de-las-restricciones-aereas-por-parte-de-estados-unidos.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "af52bb680ee3771712eab07b7770ceb6279d97af",
+       "titulo": "Construir una casa en México, el sueño viral de Candice y Fidel",
+       "resumen": "Los García Sánchez apuestan por edificar una vivienda en una zona rural de Puebla, un proceso de más de cinco años que enfrenta el aumento de precios y que comparten en redes sociales",
+       "url": "https://elpais.com/mexico/economia/2026-10-17/construir-una-casa-en-mexico-el-sueno-viral-de-candice-y-fidel.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "bb5228e50acc2b7853bcf4998378e105d0140e0e",
+       "titulo": "Nayarit busca convertir inversión extranjera en empleos y desarrollo económico",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY2FLbWcwYzNHNld1Y25yQjB1eXFGNGRtRk1ZbklUTHVwR3RfN1Zpb2VreUpZQ0UtaDdRUEJJbHBWRVFiZ1d6SG1mVjVNcXNhNDI1MlZERjZ1WTBDZm55Q0hnbmR4aTJ0d0x6dzI0alRkT0doWFBrSXlMR250a1hzYnptTzZuZUJ6SWhTaA?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:38:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "aef52027489cf3b1c304577d2e6aeec38e9e67f0",
+       "titulo": "Carlos Fernández-Vega: México SA",
+       "resumen": "La presidenta Claudia Sheinbaum subraya que “hay datos muy buenos” para la economía mexicana, pues en materia de crecimiento ocupa el escalón número siete (de 38 posibles) entre las naciones pertenecientes a la Organización para…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/016o1eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5478d33baed583c25ae1bca7547cc9516d4796ae",
+       "titulo": "Liga el peso mexicano seis semanas de pérdidas por posible alza de tasas",
+       "resumen": "El peso mexicano se depreció ayer y acumuló su sexta semana consecutiva de pérdidas, golpeado por persistentes preocupaciones sobre la posible reducción del diferencial de tasas de interés de México y Estados Unidos.",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/016n1eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "ecc0a310fe945ef95a28e34e9363d1177210df08",
+       "titulo": "Levanta EU las restricciones a vuelos desde el AICM y el AIFA",
+       "resumen": "El Departamento de Transporte (DOT, por sus siglas en inglés) de Estados Unidos levantó ayer, con efecto inmediato, las restricciones que impedían a las aerolíneas mexicanas abrir nuevos vuelos hacia ese país desde el Aeropuerto…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/014n1eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "b62ab5129822539d59e51240d43aba1d024ac44f",
+       "titulo": "Aerolíneas celebran la decisión; se fortalecerá la conectividad",
+       "resumen": "El sector aeronáutico del país señaló que la decisión del Departamento de Transporte de Estados Unidos (DOT, por sus siglas en inglés) de levantar las restricciones impuestas a las aerolíneas mexicanas para operar rutas entre el…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/014n2eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "df25bf10cd459becf6857756e6f69ed22b349a8e",
+       "titulo": "Decisiones y sanciones unilaterales",
+       "resumen": "✈︎ El 2 de febrero de 2023 el gobierno de México ordenó –mediante un decreto publicado por el entonces presidente Andrés Manuel López Obrador– a las aerolíneas de carga salir de las instalaciones del Aeropuerto Internacional de…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/014n3eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "791d2be2db6b8b30d577c3d3b0a46a7861ca8df9",
+       "titulo": "Repunta manufactura gracias a petroquímica e informática",
+       "resumen": "Más de la mitad de las industrias manufactureras en México redujeron su producción en el último año, pero aun así la actividad del sector aumentó 4 por ciento en agosto, reportó el Instituto Nacional de Estadística y Geografía…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/016n2eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "19805110a7095b9097f5d5fb45a99c34ae10ac6e",
+       "titulo": "Silvia Ribeiro: Congreso Nacional Indígena: 30 años de organización y lucha",
+       "resumen": "El Congreso Nacional Indígena (CNI), “único espacio nacional de emancipación creado por los propios pueblos indígenas”, como expresó Francisco López Bárcenas, cumplió 30 años de vida y lucha este 12 de octubre. Fecha por lo demás…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/015a1eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "35d6ec1490799aacc97cab57ac186f5c2c410d1a",
+       "titulo": "Ebrard: México se fortalece frente a la incertidumbre económica global",
+       "resumen": "México no sólo va bien en comercio exterior, sino que su economía se ha acelerado pese a la incertidumbre global, señaló el titular de la Secretaría de Economía (SE), Marcelo Ebrard Casaubón, quien negó que las negociaciones…",
+       "url": "https://www.jornada.com.mx/2026/10/17/economia/015n1eco",
+       "fuente": "La Jornada — Economía",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "89dda662e59401e0b9afc8fba8e976b1095846eb",
+       "titulo": "¿Conviene sacar casa con Infonavit en 2026? Ventajas, riesgos y alternativas",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb3lXR01La2NCaUpoZzI3LUxCT2lzTWdKblRFdkpURGltZURaSU1wRlNtRjlVcEIyODU3eXB3Y2ctU0Voa1hSbW1xc0MzNVplbDdSaFlmZ1JXekpLNUw3ZjZKQ2J2WUhLSGxzZGlMWHZEZ3dGTGZnajZnMWhCR0ZMNWs5VEJPLTFMeEhjb0xqYWxOVmZxdUZLc0tja0lMbkl1cU0tdU9YOVBjMXBoUjU1NGUxa0M4aUZZcHJtd0poN1BsVVJBN1E?oc=5",
+       "fuente": "Debate · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T06:32:52+00:00",
+       "desplazada": false
+      },
       {
        "id": "3999623eeb5dad95c952d661346331a596597030",
        "titulo": "INAPAM + Pensión Bienestar + Salario mínimo: beneficios que puedes recibir si eres adulto mayor en 2026",
@@ -62,20 +492,276 @@
        "seccion": "nacional",
        "fecha": "2026-10-17T06:05:01+00:00",
        "desplazada": false
+      },
+      {
+       "id": "8e00292acccff7a1790f9c6c7afbe0a6045a2806",
+       "titulo": "Estrategias reales para mejorar tus puntos Infonavit en menos de 3 meses",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQS0RLOV9YWEpzZWNJamluRWd6UWZXRHlRTlljMW13TzRab1JKcU9ZWHF0MENvRmNXLVRaVGpmekpGLWpCZFhVdW56UjhuYnVQdU1IbzlVaHpsek9GbVpCcHQzalFybzJOd1U5dl84Qk5tMEZ3S09ndDd1alRrS2w2cXJyMGh3N3BYNGZLckRWUUkwWjc3SXdlQ3pEeGJ4eGFqYlE2X0xGYzh3bVdPdENGV1VxYUU3MWJCT2JKX2xISUpSLXR2?oc=5",
+       "fuente": "debate.com.mx · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T06:01:17+00:00",
+       "desplazada": false
       }
      ]
     },
     "cdmx": {
      "titulo": "CDMX",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "ab75280e69ae32bef1216bf7c780b12c445a5fca",
+       "titulo": "El plan de Clara Brugada para las rentas promete defender a los inquilinos, pero no ataca el alza del alquiler",
+       "resumen": "La iniciativa de la Ciudad de México crea una defensoría gratuita y mecanismos de acompañamiento ante los desalojos, pero no hay tope de precios ni rentas congeladas",
+       "url": "https://elpais.com/mexico/2026-10-17/el-plan-de-clara-brugada-para-las-rentas-promete-defender-a-los-inquilinos-pero-no-ataca-el-alza-del-alquiler.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "78e0a8fddbd2029c21c45368efdd6f458df90c00",
+       "titulo": "CDMX ESTÁ EN EL HORIZONTE",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcGZ1dV9xNHNYbS1NVTZpb3dYZHFlb2ZCOWtBbWV4MmVjdDZwZW9XU1d2T2VsWXNjZXFKS3V5VU9DY1pQXzBHZ3lsRnd5dUYtaWtWQjM3UFg3T2VUaE9KSUtid1pFakJoUmNYMXNpRzE3TFRLMkxQYXNZWmIyMmRDWjZCQUFJUVp4?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:33:25+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "b25cb10622d121e75aca2472dfd549f83e9c6d8b",
+       "titulo": "Circe Camacho hace florecer la cultura y las tradiciones de Xochimilco en Día de Muertos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ1h3ZXNLMEVLRXJwMEQ3cDdLbmc1OW5lQllMb2V2SW9nQmRtbXRteDR4YlVHVFZKS0pFY0RORXpscGFRQmNqbHpvQW9iRGhlSFgtSzNLMEhwcjF4alpUX21raXM1SnRjbl9EanZYa0syQUwwMGdNdEVjX1pXeXhPUldGTVBIbXVCSUlkNkZPdG9fTUp6dXdHd0RVc0nSAZwBQVVfeXFMT2pLMXRFd0cwUElXNmVRcmk5QmRSSzQyVXR6a0RYOUdSN3FUTUgwaEk1dXZuUEFRZVh4MDhWUTBPT1I3ZnA5TlNwZmo5UFpXaXlTLW5Xa3ZDYWVVbHdaNnRyV0tYRVFDUXg3cENNX0ZQWlpxdExlRWZQZ3lXSFRzWHI3Nzdqb1I4d1NLaUEyaW5DVTEwb29LVFBCa2E5?oc=5",
+       "fuente": "MILENIO · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:33:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "56a0dda0f4319683e225a09fe8a8372993fc6b40",
+       "titulo": "Ingresa al reclusorio sujeto que agredió a recepcionista de hotel",
+       "resumen": "Autoridades estadunidenses deportaron a Octavio N, sujeto que el pasado 29 de junio agredió a la recepcionista de un hotel ubicado en Santa Fe, por lo que agentes de la Policía de Investigación de la Fiscalía General de Justicia…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/026n3cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "8c1f855b623c89c6e9401572c53d20db417eec1b",
+       "titulo": "Operativo en la casa viral de Chucky, para inhibir rodadas",
+       "resumen": "Personal de Protección Civil y policías adscritos a la alcaldía Gustavo A. Madero mantuvieron el operativo frente a la llamada casa viral, en Quito 864, colonia Lindavista, la cual permanece decorada con elementos temáticos de la…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/025n1cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "48d5c3516caf20e312411c1aa518cb588ce129f0",
+       "titulo": "Decretan la expropiación de un predio en avenida Chapultepec",
+       "resumen": "El Gobierno de la Ciudad de México emitió un decreto por el cual se expropia el inmueble ubicado en avenida Chapultepec 380, en la colonia Roma Norte, que se destinará a la construcción de vivienda social.",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/025n3cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "80ecf99243c05cba4c6a907eec9c753be764d856",
+       "titulo": "Arrancan las actividades para conmemorar el Día de Muertos en la CDMX",
+       "resumen": "A 14 días de la celebración del Día de Muertos, decenas de comerciantes instalaron carros y puestos semifijos sobre avenida Juárez, el corredor peatonal de Madero, así como en 5 de Mayo, 20 de Noviembre y 16 de Septiembre, en el…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/026n1cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "f03b0be02eaa3d5a53f38882c9f23b2caf90de94",
+       "titulo": "Recuperan mil 877 m2 de suelo verde en Cuajimalpa",
+       "resumen": "Más de mil 800 metros cuadrados de suelo verde fueron recuperados tras un operativo efectuado en la barranca Santa Anita, en la alcaldía Cuajimalpa, informó la Secretaría de Medio Ambiente de la Ciudad de México.",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/025n2cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e78b63772845877c94a3e6138c47cccd8f54323b",
+       "titulo": "Llama Brugada a partidos a debatir con ideas y dejar discursos de odio",
+       "resumen": "La jefa de Gobierno, Clara Brugada, sostuvo que “hay que erradicar la mentira como estrategia política”, al tiempo que reiteró su llamado a todos los partidos, con miras al proceso electoral de 2027, a elevar el debate con ideas…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/024n1cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "af95469e727b09a3e494aaa41d079bb198975d99",
+       "titulo": "Militantes de izquierda en Cuauhtémoc convocan a unidad contra PRI y AN",
+       "resumen": "Organizaciones, líderes comunitarios y vecinos de las 33 colonias de la alcaldía Cuauhtémoc llamaron a construir en unidad desde la izquierda un proyecto viable para recuperar la demarcación en los comicios del próximo año, ante…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/024n2cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "284a443ac556bfef7b7ac766726f291722f0db9b",
+       "titulo": "Bloqueos complican tránsito vehicular en alcaldías Benito Juárez y Cuauhtémoc",
+       "resumen": "La mañana y tarde de este viernes la Ciudad de México fue escenario de bloqueos, tanto en la alcaldía Cuauhtémoc como en Benito Juárez, los cuales provocaron el colapso de avenidas principales durante horas, por lo que efectivos…",
+       "url": "https://www.jornada.com.mx/2026/10/17/capital/026n2cap",
+       "fuente": "La Jornada — Capital",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "f3b74a829055df0e70cf1e5f178fb9fbc990a88b",
+       "titulo": "CDMX tendrá sábado de lluvias, frío y fuertes rachas de viento",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZUVdBZkhoSVFDU2VsNm9BcWNQbFUzTmRybENPc1hJVEtoRUJlVURveEt2Zk5LakJFY2wtdm1Lai05VWY4TXRxM29uQmJ3MTFWZ25PckZfRTlyRHZ2dnRqb21BczVJcnp6NmMxQ0hONVBTUHJs?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:15:41+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "opinion": {
      "titulo": "Opinión",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "772c4db31c0456a9492c4f6d6efc90a027f58485",
+       "titulo": "Un Gobierno sin límite ni agobio",
+       "resumen": "Tener un plazo sexenal, así fuera con poderes cuasimonárquicos, hacía que todo presidente priista no despreciara el temor al juicio de su tiempo",
+       "url": "https://elpais.com/mexico/opinion/2026-10-17/un-gobierno-sin-limite-ni-agobio.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "be3f5a7112c001a5730c0d22a0430b5e975cd113",
+       "titulo": "Fortino Domínguez Rueda*: La clave está en los pueblos",
+       "resumen": "A 534 años del proceso de conquista y exterminio desatado contra nuestros pueblos, acentuado a raíz de la creación del Estado-nación mexicano y del neoliberalismo: aquí seguimos en resistencia y rebeldía. Que la clave está en los…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/013a2pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "045e1cdec94d29123359fa2aae774370a78193dc",
+       "titulo": "Lev M. Velázquez Barriga*: La derecha por cualquier vía",
+       "resumen": "En 2021, el INE canceló, por una causa menor, la posibilidad de que el actual senador Raúl Morón compitiera por la gubernatura de Michoacán, por lo que la estrategia electoral tuvo que cambiar radicalmente: el ex líder…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/012a1pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "122e50744520225af52c6f322dd43bcbf0ba9676",
+       "titulo": "Gloria Muñoz Ramírez: Los de abajo",
+       "resumen": "Con representaciones de sus comunidades o a título individual, pero todos y todas conscientes de la alarmante situación que enfrentan en sus territorios y de la necesidad de fortalecerse y reconstituirse como pueblos, se…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/006o1pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c1ed30d8355ac0ea1407149e8442d908396319e6",
+       "titulo": "Juan Arturo Brennan: El pabellón del rey loco",
+       "resumen": "Sobre el Paseo de la Reforma, junto al Auditorio Nacional, está el recientemente construido y habilitado Jardín Escénico, un espacio grato e interesante dedicado, como su nombre lo anuncia, a diversas manifestaciones escénicas…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/a04a1cul",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c9504d7e569629e87585c6e663483153b2228e37",
+       "titulo": "Maciek Wisniewski /I: Fascismo y colonialismo",
+       "resumen": "1 Existe un hilo conductor invisible que une la periferia colonial con la barbarie en suelo europeo. Fascismo y colonialismo están interconectados, ya que las ideologías y los movimientos fascistas −que cobraban formas…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/013a1pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5bf475836345a2a87c5396fe8be8dd64c72c913d",
+       "titulo": "El Correo Ilustrado",
+       "resumen": "Mientras la revolución de las conciencias se desenvuelve y consolida en México, la rebeldía de estudiantes, magisterio, intelectuales y profesionales de la salud de diversas ciencias se desatan en numerosos países. La…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/002a2cor",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5105dff6eb76fee7d7af3ffd66e6f198917c3d80",
+       "titulo": "José M. Murià: Otra vez el agua de Guadalajara",
+       "resumen": "El pasado domingo 11 de octubre, en la capital jalisciense, se llevó a cabo una manifestación “pacífica” para exigir agua potable de calidad. La convocatoria, que había corrido desde hacía semanas, iba dirigida a la ciudadanía en…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/008a1pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "2c9f3f2c2b0fdbc4a9ce69b68c1bb0be614e9de7",
+       "titulo": "António Guterres: Día internacional para la Erradicación de la Pobreza",
+       "resumen": "La pobreza es una afrenta a la dignidad humana y una negación de los derechos humanos; destruye oportunidades y vuelve a las personas más vulnerables a las crisis que pueden golpearlas.",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/011a1pol",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "tecnologia": {
      "titulo": "Tecnología",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "99d0d374601ef5d02f72ef3ab119626f2fcb23b7",
+       "titulo": "Inteligencia artificial, amistad y resiliencia: la mirada adolescente de 'Chicas tristes' en Morelia",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRUFOZ2h0bUtXanBoS0tiVFNmb1A3d3M2TmNVMFJPRVFlWmtMbGRkdUVMNU5LRUViVTRnTHJNMEtVSHlQT0lCcUZmdFlBM001eEluWHRpS2piOVFhbXd5aW1Lb01ibDRPOElubG9TMjJyMFM5ODRGY1FydFZTTk51RnFzWU9DNDZoTGh6TE1RbE1zTzAySklpWXJuT2RJU3pfV1JxWFlCajE2bTBINnN2OVlBZFZvUmZDYUVmZFg0NG91WndpWDdCONIBzgFBVV95cUxOaHROaWpla1doZ1N1TkloYkVmeXU2eVJsanpYampnMDdSS0JaNk0zTkNRc3hPUkdvaVpvV3BzRXFqU0VuanNrQmlIVUVITzFuSUZBeFVOek5LSk8zS0lVNmdFVnhreHB2QnpadzRESmx6V1RsMHZBT1lzVVU5RnNOYWtlYmU5LXNvTXRnc09xN2ZndU1oZHptRFlJYV8yOFdEU0hGRnViRFV0Um5iYUthNmVPMHNzandGWmZ0eDdxczVPVWktYXVjbEd3Zlhndw?oc=5",
+       "fuente": "Excélsior · vía Google",
+       "peso": 3,
+       "seccion": "nacional",
+       "fecha": "2026-10-17T08:00:00+00:00",
+       "desplazada": false
+      }
+     ]
     }
    }
   },
@@ -85,11 +771,56 @@
    "grupos": {
     "nyt": {
      "titulo": "The New York Times",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "e3b1f5a5ae9c34281424babaf1796d97d370fb70",
+       "titulo": "Corporate Tax Revenue Falls Even as Profits Soar Under Trump",
+       "resumen": "The annual decline was about $70 billion. Companies are writing off billions in A.I. investments, taking advantage of tax cuts that President Trump signed into law.",
+       "url": "https://www.nytimes.com/2026/10/17/business/trump-corporate-tax-revenue.html",
+       "fuente": "The New York Times — Negocios",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-10-17T09:02:09+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "99d48e94933ce4626d6cbaab1e17208bc0ede083",
+       "titulo": "Weak Links Start to Show in A.I. Borrowing",
+       "resumen": "Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there is broader trouble with the data center build-out.",
+       "url": "https://www.nytimes.com/2026/10/17/business/weak-links-start-to-show-in-ai-borrowing.html",
+       "fuente": "The New York Times — Negocios",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-10-17T09:00:51+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "otros": {
      "titulo": "Otros medios",
      "articulos": [
+      {
+       "id": "6285294be6235da0082d913293489efbdd17dbf7",
+       "titulo": "Why AI Isn’t Ready to Tackle Our Convoluted Genomes",
+       "resumen": "The DNA inside our cells isn’t just a series of instructions, but something far more dynamic. Like scientists, AI models don't yet have the data to properly decode it.",
+       "url": "https://www.wired.com/story/why-ai-isnt-ready-to-tackle-our-convoluted-genomes/",
+       "fuente": "Wired — IA",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-10-17T09:00:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "074cb95f0c092f99dcafd95b47dd9e15702225c5",
+       "titulo": "China AI supply-chain IPOs hold firm despite valuation pullback, Citi says",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcnFDdU1MSGd4Ylh4aktUWnlOM2V2RklNLXAxVm5QNThadUkzS2k1cWhoNnJpQkF3Nzk2U1c5ZlJlbUhGVFVpZTIxZEJYak8yVmtjVVhBdGs5NnVjVlowQnhRaWw1enZTVjBIVS1Wd2wwMkQtV2lYelR3MTFfVVlRRTBfMlBOUTlDYlI4UXdBZEFfcUFQcVNNNHVzOTR4bnUyanUtRE9nVkdnbTk4VHJvRWVxM2xjcXhjVUI4WVh2Y3Q2Q0Fw?oc=5",
+       "fuente": "Reuters · vía Google",
+       "peso": 3,
+       "seccion": "ia",
+       "fecha": "2026-10-17T08:19:38+00:00",
+       "desplazada": false
+      },
       {
        "id": "3580ab83143b59dc62461177ccf9907a99f99be5",
        "titulo": "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
@@ -111,6 +842,28 @@
        "seccion": "ia",
        "fecha": "2026-10-17T06:15:02+00:00",
        "desplazada": false
+      },
+      {
+       "id": "89b21a142d910d85a6d32c940c75d6667493bb74",
+       "titulo": "Clark (Anthropic) afirma que el impacto de la inteligencia artificial se acelera y podría disparar el PIB de Estados Unidos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOejdXaEt0TUYtN0N0UGhMaHJwNUptVjk0bjh1c1kwUDhwc293eTY3Z3MzVnB6NWdoRVN0RTVYSGVYZXFHT1oxQzZSZ2U1Zkk3VHBkUDNJNDQ0UlpkS1JSY3JXY2V3SnM4ZjdxU2x1S1M0cEtYTjhvakI4MnQ0M1F3SHk1VFA5ZEI5cWY2RG5pY29mYmJEbVUzREMyYXlOalVfWkUyZ1h3a2JxbHFLcEZSMkgwUWZoLUxLdXB4Rkw5LXpxVGdQZVZzMW54UkIzRTdMZWx3TXBmMjhMVjVXY0pNeDgwSmZWMHJiZHc?oc=5",
+       "fuente": "MarketScreener España · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-10-17T09:12:15+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "068b6564664b0f10838b6c210fb7cd34235e2e8d",
+       "titulo": "¿La inteligencia artificial podría acabar con...",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQ1ljUXBnMUJmR1ZISDVmWmg4UEY4bEdZVkZZUkJnZlFTUXp6aVpOOEJJckxTTGhaZXk2cnM4SVh0eG9aUW1yZkQ3SGRtNDRNZkphZ2taSnhPZkZVVXN5NWxaQTJuT1lEbWFwZ1JvelFuSEJ1Nld5MmxFOW9IaXpOU25TWlU5dHhxdG5NYncyRklsWm9qYTNHRDFCTWgtZE5ZVUNMZHEySmVpU1nSAbABQVVfeXFMT2FQNGtYQklEckFIWjdrWEd4ZEF5ai1kc3VsY3BpS2kySUVQRG1mZkFTem1Ja1ZTUTEzQmRCbGZlVGh2NFF3aGgwbmNUa2JPZDhuTS0yU0Qzc3pfVFlxR1IxTVZvb2Z6SW5WOE9aVGF6cjFMR1pabzIta0JIdTFPcnNaUS1iY1RnemtoMlRtd2NiWDc4dmkzYWNSZVNhUnhhMVQtUFg5Q3lxUFlUempfUU8?oc=5",
+       "fuente": "Panamericana TV · vía Google",
+       "peso": 2,
+       "seccion": "ia",
+       "fecha": "2026-10-17T07:01:23+00:00",
+       "desplazada": false
       }
      ]
     }
@@ -124,6 +877,150 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
+       "id": "50f4a274155d77c0eaa3901c7f509bd000cefb40",
+       "titulo": "Estados Unidos aumenta su presencia militar en América Latina con entrenamientos en Panamá, Honduras y Colombia",
+       "resumen": "Un total de 600 militares de una división especializada en combate en alta montaña y selva practicarán en el istmo",
+       "url": "https://elpais.com/america-colombia/2026-10-17/estados-unidos-aumenta-su-presencia-militar-en-america-latina-con-entrenamientos-en-panama-honduras-y-colombia.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "c414108d286002415fd0d3feb79ae406f80263ef",
+       "titulo": "Exalcalde de Jamundí, Andrés Felipe Ramírez, se pronunció tras atentado en el que asesinaron a su escolta en Valle del Cauca: 'Estoy vivo de milagro'",
+       "resumen": "Dos sicarios en moto atacaron al exmandatario a las 9:20 p. m. en un local familiar del barrio La Esmeralda mientras estaba con su escolta.",
+       "url": "https://www.eltiempo.com/colombia/otras-ciudades/exalcalde-de-jamundi-andres-felipe-ramirez-se-pronuncio-tras-atentado-en-el-que-asesinaron-a-su-escolta-en-valle-del-cauca-estoy-vivo-de-milagro-3594234",
+       "fuente": "El Tiempo — Colombia",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:50:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "b863eb93f8a96e6ef57d7cf35fe8bb8ca3c93b58",
+       "titulo": "Huyendo hacia Venezuela: SEMANA revela los movimientos hacía Venezuela de Silvana Guerrero, Jhon Mechas y Andrey",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMkpkd1YtSzlwN3p0ZkZDdlFKbzJ2ZEZkNC1CX2JYVHRyNXBJc2dQY1VuMnkwXzViQlJvODZqY0drOUcwMnRTd0tFaG41b3d3TUppaS05OGpxWGxNeXZjV1VlQlltNThubWxibC1NSXhoclFqYlF6SFM3dzctVzUxRkFGNHJnREZPdjRPMEsyNkFOVHo3cDU0Y1NTMFNNWU1YRXhEN0kxUEwtVjBrNTI4ODBhQnRWVnM2SGktS2Q2Mi1WeGNOWHo0eFpXWEpRS3kwOXJIdUphcVBES3hMUThfSXA4ZFVVS24wT2RMQVFR?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:34:28+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "2e69efe6056454cf8653ee36468b093c74f592a5",
+       "titulo": "ELN y sus ojos en Barranquilla: SEMANA revela detalles del presunto nexo con Los Costeños para cometer actos terroristas",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPU2llcUV4SC1QekV0U0dDNDc5ZmNKWTg3akhObGVFNDVVdHBJamRjcU5hMWdFNDR1Z2RmZW4yaTU1QU9rX3oxVlI2b0RtTk9ZY01HRWkyWWtRUFU1S0YwamFTX2xZYXljZmN6MG9CNGM4cXdibExrUGVhNEI5Sy1UYnk1aTQ5eGM4N2lyVTdKRHZMbXh0aHFZM3JPWkdPYVV6RWtreC1GcVIzUDZOWWNtS3J3aHljTVN3R3NPT3VKOXl2NU9IdE5kY1lvN0pEazc0SlhqZ3N1MDVRaFNtcXJlQXV0T0cydUg0dTUxX2dkRElyV2VZZldBMTJxRjNaeWNuU3RvSGJkVUVRRnc?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:05:46+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a7ab05596edfa2959399f9a152084c604c4442a8",
+       "titulo": "Así estarían construyendo su imperio en Europa el Clan del Golfo, el ELN y las disidencias de las Farc: SEMANA revela informe secreto",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNX0V3WUZ5X1oxNXVwcGhqR2F1bUJ2S0VadExxWjUxZUNwVy1KZ1ppY2pGbmMzV1BXY2ZwcEdFbWc2cEx1WXg0d0JfYVdUbzJyREoxYkFVNzd3VkNra2pMSlNYc1p4bzVhUmZ4SW16VG84Z1FuSDBHcGlQdXlNMWJfTlhSTWt6dUdiTmNZOGtZVVh5ZEVOWEcyOEFoYkJmMEgwUnZManlJdTlDTzRnLVBkU1BqX0ZxVDR0Ti1iaFl4a0pYeWZHalpaSjQwZkZlZUdYQ2stRWV5dlBMUEd3RnVqN3pscmZkU2ZISlJYSXlfeTkzVUJHV1d2Vzc4MUhuWlp3cXBhX3haajRmZw?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:04:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "c9775863aa84a0e42c07073378d28935c9d02b98",
+       "titulo": "La salud mental y el cerebro: el prestigioso profesor de Oxford, Zoltán Molnar habla en SEMANA. Estará en foro invitado por el expresidente Duque y su esposa",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNd3U1Uzh6am44dzhRSnNqcHBtUmhjcEVzLXJYZFZab3h3ZFhhbkZZWUkwMUpyaGp5RzNRT0xEY0c4Z2VKUVN5VlJGTmlBVHo5eG1lTFVjMVZYME1Kb2tOT3dCeWh6ZTFFS2xNMGtiem9mTl9SbEZfTGFCa0U2ZzZqZW5DWU90aHNCSzlxb2pzVWZqX3Z3OE9wOS02TnlOYUJQN3lrb2F6Ymtma19xeElOQjI0SU9GajloNEF2aHJJTU1UX1hxNUVUdnJyalozS1pEak9sUWxjOVlvRVdCV19rTlhETjN4ZEllRDhWdG1wWE15MWNKcVk3UTdRSXltWEZfMHVZQXY4R2tpdG9RRGNySzZ4ZjFZUHJIaE5IOF9ySjlFdEVsRzcxOQ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:04:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "acfc9cbb0a4337ad61cb256cd1da4a493066aef6",
+       "titulo": "La intensa agenda de Álvaro Uribe en Europa",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVU5uQlFmU3lMY2tueENmbGRKUEhabEhqZWEwdktMNXNQTWV6M2s4WGhLMmZZUnp6TmREa3Z1Tk43WlllRlFJYkxTOERTUF9Oc2N2QVVMSzF0bG5zX2E5NWNEeUlBYkJCSjZwWXZ4by1pQllJMEtyUm5tX0NXQjFsX003VzBNcnBmUFRXSG1lQVUtN0JGZWU3SUs1NjZtcTjSAaQBQVVfeXFMTW1PMHYwRGpndnZJR2puUFhVaEVQX0ZtZEh2S3NzSENUaEtKQUhWcFc5dkxiQ1Q4SnpSaEh2cTZZWTBPUGZKaUtPeGFrNXJsdHhSdVpPdlNuSTNMMndjeDAyNnBfMVVBYWNJc2l2ZHl3Ulg2YnVYSHVMRGVjWm95S3U4YXVqQ2hDdXdMVlNLQktQTFlhT1FRNmtMWG1SZGNkQ3ZCNDc?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:02:59+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "bd077879d65ae5c5c2221e833ca68353a0360ade",
+       "titulo": "Gringos come home - Revista Semana",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JMHlOVE1CVUVxZUU3RWdqTFc1QmRyNHF0ZlQyZF9VOXdvbmlSRkZMOTNfMWFRVW82MF9tNkN2c2lGdUFBU0FDVUU2UUxPNl9BbnRwRlFXVXZ6ZC1qaU8zdnhBLXdHMVVpRDFRc3dQejQ0NnfSAXhBVV95cUxORzF3RW96Y3BzTXZlSU5BQW0xYlNnVndYTndESG9SSDQwLXIwcHpDOUE5SVdOeWl3TnpGTWVJS2tKVUFxTlBfMWEtT3BlcDZ2WktQXzhkRlVsZ3M0cERPYW1iWEdtQzFiSDlNTUpvQjd1MU5wd1c1VUo?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:36:48+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "8bd59b979b21a397b99353ff2af90d25443f9324",
+       "titulo": "Sí, las fechas también cuentan",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMXVJOE11Q3doWUhib3lXNllXOW5mWkdzVENfZnplVE1rTl8zVVNnWFQ0TFFESFJjVXgyLV9VbkF1T2hzVkl4c0xJdW0xYllIV3NrNW96YXhLS2Z6SnM2UG1UcWdrVGRRUnNMVC1jMDFUcXEwYmw0RUFrYlpNekZOWjBXWdIBiAFBVV95cUxPdE4ydXAzUTFCVzZaUUhTUUFvXzIyNndYSlpxQ2ZnYUdoZ2NMZEpKanZJSGRTNjExNFdPZzJ0dzcwV1pZUkRGd2hrMHg2UzVDOHFUck4tTURBTzlRMllKTktJVWtIRXJUdW9Eazl0UGd4aEtBZnE1aVpxX1VRYkd4YkhETmhGWGlZ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:36:48+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "c47ac569ab2a41e814bb61de8dcbeb048886ee4c",
+       "titulo": "La paz de unos, el exterminio de otros",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOXhCUFJzS0xuXzgzVl9wUGtQeklLdmpOZzJBeGhBNGczMUMzV0EwN2dpeUgzcEdCNE5HU0U2Uk1QeWViVDJ6U25rUHpINnFtYl9sUmV1VUdfT0ZzTzNEQkVjekVoelFxUzZoYV82QjB1ejd5VGRpRnNzc2VqU3N1QXE5SDF6R0hQc1NfNDZn0gGTAUFVX3lxTFBSV0FPc2YxeEkycUEySnp6enJNU3NiSmtmeEpTM2ZINVY3TWJ4N25IdVNUeHY3VmU1RU44LXlBbC1uSXVOMWpUTl9OZmVwM0NmSTB1aXhUMnhxVEdiRDR4RnNvODlDaTduY3NWZ0JIS2REa3R4Qm1ZX2dzQnVfX05abzF6UGJPYjNzbTVGSDZNZ1FnWQ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:36:48+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "33b834160140c9717f109897c03348a386c4c960",
+       "titulo": "LA GANANCIA ES PRIMERO",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zSlVyZ18wTWVJYTR4QVJkMkpnZkRFOE5YczNjeGt6OXZCNnhRR3lXU3hvU2YxQXBucjRkWXBrMmEwRnJteXV1LUpWUkRNREhnUGhLV3Y5TjI1RDRtZGFBVmZ0VzYyLURadHg4NFlsSFdoVVVYelBmVnZaS2xNRjQ?oc=5",
+       "fuente": "movil.elcolombiano.com · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T06:47:25+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "1a945a46b451c122288690bca73acf17ec63fe33",
+       "titulo": "Desarticulan presunta banda sicarial en Caldas: encontraron altares de santería y presuntas listas con nombres de las víctimas",
+       "resumen": "Los operativos en La Dorada revelaron disputas entre 'Los Constra' y 'La Línea', además del uso de talleres para ocultar drogas y armas.",
+       "url": "https://www.eltiempo.com/colombia/otras-ciudades/desarticulan-presunta-banda-sicarial-en-caldas-encontraron-altares-de-santeria-y-presuntas-listas-con-nombres-de-las-victimas-3594229",
+       "fuente": "El Tiempo — Colombia",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T06:45:05+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
        "id": "9e948f25747224b96af95828456428fe7863d2fb",
        "titulo": "Convirtió su legado campesino en una empresa exitosa",
        "resumen": "",
@@ -136,14 +1033,26 @@
        "desplazada": false
       },
       {
-       "id": "11a2cd986171c69aea2f99778751989ed7c127c1",
-       "titulo": "Ed. 2308 - Revista Semana",
+       "id": "1fb2f86f8b8ef38310b89fde0eadc8ace98f2747",
+       "titulo": "Ataque con drones contra la Policía y Alcaldía de Teruel, en Huila, deja policía herido y causa pánico en la población | El Colombiano",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdVFpb0Q1azQyT3FqRTZDVnc2aHdMQlpDZW9lYm92Umc1cXhMOVNRUXZIMi1mdkdsa0pyRDlmTGFUNFFyS2thSFNHTFFMelBveVRnUEtwZ180Z1BBeE5yMHRoV0xYeEJzbi00cGFvZlI?oc=5",
-       "fuente": "Revista Semana · vía Google",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRk9DT0N0S3lkcjA3Zk45ck9BV2JiZzMwRjNVS3p5ampiek9RMUtOZm5WU3ZDWHV6MTJxT2FCcHhSYWVpM0J2UGRXZTl2RFYxbUJUT3poWDA5UWNjd1RpOW81bUxOSWJuV3pKNDVKc3hPX3JWc3FpREtHQnE2bDdrcGpPMkxkb0tacFJJeWFZVW00NW9Ma18yYTQxd9IBoAFBVV95cUxOQ0wwYkdtd095UjBpS1NsV0JYQVl1UUFoVlAyMlNmTGZhZW9CTlFfNm5zSDJFci1iNk4xdFBhWjJ1cEtzaFpVX3FvNlNvUEdCQ3ZzTGNrYUxVV0pjNFA0QjZndDNtWHRNLUpyRGJQaUZER1phRFJCS0dicUN2Zi1nbldZclBWVTgwUmNZQjhLMk1IUk9YQVR1ZWYzMGtxQTZr?oc=5",
+       "fuente": "El Colombiano · vía Google",
        "peso": 3,
        "seccion": "colombia",
-       "fecha": "2026-10-17T06:22:02+00:00",
+       "fecha": "2026-10-17T06:09:47+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "f021b340b2ba694b8abc37570b76235f69b729e5",
+       "titulo": "Lotería de Santander anoche 16 de octubre: resultado y números ganadores",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPb3AxNVNReW9lUUVQN0xNQWVJUnhiMjZqdkNEOHBteXd4VkZsOU5SaUo4YzJ2M3BYRVE2WEl2Mk1FV213VHcwQU80anpRLWdMcndSeWxYS1dlOWhqdEpCNGxIa1k5NEJlM0FiekpwWi1vRkFGTWlLZFhiUV9WVjhRLUR4cGs0VGxXZkVaZ0l0emFveC1NRU9yT09aUEFieHZoNlNCaHZ2MlFnNGpQa3BldldJQjNpaF9JdUUxUVdxaUpXZTd1RmJlV2Jn0gHXAUFVX3lxTE5fVDkzREhKc2VPbm10SkNxT2pDd0JFcUhsTm9ianQ2QTVMUjRTVVpQMHpjZjRjajVwNV9WTWcyTVFTbklhejJwdHJtTFYwQWdCeDVsZXVoZ1NIZ3VWbDlaSGQxWFR6eXZ0WXhxMEZ6Z1A5VjJwTk5DcnhxNWZ6RWVTVkNDQ291b1lRVk9tSWZyaDFtWC1fVTFhVk81RkhyUU1odExybm9kZW1JcENURHU1bmtNblJIU0xfaEotRlNiQnBNcDkyUHFvRWxrZEVPUEkyVkFfVVBv?oc=5",
+       "fuente": "Blu Radio · vía Google",
+       "peso": 2,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T08:53:03+00:00",
        "prioridad": 2,
        "desplazada": false
       },
@@ -170,6 +1079,90 @@
        "fecha": "2026-10-17T06:12:46+00:00",
        "prioridad": 2,
        "desplazada": false
+      },
+      {
+       "id": "2737479ebd2978e324e89a679afa876e0e839313",
+       "titulo": "No más glorificación de la violencia",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOEN0Zl85Z2dSRk5qc1JIQTN6azJVSS1ZM0huMV80TjdHdVJOS05FNV9jZGhfNGVqcEJXdmo4bElqczN2ekw3RDN0VUZJNG9GbzZXT2Nwa2FsYmJKTnJrZUVHUkxFWlNTSjQxd2FFMDRrUXVhR0ZCR1VaUmo5UldKQ0V0V0RZUjFIemdWcdIBkgFBVV95cUxOb01xZWFHSXcyZXFYbk5IMndPQ1hacnhMeExEMDRWNThybkZrTzFoZTNDWkJMQWlpWXdFV05VYjUyMWg4UHhWN29ZUGl4VEpKaG9ZYlBLYjVPcnA1dDZWb0YxSkRDRGxQVUVLaVpDUVB0RXFlS0ZsYmNoRUlQNUtHZjkxV0pveW9Zb0s3blgxX0J2QQ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:36:48+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "418b22810005688b2366e1a9748ae09733087bb8",
+       "titulo": "Drones y guerra híbrida: no hay tiempo que perder",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUZVd29JM2EwMXZRMmdxSlBaeUx3OXJWOE9WSmpuZFh0MDlyWURQeEpPNklfQjJQVUFLU0hjdFVGak5UWDBxUUR2S0xZejNpaDN0TUN1UHBwTEJwMmd4LV9uVGt0dUNqNlhqM1RpRkJtaV9FT0FXS3k3NGI5bFRzcngwdHdkUEZNY1cwSkN1aE1hTERrWVhtQVZEbHTSAaIBQVVfeXFMT1EtTzZOdG0zNjlhUUtUd2RrZWoyS1drYkVrRFVxekE4dko4bGVaLXVIaEhVSU5DYUtOV1pMWmxROVN5a2x1ZTA4QXF1R25YUXlJc0pSWkdWc3ZZZWVkc3gweXZBdGFVQzVETWRrRFhuRXZMczQ0TGw1ZEg1VGlPNFRaSEUtT0tYeXRPUnUycVIxZE5ibllYZGZxMm1lVFVnWkR3?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:36:48+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "bc096eec7f7c2fde38879bf7306b91d382b09424",
+       "titulo": "¿Quién ordenó matar a Miguel Uribe?",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQenN4clNvSmVmcEZmMVloSERuY1FtaVY4bEVDenAxVVFVZjdBd3pyUW9PRzBVR01DblFaTDJvcEtySnIzbHJjWW5halE3eGRieVJ1VE9TQktCMmIxQnRmbVBkQmNzbG5EWmgxLTY5Rm91ZWx1N3Y1cFFyLVFuaHFXZzUzVkdJNWxR0gGOAUFVX3lxTE01dlRRNF8zWVExeDUtQVlvU2Z4bjhXN2VtN0N4NXhzSmVGb0VoeG1IMjhSQmFuNm0xMmR2c0sxcTlxRU9jc0dMbUVtMHV5ZlVxVUg2Y0FieDB5NTNQMkpEZ3lhcTN0YmxCQjZRb3E1ZjQ1b3NKUXd0WDBZMG9qN1h2ak5QRmpmcjdHcGU3M1E?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:35:47+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "e950dfa7b58ab4f1dc40533364d98f9eb4f81ff5",
+       "titulo": "Albert Menéndez, pianista de Shakira, habló con SEMANA: “Ella no solamente tiene suerte, también la trabaja mucho”",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc1k2cGN3UGExRFdEY09qbl9UQmxIVklVVGZiRUhWX18wTTloczR4d2Y1WUJGc1dyVTd2enBIblJualBHMnJ5UmR5TGljQzlDbTdWS1J4VzhyNC1xMkhlZ3hJalJRc2tzLXBwREo3VkNRMDNpYjhsbGJpTDhxdnlPbHJnaHZNT2FzdHB0Vl96WGMwWmVCMHB1NmJsbkplUkRCR2E3NzhpU2M4MDY4NWQ2WlVYLVdWdkVuTmdNamttanhsS0hrY1dQRWdiakttTUZWVGNDOG5INjBqMFJraG1zMzdGUU5BdEp1TlHSAe8BQVVfeXFMUEZwLVFrVVRNNG9mUENxSmpGTEg2N0NYZlc5RlBGTlRTWUFzWG40c0h2X2h5RWItYTg3bXJtaU1WamxIQW1kbjZNRVk3TVM1ZDM4OE9Ddy1rN2VDRVR0NFlhTktLUlBhT25MOFhuNXNWVFNxY1Utd2RJNlVxa0U0bXY3MHdNYkpXWG9ZT3NPSGpEOUFyOUZNS3FUWUpqWk9lRmpYSlgzX2hUWUM0a3lNeV85OFZ4ZFNWTktvbWFPcGhpZGZEMEtBRXY1b1I2WGhXMFlnUmJQRDBtOEd0dEhicWdPY2UweG4wdGxLMGNWbFU?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:23:48+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "9453977c6e763aa0f638b4c0a900a0a438415e10",
+       "titulo": "‘Fatherland’: Arcadia habla con Paweł Pawlikowski y Sandra Hüller sobre cine y fronteras de posguerra",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOVlhMaGJiR3pKajJQbnJDNFVPQ1c4cFRwellsdmgzeUNJYTdSNjdPWU53RWVWaFY3OGNXV1Y0VGZjZXNqdG9CaUtQVUY3emh1S21OQmJlVUNZRWxDQzEtbHhMSDd0dWFzLUFDc2VvV2FwUWl0aV9TWmd5dFJleTlrNDNXRFlKQlZ3VHZ1NzJhWElQaEZ5YjVxYVZ5Vkx3cm9GakJNUHFHNnZNcGlVeS1uWHhTNHJYcG50MXp3VHdYMDZ3WFFwVjQzOElJblhiUzdpWDVGckl3djUxTER0cjF4YkNkdzNNQQ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:23:18+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "6485efe0fbcafd6e7bde790406d54262315e8e8a",
+       "titulo": "Editors nos habló sobre una visita histórica a Colombia y ‘Surface Echo & Sound’, su octavo álbum",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPbmZqMHpUYllHSmpGeDQ2VDJVTFAzUUxhcjdVcHhhYUFQRE41ZWhRYjFPcmNSanNFekQ5czdOZXJqdEF1cU1XdEtqTDJKWHJlcDE1X0tlZUd2S3JYX0JHa3RvQmNlVTN2bGhBQ3hFc2VkZ1c1MGZic2Rzc1lJOUJEaG5IdkFSaklXLTJvX1U3TE1FRzhoWGRmc1pMVmtXem84cWdaLUl0QThUcW51TXl1ZXd6R3ptOU5EWm5mRDJIX3RGNVJCUTFwRWFMOTA3dGVzc3hzUWdhdmFlSkIzaWZpOQ?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T07:21:17+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "11a2cd986171c69aea2f99778751989ed7c127c1",
+       "titulo": "Ed. 2308 - Revista Semana",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdVFpb0Q1azQyT3FqRTZDVnc2aHdMQlpDZW9lYm92Umc1cXhMOVNRUXZIMi1mdkdsa0pyRDlmTGFUNFFyS2thSFNHTFFMelBveVRnUEtwZ180Z1BBeE5yMHRoV0xYeEJzbi00cGFvZlI?oc=5",
+       "fuente": "Revista Semana · vía Google",
+       "peso": 3,
+       "seccion": "colombia",
+       "fecha": "2026-10-17T06:41:54+00:00",
+       "prioridad": 2,
+       "desplazada": true
       }
      ]
     }
@@ -183,126 +1176,6 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
-       "id": "764a1aba188a58649d64f3ab2d52bbd5b9d99cbb",
-       "titulo": "Una perra sobrevivió más de 50 horas perdida en Alaska tras una avalancha y un AirTag ayudó a encontrarla",
-       "resumen": "Conoce la historia de LouLou, la perra que sobrevivió 50 horas perdida en las montañas de Alaska tras una avalancha y cómo un AirTag ayudó a encontrarla con vida",
-       "url": "https://www.lanacion.com.ar/estados-unidos/una-perra-sobrevivio-mas-de-50-horas-perdida-en-alaska-tras-una-avalancha-y-un-airtag-ayudo-a-nid17102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:33:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "8948b3f5846fc2f6fd3427e408428924c774eb1a",
-       "titulo": "Se me pianta un lagrimón: el PJ ya no es el PJ",
-       "resumen": "",
-       "url": "https://www.lanacion.com.ar/opinion/se-me-pianta-un-lagrimon-el-pj-ya-no-es-el-pj-nid16102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:18:39+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "ce96dcf65c7827f2be1e8b61b2e5ebbdc8f4ca07",
-       "titulo": "Abbott, gobernador de Texas, sobre el ICE: “Hagan cumplir las leyes de inmigración sin matar a nadie”",
-       "resumen": "Greg Abbott pidió al ICE hacer cumplir las leyes migratorias sin causar muertes y explicó qué responsabilidad tiene Texas sobre los agentes federales.",
-       "url": "https://www.lanacion.com.ar/estados-unidos/texas/abbott-gobernador-de-texas-sobre-el-ice-hagan-cumplir-las-leyes-de-inmigracion-sin-matar-a-nadie-nid17102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:15:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "052710f17deed6b43dfc7c8a36d9750ae2b14fa4",
-       "titulo": "Mamdani propone que los estacionamientos privados de Nueva York no permitan operativos del ICE en sus instalaciones",
-       "resumen": "Conoce el pedido de Mamdani para que los estacionamientos privados de Nueva York no cedan espacios al ICE, respaldado por más de 100 funcionarios electos.",
-       "url": "https://www.lanacion.com.ar/estados-unidos/nueva-york/mamdani-propone-que-los-estacionamientos-privados-de-nueva-york-no-permitan-operativos-del-ice-en-nid16102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:11:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "383e6091788af55fc93c6e1a32c8fe11d9598ed9",
-       "titulo": "Rodolfo Arruabarrena mantuvo el misterio Paredes antes de ir a Brasil: “Es difícil decirle que no”",
-       "resumen": "El entrenador puntuó con 5 el estado del desgarrado volante, pero admitió que habrá charlas con él y con el cuerpo médico",
-       "url": "https://www.lanacion.com.ar/deportes/futbol/rodolfo-arruabarrena-mantuvo-el-misterio-paredes-antes-de-ir-a-brasil-es-dificil-decirle-que-no-nid17102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:10:02+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "d10b47ec5dea929281e1e2d7411f1b90a765f6f2",
-       "titulo": "Violencia extrema en Brasil: una mujer amenazó con un cuchillo a un policía en plena calle y fue abatida de un tiro",
-       "resumen": "Ocurrió en el barrio de Parque São Domingos, en la zona norte de San Pablo. Camila Pereira da Silva (32) fue denunciada por vecinos por amenazas reiteradas. El Policía militar que disparó fue detenido inicialmente, pero liberado…",
-       "url": "https://www.clarin.com/internacional/violencia-extrema-brasil-mujer-amenazo-cuchillo-policia-plena-calle-abatida-tiro_0_oJMO8eWzlF.html",
-       "fuente": "Clarín — Lo último",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:06:23+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "f23e177451cdbf9ed2ced1acab3c44e0b2527e93",
-       "titulo": "La psicología dice que algunos adultos mantienen relaciones cordiales con compañeros de trabajo, vecinos y conocidos, pero tienen pocos amigos cercanos. Participan en reuniones, conversan con otras personas y cumplen sus compromisos sociales, aunque prefieren evitar conversaciones demasiado personales o situaciones que impliquen una mayor intimidad emocional",
-       "resumen": "Por qué algunos adultos prefieren mantener distancia de los demás y tienen pocos amigos cercanos: qué dice la psicología.",
-       "url": "https://www.clarin.com/estados-unidos/psicologia-dice-adultos-mantienen-relaciones-cordiales-companeros-trabajo-vecinos-conocidos-pocos-amigos-cercanos-participan-reuniones-conversan-personas-cumplen-compromisos-sociales-prefieren-evitar-conversaciones-demasiado-personales-situaciones-impliquen-mayor-intimidad-emocional_0_Gg7uBDOiSc.html",
-       "fuente": "Clarín — Lo último",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:03:39+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "3af8648af971b202272ac1f831a4c80623e72915",
-       "titulo": "Joseph Pilates, creador del famoso método: “Roma no fue construida en una hora. La paciencia y la persistencia son cualidades imprescindibles para alcanzar un logro”",
-       "resumen": "La perseverancia como una de las condiciones destacadas de esta técnica de entrenamiento. Por qué la tolerancia siempre tiene que ir acompañada de acción.",
-       "url": "https://www.clarin.com/internacional/joseph-pilates-creador-famoso-metodo-roma-construida-hora-paciencia-persistencia-cualidades-imprescindibles-alcanzar-logro_0_LaGhEiLlNn.html",
-       "fuente": "Clarín — Lo último",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:01:39+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "152712e24d9a1bdf1c524dfbd1b9d67bc222fdcd",
-       "titulo": "Deborah Bellota, psicóloga, sobre el hijo preferido: “No tiene que ver con el amor”",
-       "resumen": "En los estudios de LN+, la especialista Deborah Bellota sostuvo que “los niños también pueden tener un padre favorito”; la importancia de fomentar los espacios de intimidad y diálogo",
-       "url": "https://www.lanacion.com.ar/sociedad/deborah-bellota-psicologa-sobre-el-hijo-preferido-no-tiene-que-ver-con-el-amor-nid17102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:00:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "82432427f206471d68800abdc4c9d948dd33165d",
-       "titulo": "Salvador de Bahía: calles coloniales, playas increíbles y el legado africano",
-       "resumen": "Las religiones, la capoeira, la música, el carnaval y la gastronomía hablan de quienes hicieron de la cultura negra una poderosa forma de resistencia e identidad",
-       "url": "https://www.lanacion.com.ar/revista-lugares/salvador-de-bahia-calles-coloniales-playas-increibles-y-el-legado-africano-nid17102026/",
-       "fuente": "La Nación",
-       "peso": 3,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:00:00+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
        "id": "043c0e53778f9be1da8ee09edddd7a9d9bbe4ed1",
        "titulo": "“Arrancamos ligados al campo”: producían ajo y cebolla y ahora tienen un imperio de más de 200.000 hectáreas, real estate y hoteles de lujo",
        "resumen": "Grupo Faro Verde, de José María Larocca, posee campos agrícolas y ganaderos, forestación, caballos deportivos, hoteles boutique y desarrollos inmobiliarios; la reciente incorporación de Ceres Tolvas amplió su presencia en el…",
@@ -310,43 +1183,295 @@
        "fuente": "La Nación",
        "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-10-17T06:00:00+00:00",
+       "fecha": "2026-10-17T09:55:27+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "dd9265927f195a4f508180a8b99b8d5c83293cf1",
-       "titulo": "Cuerpos en la oficina",
+       "id": "34a4092adcdd144435b8261f43a5ca5cae006859",
+       "titulo": "El papa León XIV será dado de alta tras ser operado por un cáncer de pulmón",
        "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1hLVd3NFFDVm56WlRsRXlUZV9qaUlUTnVZMFVVaEFpUnV2RWhQZVNOQ2hnRUZJODJ5OVoxZUhhVnpzRVlRN2lOQjZlV3hJckNGd3Ixb2hRdTVrUE40dGxyMjVmaFFoQkJGbWxXWnh1aGtaZXk5TmNVUVRuQdIBgAFBVV95cUxOV1BQZVFNOWptTmJZNXdOOUlEY3JvZXotV2ptTUVlZExtN2ZRc1NBYjBQZVd3dFZsRkhaMUdQZkZ0U1RYVExYT2F0ZjJRTG4tc3BTQW5tazRJYTNRcTNtb1pOQS1rQUVHM0ZXaGlKajV2R0lmbS1MY0JFOFhVb1hZSg?oc=5",
-       "fuente": "Perfil · vía Google",
-       "peso": 2,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:17:05+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "b42e33e48864dc62ebfd136060ae0ae336796f85",
-       "titulo": "Experimento El Niño - Perfil",
-       "resumen": "",
-       "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oai1pS0ZjMEE0TTV4QW5qM2lxVS1TZHRvbGFEd3N6X0RJdG1WQ1hFQlpuWXRzOEp3T0JCLW5ySTdEWnV6RzB4c2U3amVnODB4U2NFZHNNRTlHeFdyVFAzRklQd2Nrd3FoVjBoT29kV0w3RnVUOFU1SNIBfkFVX3lxTE9sdGg5SU11NEtnaEJ4bmFwbGw3NURMWk8zOTdnSXA2WE81VFlDcDB1d2ZnXzBvUXFmWDJYenlCZFM3RTlDY2pYX3VmRXZnRDNrRnJoMExoS3ExeW90NzJWR3VJVHNmMG56b2k4cFBITTkxSmZoM3RBUDVpNlpMUQ?oc=5",
-       "fuente": "Perfil · vía Google",
-       "peso": 2,
-       "seccion": "argentina",
-       "fecha": "2026-10-17T06:01:48+00:00",
-       "prioridad": 2,
-       "desplazada": false
-      },
-      {
-       "id": "9adb472bb748f9247c6baa82901897cd55e779c2",
-       "titulo": "Estefanía de Mónaco. Deslumbró como anfitriona en un evento solidario junto a sus hijos y una estrella de Hollywood",
-       "resumen": "Fue en The Global Gift Gala, una de las veladas más importantes del calendario social del principado, que se caracteriza por la fusión de dos mundos: celebridades y filantropía",
-       "url": "https://www.lanacion.com.ar/revista-hola/estefania-de-monaco-deslumbro-como-anfitriona-en-un-evento-solidario-junto-a-sus-hijos-y-una-nid17102026/",
+       "url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-sera-dado-de-alta-tras-ser-operado-por-un-cancer-de-pulmon-nid17102026/",
        "fuente": "La Nación",
        "peso": 3,
        "seccion": "argentina",
-       "fecha": "2026-10-17T06:00:00+00:00",
+       "fecha": "2026-10-17T09:53:48+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "ad66688e22cdabd503e0423a52351629f5d84186",
+       "titulo": "Efemérides del 17 de octubre: ¿qué pasó un día como hoy?",
+       "resumen": "Las efemérides de este sábado incluyen el Día de la Lealtad Peronista, entre otros eventos y aniversarios asociados a la fecha",
+       "url": "https://www.lanacion.com.ar/lifestyle/efemerides-del-17-de-octubre-que-paso-un-dia-como-hoy-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:53:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "b74b4146396b597f826633967254d29dba1ba0f8",
+       "titulo": "Declaraciones juradas al compás de la baja de retenciones",
+       "resumen": "Hay un gran volumen de mercadería registrada para exportar en los principales granos",
+       "url": "https://www.lanacion.com.ar/economia/campo/declaraciones-juradas-al-compas-de-la-baja-de-retenciones-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:52:50+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a5fed6ac3742c2ec5e8b250d82d4137aca2921d9",
+       "titulo": "Cuando el problema no es el jefe",
+       "resumen": "Los compañeros tóxicos también tienen un alto costo para las organizaciones: erosionan la confianza, afectan el rendimiento y pueden convertir un equipo sano en un pequeño infierno cotidiano",
+       "url": "https://www.lanacion.com.ar/economia/cuando-el-problema-no-es-el-jefe-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:50:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "fd0149f77ba93e782f403c1b42f9872e74360762",
+       "titulo": "“El agua viene fuerte”: la crecida acecha y el éxodo de animales y de pobladores en el Litoral entró en su hora más crítica",
+       "resumen": "En la zona de Victoria, Entre Ríos, trasladan hacienda y hasta casas móviles; un pequeño puerto se convirtió en un punto clave del operativo para ponerse a salvo del agua",
+       "url": "https://www.lanacion.com.ar/economia/campo/el-agua-viene-fuerte-en-las-islas-del-litoral-se-profundiza-el-exodo-de-miles-de-animales-y-de-nid16102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:46:18+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "0b21fe4bb00513ea6508ad8a32804206e91bb8f1",
+       "titulo": "Elecciones: cuándo se vota para presidente en Brasil 2026",
+       "resumen": "Los dos candidatos que más votos sacaron en los comicios generales, Lula y Bolsonaro, se miden en segunda vuelta",
+       "url": "https://www.lanacion.com.ar/el-mundo/elecciones-cuando-se-vota-para-presidente-en-brasil-2026-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:37:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "2f089bf0643e23fe730df028f4eec7c69c47df21",
+       "titulo": "La soja cayó por quinta jornada consecutiva en Chicago y quedó en su menor valor en siete semanas",
+       "resumen": "El grano perdió más de US$11 por tonelada en una semana; el avance de la cosecha estadounidense y las perspectivas de una producción récord en Brasil presionaron las cotizaciones, pese a las importantes compras de China en el…",
+       "url": "https://www.lanacion.com.ar/economia/campo/la-soja-cayo-por-quinta-jornada-consecutiva-en-chicago-y-llego-a-su-menor-precio-en-siete-semanas-nid16102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:34:49+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "75982dd1c1abfd5087e93f012a6f247a733559a1",
+       "titulo": "Es oficial | Jueza ordena a Trump restablecer el programa de lotería de visas, después de la suspensión de 2025",
+       "resumen": "Una decisión judicial exige retomar el proceso suspendido por el gobierno en diciembre de 2025. El calendario establece fechas para anunciar las inscripciones y comenzar el registro.",
+       "url": "https://www.clarin.com/estados-unidos/oficial-jueza-ordena-trump-restablecer-programa-loteria-visas-despues-suspension-2025_0_kIP9OE5ZZF.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:23:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "4252b702ec61481fb1ecdb8fb2c4252e054ba814",
+       "titulo": "En Santa Fe también esperan la crecida del Paraná y trabajan a contrarreloj para salvar a miles de animales de las islas",
+       "resumen": "Como en Corrientes y Entre Ríos, los productores del norte de la provincia están trasladando animales hacia la costa desde hace varios días. Se estima que en el departamento de General Obligado, hay más de 120.000 cabezas que se…",
+       "url": "https://www.clarin.com/rural/santa-fe-esperan-crecida-parana-trabajan-contrarreloj-salvar-miles-animales-islas_0_rG19FPTIac.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:04:56+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "e2628bf2c865a6c1fda39c187d7515a9e65846e2",
+       "titulo": "El nuevo Pacto Sentimental: ¿por qué las mujeres esconden a sus novios en las redes?",
+       "resumen": "El autor dice que, en el marco del feminismo y la crisis de identidad masculina, esa conducta muestra el avance de una forma de relación inédita. \"Por primera vez, amar no exige desaparecer como individuo\", sostiene.",
+       "url": "https://www.clarin.com/opinion/nuevo-pacto-sentimental-mujeres-esconden-novios-redes_0_YYWjrWun2S.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "6430805ba0928f77ed41a8a9e41c5bba4e253681",
+       "titulo": "Fertilización balanceada: la estrategia para que el maíz alcance su potencial",
+       "resumen": "El diagnóstico y el análisis de suelo son el punto de partida para ajustar una oferta equilibrada de nutrientes, elevar el rendimiento y mejorar la rentabilidad y la eficiencia en el uso de los recursos.",
+       "url": "https://www.clarin.com/rural/fertilizacion-balanceada-estrategia-maiz-alcance-potencial_0_GtZndIgEDu.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "59c0665898607f49fe649801ee4051ccdb59b4db",
+       "titulo": "El escándalo del cine en Entre Ríos: y eso que no estaban comiendo pochoclo",
+       "resumen": "La pelea fue por unas ubicaciones que estaban ocupadas, una mujer dio un cross de izquierda a una espectadora, y otra utilizó gas pimienta. La \"legítima defensa\", la luz de los celulares y la mecha corta.",
+       "url": "https://www.clarin.com/espectaculos/escandalo-cine-rios-comiendo-pochoclo_0_U24wQbq8b5.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "e6ecb0fc2e67f50cd23358dd5b5a34b17596d2c9",
+       "titulo": "La Abu viajera: a los 63 años, convirtió su auto en un “autohome” y salió sola por las rutas argentinas",
+       "resumen": "Delia Torres empezó a viajar por su cuenta después de la pandemia. Transformó un Renault 11 modelo 91 en una pequeña casa con cama, cocina y baño portátil. Ya recorrió miles de kilómetros por el país y sueña con más viajes.",
+       "url": "https://www.clarin.com/viajes/abu-viajera-63-anos-convirtio-auto-autohome-salio-sola-rutas-argentinas_0_Cpc9fb9LMh.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "386591a7ea21a6ef01a7f0e13796309fe1c25e60",
+       "titulo": "Vayamos al cine pero sin el ruidoso balde de pochocIo",
+       "resumen": "",
+       "url": "https://www.clarin.com/opinion/vayamos-cine-ruidoso-balde-pochocio_0_2kwZa45dRX.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:45+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "6c54f9a9ad763a299dcf54a287717e1f0cecd0ed",
+       "titulo": "El maíz tardío en el año del “súper Niño”: un aliado que puede potenciar los rindes",
+       "resumen": "El fenómeno climático estará presente en casi toda la campaña del cereal, aportando el agua necesaria para ayudar a su evolución. Las temperaturas estarán más moderadas y no se esperan largos períodos de calor exremo y ausencia…",
+       "url": "https://www.clarin.com/rural/maiz-tardio-ano-super-nino-aliado-puede-potenciar-rindes_0_R2Nz5nN4OU.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:21+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "ee094aa47fea07e6b5b73b8ba5b0e62b348a86b1",
+       "titulo": "Un pueblo de Italia propone que los dueños de perros aporten 20 euros al año para ayudar a las familias con hijos",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcVlHeWk2aEdUOU9aM3luZ1Zpc05lSWR6V3M0R1BucFM1cWxPSlM5RG1TN2lwM1Y3dThrYTNlRm5vNHFwX2VINnNjWGhVdkZlVjBvLUhKUlZqMURCMkFIdmZ0RThsbEpTTWN1c19CZ29SdTRlLVdkYXR6aENfb0xtRzZDVmlsU1JPQU40eVltd3VRNDJUQ0s5RHlwTzNPeU5nT0ozS04tTktzWmNaYkRUdzJIbTAtU01hMnA4OTdVZHRpdkJHa2ljVXhZQQ?oc=5",
+       "fuente": "La Voz del Interior · vía Google",
+       "peso": 2,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:46:25+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "0e1500344d235ff228bf79cd679eafa93a0e743a",
+       "titulo": "El nacimiento de la televisión argentina en 1951",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdHRTRU53NEhCY21OamdiX3VxMTVyRWM1c3M2dTJGUWxyanlyaWZudUs3Y2RIT1ZLRVh5YTE5V0U2SzVhRV8xRjhmeW1vbzlWQ2hsMUxUT0o1M2R5aWdVdGxsaXhoM1F0N1kzN25RamdTcjcwM1RxMGx3OE9ndC1TUk5NVXdwVmxLWVd0SzdHU0pWa1E1QzFnMlV4WFgzVnpG0gGmAUFVX3lxTE5DYllrNkgySGVCemlWZFc1c3gwSUF2RlNfa3VUWlkwQUU5XzlWd0YwRHNEbmlEZ3ZPSlVaLVhyVktFU3B3eTZ0V1pUMFpFUTZYdHJnMkxCQVIwVlRlX1E0ZkVwd0JzS2w5NTFLNC1ibnpTMFM2QmhxSnp0Z0E2QjBvWV9NSVhhSDBaOVRmSVhSVkh1bXhFUFNHZDRKbWdWeU1NTTRfdnc?oc=5",
+       "fuente": "Perfil · vía Google",
+       "peso": 2,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:03:35+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "e52ed357b1dbe357bd0c9263f3d216765e33b117",
+       "titulo": "Eric Agustín y Mónica Reinsch manejan una estancia de 33.000 hectáreas, amansan guanacos y exportan su valiosa fibra a Italia",
+       "resumen": "En Gobernador Gregores, Santa Cruz, se lleva adelante una experiencia que apuesta a que el productor vea en el guanaco un recurso y no un problema debido a la competencia con la oveja",
+       "url": "https://www.lanacion.com.ar/economia/campo/eric-agustin-y-monica-reinsch-amansan-guanacos-los-esquilan-y-exportan-una-de-las-fibras-mas-nid16102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:33:14+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "bb088b27148d23c0c95e886eb8abe19427537e65",
+       "titulo": "El boom de la cocina judía que conquista nuevos barrios y públicos",
+       "resumen": "Restaurantes, cafés y propuestas kosher se multiplican en Buenos Aires impulsados por un cambio generacional, la mudanza de parte de la comunidad y una renovación de la oferta",
+       "url": "https://www.lanacion.com.ar/economia/negocios/el-boom-de-la-cocina-judia-que-conquista-nuevos-barrios-y-publicos-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:32:00+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "88ccf964dc13be69a19836880c221c0d19d175a4",
+       "titulo": "El mapa de las inversiones que pagan impuestos",
+       "resumen": "Con el cierre del año, revisar la cartera también implica hacer cuentas con ARCA; qué activos están exentos de Bienes Personales y Ganancias, cuáles están alcanzados y qué movimientos pueden despertar la atención del organismo",
+       "url": "https://www.lanacion.com.ar/economia/negocios/el-mapa-de-las-inversiones-que-pagan-impuestos-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:27:00+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "e9b253607b2767f98a8fa4b376c27e81354a67fe",
+       "titulo": "Jasmine Bugarín, mexicana de 39 años que renunció a su ciudadanía estadounidense: “Yo no elegí dónde nacer”",
+       "resumen": "Consulta qué trámite inició Jasmine Bugarín para renunciar a la ciudadanía estadounidense, por qué conserva su pasaporte y qué dice la Constitución de Nayarit.",
+       "url": "https://www.lanacion.com.ar/estados-unidos/jasmine-bugarin-mexicana-de-39-anos-que-renuncio-a-su-ciudadania-estadounidense-yo-no-elegi-donde-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:26:00+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "0617b7f72089da5b50f1c01ca03a0933e3cfbe20",
+       "titulo": "La elección de los híbridos y el manejo del maíz harán la diferencia en una campaña de alto potencial",
+       "resumen": "En un año Niño, con lluvias superiores a lo normal, elegir el material apropiado para cada lote y ajustar las estrategias de control de insectos, malezas y enfermedades, será clave. Recomendaciones y opciones para aprovechar la…",
+       "url": "https://www.clarin.com/rural/eleccion-hibridos-manejo-maiz-haran-diferencia-campana-alto-potencial_0_upYkImrslt.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:02:11+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "60433e7af3ef544556aebcbd134ce27cacc2fdb4",
+       "titulo": "A veces en la prioridad en economía no es meter un gol sino evitar meter la pata",
+       "resumen": "Economía de No Ficción. Una enseñanza del Nobel de este año es que los problemas de la economía pueden venir por malas políticas de gobierno. Los neokeynesianos y los casos de Roberto Hall y Michael Woodford.",
+       "url": "https://www.clarin.com/economia/veces-prioridad-economia-meter-gol-evitar-meter-pata_0_0V3hcFv84h.html",
+       "fuente": "Clarín — Lo último",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:01:46+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "8fb0d9a84f3a1a00fbe2856c0083365c1fbe944e",
+       "titulo": "Gadi Eisenkot, el hombre lanzado en carrera a destronar a Netanyahu que promete enderezar el rumbo de Israel",
+       "resumen": "El exjefe del Ejército lidera los sondeos frente al primer ministro para las elecciones generales, ofreciéndose de alternativa más eficaz y democrática al desgastado líder",
+       "url": "https://www.lanacion.com.ar/el-mundo/gadi-eisenkot-el-hombre-lanzado-en-carrera-a-destronar-a-netanyahu-que-promete-enderezar-el-rumbo-de-nid17102026/",
+       "fuente": "La Nación",
+       "peso": 3,
+       "seccion": "argentina",
+       "fecha": "2026-10-17T09:00:01+00:00",
        "prioridad": 2,
        "desplazada": true
       }
@@ -362,122 +1487,311 @@
      "titulo": "Lo más importante del día",
      "articulos": [
       {
-       "id": "249a7f34886d8477d0994e4129f36e34999741a4",
-       "titulo": "Modi intenta aplastar la rebelión de las \"cucarachas\" a golpe de detenciones",
-       "resumen": "La Policía india arrestó el viernes al líder del movimiento juvenil, Abhijeet Dipke, mientras las manifestaciones contra una polémica revisión del censo electoral se extienden por el país. Amnistía Internacional denuncia una…",
-       "url": "https://www.elmundo.es/internacional/2026/10/17/6ad2f3e7e4d4d8943d8b4595.html",
+       "id": "0a094191fd3e725e5a872a3e7096428d82631fe9",
+       "titulo": "Última hora de la actualidad política, en directo | El comité federal del PSOE proclama a Sánchez por unanimidad como candidato a la presidencia del Gobierno de España",
+       "resumen": "Los socialistas aprueban unas listas paritarias en las que por primera vez habrá más mujeres que hombres encabezando las candidaturas al Congreso | Rebeca Torró será la nueva portavoz del partido tras la renuncia de Montse…",
+       "url": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:48:59+00:00",
+       "tambien_en": [
+        "20 minutos"
+       ],
+       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "667f9e77570fa11ae8ce635a25fcf0204333a763",
+       "titulo": "Feijóo llama \"coalición de desesperados\" al pacto de PSOE y Frente Amplio en el Senado: \"Les ha explotado en las manos su máxima hipocresía\"",
+       "resumen": "El candidato del PP carga contra los socialistas por \"diluir\" sus siglas en la Cámara Alta \"con 20 formaciones\" más Leer",
+       "url": "https://www.elmundo.es/espana/2026/10/17/6ad343ef21efa0855b8b45b8.html",
        "fuente": "El Mundo — Portada",
        "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:04:55+00:00",
+       "fecha": "2026-10-17T09:46:36+00:00",
+       "tambien_en": [
+        "20 minutos"
+       ],
+       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "3127f3993925c7079372cd037cf39bab11edc323",
+       "titulo": "La Ejecutiva del PSOE nombra a Rebeca Torró nueva portavoz tras la dimisión de Montse Mínguez",
+       "resumen": "La portavoz dimitió de su cargo en plena polémicas por los negocios inmobiliarios de su pareja.",
+       "url": "https://www.20minutos.es/nacional/ejecutiva-psoe-nombra-rebeca-torro-nueva-portavoz-tras-dimision-montse-minguez_7049939_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:58:54+00:00",
+       "tambien_en": [
+        "El Español"
+       ],
+       "prioridad": 3,
+       "desplazada": false
+      },
+      {
+       "id": "2f24dbcee83b2c8cc50f925a0d8c9a77bc593981",
+       "titulo": "Alexander Zverev - Alejandro Davidovich en directo, la semifinal del Masters Shanghái en vivo|Zverev gana el primer set",
+       "resumen": "El tenista malagueño buscará dar la sorpresa ante el número uno del mundo, que está jugando su mejor tenis tras ganar Roland Garros y el US Open",
+       "url": "https://elpais.com/deportes/tenis/2026-10-17/alexander-zverev-alejandro-davidovich-en-directo-la-semifinal-del-masters-shanghai-en-vivo.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:59:05+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "dd7030c076547c379c277150a2b046c2714cff34",
-       "titulo": "Santuarios del deporte. Little Caesars Arena, Detroit",
-       "resumen": "Es la casa de los Detroit Pistons de la NBA y de los no menos míticos Detroit Red Wings de la NHL.",
-       "url": "https://www.20minutos.es/deportes/blogs/quefuede/santuarios-deporte-little-caesars-arena-detroit_7043446_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "65a6e9f92798de179c3cf4586089248699b90e99",
+       "titulo": "El Papa saldrá esta tarde del hospital, cuatro días después de su operación de pulmón",
+       "resumen": "El Vaticano anuncia que ha recibido el alta tres días antes de lo previsto y que el domingo rezará el Ángelus en la plaza de San Pedro",
+       "url": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:28:17+00:00",
+       "fecha": "2026-10-17T09:50:50+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "0fd50dcb8ad54fc3897f3102dd7a4138e3da111f",
-       "titulo": "España obliga desde este sábado a identificar las llamadas comerciales con el prefijo 400: cómo bloquearlas y reclamar",
-       "resumen": "La nueva numeración da cumplimiento a la Ley de Servicios de Atención a la Clientela (SAC) aprobada en diciembre del año pasado.",
-       "url": "https://www.20minutos.es/nacional/espana-obliga-desde-este-sabado-identificar-las-llamadas-comerciales-con-prefijo-400-como-bloquearlas-reclamar-si-las-recibes_7049772_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "0a82288f6ba2b3ce1b571327ea3ca6bfdc7bdd43",
+       "titulo": "Detienen un hombre en Palma por apuñalar a su pareja, que se encuentra en estado grave",
+       "resumen": "El propio agresor llamó a emergencias para contar lo que había hecho. La mujer ha recibido una cuchillada en el abdomen Leer",
+       "url": "https://www.elmundo.es/baleares/2026/10/17/6ad342b1e4d4d81a338b459d.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:26:21+00:00",
+       "fecha": "2026-10-17T09:41:10+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "0dc3515048143b1f2b7d77797fdf9bfb43fff907",
-       "titulo": "Mariem, emprendedora con discapacidad: \"Mi negocio es la manera de decirme que sigo siendo válida\"",
-       "resumen": "A pesar de tener esclerosis múltiple, es la fundadora de Rollitos Mariem, una empresa de catering especializada en rollitos gourmet inspirados en la gastronomía andalusí y marroquí.",
-       "url": "https://www.20minutos.es/capaces/mariem-serroukh-emprendedora-con-discapacidad-mi-negocio-es-manera-que-tengo-decirme-que-sigo-siendo-valida_7049360_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "4f72d668bb7cc6e844e94a4915ad499ce9915c2e",
+       "titulo": "La rabia de los estudiantes, los agricultores y los funcionarios confluye en una gran protesta en toda Francia",
+       "resumen": "Los chalecos amarillos regresan a la calle con marchas que culminan semanas de enfrentamientos entre la policía y los estudiantes por el deterioro de la educación pública",
+       "url": "https://elpais.com/internacional/2026-10-17/la-rabia-de-los-estudiantes-los-agricultores-y-los-funcionarios-confluye-en-una-gran-protesta-en-toda-francia.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:15:41+00:00",
+       "fecha": "2026-10-17T09:38:03+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "62e64a82e9cc2ed9a8e9681ebf972f4d5b3ad801",
-       "titulo": "Anatomía felina: el mapa de las glándulas odoríferas",
-       "resumen": "Desde la barbilla hasta las almohadillas, distintas zonas del cuerpo permiten al gato dejar señales químicas que otros felinos pueden detectar.",
-       "url": "https://www.20minutos.es/animaleros/gatos/anatomia-felina-mapa-las-glandulas-odoriferas_7046933_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "e595b5da4cfb153220cc544a7c13bbe067477335",
+       "titulo": "La limpieza imposible de la estación de Metro de Sol, cerrada por Ayuso: \"Sólo se puede desinfectar y desratizar si se levanta la acampada\"",
+       "resumen": "La Comunidad detecta \"contaminación química\" y \"riesgo biológico\" por la \"materia orgánica en descomposición\": \"El aire que recibe la instalación no es limpio\" Leer",
+       "url": "https://www.elmundo.es/madrid/2026/10/16/6ad2624d21efa0855b8b459f.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:15:16+00:00",
+       "fecha": "2026-10-17T09:28:58+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "380b0af7440ab3f03a00294a000984705111b03e",
-       "titulo": "Perros para Instagram: cuando las redes sociales marcan cómo queremos que sean nuestros animales",
-       "resumen": "La búsqueda de perros fotogénicos alimenta modas, compras impulsivas y expectativas difíciles de cumplir durante una convivencia real.",
-       "url": "https://www.20minutos.es/animaleros/perros-para-instagram-cuando-las-redes-sociales-marcan-como-queremos-que-sean-nuestros-animales_7036946_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "36f1025cf18abec881e5077a87c363f9961191a5",
+       "titulo": "El sindicato de maquinistas Semaf llama a una huelga de 24 horas en Renfe para el día 29",
+       "resumen": "La fuerza sindical convoca al personal de conducción ante lo que considera un retraso en los compromisos en materia laboral y de seguridad acordados tras los siniestros de Adamuz y Gelida",
+       "url": "https://elpais.com/economia/2026-10-17/el-sindicato-de-maquinistas-semaf-llama-a-una-huelga-de-24-horas-en-renfe-para-el-dia-29.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:14:53+00:00",
+       "fecha": "2026-10-17T09:03:26+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "2c7c03cbf281060f487a65e6ee015cb327b2247d",
-       "titulo": "El CSD estudia actuar de oficio contra Tebas tras comparar al Real Madrid con el \"régimen nazi\" y el presidente estalla: \"No doy crédito\"",
-       "resumen": "El presidente de LaLiga ha estallado en sus redes sociales tras conocer que el CSD podría entrar de oficio por sus palabras contra el Real Madrid.",
-       "url": "https://www.20minutos.es/deportes/futbol/csd-estudia-actuar-oficio-contra-tebas-tras-comparar-real-madrid-con-regimen-nazi-presidente-estalla-no-doy-credito_7049904_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "845e5869e70101505e792d42d70788827064199a",
+       "titulo": "Primeros incidentes en Lyon, Rennes y Marsella durante las protestas masivas en Francia",
+       "resumen": "El país vive hoy una jornada masiva de reivindicaciones bajo la sombra de la violencia policial contra los estudiantes. La Inspección de la Policía ha abierto hasta ahora 36 investigaciones, que incluyen cuatro \"mutilaciones\" de…",
+       "url": "https://www.elmundo.es/internacional/2026/10/17/6ad3167ee85ece53668b45a9.html",
+       "fuente": "El Mundo — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:09:42+00:00",
+       "fecha": "2026-10-17T08:49:16+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "fef38eeb0047c0213a99064f7bb3012a6c07067c",
-       "titulo": "David Aznar, seleccionador de la sub-20 femenino: \"Hay que dar las gracias a las pioneras que jugaban al fútbol sin recursos\"",
-       "resumen": "El seleccionador de la Selección Española Femenina Sub-20 recogió el galardón de IMPERIA en la categoría RISING STAR.",
-       "url": "https://www.20minutos.es/deportes/futbol/david-aznar-seleccionador-sub-20-femenino-hay-que-dar-las-gracias-las-pioneras-que-jugaban-futbol-sin-recursos_7049214_0.html",
-       "fuente": "20 minutos",
-       "peso": 2,
+       "id": "35ec0cb442989b2d61f3f26154c4697e72124981",
+       "titulo": "Antonio Banderas y Nicolas Cage protagonizarán la quinta temporada de ‘True Detective’",
+       "resumen": "El actor malagueño sigue la estela de otras estrellas de Hollywood que ya han participado en la serie antológica, como Matthew McConaughey, Woody Harrelson, Jodie Foster, Colin Farrell, Rachel McAdams y Mahershala Ali",
+       "url": "https://elpais.com/television/series/2026-10-17/antonio-banderas-y-nicolas-cage-protagonizaran-de-la-quinta-temporada-de-true-detective.html",
+       "fuente": "El País — Portada",
+       "peso": 3,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:09:01+00:00",
+       "fecha": "2026-10-17T08:19:50+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "9d70439be02ea04431e156de4df0b519769829ca",
-       "titulo": "Quién es Sergio Hernández, el joven escritor que comparte la gloria del Planeta con Isabel Allende",
-       "resumen": "De 32 años, el joven valenciano ha querido recuperar la identidad de un país que él no conoció, gracias a la memoria histórica",
-       "url": "https://www.20minutos.es/libros/quien-es-sergio-hernandez-joven-escritor-que-comparte-gloria-planeta-con-isabel-allende-comic-antonio-machado_7049778_0.html",
+       "id": "72e041bd72b967def365e5e8fb03ccf0efdd6a10",
+       "titulo": "Almeida asegura que Sánchez quiere el aforamiento \"con locura\" y pide cautela: \"No conviene darle por muerto\"",
+       "resumen": "Advierte de que \"el PP es el voto útil para desmontar el sanchismo\" porque \"Sánchez quiere un Vox fuerte\" para ponerle trabas a Feijóo.",
+       "url": "https://www.20minutos.es/madrid/almeida-asegura-que-sanchez-quiere-aforamiento-con-locura-pide-cautela-no-conviene-darle-por-muerto_7049956_0.html",
        "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:07:29+00:00",
+       "fecha": "2026-10-17T09:55:00+00:00",
        "prioridad": 2,
        "desplazada": false
       },
       {
-       "id": "f8de1c5d4e021ae9236c63dd09dd27e62b77acb0",
-       "titulo": "Cero humedad en el armario: estas bolsitas atrapan el moho antes de que te destroce la ropa",
-       "resumen": "Si tu armario está en una estancia húmeda y quieres evitar el temido moho en la ropa, estas bolsas son tu salvavidas, y son muy baratas.",
-       "url": "https://www.20minutos.es/ofertas-descuentos/cero-humedad-armario-estas-bolsitas-atrapan-moho-antes-que-te-destroce-ropa_7048775_0.html",
+       "id": "17e3ebec67286bd000ef7b3f078abdcb3ed78506",
+       "titulo": "Cambio de hora en España: cuándo empieza el horario de invierno en 2026 y qué día habrá que retrasar el reloj",
+       "resumen": "El cambio se producirá a las 3.00 horas, cuando los relojes volverán a marcar las 2.00 horas en la España peninsular y Baleares.",
+       "url": "https://www.20minutos.es/nacional/cambio-hora-espana-cuando-empieza-horario-invierno-dia-habra-retrasar-reloj_7049959_0.html",
        "fuente": "20 minutos",
        "peso": 2,
        "seccion": "espana",
-       "fecha": "2026-10-17T06:00:00+00:00",
+       "fecha": "2026-10-17T09:49:43+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "6282c69ea4e4c18abc042c4aab17e93c1038fcdb",
+       "titulo": "Elecciones generales 29-N, en directo | Sánchez se dirige a los militantes socialistas después de ser proclamado candidato del PSOE a las elecciones",
+       "resumen": "Tras la dimisión de Montse Mínguez como portavoz del PSOE, el partido de Pedro Sánchez ha elegido a Rebeca Torró como sucesora. La campaña de los \"fondos buitre\" se vuelve contra el PSOE y tumba a Montse Mínguez: Sánchez intentó…",
+       "url": "https://www.elespanol.com/espana/20261017/elecciones-generales-directo-ultima-hora-pedro-sanchez-voto-correo-actos-precampana-pp-psoe-vox-frente-amplio-encuestas-espana-2026-partidos-sondeos/1003744423839_10.html",
+       "fuente": "El Español",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:36:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a92e1aa66575fdac2dcdb18c0fa3b658552a150b",
+       "titulo": "Page se ausenta del Comité Federal del PSOE al considerarlo una reunión de trámite en la que no se puede intervenir",
+       "resumen": "Emiliano García-Page no asiste a la reunión socialista en Fuenlabrada al considerar que el formato impide intervenir a los dirigentes y limita el debate interno.",
+       "url": "https://www.20minutos.es/castilla-la-mancha/page-se-ausenta-comite-federal-psoe-considerarlo-una-reunion-tramite-que-no-se-puede-intervenir_7049953_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:31:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "dc904e8ddee78937621eaf867e854f4a08567988",
+       "titulo": "El delegado de Gobierno pregunta a la Comunidad cuándo reabrirá Sol tras finalizar la limpieza de respiraderos",
+       "resumen": "Francisco Martín pide explicaciones a la Comunidad de Madrid por mantener cerrada la estación de Sol tras concluir la limpieza de los respiraderos y reclama una fecha de reapertura.",
+       "url": "https://www.20minutos.es/madrid/delegado-gobierno-pregunta-comunidad-cuando-reabrira-sol-tras-finalizar-limpieza-respiraderos_7049950_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:18:05+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "9f305a9c247077f01fd6a158e00625828a26949a",
+       "titulo": "La C-5 de Cercanías de Madrid finaliza en Atocha durante las mañanas de este fin de semana por obras",
+       "resumen": "Los viajeros de la C-5 que deseen continuar el trayecto en esta línea más allá de Atocha deberán realizar transbordo a otro tren de la C-5 en esta misma estación.",
+       "url": "https://www.20minutos.es/madrid/c-5-cercanias-madrid-finaliza-atocha-durante-las-mananas-este-fin-semana-por-obras_7049949_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:15:38+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "e868982f64080838e133d32a99cfe0db23c36707",
+       "titulo": "Dónde buscar setas en Catalunya: los mejores bosques y un mapa para saber dónde aparecen",
+       "resumen": "El Berguedà, el Montseny, el Ripollès y la Garrotxa figuran entre las zonas tradicionales de recolección. Una herramienta permite consultar las condiciones de cada bosque",
+       "url": "https://www.20minutos.es/cataluna/donde-buscar-setas-catalunya-los-mejores-bosques-un-mapa-para-saber-donde-pueden-aparecer_7047936_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:09:37+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "c65ee56971ac63e42c1bdc6103a928ba96174443",
+       "titulo": "La Guardia Civil desmantela nueve narcoviviendas en Pinos Puente e interviene armas de guerra",
+       "resumen": "La operación en Granada se salda con 3.478 plantas de marihuana incautadas y la intervención de un fusil de asalto, una pistola y más de 225 cartuchos.",
+       "url": "https://www.20minutos.es/andalucia/granada/guardia-civil-desmantela-nueve-narcoviviendas-pinos-puente-interviene-armas-guerra_7049945_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T09:04:42+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "fc21812e37768d2935e76202d03ecfd8f156dde9",
+       "titulo": "A ocho meses de las elecciones: las grandes inauguraciones que marcarán la recta final en Valencia",
+       "resumen": "Nuevos equipamientos deportivos, sociales y tecnológicos coincidirán con los últimos meses del mandato antes de las municipales de mayo de 2027",
+       "url": "https://www.20minutos.es/comunidad-valenciana/valencia/ocho-meses-las-elecciones-las-grandes-inauguraciones-que-marcaran-recta-final-valencia_7044874_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:57:36+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "11e26d15799b91523dbcf597eee43a06d2abe416",
+       "titulo": "Mourinho, sobre Vinícius: \"Si estuviese en su lugar, hubiera forzado una salida\"",
+       "resumen": "El entrenador del Real Madrid ha dado una rueda de prensa previa al enfrentamiento contra el Sevilla de este domingo.",
+       "url": "https://www.20minutos.es/deportes/futbol/jose-mourinho-sobre-vinicius-si-estuviese-su-lugar-hubiera-forzado-una-salida_7049946_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:52:56+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "0d0dacf71598394b0eff470143f11660fd324d35",
+       "titulo": "Sin los grandes asentamientos, empieza la actuación policial en los barrios de Ceuta",
+       "resumen": "Tras despejar seis asentamientos en las playas, la Policía Nacional y la Guardia Civil intensifican los controles en barrios periféricos, montes y viviendas donde se hacinan migrantes.",
+       "url": "https://www.20minutos.es/ceuta/sin-los-grandes-asentamientos-empieza-actuacion-policial-los-barrios-ceuta_7049942_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:43:15+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "fa69baac71b98ee080a8108075fef914524d70cd",
+       "titulo": "Heidi Klum se adelanta a la noche de Halloween y se viste de corsaria bohemia en Los Ángeles",
+       "resumen": "La artista se convertía en la gran protagonista de una velada muy especial, dándonos algunas pistas sobre el posible disfraz que llevará el 31 de octubre.",
+       "url": "https://www.20minutos.es/mujer/moda/heidi-klum-se-adelanta-noche-halloween-se-viste-corsaria-bohemia-los-angeles_7049932_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:24:43+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "57d01759653973725c7cdc13b5e121403da432b5",
+       "titulo": "El ministro de Cultura, Ernest Urtasun, será el número 2 de Frente Amplio en Barcelona",
+       "resumen": "El partido avala la candidatura del ministro de Cultura con un 94,1% de votos favorables. Ada Colau encabezará la lista de la coalición para las elecciones generales del 29 de noviembre.",
+       "url": "https://www.20minutos.es/nacional/ministro-cultura-ernest-urtasun-sera-numero-2-frente-amplio-barcelona_7049931_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:23:59+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "3866a293a56591843ecb0a92dbbb85c9c4a0a457",
+       "titulo": "Trump levanta las sanciones contra Rusia por la guerra en pleno giro hacia Putin por motivos de \"interés nacional\"",
+       "resumen": "Las medidas habían sido aprobadas por el Congreso hace un mes. Esta decisión supone un nuevo giro a favor del Kremlin y en contra de Zelenski.",
+       "url": "https://www.20minutos.es/internacional/trump-levanta-las-sanciones-contra-rusia-por-guerra-pleno-giro-hacia-putin-por-motivos-interes-nacional_7049933_0.html",
+       "fuente": "20 minutos",
+       "peso": 2,
+       "seccion": "espana",
+       "fecha": "2026-10-17T08:21:37+00:00",
        "prioridad": 2,
        "desplazada": true
       }
@@ -491,42 +1805,439 @@
    "grupos": {
     "ultima_hora": {
      "titulo": "Última hora",
-     "articulos": []
+     "articulos": [
+      {
+       "id": "47e896d9f0e5e45fbda8c8f775f4535cf1d39f7d",
+       "titulo": "Exprimir las nubes: a bordo de la avioneta que hace llover en Honduras en plena sequía de El Niño",
+       "resumen": "Tegucigalpa recibe agua cada 9 días y los campesinos llevan 11 meses sin cosechar. El Gobierno estimula las nubes con yoduro de plata para provocar precipitaciones, aunque sea “una curita para una fractura”",
+       "url": "https://elpais.com/america-futura/2026-10-17/exprimir-las-nubes-a-bordo-de-la-avioneta-que-hace-llover-en-honduras-en-plena-sequia-de-el-nino.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "439382363c28c7cf40445564b1b79bcebf977c94",
+       "titulo": "Votaron por Lula, se desencantaron y apuestan por Bolsonaro",
+       "resumen": "Millones de electores de las clases populares han abrazado en los últimos años el ideario de emprendedurismo, mérito y libertad que pregona el clan de derechas",
+       "url": "https://elpais.com/america/2026-10-17/votaron-por-lula-se-desencantaron-y-apuestan-por-bolsonaro.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "4b9c3ce407f5f463a1f14b735db423458a29e71e",
+       "titulo": "El enojo por la gestión económica de Trump pone en aprietos a los republicanos en las ‘midterms’",
+       "resumen": "Las encuestas reflejan una gran frustración con las políticas del presidente. Estos gráficos ayudan a entenderlo",
+       "url": "https://elpais.com/us/2026-10-17/el-enojo-por-la-gestion-economica-de-trump-pone-en-aprietos-a-los-republicanos-en-las-midterms.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "411bcfac6056c6d362dda769889993d8921ec682",
+       "titulo": "Los granjeros de Iowa miden el alcance de la ola demócrata en Estados Unidos: “Me gustaría ver algún cambio político”",
+       "resumen": "Los aranceles y la guerra contra Irán han disparado los precios y alimentado la decepción de los agricultores con Trump. Este Estado agrícola emerge como uno de los territorios decisivos para que los demócratas recuperen el…",
+       "url": "https://elpais.com/us/2026-10-17/los-granjeros-de-iowa-miden-el-alcance-de-la-ola-democrata-en-estados-unidos-me-gustaria-ver-algun-cambio-politico.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5810015934708d4d4c0cec94a68f4259807c10ae",
+       "titulo": "Búnkeres, amenazas de mutilación y rescates: el auge de los secuestros en Perú",
+       "resumen": "Un comerciante de oro relata ante la Fiscalía las 36 horas que pasó encerrado. Otra víctima, un prestamista, cuenta su cautiverio de 11 días en los que fue torturado y perdió dos dedos",
+       "url": "https://elpais.com/america/2026-10-17/bunkeres-amenazas-de-mutilacion-y-rescates-el-auge-de-los-secuestros-en-peru.html",
+       "fuente": "El País México",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:30:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "92e96a7cfdec7023b5e444711a302ecaca8eeca8",
+       "titulo": "Editorial: Israel: guerra contra el periodismo",
+       "resumen": "Colonos israelíes propinaron una paliza a la fotoperiodista estadunidense Heidi Levine cuando cubría los ataques que sufren los agricultores palestinos durante la cosecha de la aceituna en Cisjordania reocupada. Levine, quien…",
+       "url": "https://www.jornada.com.mx/2026/10/17/opinion/002a1edi",
+       "fuente": "La Jornada — Opinión",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:02:24+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "f8ac5786f5a45f4e45371e9f186ca8f0b33c2f1f",
+       "titulo": "Películas sobre niños y guerra que debes ver ante el regreso de “El laberinto del fauno”",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZTlBOGNJOHVtczdmMlBGSFp2bTJJNkEzWHN1aFJIM1BoaUEwR3NTYThlZms3cE9Ld1RSMHM2dzA3cGVUdmtPS19zc1kyTmprRTNrY1RlMDZnSE53STVHLWlEN1pTcUZ6ZkxmZnJ4TTRVS2lzN3lZbXNVRVN0QUstMzVpNko5YW9GSzBN?oc=5",
+       "fuente": "UnoTV · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:50:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "808262d4702f45d01e8d7d5f4cc21228ea2db7d1",
+       "titulo": "Trump levanta varias sanciones a Rusia por la guerra en Ucrania en nombre del \"interés nacional\" estadounidense",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMFh2dlF5b3piaGctQWUxZGJ3dDlfc0xLdkJJUlhwQ1RUNzBDRXd5NGJWT3RtV1FFQjhyLUhEV1Rqd3gwM0NBTXpQbWd0SkpWVThOQWpxMTFQaDZxc1A5MTQ3Ykw4dm5MdThDTWxZY19kUzR5elNVTHFUbHQ0d1FsTkdNTmhxLVotQ2pyZQ?oc=5",
+       "fuente": "Yahoo · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:53:20+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "481ee1a496b28bbb2e856951ff13d8734b6352b6",
+       "titulo": "Atentado contra Andrés Felipe Ramírez en Jamundí: ofrecen $100 millones y refuerzan su esquema de seguridad",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTi1PQ1A0ZzBsdWlCd25BaVl6bUhJN1pYaUJsaGN6TGtqcFhwUm80ZEstaW9lTGc4T3MwdHU0Y3VjX01MTjJqVk5id0pVeHRqY0FidkFCb1Qzamgxc2hrcDhSN1JoRUNJZzFnWENtNzVqWWxtTzNlcjFLd25YemIwRmowUEMxT0k1bHo0S3EwVlc4dGZRMHJXeEIza1VIT0pZWUcwWDEzc2tMb2YxMkVHSUoyaUI2b0FhNmotdXFCMUVXSktxdXA3dlNmSVhURndBWTRmVEdoMHd3aXdXYU5rZE1tbErSAf8BQVVfeXFMTWlhcGxjSWV0LWRfcTlzN1BmR2gyNG1JaE5mZ1FHMG8ycWp2bEhSWW0wNGhlTndNZWhNMHRQaU5SQW05cnljajNQRGtybmJpTTd4Qk92SlFHNldkV2dPWW5EWFprS1FBbTVfNDRibEZ0M1g1eXQxR093VC1FRmVCTGZKYlhuOFN1ZF9SY2pVYkJwal9sQmM0dVFhU00zYjhTZUh4V1RzRlR1MHFDOTlfeXNfRVlyOXFUX0l5dHlIdUVhWXdQLW1TZkEwaG5IMUZ6X2k0c2I1RUx6eVFBRThWY1d6X0xkcXVfZU02YVlDUUZ1VW5MQ0tieEVWaVhFUFU4?oc=5",
+       "fuente": "Infobae · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:34:58+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "5dcef6431fb902305ae22ea4894ef22d6b939627",
+       "titulo": "90 aniversario de la Guerra Civil. Historia, memoria y debate actual | 2. Crisis del orden republicano y procesos revolucionarios",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNRTBGTGU4bXJ4MlJRVF9qc1d6MGdiTDVWTVVlSnVZYS1PNWRjNUhxaDU4dHlIRUkwQlFQQWhvY1VrcEt5dEJPLUZGTVh0dE81Y0RMZlFlVUJ1MlhmUkxBcVJESS1BY190WHlPMy1yaW52N0VrY3hKdzVKa2dyR0g3a0k1azBGWDFGNHY3Q2tzRFhlckZBTWNDdTZPSU95Xy1wdGd1VzhFbjdDaS1DSmJPY0pQaERleXp0UWQwTTJCdU1HMVQ2M0NLZElYQ3BLUUc4U3ZxZF81VXdNSXFoMEVYVWU2amd2ZE1mMHU0YjhvZnFidi1NVTNzejRWbnVNNmdEVGdsVEZ3?oc=5",
+       "fuente": "Conversacion sobre Historia · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T07:46:15+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "af719d43c8249f1c9409960b2beeb82235fba8e8",
+       "titulo": "Las 5️⃣ noticias del día: guerra Tebas-Florentino, Bellingham hasta 2031...",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ1h2cElDblhOaTNheTJzWU9pa2pHaktfcUJzMzJUUmRfaXo1d0JDSFFVU3JPUG5WWVFFdjhvZktoN2ZKQjVhQmxWYUk1d1U2UUkybXA2UmhmaUVySm83N0Q5WW54YnVNcHYydkdfNGhhUzBYYTFyaWRjbFNvYWZnNFVGLU1ZZFk1aEZsby1GT3lsbDg?oc=5",
+       "fuente": "Yahoo · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T07:17:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "334a7ce5faf45ac091940f71ab45fc0882eef7ad",
+       "titulo": "Kenna: el huracán que sí fue",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ZQmZCemgwdmM1MUNxdVh3NFA3cEx6c2VmdEc2UlFncDI5bkQ4YXB0NGJRVDlhd0g4MnYtcW9meG9IdHh6eEZTNGNQNUdRVTdXVGtnREp0cFFpb21sbU9RSDc1UHJpWmdUMXB2OA?oc=5",
+       "fuente": "Meridiano.mx · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T07:08:14+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "6177b4197e53ffaa74c9319917f69bbd01ddc3c6",
+       "titulo": "Protección Civil pliega operativo en la Costa Sur de Jalisco por el huracán Trudy",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT2RJOXMxYnhyb0JrSVZJTFpmaDZSeW1PdlBmcGRQUS02bHY5YkNaZmlwdzAyWUZBQ1hQXzdUVGF5blAyZTZSTHhNZzhfTGVyQ3E2Q2ljNjJhczNnbmhrbjd2eW5Oc0V2M0F0ME9FVUFJMDR4Ty1rRVNPS1haWGgxQkUya3BQc05FcGxrYmNoaDZrc3cxWk5fYzdmbGxZWjBiTFhSeTFsbzlyV0xJX3gtelg1aw?oc=5",
+       "fuente": "Imagen Televisión · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T06:57:56+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "abb69676453052a2c3af05fe81aa2ff3b81d5fc5",
+       "titulo": "Ataque armado cobra la vida de un hombre en estacionamiento de Buffalucas Fuentes Mares",
+       "resumen": "",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNcjJrcnI3bFd2OXNjLWtTYzB6YWpCaTloc0R1ZXktVzEyZUxaSUQ5YXU2ZGFWb0JBWFBNcjAyWXd2cDBycU01ZTVCYUNTOFNXR2JmWTlMS3UwUDgtX1Y5c2VsbnAyNFJXOG5HVFFsbi00MndkVk82WHd0aFF2akUwdUg5dS1WR1Nlb3JQUWpzZURFc1hLS2Q4NEM4NTdyYmZ4R1Z2MkNpZXNJZ1EzQzY5NjB6aHU1a0ZXcnhXcmVoVmExa1JvWnJfMWJCRXFFeVBiVmg5YWRBVG9aNVE0OXJj?oc=5",
+       "fuente": "El Sol de México · vía Google",
+       "peso": 1,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T06:51:33+00:00",
+       "desplazada": false
+      }
+     ]
     },
     "miradas": {
      "titulo": "Miradas del mundo",
      "articulos": [
       {
-       "id": "5cb80c3386c0f61fe1b06bba34183284d87f80a2",
-       "titulo": "AI fears are being weaponised",
-       "resumen": "Tech giants are fighting to protect their monopolies from cheap open-source models. Fear is their weapon.",
-       "url": "https://www.aljazeera.com/opinions/2026/10/17/ai-fears-are-being-weaponised?traffic_source=rss",
+       "id": "ba16cc3fe3020e285b296e76a691e9c95dcdb2fd",
+       "titulo": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+       "resumen": "Hospitals across the occupied West Bank have been hit by a funding shortage.",
+       "url": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
        "fuente": "Al Jazeera",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-10-17T06:21:39+00:00",
+       "fecha": "2026-10-17T09:47:55+00:00",
        "desplazada": false
       },
       {
-       "id": "188992ac3d553523aa03c73903e21d018cae46ed",
-       "titulo": "Israeli forces arrest two Palestinians, settlers open fire at farmers in West Bank",
+       "id": "7d3e96f3b80a0a0b854f6c0ec23d23a8593a7b23",
+       "titulo": "Egypt's Sisi says his presidency will end in 2030",
        "resumen": "",
-       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-two-palestinians-settlers-open-fire-farmers-west",
+       "url": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-sisi-says-his-presidency-will-end-2030",
        "fuente": "Middle East Eye",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-10-17T06:21:05+00:00",
+       "fecha": "2026-10-17T09:46:22+00:00",
        "desplazada": false
       },
       {
-       "id": "d98047d65ee862838f9a88769d9cdf26b9241b9d",
-       "titulo": "Over 3,000 bears culled in Russia after wave of deadly attacks: ‘we’ve never had this’",
-       "resumen": "Seeing what looked like a brown blob in a tree while driving through Siberia’s Irkutsk region, 36-year-old Daria Tyurneva pulled over, curious to get a better look. She was not expecting to find a bear cub, perched on a branch…",
-       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3371241/over-3000-bears-culled-russia-after-wave-deadly-attacks-weve-never-had",
+       "id": "379c04d18ed77f22dbefe4814695627bb183f65e",
+       "titulo": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+       "resumen": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala's busy livestock market.",
+       "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:44:47+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "b6f9a32a6cc2b77e85cf8fe594bee16deab59d7c",
+       "titulo": "Nueva jornada de protestas multitudinarias en Francia",
+       "resumen": "El país, agitado en las últimas semanas por las protestas estudiantiles, enfrenta un día clave para medir su malestar social a seis meses de las elecciones presidenciales.",
+       "url": "https://www.dw.com/es/nueva-jornada-de-protestas-multitudinarias-en-francia/a-79686533?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:35:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "6fd1cb67721c6bc14f3fbed4979b4e165c3e683d",
+       "titulo": "Why Israel's claims cannot be accepted at face value",
+       "resumen": "",
+       "url": "https://www.middleeasteye.net/opinion/why-israels-claims-cannot-be-accepted-face-value",
+       "fuente": "Middle East Eye",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:34:55+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "53aa9afc6f920bdeba1125ad528188f5678e7d92",
+       "titulo": "IMF urges support for poorer nations facing high inflation, war spillovers",
+       "resumen": "Low-income countries spend up to 14 percent of their revenue on debt repayments, IMF chief says.",
+       "url": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:31:47+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "56689f1da5b46456f937c94a2cdb257578e21a84",
+       "titulo": "Houthis strike Yemen’s Aden: What that means",
+       "resumen": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
+       "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:16:48+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "8674c7318805f8a8223ad01d7246da0c653fda15",
+       "titulo": "Análisis BBC: Katie Zacharia fue arrojada a un torbellino y falló en un momento crítico para Trump",
+       "resumen": "La Casa Blanca se enfrenta a una adversidad creciente, escribe Anthony Zurcher de la BBC, a semanas de las cruciales elecciones de mitad de mandato.",
+       "url": "https://www.bbc.com/mundo/articles/cj040dx1yx0vo?at_medium=RSS&at_campaign=rss",
+       "fuente": "BBC Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:14:04+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d31a781837504442c35eceb75e62dad0620019f0",
+       "titulo": "Las lavanderas de Lockerbie, las mujeres que limpiaron las prendas de las víctimas del atentado contra un avión en el que murieron 270 personas",
+       "resumen": "Motivadas por la necesidad de hacer algo frente al horror que desató el atentado, un grupo de voluntarias se ocupó de lavar la ropa de las víctimas para enviárselas a modo de consuelo a sus familiares.",
+       "url": "https://www.bbc.com/mundo/articles/cwyzxx7l5zpo?at_medium=RSS&at_campaign=rss",
+       "fuente": "BBC Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:12:26+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1b98e56417a58b551a399bcb553ec3791f97ae4f",
+       "titulo": "Man arrested for alleged HK$450,000 theft of wife’s Chanel and Hermes bags, Rolex",
+       "resumen": "Hong Kong police have arrested the husband of a 34-year-old woman for allegedly stealing luxury goods worth HK$450,000 (US$57,700) from her at home. The woman, surnamed Chan, reported the case to police at around 8.30am on…",
+       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371250/man-arrested-alleged-hk450000-theft-wifes-chanel-and-hermes-bags-rolex",
        "fuente": "South China Morning Post",
        "peso": 3,
        "seccion": "internacional",
-       "fecha": "2026-10-17T06:13:58+00:00",
+       "fecha": "2026-10-17T09:07:59+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c4392bbbfc38c56ba39d540d52a1dbdeb667245c",
+       "titulo": "All the president’s women: a familiar downward trajectory in Trump’s cabinet",
+       "resumen": "Half of Trump’s female cabinet officials have been replaced by men, while men facing misconduct allegations remain Donald Trump is not, by any measure, a feminist. He has said so himself. But the president has often pointed to…",
+       "url": "https://www.theguardian.com/us-news/2026/oct/17/trump-female-cabinet-officials-departures",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:00:28+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "1b36b12e288decbc012df374853b9d4104beb1a8",
+       "titulo": "Honeybees are barging aside wild pollinators in hunt for pollen and nectar, study finds",
+       "resumen": "As a surge in beekeepers has lead to increased numbers of honeybees, researchers record them pushing bumblebees and other rival species away from flowers Honeybees are outcompeting wild pollinators for resources by aggressively…",
+       "url": "https://www.theguardian.com/environment/2026/oct/17/honeybees-are-barging-aside-wild-pollinators-in-hunt-for-pollen-and-nectar-study-finds",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:00:27+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "bbef0f4d85e5f7c73d1932d934ec6f8f852a221b",
+       "titulo": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+       "resumen": "Owner and mechanics fear for their health and future of the Herne Hill shop with no date for fixing problem The leafy south London neighbourhood of Herne Hill is a haven for cyclists who can often be seen lapping the local parks…",
+       "url": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:00:26+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "2f6872c74cb62d7811f8b55611fd4f05336dc9c9",
+       "titulo": "Squash down: smaller pumpkins expected this Halloween after drought in England",
+       "resumen": "Data shows 2026 could be worst harvest on record, as growers suggest painting faces on vegetables instead of carving In the lead-up to Halloween, front porches across the country feature fat, proudly carved pumpkins, lit from…",
+       "url": "https://www.theguardian.com/lifeandstyle/2026/oct/17/smaller-pumpkins-halloween-drought-england",
+       "fuente": "The Guardian — Mundo",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:00:26+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "ae165c9037ff33e8a96894146afe782648e84655",
+       "titulo": "Shisha smoking will cause 1 million new lung cancer cases globally by 2050: WHO study",
+       "resumen": "Water pipe smoking will contribute to about 1 million new lung cancer cases globally by 2050, with the Western Pacific region bearing the brunt, according to a study led by a World Health Organization (WHO) research agency that…",
+       "url": "https://www.scmp.com/news/hong-kong/health-environment/article/3371189/shisha-smoking-will-cause-1-million-new-lung-cancer-cases-globally-2050-who-study",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T09:00:06+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "3897f7b6f1cb983f07b29c425085a282fdc7958e",
+       "titulo": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+       "resumen": "101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.",
+       "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:40:47+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "83a894aa505dca7d8282bf3015172a0adb433be4",
+       "titulo": "Language matters in Hong Kong’s birth rate debate, not just money",
+       "resumen": "When Hong Kong debates how to raise its birth rate, the conversation usually revolves around money: bigger baby bonuses, tax concessions, housing support, cheaper childcare and so on. These economic measures are necessary…",
+       "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3370807/language-matters-hong-kongs-birth-rate-debate-not-just-money",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:30:06+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d15d15b30ffedbd933f86b8ebd0e9ebe7677b8b6",
+       "titulo": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+       "resumen": "Can the United States reassert influence with pragmatic, transactional approach to Central Asia?",
+       "url": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:27:28+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "ce3b5026cec381cb8f2d6321524a889e77b6b9ac",
+       "titulo": "Explosión en un petrolero tras chocar con una mina en Ormuz",
+       "resumen": "El superpetrolero, con más de dos millones de barriles de petróleo, sufrió un incendio a bordo. Es el quinto incidente similar durante la última semana.",
+       "url": "https://www.dw.com/es/explosión-en-un-petrolero-tras-chocar-con-una-mina-en-ormuz/a-79685993?maca=spa-rss-sp-all-1122-xml-mrss",
+       "fuente": "DW en español",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:15:00+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "e22da696f37862bb06db7be314fcd4595774c58e",
+       "titulo": "Oregon school shooter was former special-needs student, police say",
+       "resumen": "",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:04:35+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "d7e766381c3b08d2f934fb65dac2c2c2e93c51a3",
+       "titulo": "Wildfire prompts thousands of evacuation orders in Orange County",
+       "resumen": "Firefighters are battling fast-moving wildfires in Orange County as Santa Ana winds fan the flames.",
+       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/wildfire-prompts-thousands-of-evacuation-orders-in-orange-county?traffic_source=rss",
+       "fuente": "Al Jazeera",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:03:26+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "8bfc7939121e86405a7852362728a77015b2a291",
+       "titulo": "Reporter’s notebook: Kimi’s AI credit card turns spending into computing quotas – with limits",
+       "resumen": "China’s artificial intelligence companies have spent years persuading consumers to pay for their technology. Now, Moonshot AI, the start-up behind Kimi, is taking a different approach: offering AI computing benefits through a…",
+       "url": "https://www.scmp.com/tech/tech-trends/article/3371226/reporters-notebook-kimis-ai-credit-card-turns-spending-computing-quotas-limits",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:00:11+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "c797154b5a30b530634b030a2411f577ea30c32e",
+       "titulo": "Landmark China trial gets 84% efficacy in treating cancer with cue from waste water tech",
+       "resumen": "For patients with advanced, metastatic cancer that has progressed despite systemic therapy – options remain critically limited. Now, Chinese scientists are pointing to an unconventional therapeutic agent – the element iron. This…",
+       "url": "https://www.scmp.com/news/china/science/article/3370996/landmark-china-trial-gets-84-efficacy-treating-cancer-clue-waste-water-tech",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T08:00:09+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "fed0207d53e7da7b6bac526bfa7e12bd15e27b89",
+       "titulo": "European delegates walk out on Russian finance minister at IMF summit",
+       "resumen": "Many delegates to ⁠the International Monetary Fund’s steering ⁠committee walked out of a meeting on ⁠Saturday when Russian Finance Minister Anton Siluanov addressed the group in Russian, three sources familiar with the matter…",
+       "url": "https://www.scmp.com/news/world/europe/article/3371248/european-delegates-walk-out-russian-finance-minister-imf-summit",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T07:51:33+00:00",
+       "desplazada": false
+      },
+      {
+       "id": "a1a6f5b63f421994a171453b21e20174cd74b851",
+       "titulo": "Police receive over 100 reports about credit card charges for iPhone Duo pre-orders",
+       "resumen": "Hong Kong police have received more than 100 reports of unauthorised credit card transactions related to pre-orders of Apple’s latest iPhone model, the South China Morning Post has learned. Apple began its online pre-orders for…",
+       "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3371245/police-receive-over-100-reports-about-credit-card-charges-iphone-duo-pre-orders",
+       "fuente": "South China Morning Post",
+       "peso": 3,
+       "seccion": "internacional",
+       "fecha": "2026-10-17T07:31:50+00:00",
        "desplazada": false
       }
      ]
@@ -541,6 +2252,282 @@
      "titulo": "Chismes y farándula",
      "articulos": [
       {
+       "id": "21e498bc9bfb99be742bc4e89108ab123df771a9",
+       "titulo": "Celebrity Traitors fans brand Leigh-Anne Pinnock and Miranda Hart's dancing 'the TV moment of the year' as the pair's hilarious moves save them from being 'killed in plain sight'",
+       "resumen": "Leigh-Anne, 35, offered to teach Miranda, 53, one of the moves from the music video for the band's hit Touch.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216515/Celebrity-Traitors-fans-Leigh-Anne-Pinnock-Miranda-Hart-dancing-TV-moment-year.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:45:09+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5b84477f0cfa6a1cdc89663b94396bdbb454a09f",
+       "titulo": "Kim's raw emotional account of her Paris robbery ordeal as she reveals 'unromantic' truth behind Kanye's inscription in the $4M engagement ring that was target of heist",
+       "resumen": "The day before Kim Kardashian was tied up and robbed at gunpoint in Paris, she got a text saying someone had broken into her house in Los Angeles.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16189779/Kim-emotional-account-Paris-robbery-unromantic-ring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:31:44+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "60d3182d4910ac916173df36741557356082dd6c",
+       "titulo": "Teary Harry Styles debuts unreleased song he wrote in tribute to Liam Payne on the two year anniversary of his death at his New York concert",
+       "resumen": "Harry Styles looked emotional as he shared an unreleased song he wrote for his late One Direction bandmate Liam Payne on the two year anniversary of his death.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216425/Teary-Harry-Styles-debuts-unreleased-song-wrote-tribute-Liam-Payne-two-year-anniversary-death-New-York-concert.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:15:44+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a21f481f6e7433dc540322fe02600f3e6e4d376e",
+       "titulo": "AMANDA PLATELL: Sorry, Myha'la, you weren't voted off Traitors because of 'unconscious racial bias'... you just weren't a good player",
+       "resumen": "And who could have anticipated this week's ludicrous twist following the banishing of innocent-looking American actress Myha'la Herrold?",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215557/AMANDA-PLATELL-Myhala-voted-Traitors-unconscious-racial-bias.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:08:50+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "20744ba270a177accb12cdac5ea3ad7e916ed9c0",
+       "titulo": "The struggles of Charlotte Church: She was the teen 'voice of an angel' worth £25million. Now, as her wellness retreat goes into 'hibernation' and she puts her home up for sale, we reveal how she's burned through her millions",
+       "resumen": "It was nearly 30 years ago that the apple-cheeked girl from Wales gave a spine-tingling rendition of Andrew Lloyd Webber's Pie Jesu over the telephone to the hosts of ITV's This Morning.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215401/teen-voice-angel-25million-Charlotte-Churchs-wellness-retreat-hibernation.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:03:11+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "4a28f34b5415f059f2bb3b8a72dc05aefe968293",
+       "titulo": "What REALLY happened inside the Kim Kardashian heist: Retraced in most detailed 3D fly-on-the-wall reconstruction EVER",
+       "resumen": "Kim Kardashian was bound, gagged and held at gunpoint inside her Parisian penthouse suite by thieves masquerading as police officers who then fled with her dazzling array of jewellery.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16189785/Kim-Kardashian-Paris-heist-robbery-reconstruction.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T09:02:21+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5179481781f0cfb8debdb28fa8a0d5d41afa4330",
+       "titulo": "Johnny Depp is the swashbuckling star they couldn't cancel! Eight years after Disney dropped him following his vicious split with Amber Heard, the world suddenly can't get enough, finds ALISON BOSHOFF",
+       "resumen": "Seemingly, nothing could tempt Johnny Depp back to his famous role, so stung was he after being dumped by Disney bosses following the notorious wife-beating allegations against him.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216075/Johnny-Depp-cancel-Disney-Amber-Heard-ALISON-BOSHOFF.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:57:03+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "a2246c0d68432ef7ee85983e0fa16e3571890999",
+       "titulo": "Romeo Beckham and his girlfriend Kim Turnbull share cheeky snaps as they celebrate 'two years of loving and adventures' together",
+       "resumen": "Romeo Beckham and his girlfriend Kim Turnbull celebrated their two year annviersary by sharing a series of loved-up photos to social media on Friday.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216469/Romeo-Beckham-girlfriend-Kim-Turnbull-share-cheeky-snaps-celebrate-two-years-loving-adventures-together.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:55:17+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "2073aea7fcaa4fe51b4eb2e9da82defb8f8b1b74",
+       "titulo": "Witney Carson Hot Shots To Celebrate Her 33rd Bday!",
+       "resumen": "Happy birthday, Witney Carson ... the \"Dancing with the Stars\" pro just turned 33, and she's lookin' lovely as always. And since the birthday girl is such a stunner ... we think the best way to celebrate her big day is with some…",
+       "url": "https://www.tmz.com/2026/10/17/witney-carson-birthday-hot-shots/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:00:41+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "e908daf60c106ceb61bc40db478e8714b9ae706d",
+       "titulo": "'RHOA' Star Eva Marcille Sued By Her Homeowners Association For Alleged Violations",
+       "resumen": "'Real Housewives of Atlanta' alum Eva Marcille is being dragged to court for allegedly being an awful neighbor ... and her homeowners association is behind the legal action. According to a new lawsuit, obtained by TMZ, the HOA…",
+       "url": "https://www.tmz.com/2026/10/17/eva-marcille-sued-by-her-homeowners-association/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:00:23+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "0c3cf191c5e3c4662af4f406a5a3d640ee7735e5",
+       "titulo": "Celebrities Share Their Spookiest Halloween Selfies!",
+       "resumen": "From sexy-scary looks to frightfully fabulous fits and killer makeup, Halloween is always a spooktacular time for the stars! We've rounded up all the tricks and treats celebs are serving during spooky season, and the shots are…",
+       "url": "https://www.tmz.com/2026/10/17/celebrities-halloween-costume-selfies/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:45:42+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "d08076a40f5fa4a7350d704d2f8993fec999c01e",
+       "titulo": "Stars and Scars -- You Be the Judge",
+       "resumen": "Major White House shuffle as President Trump boots Katie Zacharia and Kimberly Guilfoyle ... plus, Diddy wears out his welcome in one prison, Selma Blair gets arrested and Elon Musk finally delivers a 'flying' car! So, we gotta…",
+       "url": "https://www.tmz.com/2026/10/17/polls-you-be-the-judge/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:25:26+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "02618f0e0d087f03fd915f8da9e98cdda187b838",
+       "titulo": "Katie Zacharia Was Fired as White Press Secretary During Interview With Wall Street Journal",
+       "resumen": "Katie Zacharia got the ax while being interviewed about her new role as White House press secretary — and she just walked away without ever returning to her job and the sit down with the reporter, according to the Wall Street…",
+       "url": "https://www.tmz.com/2026/10/17/katie-zacharia-was-fired-as-white-press-secretary-during-interview-with-wall-street-journal/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:19:36+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "51729ec9409567d4442d631b5059ca7e04baa240",
+       "titulo": "'Miami Vice '85' Austin Butler & Danny Ramirez Lookin' Fly On Set",
+       "resumen": "Can you sniff up the sneaky switches made to these two photos of Austin Butler and Danny Ramirez and throw 'em in the bag?! The studly stars were snapped in specs on set of the re-boot film, \"Miami Vice '85\" 😎 -- with both bros…",
+       "url": "https://www.tmz.com/2026/10/17/austin-butler-danny-ramirez-on-miami-vice-85-set/",
+       "fuente": "TMZ",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:01:35+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "73009a10d63262babf500002effe1aa9e5029e0e",
+       "titulo": "Inside King Charles' Complicated Relationship With Ex-Prince Andrew",
+       "resumen": "When Queen Elizabeth II died in 2022, King Charles III inherited the conundrum of what to do about his problematic younger brother, then known as Prince Andrew. Not least out of a sense of...",
+       "url": "https://www.eonline.com/news/1424864/king-charles-prince-andrews-complicated-relationship-amid-scandal",
+       "fuente": "E! Online",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:00:00+00:00",
+       "prioridad": 2,
+       "desplazada": false
+      },
+      {
+       "id": "5cab997dd82c4727e0eaaaf740adaa8427ad27e2",
+       "titulo": "Cashing in from their time in the castle! As James Blunt gets his knuckles rapped by BBC for advertising £1,600 suit, he's not the only one milking it. From Miranda's merchandise to James Acaster's album, how Celebrity Traitors are flouting rules for money",
+       "resumen": "While viewers are currently gripped by the scheming, paranoia and backstabbing onscreen, the real game started long after filming wrapped. And it's proving a very lucrative one indeed.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215553/James-Blunt-Miranda-James-Acaster-Celebrity-Traitors-money.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:52:51+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "15958fdff43e1ad625890311451ff50e2d08f972",
+       "titulo": "Katherine Ryan says she tried to 'make it right' with Victoria Beckham over 'stupid joke' after BBC upheld complaints over the slur",
+       "resumen": "The comedian, 43, has said she tried to 'make it right' with Victoria Beckham after the BBC upheld complaint over a 'stupid joke' on Have I Got News For You.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215413/Katherine-Ryan-says-tried-make-right-Victoria-Beckham-stupid-joke-BBC-upheld-complaints-slur.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:43:39+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "c7f0814659cddf57d61c6db5e77337203b2cc118",
+       "titulo": "Celebrity Traitors star James Acaster reveals he's turned into an 'accidental sex symbol' after finding fans' hilarious edits of his castle stint",
+       "resumen": "The comedian, 41, was recruited by Maya Jama and Richard E Grant to don one of the famous cloaks, and in an interview on Friday, he shared he's become the subject of hilarious fan edits.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216463/Celebrity-Traitors-star-James-Acaster-accidental-sex-symbol-edits-castle-stint.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:40:12+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "0de66fc03920d07e3c2b0269e82bc5dad0503c16",
+       "titulo": "Strictly's Craig Revel Horwood blasts woke pantomimes for scrapping Sleeping Beauty being kissed",
+       "resumen": "The dancer is set to play the villain Carabosse in Sleeping Beauty at the Bristol Hippodrome in December, but has admitted he's found some of the changes to the show 'weird.'",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16216431/Strictlys-Craig-Revel-Horwood-woke-pantomimes-weird-changes-Sleeping-Beauty-kiss.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T08:36:40+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "93f213da3332110cf8690379408dfe88601dea8b",
+       "titulo": "Elizabeth Hurley sparks Billy Ray Cyrus engagement rumors by flaunting massive diamond ring",
+       "resumen": "Hurley, 61, and Cyrus, 65, went public with their romance on Easter 2025 after first becoming acquainted on the set of the 2022 movie Christmas in Paradise.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215979/elizabeth-hurley-billy-ray-cyrus-engagement-diamond-ring.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:46:10+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "51d9892564db2d832064c8fc85b905ddd3cf25af",
+       "titulo": "DIY SOS is shelved by the BBC after 27 years due to budget cuts leaving host Nick Knowles devastated",
+       "resumen": "The show, hosted by Nick Knowles, 64, has been shelved as part of the BBC's widely publicised £500 million savings plan.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215883/DIY-SOS-shelved-BBC-27-years-budget-cuts-leaving-host-Nick-Knowles-devastated.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:43:37+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "b460973238e25a015e1e1a7076a62bc952d977ef",
+       "titulo": "Paul Bettany reveals he hasn't spoken to Johnny Depp since being dragged into the Amber Heard trial when their text exchange about 'burning and drowning' the actress was read out",
+       "resumen": "Paul Bettany has claimed he hasn't spoken to former friend Johnny Depp since their private texts discussing his ex-wife Amber Heard were used in their court case.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16213939/Paul-Bettany-reveals-spoken-Johnny-Depp-dragged-Amber-Heard-trial-graphic-text-exchange-read-out.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:31:55+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
+       "id": "56a3771183370eb221f1a6ebd5e88cf95fe9d487",
+       "titulo": "Star Wars child actor Jake Lloyd thanks fans for their support following 'psychotic break' after schizophrenia diagnosis",
+       "resumen": "Former child star Jake Lloyd appeared in a rare video to address Star Wars fans this week amid his ongoing struggle with schizophrenia.",
+       "url": "https://www.dailymail.com/tvshowbiz/article-16215693/Star-Wars-Jake-Lloyd-psychotic-schizophrenia.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+       "fuente": "Daily Mail — Showbiz",
+       "peso": 3,
+       "seccion": "espectaculos",
+       "fecha": "2026-10-17T07:31:29+00:00",
+       "prioridad": 2,
+       "desplazada": true
+      },
+      {
        "id": "8d6a985f5054d5d78c09a317526544df7c58210d",
        "titulo": "Miley Cyrus brings sold-out LA concert to a standstill as she breaks down in tears paying tribute to late godmother Dolly Parton: 'Me and Dolly, we are eternal'",
        "resumen": "Miley Cyrus broke down in tears as she delivered a powerful tribute to her late godmother Dolly Parton while performing at the Hollywood Bowl on Friday.",
@@ -550,7 +2537,7 @@
        "seccion": "espectaculos",
        "fecha": "2026-10-17T06:30:24+00:00",
        "prioridad": 2,
-       "desplazada": false
+       "desplazada": true
       },
       {
        "id": "e76d05442aeff7ee4dc8cccd5cb8656bb91b7bdc",
@@ -562,7 +2549,7 @@
        "seccion": "espectaculos",
        "fecha": "2026-10-17T06:20:33+00:00",
        "prioridad": 2,
-       "desplazada": false
+       "desplazada": true
       }
      ]
     }
@@ -580,7 +2567,7 @@
    "nombre": "20 minutos",
    "url": "https://www.20minutos.es/rss/",
    "estado": "ok",
-   "detalle": "189 titulares"
+   "detalle": "190 titulares"
   },
   {
    "nombre": "ATDT y gobierno digital",
@@ -604,7 +2591,7 @@
    "nombre": "Aristegui Noticias",
    "url": "https://news.google.com/rss/search?q=site:aristeguinoticias.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "53 titulares"
+   "detalle": "54 titulares"
   },
   {
    "nombre": "BBC Mundo",
@@ -622,7 +2609,7 @@
    "nombre": "C5N",
    "url": "https://news.google.com/rss/search?q=site:c5n.com+when:1d&hl=es-419&gl=AR&ceid=AR:es-419",
    "estado": "ok",
-   "detalle": "93 titulares"
+   "detalle": "91 titulares"
   },
   {
    "nombre": "Caracol Radio",
@@ -700,13 +2687,13 @@
    "nombre": "El Mundo — Portada",
    "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
    "estado": "ok",
-   "detalle": "22 titulares"
+   "detalle": "23 titulares"
   },
   {
    "nombre": "El País México",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/mexico/portada",
    "estado": "ok",
-   "detalle": "114 titulares"
+   "detalle": "108 titulares"
   },
   {
    "nombre": "El País — Economía",
@@ -724,7 +2711,7 @@
    "nombre": "El País — Portada",
    "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
    "estado": "ok",
-   "detalle": "144 titulares"
+   "detalle": "146 titulares"
   },
   {
    "nombre": "El País — Tecnología",
@@ -772,7 +2759,7 @@
    "nombre": "IA en español vía Google Noticias",
    "url": "https://news.google.com/rss/search?q=%22inteligencia+artificial%22+(OpenAI+OR+Anthropic+OR+Google+OR+Meta+OR+regulaci%C3%B3n+OR+modelo+OR+empleo)+-curso+-taller+-diplomado+-congreso+-universidad+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "67 titulares"
+   "detalle": "63 titulares"
   },
   {
    "nombre": "Infobae Argentina",
@@ -796,19 +2783,19 @@
    "nombre": "La Jornada — Capital",
    "url": "https://www.jornada.com.mx/rss/capital.xml",
    "estado": "ok",
-   "detalle": "9 titulares"
+   "detalle": "8 titulares"
   },
   {
    "nombre": "La Jornada — Economía",
    "url": "https://www.jornada.com.mx/rss/economia.xml",
    "estado": "ok",
-   "detalle": "14 titulares"
+   "detalle": "8 titulares"
   },
   {
    "nombre": "La Jornada — Opinión",
    "url": "https://www.jornada.com.mx/rss/opinion.xml",
    "estado": "ok",
-   "detalle": "11 titulares"
+   "detalle": "13 titulares"
   },
   {
    "nombre": "La Jornada — Política",
@@ -820,7 +2807,7 @@
    "nombre": "La Nación",
    "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/?outputType=xml",
    "estado": "ok",
-   "detalle": "89 titulares"
+   "detalle": "95 titulares"
   },
   {
    "nombre": "La Silla Vacía",
@@ -874,7 +2861,7 @@
    "nombre": "Proceso",
    "url": "https://news.google.com/rss/search?q=site:proceso.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "66 titulares"
+   "detalle": "67 titulares"
   },
   {
    "nombre": "Página/12",
@@ -886,7 +2873,7 @@
    "nombre": "Quién",
    "url": "https://news.google.com/rss/search?q=site:quien.com+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "15 titulares"
+   "detalle": "14 titulares"
   },
   {
    "nombre": "Reuters vía Google Noticias",
@@ -904,7 +2891,7 @@
    "nombre": "Semanario ZETA",
    "url": "https://news.google.com/rss/search?q=site:zetatijuana.com+when:2d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "96 titulares"
+   "detalle": "100 titulares"
   },
   {
    "nombre": "Sopitas",
@@ -934,7 +2921,7 @@
    "nombre": "TVNotas",
    "url": "https://news.google.com/rss/search?q=site:tvnotas.com.mx+when:1d&hl=es-419&gl=MX&ceid=MX:es-419",
    "estado": "ok",
-   "detalle": "34 titulares"
+   "detalle": "33 titulares"
   },
   {
    "nombre": "TechCrunch — IA",
